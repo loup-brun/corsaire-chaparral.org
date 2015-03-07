@@ -54,15 +54,17 @@ Dans un environnement de développement, Grunt peut surveiller les fichiers afin
 $ grunt watch
 ```
 
-Finalement, il ne reste qu'à générer le site web.
+Finalement, il ne reste qu'à générer le site web:
 
 ```
 $ jekyll build
-# refait la commande build lorsqu'un fichier est modifié
 $ jekyll build --watch
-# testez le site à http://localhost:4000/
 $ jekyll serve
 ```
+
+* **build**: génère le site
+* **build --watch**: regénère le site lorsqu'un fichier est modifié
+* **serve**: sert le site à http://localhost:4000
 
 Louis-Olivier Brassard
 
