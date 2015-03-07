@@ -68,6 +68,12 @@ $ jekyll serve
 * **build --watch**: regénère le site lorsqu'un fichier est modifié
 * **serve**: sert le site à http://localhost:4000
 
+### Partage de photos
+
+Les photos sont partagées à l'adresse http://corsaire-chaparal.org/photos-partage/
+
+
+
 ### Questions
 Envoyez un courriel à louis.oli.br@gmail.com
 
