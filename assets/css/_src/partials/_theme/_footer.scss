@@ -1,0 +1,33 @@
+// THEME - footer
+// -----------------------------------
+
+.footer-main {
+	background-color: $gray-darker;
+	color: $gray;
+	font-size: $font-size-sm;
+}
+
+
+.list-footer {
+	@include list-reset;
+	
+	> li {
+		> a {
+			display: block;
+			//padding: $spacing-xs;
+			color: $gray;
+			
+			&:hover, &:focus {
+				color: $color-link;
+			}
+		}
+	}
+}
+
+.list-footer-social {
+	> li {
+		> a {
+			color: $gray;
+		}
+	}
+}

@@ -1,0 +1,22 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+	<script>document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, 'js');</script>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 150 }}{% else %}{{ site.description }}{% endif %}">
+	<style>{% include main.css %}</style>
+<!--	<link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">-->
+	<link rel="icon" type="image/png" href="{{ '/assets/img/favicon.png' | prepend: site.baseurl }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<script>LazyLoad=function(e){function t(t,n){var a,o=e.createElement(t);for(a in n)n.hasOwnProperty(a)&&o.setAttribute(a,n[a]);return o}function n(e){var t,n,a=u[e];a&&(t=a.callback,n=a.urls,n.shift(),r=0,n.length||(t&&t.call(a.context,a.obj),u[e]=null,d[e].length&&o(e)))}function a(){var t=navigator.userAgent;c={async:e.createElement("script").async===!0},(c.webkit=/AppleWebKit\//.test(t))||(c.ie=/MSIE|Trident/.test(t))||(c.opera=/Opera/.test(t))||(c.gecko=/Gecko\//.test(t))||(c.unknown=!0)}function o(o,r,g,m,f){var y,h,p,v,b,E,B=function(){n(o)},N="css"===o,T=[];if(c||a(),r)if(r="string"==typeof r?[r]:r.concat(),N||c.async||c.gecko||c.opera)d[o].push({urls:r,callback:g,obj:m,context:f});else for(y=0,h=r.length;h>y;++y)d[o].push({urls:[r[y]],callback:y===h-1?g:null,obj:m,context:f});if(!u[o]&&(v=u[o]=d[o].shift())){for(s||(s=e.head||e.getElementsByTagName("head")[0]),b=v.urls.concat(),y=0,h=b.length;h>y;++y)E=b[y],N?p=c.gecko?t("style"):t("link",{href:E,rel:"stylesheet"}):(p=t("script",{src:E}),p.async=!1),p.className="lazyload",p.setAttribute("charset","utf-8"),c.ie&&!N&&"onreadystatechange"in p&&!("draggable"in p)?p.onreadystatechange=function(){/loaded|complete/.test(p.readyState)&&(p.onreadystatechange=null,B())}:N&&(c.gecko||c.webkit)?c.webkit?(v.urls[y]=p.href,i()):(p.innerHTML='@import "'+E+'";',l(p)):p.onload=p.onerror=B,T.push(p);for(y=0,h=T.length;h>y;++y)s.appendChild(T[y])}}function l(e){var t;try{t=!!e.sheet.cssRules}catch(a){return r+=1,200>r?setTimeout(function(){l(e)},50):t&&n("css"),void 0}n("css")}function i(){var e,t=u.css;if(t){for(e=g.length;--e>=0;)if(g[e].href===t.urls[0]){n("css");break}r+=1,t&&(200>r?setTimeout(i,50):n("css"))}}var c,s,u={},r=0,d={css:[],js:[]},g=e.styleSheets;return{css:function(e,t,n,a){o("css",e,t,n,a)},js:function(e,t,n,a){o("js",e,t,n,a)}}}(this.document);</script>
+	<link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | prepend: site.baseurl }}"/>
+	<meta name="msapplication-TileColor" content="#662e8f">
+	<!--[if lt IE 9]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="stylesheet" type="text/css" href="{{ '/assets/css/ie.css' | prepend: site.baseurl }}" />
+	<script src="{{ '/assets/lib/html5shiv/dist/html5shiv.js' | prepend: site.baseurl }}"></script>
+	<![endif]-->
+	<!--[if lt IE 8]>
+<script src="{{ '/assets/js/ie7.js' | prepend: site.baseurl }}"></script>
+<![endif]-->
+</head>

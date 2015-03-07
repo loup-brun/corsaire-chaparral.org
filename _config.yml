@@ -1,0 +1,44 @@
+# Site settings
+encoding: utf-8
+
+title: "Club d'athlétisme Corsaire-Chaparal"
+email: louis.oli.br@gmail.com
+adminEmail: louis.oli.br@gmail.com
+description: >
+  Situé dans les Basses-Laurentides, Le club d'athlétisme Corsaire-Chaparal est un organisme sans but lucratif dont la mission est de promouvoir l'athlétisme auprès des jeunes.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://corsaire-chaparal.org" # the base hostname & protocol for your site
+
+facebook: "https://www.facebook.com/CorsaireChaparal"
+twitter: "https://twitter.com/CorsaireC"
+
+# Build settings
+markdown: kramdown
+
+collections:
+  entraineurs:
+    title-meta: "Entraîneurs"
+    permalink: /entraineurs/:name/
+    output: true
+
+# maybe make a docs collection?
+#  docs:
+#    permalink: /assets/docs/:name
+#    output: true
+
+
+exclude: [.bowerrc, bower.json, coch, node_modules, Gruntfile.js, npm-debug.log, package.json, photos-partage, README.md]
+
+# Lychee photo managing framework [in php]
+# Photos are linked on each site build
+# but are not updated dynamically.
+# A new site build is required to
+# update the photos on the websie page.
+
+# This could be done dynamically in js
+# but at the moment we want to control
+# changes made by users to the photo repo.
+lychee:
+  url: "http://corsaire-chaparal.org/photos-partage/"
+  album_title_tag: h3
+  link_big_to: '#'

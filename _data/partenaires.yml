@@ -1,0 +1,96 @@
+- name: "Fédération québécoise d'athlétisme"
+  url: "http://athletisme-quebec.ca"
+  image: "federation-quebecoise-athletisme.png"
+
+- name: "Ville de Sainte-Thérèse"
+  url: "http://www.ville.sainte-therese.qc.ca/"
+  image: "ville-sainte-therese.jpg"
+
+- name: "Ville de Blainville"
+  url: "http://www.ville.blainville.qc.ca/"
+  image: "ville-blainville.png"
+
+- name: "Ville de Boisbriand"
+  url: "http://www.ville.boisbriand.qc.ca/"
+  image: "ville-boisbriand.jpg"
+
+- name: "Ville de Rosemère"
+  url: "http://www.ville.rosemere.qc.ca/"
+  image: "ville-rosemere.gif"
+
+- name: "Ville de Ste-Anne-Des-Plaines"
+  url: "http://ville.ste-anne-des-plaines.qc.ca/fr/"
+  image: "ville-ste-anne-des-plaines.gif"
+
+- name: "Club optimiste de Sainte-Thérèse"
+  image: "club-optimiste-ste-therese.gif"
+
+- name: "Équipe Endurance"
+  url: "http://www.boutiqueendurance.ca/"
+  image: "equipe-endurance-rive-nord.gif"
+
+- name: "PWC"
+  url: "http://www.pwc.com/ca/fr"
+  image: "pwc.gif"
+
+- name: "Comité de l'athlétisme aux Jeux mondiaux des pompiers et policiers de Blainville"
+  image: "athletisme-jeux-policiers-pompiers.png"
+
+- name: "J. P. Lauzon et fils Ltée"
+  url: "http://www.jplauzon.com/index.php/fr/"
+  image: "lauzon-fils.gif"
+
+- name: "Technisoins"
+  url: "http://www.technisoins.com/"
+  image: "technisoins.gif"
+
+- name: "Julie Lepage, chiropraticienne"
+  image: "centre-chiro-sante.gif"
+
+- name: "Boutique Endurance"
+  url: "http://www.boutiqueendurance.ca/"
+  image: "boutique-endurance.png"
+
+- name: "Desjardins"
+  url: "http://www.desjardins.com/fr/"
+  image: "desjardins.gif"
+
+- name: "Fondation Philippe Laheurte"
+
+- name: "La Bagelerie"
+  image: "bagelerie.jpg"
+
+- name: "Boutique Courir"
+  url: "http://www.boutiquecourir.com/"
+  image: "boutique-courir.jpg"
+
+- name: "Mme Hélène Daneault, députée de Groulx"
+  url: "http://www.assnat.qc.ca/fr/deputes/daneault-helene-12201/biographie.html"
+  image: "helene-daneault-groulx.jpg"
+
+- name: "Les députés péquistes des Laurentides: Sylvain Pagé, Claude Cousineau, Denise Beaudoin, Roland Richer, Daniel Goyer"
+  image: "deputes-pq-laurentides.jpg"
+
+- name: "Place Rosemère"
+  url: "http://www.placerosemere.com/fr/"
+  image: "place-rosemere.jpg"
+
+- name: "Tim Hortons"
+  url: "http://www.timhortons.com/"
+  image: "tim-hortons.gif"
+
+- name: "Subway"
+  url: "http://www.subway.ca/"
+  image: "subway.jpg"
+
+- name: "Boulangeire la fournée d'Hortensia"
+  image: "boulangerie-la-fournee-hortensia.jpg"
+
+- name: "Bureau d'avocat, Martine Brodeur"
+
+- name: "Boston Pizza"
+  image: "boston-pizza.jpg"
+
+- name: "IGA Daigle"
+  url: "http://igadaigle.com/"
+  image: "iga-daigle.jpg"

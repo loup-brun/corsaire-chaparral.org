@@ -1,0 +1,7 @@
+<figure class="figure-float col col-4 tablet-col-6 mobile-col-12">
+	<img class="blazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src-sm="{{ include.thumbUrl }}" data-src="{{include.url}}" data-title="{{ include.title }}" data-caption="{{ include.caption }}" alt="{{ include.title }}"{% if include.meta %} data-meta="{{ include.meta }}"{% endif %} />
+	<figcaption>
+		<h5>{{ include.title }}</h5>
+		<p>{{ include.caption | truncatewords: 12 }}</p>
+	</figcaption>
+</figure>

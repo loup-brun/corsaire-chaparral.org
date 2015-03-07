@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /404/
+Disallow: /photos-partage/data/
+Disallow: /photos-partage/dist/
+Disallow: /photos-partage/docs/
+Disallow: /photos-partage/php/
+Disallow: /photos-partage/plugins/
+Disallow: /photos-partage/src/
+Disallow: /photos-partage/uploads/

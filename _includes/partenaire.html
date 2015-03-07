@@ -1,0 +1,15 @@
+<div class="row row-partenaire">
+	<figure class="col col-4 figure-thumb text-center">
+		{% if include.img | size > 0 %}
+		<img src="{{ include.img | prepend:'/assets/img/partenaires/' | prepend: site.baseurl }}" alt="{{ include.name }}" />
+		{% else %}
+		<span class="icon icon-star img-partenaire-default"></span>
+		{% endif %}
+	</figure>
+	<div class="col col-8">
+		<h6>{{ include.name }}</h6>
+		{% if include.url %}
+		<small><span class="icon icon-chain"></span> <a href="{{ include.url }}" target="_blank">{{ include.url }}</a></small>
+		{% endif %}
+	</div>
+</div>

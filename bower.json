@@ -1,0 +1,29 @@
+{
+  "name": "corsaire-chaparal",
+  "version": "0.1.0",
+  "authors": [
+    "loup-brun <louis.oli.br@gmail.com>"
+  ],
+  "description": "Site web officiel du club d'athlétisme Corsaire-Chaparal.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "classie": "~1.0.1",
+    "html5shiv": "~3.7.2",
+    "FastActive": "https://github.com/jonathanstark/FastActive.git#~1.0.1",
+    "bean": "~1.0.14",
+    "ondomready": "~1.4.0",
+    "packery": "~1.3.2",
+    "blazy": "~1.3.0",
+    "qwery": "~4.0.0",
+    "cssanimevent": "https://github.com/magnetikonline/cssanimevent.git",
+    "nanoajax": "https://github.com/yanatan16/nanoajax.git#~0.1.1"
+  }
+}

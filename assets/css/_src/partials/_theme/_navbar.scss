@@ -1,0 +1,87 @@
+// THEME - navbar
+// -----------------------------------
+
+.navbar-main {
+	@include clearfix;
+	background-color: $color-navbar;
+	color: check-background($color-navbar);
+	font-size: $font-size-navbar;
+
+	.nav {
+
+		float: left;
+		&.nav-toggle { float: right; }
+
+		> li {
+
+			> a {
+				@include transition(background-color .3s);
+				padding: $spacing-navbar;
+				color: check-background($color-navbar);
+
+				&:hover, &:focus {
+					background-color: $color-primary;
+					color: check-background($color-primary);
+				}
+			}
+
+			&.active {
+				> a {	
+					background-color: lighten($color-navbar, 5%);
+				}
+			}
+		}
+	}
+
+}
+
+.logo-navbar {
+	@include square($height-navbar);
+	display: block;
+	float: left;
+	//background: $color-primary;
+	color: #fff;
+
+	> img {
+		@include square($height-navbar - 8px);
+		margin: 4px 0 0 4px;
+	}
+}
+
+@include mquery($nav-breakpoint) {
+	// show toggle button for navbar
+	.nav-toggle { display: block; }
+
+	.nav-main {
+		@include transition(max-height 1s $easeInOutCubic 0s);
+		//display: none; // toggle w/ js
+		//position: absolute;
+		top: $height-navbar;
+		width: 100%;
+		clear: both;
+		background-color: $color-navbar;
+		z-index: $z-index-overlay;
+		max-height: 0; // toggle w/ js
+		overflow: hidden;
+
+		> li {
+			float: none;
+			clear: both;
+			> a {
+				//width: auto;
+				text-align: center;
+			}
+
+			.dropdown-list { display: none !important; }
+
+		}
+
+		&.toggled {
+			// the actual nav height when all are stacked
+			// do not use an extremely big max-height
+			// since the transition is computed according
+			// to that value.
+			max-height: $height-navbar * 8;
+		}
+	}
+}

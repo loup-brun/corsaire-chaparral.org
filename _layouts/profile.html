@@ -1,0 +1,18 @@
+---
+layout: page
+title-meta: Entraîneur
+---
+
+<div class="row">
+	<figure class="col col-3 tablet-col-4 figure-thumb">
+		<img src="{{ page.photo.src | prepend: site.baseurl}}" title="{{ page.title }}" alt="{{ page.photo.caption }}" />
+		<figcaption>{{page.photo.caption}}</figcaption>
+	</figure>
+	<div class="col col-9 tablet-col-8">
+		<ul>
+			{% for spec in page.formation %}<li>{{spec}}</li>
+			{% endfor %}</ul>
+	</div>
+</div>
+
+{{content}}

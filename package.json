@@ -1,0 +1,18 @@
+{
+  "name": "corsaire-chaparal",
+  "version": "0.1.0",
+  "description": "Site web officiel du club d'athlétsme Corsaire-Chaparal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis-Olivier Brassard",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.1.0"
+  }
+}

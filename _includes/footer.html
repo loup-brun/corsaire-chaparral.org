@@ -1,0 +1,35 @@
+<footer class="footer-main">
+	<div class="container">
+		<div class="row">
+			<div class="col col-6 mobile-col-12">
+				<h5>{{ site.title }}</h5>
+				<p class="text-footer">{{ site.description }}</p>
+			</div>
+			<div class="col col-3 mobile-col-6">
+				<h5>Navigation</h5>
+				<ul class="list-footer">
+					{% for nav in site.data.nav %}
+					<li{% if page.url contains nav.url %} class="active"{% endif %}>
+						<a href="{{ nav.url | prepend: site.baseurl }}"{% if nav.subnav %} class="drowpdown"{% endif %}>{{ nav.name }}</a>
+						</li>{% endfor %}
+				</ul>
+			</div>
+			<div class="col col-3 mobile-col-6">
+				<h5>Réseaux sociaux</h5>
+				<ul class="list-footer list-footer-social">
+					<li><a href="{{ site.facebook }}" target="_blank"><span class="icon icon-facebook-square"></span> Facebook</a></li>
+					<li><a href="{{ site.twitter }}" target="_blank"><span class="icon icon-twitter-square"></span> Twitter</a></li>
+					<li><a href="mailto:{{ site.email }}" target="_blank"><span class="icon icon-envelope"></span> Courriel</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row text-legal">
+			<div class="col col-6 mobile-col-12">
+				&copy;{{ site.time | date: '%Y' }} {{ site.title }}. Tous droits réservés.
+			</div>
+			<div class="col col-6 mobile-col-12">
+				Webmestre: <a href="mailto:{{ site.adminEmail }}">Louis-Olivier Brassard</a>
+			</div>
+		</div>
+	</div>
+</footer>

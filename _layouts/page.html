@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<main class="container container-main" role="main">
+	<header class="header-page row">
+		<span class="icon icon-{{ page.icon }} icon-lg icon-header"></span>
+		<div class="col col-8 tablet-col-10">
+			<div class="container">
+				<h6 class="title-meta">{{ site[page.collection].title-meta }} {{ page.title-meta }}</h6>
+			</div>
+			<div class="title-header container">
+				<h1>{{ page.title }}</h1>
+			</div>
+		</div>
+	</header>
+
+	<article class="container">
+		{{ content }}
+	</article>
+</main>

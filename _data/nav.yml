@@ -1,0 +1,26 @@
+# subnavs should be a site collection
+
+- name: "Accueil"
+  url: "/accueil/"
+  
+- name: "Le club"
+  url: "/club/"
+  
+- name: "Entraînements"
+  url: "/entrainements/"
+  
+- name: "Entraîneurs"
+  url: "/entraineurs/"
+  subnav: "entraineurs"
+
+- name: "Inscription"
+  url: "/inscription/"
+  
+- name: "Photos et résultats"
+  url: "/photos-resultats/"
+  
+- name: "Partenaires"
+  url: "/partenaires/"
+  
+- name: "Contact"
+  url: "/contact/"

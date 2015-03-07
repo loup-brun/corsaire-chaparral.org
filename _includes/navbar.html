@@ -1,0 +1,19 @@
+<nav class="navbar-main">
+	<a class="logo-navbar" href="{{ site.data.nav[0].url | prepend: site.baseurl }}">
+		<img src="{{ '/assets/img/coch-logo2.png' | prepend: site.baseurl }}" alt="" />
+	</a>	
+	<ul class="nav nav-toggle" id="nav-toggle">
+		<li>
+			<a title="Menu"><span class="icon icon-bars"></span></a>
+		</li>
+	</ul>
+	<ul class="nav nav-main" id="nav-main">
+		{% for nav in site.data.nav %}
+		<li class="{% if page.url contains nav.url %}active{% endif %}{% if nav.subnav %} dropdown{% endif %}">
+			<a href="{{ nav.url | prepend: site.baseurl }}">{{ nav.name }}</a>
+			{% if nav.subnav %}<ul class="dropdown-list">{% for subnav in site[nav.subnav] %}
+			<li><a href="{{ subnav.url | prepend: site.baseurl }}">{{ subnav.title }}</a></li>{% endfor %}
+			</ul>{% endif %}
+		</li>{% endfor %}
+	</ul>
+</nav>
