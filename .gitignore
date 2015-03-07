@@ -1,3 +1,4 @@
 _site
 .sass-cache
 photos-partage
+node_modules

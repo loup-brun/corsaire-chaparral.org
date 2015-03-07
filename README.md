@@ -66,7 +66,11 @@ $ jekyll serve
 
 * **build**: génère le site
 * **build --watch**: regénère le site lorsqu'un fichier est modifié
-* **serve**: sert le site à http://localhost:4000
+* **serve**: sert le site à l'adresse locale `http://localhost:4000`
+
+### Configuration
+
+Les données de configuration pour générer le site sont situées dans le fichier `_config.yml`.
 
 ### Partage de photos
 
