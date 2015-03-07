@@ -3,6 +3,8 @@ Site web du club d'athlétisme Corsaire-Chaparal
 
 Ce répertoire recense le code source du site web du [club d'athlétisme Corsaire-Chaparal](http://corsaire-chaparal.org). Il est généré avec l'outil **Jekyll**, un Ruby Gem qui permet de générer des sites web statiques.
 
+### Installation
+
 Pour construire ce site, assurez-vous d'avoir installé les langages suivants sur votre système:
 
 - Node.js
@@ -66,5 +68,8 @@ $ jekyll serve
 * **build --watch**: regénère le site lorsqu'un fichier est modifié
 * **serve**: sert le site à http://localhost:4000
 
-Louis-Olivier Brassard
+### Questions
+Envoyez un courriel à louis.oli.br@gmail.com
+
+**Louis-Olivier Brassard**
 
