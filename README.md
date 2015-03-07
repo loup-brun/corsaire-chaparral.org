@@ -19,7 +19,6 @@ Vous pouvez vérifier si Jekyll est installé comme ceci:
 
 ```
 $ jekyll -v
-//# => jekyll v.2.5.3
 ```
 
 Pour les utilisateurs Windows, n'oubliez pas les [étapes supplémentaires](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/).
@@ -39,9 +38,9 @@ $ npm install
 $ bower install
 ```
 
-*npm* installe les modules Node.js pour la compilation (concatenation et minification) de scripts `js` et de fichiers `sass` (en CSS). La compilation se fait à l'aide de [Grunt.js](http://gruntjs.com/).
+**npm** installe les modules Node.js pour la compilation (concatenation et minification) de scripts `js` et de fichiers `sass` (en CSS). La compilation se fait à l'aide de [Grunt.js](http://gruntjs.com/).
 
-*bower* installe les bibliothèques du site web. Voyez le fichier bower.json pour la liste des dépendances (surtout des scripts `.js`).
+**bower** installe les bibliothèques du site web. Voyez le fichier bower.json pour la liste des dépendances (surtout des scripts `.js`).
 
 Vous pouvez maintenant construire les ressources (qui se trouveront dans le dossier `assets/`):
 
@@ -59,8 +58,10 @@ Finalement, il ne reste qu'à générer le site web.
 
 ```
 $ jekyll build
-$ jekyll build --watch // refait la commande build lorsqu'un fichier est modifié
-$ jekyll serve // testez le site à http://localhost:4000/
+# refait la commande build lorsqu'un fichier est modifié
+$ jekyll build --watch
+# testez le site à http://localhost:4000/
+$ jekyll serve
 ```
 
 Louis-Olivier Brassard
