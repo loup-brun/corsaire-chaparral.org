@@ -78,8 +78,6 @@ Les données pour la compilation `.js` et `sass` sont dans le fichier `Gruntfile
 
 Les photos sont partagées à l'adresse http://corsaire-chaparal.org/photos-partage/
 
-
-
 ### Questions
 Envoyez un courriel à louis.oli.br@gmail.com
 
