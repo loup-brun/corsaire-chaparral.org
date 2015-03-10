@@ -11,7 +11,7 @@ Pour construire ce site, assurez-vous d'avoir installé les langages suivants su
 - [Ruby](https://www.ruby-lang.org/fr/)
 - [Bower](http://bower.io/)
 
-Installez Jekyll
+Installez Jekyll:
 
 ```
 $ gem install jekyll
