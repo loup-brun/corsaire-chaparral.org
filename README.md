@@ -44,7 +44,7 @@ $ bower install
 
 **bower** installe les bibliothèques du site web. Voyez le fichier bower.json pour la liste des dépendances (surtout des scripts `.js`). Les bibliothèques seront installées dans `assets/lib/`. Vous _devez_ installer les bibliothèques pour générer le site.
 
-Vous pouvez à présent construire les ressources (qui se trouveront dans le dossier `assets/`):
+Vous pouvez à présent construire les ressources (qui se trouveront dans le dossier `assets/lib/`.
 
 ```
 $ grunt build
