@@ -7,9 +7,9 @@ Ce répertoire recense le code source du site web du [club d'athlétisme Corsair
 
 Pour construire ce site, assurez-vous d'avoir installé les langages suivants sur votre système:
 
-- Node.js
-- Ruby
-
+- [Node.js](https://nodejs.org/)
+- [Ruby](https://www.ruby-lang.org/fr/)
+- [Bower](http://bower.io/)
 
 Installez Jekyll
 
@@ -17,7 +17,7 @@ Installez Jekyll
 $ gem install jekyll
 ```
 
-Vous pouvez vérifier si Jekyll est installé comme ceci:
+Vous pouvez vérifier si Jekyll est installé en tapant
 
 ```
 $ jekyll -v
@@ -25,7 +25,7 @@ $ jekyll -v
 
 Pour les utilisateurs Windows, n'oubliez pas les [étapes supplémentaires](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/).
 
-Téléchargez ce répertoire Github ou clonez-le dans votre environnement:
+Téléchargez ce répertoire ou clonez-le dans votre environnement:
 
 ```
 $ mkdir coch
@@ -42,9 +42,9 @@ $ bower install
 
 **npm** installe les modules Node.js pour la compilation (concatenation et minification) de scripts `js` et de fichiers `sass` (en CSS). La compilation se fait à l'aide de [Grunt.js](http://gruntjs.com/).
 
-**bower** installe les bibliothèques du site web. Voyez le fichier bower.json pour la liste des dépendances (surtout des scripts `.js`).
+**bower** installe les bibliothèques du site web. Voyez le fichier bower.json pour la liste des dépendances (surtout des scripts `.js`). Les bibliothèques seront installées dans `assets/lib/`. Vous _devez_ installer les bibliothèques pour générer le site.
 
-Vous pouvez maintenant construire les ressources (qui se trouveront dans le dossier `assets/`):
+Vous pouvez à présent construire les ressources (qui se trouveront dans le dossier `assets/`):
 
 ```
 $ grunt build
@@ -66,11 +66,13 @@ $ jekyll serve
 
 * **build**: génère le site
 * **build --watch**: regénère le site lorsqu'un fichier est modifié
-* **serve**: sert le site à l'adresse locale `http://localhost:4000`
+* **serve**: le site est servi sur un serveur local à l'adresse `http://localhost:4000`.
 
 ### Configuration
 
 Les données de configuration pour générer le site sont situées dans le fichier `_config.yml`.
+
+Les données pour la compilation `.js` et `sass` sont dans le fichier `Gruntfile.js`.
 
 ### Partage de photos
 
