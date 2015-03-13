@@ -11,7 +11,8 @@ Le coût d’inscription est établi selon l’année de naissance de l’athlè
 Les montants d’inscription 2014/2015, selon les catégories, sont listés ci-dessous. Nous vous demandons de payer la moitié ou la totalité du montant indiqué (selon l’année de naissance), en faisant un chèque au nom du Club d’athlétisme Corsaire-Chaparal, pour le 1er octobre 2014 et de nous remettre, en même temps, un chèque postdaté (15 janvier 2015) pour payer le solde de l’inscription. Prendre note que nous avons une politique familiale, c’est-à-dire un rabais de 25% pour le 2<sup>e</sup> enfant et de 50% pour les suivants. Vous devez remettre à l’entraîneur:
 
 - le [formulaire d’inscription]({{ "/assets/docs/formulaire-inscription-2014-2015.pdf" | prepend: site.baseurl }}) (ou le [formulaire d'inscription colibri]({{ "/assets/docs/formulaire-inscription-colibri-2014-2015.pdf" | prepend: site.baseurl }}))
-- la [fiche santé de l'athlète]({{ "/assets/docs/fiche-sante.pdf" | prepend: site.baseurl }}), le [formulaire d’autorisation d'utilisation d'image]({{ "/assets/docs/formulaire-autorisation-utilisation-image.pdf" | prepend: site.baseurl }})
+- la [fiche santé de l'athlète]({{ "/assets/docs/fiche-sante.pdf" | prepend: site.baseurl }})
+- le [formulaire d’autorisation d'utilisation d'image]({{ "/assets/docs/formulaire-autorisation-utilisation-image.pdf" | prepend: site.baseurl }})
 
 ainsi que les chèques, le tout en même temps afin de procéder à votre inscription.
 
