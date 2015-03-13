@@ -22,7 +22,7 @@ Selon les catégories (voir ci-bas).
 
 - Samedi 9h30 à 11h
 
-> Session de 10 semaines: du 4 octobre 2014 au 6 décembre 2014 (inscription sur place lors du 1<sup>er</sup> entraînement)
+> Session de 10 semaines: du 11 avril 2015 au 14 juin 2015. L'inscription se fait sur place lors du 1<sup>er</sup> entraînement (veuillez apporter vos documents d'inscription avec votre chèque).
 
 #### Minime (né en 2004 et 2005)
 
