@@ -47,6 +47,18 @@ p a { // inline text links
 	background-color: $gray-light;
 }
 
+.badge {
+	display: inline-block;
+	padding: $spacing-xs;
+	font-size: $font-size-sm;
+	text-transform: uppercase;
+}
+
+.badge-primary {
+	background-color: $color-primary;
+	color: check-background($color-primary);
+}
+
 @import '_theme/header';
 @import '_theme/footer';
 @import '_theme/navbar';
