@@ -40,9 +40,9 @@ $ npm install
 $ bower install
 ```
 
-**npm** installe les modules Node.js pour la compilation (concatenation et minification) de scripts `js` et de fichiers `sass` (en CSS). La compilation se fait à l'aide de [Grunt.js](http://gruntjs.com/).
+**npm** installe les fichiers de développement (_back-end_) Node.js pour la compilation (concatenation et minification) de scripts `js` et de fichiers `sass` (en CSS). La compilation se fait à l'aide de [Grunt.js](http://gruntjs.com/).
 
-**bower** installe les bibliothèques du site web. Voyez le fichier bower.json pour la liste des dépendances (surtout des scripts `.js`). Les bibliothèques seront installées dans `assets/lib/`. Vous _devez_ installer les bibliothèques pour générer le site correctement.
+**bower** installe les bibliothèques (_front-end_) du site web. Voyez le fichier bower.json pour la liste des dépendances (surtout des scripts `.js`). Les bibliothèques seront installées dans `assets/lib/`. Vous _devez_ installer les bibliothèques pour générer le site correctement.
 
 Vous pouvez à présent construire les ressources (qui se trouveront dans le dossier `assets/lib/`.
 
