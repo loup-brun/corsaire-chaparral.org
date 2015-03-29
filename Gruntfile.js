@@ -15,27 +15,29 @@ module.exports = function ( grunt ) {
 		js_path: '<%= assets_path %>js/',
 		lib_path: '<%= assets_path %>lib/',
 
-		//Minify the sources
+		// minify the sources
 		uglify: {
 			js: {
 				files: [
 					{
+						// todo: could be done w/ requirejs instead
 						'<%= js_path %>custom.min.js': [
 							'<%= lib_path %>ondomready/ondomready.js',
 							'<%= lib_path %>qwery/qwery.js',
 							'<%= lib_path %>classie/classie.js',
 							'<%= lib_path %>bean/bean.js',
 							'<%= lib_path %>FastActive/FastActive.js',
-							'<%= js_path %>custom.js',
 
+							'<%= js_path %>custom.js'
 						]
-				},
+					},
+					// todo: ibid
 					{
-						'<%= js_path %>photo-layout.min.js': [
-							'<%= lib_path %>packery/dist/packery.pkgd.js',
-							'<%= lib_path %>blazy/blazy.js',
+						'<%= js_path %>photos-resultats-test.min.js': [
+							'<%= lib_path %>requirejs/require.js',
 							'<%= lib_path %>nanoajax/nanoajax.min.js',
-							'<%= js_path %>photo-layout.js'
+							
+							'<%= js_path %>photos-resultats.js'
 						]
 					}
 				]
@@ -43,35 +45,35 @@ module.exports = function ( grunt ) {
 		},
 
 		sass: {
+			// compile different stylesheets to be loaded async
 			main: {
 				files: {
 					'_includes/main.css': '<%= css_src %>main.scss'
 				},
 			},
-
-			photo: {
+			blocks: {
 				files: {
-					'<%= css_path %>photo-layout.css': '<%= css_src %>photo-layout.scss'
+					'<%= css_path %>blocks-layout.css': '<%= css_src %>blocks-layout.scss'
 				}
 			},
-
 			fonts: {
 				files: {
 					'<%= css_path %>fonts.css': '<%= css_src %>fonts.scss'
 				}
 			},
-
 			ie: {
 				files: {
 					'<%= css_path %>ie.css': '<%= css_src %>ie.scss'
 				}
 			},
 
+			// pass in the options object for sass
 			options: {
 				style: 'compressed'
 			}
 		},
 
+		// watch: rebuild parts of site on file change
 		watch: {
 			sass: {
 				files: ['<%= css_src %>**/*.scss'],
@@ -79,12 +81,29 @@ module.exports = function ( grunt ) {
 			},
 
 			js: {
-				files: ['<%= js_path %>custom.js', '<%= js_path %>photo-layout.js'],
+				files: ['<%= js_path %>**/*.js'],
 				tasks: ['js']
 			}
-		}
+		},
 
+		jekyll: {
+			options: {
+
+			},
+			build: {
+				options: {
+					//dest: './site', // default
+					config: '_config.yml'
+				}
+			},
+			serve: {
+				options: {	
+					serve: true
+				}
+			}
+		}
 	});
+
 
 	grunt.registerTask( 'js', [ 'uglify:js' ]);
 	grunt.registerTask( 'css', [ 'sass' ]);

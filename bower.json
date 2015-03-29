@@ -1,5 +1,5 @@
 {
-  "name": "corsaire-chaparal",
+  "name": "coch",
   "version": "0.1.0",
   "authors": [
     "loup-brun <louis.oli.br@gmail.com>"
@@ -24,6 +24,9 @@
     "blazy": "~1.3.0",
     "qwery": "~4.0.0",
     "cssanimevent": "https://github.com/magnetikonline/cssanimevent.git",
-    "nanoajax": "https://github.com/yanatan16/nanoajax.git#~0.1.1"
+    "nanoajax": "https://github.com/yanatan16/nanoajax.git#~0.1.1",
+    "handlebars": "~3.0.0",
+    "requirejs": "~2.1.16",
+    "text": "~2.0.14"
   }
 }
