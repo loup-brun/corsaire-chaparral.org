@@ -8,7 +8,7 @@
 		<figcaption>
 			<small class="title-meta" id="meta-lightbox">{{ meta }}</small>
 			<h3 id="title-lightbox">{{ title }}</h3>
-			<p id="caption-lightbox">{{ description }}</p>
+			<p id="caption-lightbox">{{#truncateWords description 12}}{{/truncateWords}}</p>
 		</figcaption>
 	</figure>
 </div>

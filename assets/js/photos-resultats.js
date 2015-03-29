@@ -1,18 +1,9 @@
-define(['packery', 'blazy', 'handlebars', 'nanoajax'],function(Packery, Blazy, Handlebars, nanoajax) {
+/*global window, document, qwery, bean, classie, Packery, Blazy, nanoajax, Handlebars*/
+(function(win, doc) {
 
-	// IMPORTANT
-	// start with lightbox
-	var container			= qwery('.container-blocks')[0],
-			figures				= qwery(".figure-float", container),
-			lightbox			= qwery(".layer-lightbox")[0],
-			dim					= qwery(".dim-lightbox")[0],
-			close				= qwery(".close-lightbox")[0],
-			title_target		= qwery("#title-lightbox")[0],
-			caption_target	= qwery("#caption-lightbox")[0],
-			meta_target		= qwery("#meta-lightbox")[0],
-			img_target			= qwery("#img-lightbox")[0];
+	var container			= qwery('.container-blocks')[0];
 
-// moved lightbox to lightbox.js
+	// moved lightbox to lightbox.js
 
 	// Packery
 
@@ -39,39 +30,49 @@ define(['packery', 'blazy', 'handlebars', 'nanoajax'],function(Packery, Blazy, H
 	var mainAlbum,
 			photos = [],
 			allPhotosHtml,
-			source = '<figure class="figure-float col col-4 tablet-col-6 mobile-col-12"><img class="blazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src-sm="{{ thumbUrl }}" data-src="{{url}}" data-title="{{ title }}" data-caption="{{ description }}" alt="{{ title }}"{{#if meta}} data-meta="{{ meta }}"{{/if}} /><figcaption><h5>{{ title }}</h5><p>{{#truncateWords description 12}}{{/truncateWords}}</p></figcaption></figure>';
+			source;
 
-	nanoajax.ajax(
-		'http://corsaire-chaparal.org/photos-partage/php/api.php',
-		'function=getAlbum&albumID=1&password=""', // get album 1 (site web)
-		function(code, response) { // callback
-			mainAlbum = JSON.parse(response);
-			for (var key in mainAlbum.content) {
-				var photo = mainAlbum.content[key]
-				photos.push(photo);
-			}
+	// GET the lightbox template
+	nanoajax.ajax('/assets/html/lightbox.html', function(code, responseText) {
+		source = responseText;
+		
+		console.log('Retrieved template: ', responseText);
+	});
 
-			// iterate through the photos array
-			setTimeout(function() { // make sure the previous step is done
-				for ( var i = 0; i < photos.length; i++ ) {
-					var template = Handlebars.compile(source);
-					var include = photos[i];
-					var result = template(include);
-					console.log('result',result);
+	nanoajax.ajax({
+		url: 'http://corsaire-chaparal.org/photos-partage/php/api.php',
+		method: 'POST',
+		body: 'function=getAlbum&albumID=1&password=""' // get album 1 (site web)
+	}, function (code, responseText, request) { // callback
+		mainAlbum = JSON.parse(responseText);
+		
+		console.log('Album parsed was ', responseText);
 
-					allPhotosHtml += result
-					//container.innerHTML += result;
-				}
-			},0);
+		for (var key in mainAlbum.content) {
+			var photo = mainAlbum.content[key];
+			photos.push(photo);
 		}
-	);
+
+		// iterate through the photos array
+		win.setTimeout(function() { // make sure the previous step is complete
+			for ( var i = 0; i < photos.length; i++ ) {
+				var template = Handlebars.compile(source);
+				var _photo = photos[i];
+				var result = template(_photo);
+				console.log('result',result);
+
+				allPhotosHtml += result;
+				//container.innerHTML += result;
+			}
+		},0);
+	});
 
 	var bLazy = new Blazy({
 		selector: '[data-src]',
 		errorClass: 'blazy-error',
 		offset: -40,
 		success: function(element){
-			setTimeout(function(){
+			win.setTimeout(function(){
 				// We want to remove the loader gif now.
 
 				element.className = element.className.replace(/\blazy\b/,'');
@@ -84,4 +85,4 @@ define(['packery', 'blazy', 'handlebars', 'nanoajax'],function(Packery, Blazy, H
 			}
 		}
 	});
-});
+})(window, document);

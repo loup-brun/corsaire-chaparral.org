@@ -1,10 +1,12 @@
-// create a new lightbox object
-define(['bean', 'qwery', 'classie'], function(bean, qwery, classie) {
-	
-		var container			= qwery('.container-blocks')[0],
+/*global window, document, qwery, bean, classie*/
+(function(win, doc) {
+
+	// create a new lightbox object
+
+	var container			= qwery('.container-blocks')[0],
 			figures				= qwery(".figure-float", container),
 			lightbox			= qwery(".layer-lightbox")[0];
-	
+
 	// TODO: modularize click events
 
 
@@ -54,7 +56,7 @@ define(['bean', 'qwery', 'classie'], function(bean, qwery, classie) {
 	}
 
 	function centerY() {
-		setTimeout(function() { // avoid bad initial values
+		win.setTimeout(function() { // avoid bad initial values
 			var parentRect	= document.getElementById('lightbox-display').getBoundingClientRect(),
 					parentH		= parentRect.bottom - parentRect.top,
 					img			= document.getElementById('img-lightbox'),
@@ -74,10 +76,11 @@ define(['bean', 'qwery', 'classie'], function(bean, qwery, classie) {
 		close: close
 	}
 
-	window.Lightbox = Lightbox;
+	// make the lightbox part of the window object
+	win.Lightbox = Lightbox;
 
 	// bind window resize to image positioning in lightbox
-	window.onresize = function() {
+	win.onresize = function() {
 		Lightbox.center()
 	};
 
@@ -111,4 +114,5 @@ define(['bean', 'qwery', 'classie'], function(bean, qwery, classie) {
 
 	// clone the `close()` function on the dim
 	bean.clone(dim, close, 'click');
-});
+
+});(window, document);

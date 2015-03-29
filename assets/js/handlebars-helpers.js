@@ -17,6 +17,5 @@ Handlebars.registerHelper('truncateWords', function(context, max, options) {
 		string = newString += '...'; // add trailing '...' to the cut string
 	} // else just return the original string
 
-
 	return string;
 });

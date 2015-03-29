@@ -15,7 +15,7 @@
 				"{{ script | prepend: site.baseurl }}"{% unless forloop.last %},{% endunless %}
 				{% endfor %}{% endif %}
 			], function() {
-				console.log("loaded scripts!")
+				console.log("loaded scripts!");
 			});
 			LazyLoad.css([
 				{% if page.stylesheets %}{% for stylesheet in page.stylesheets %}
@@ -23,7 +23,7 @@
 				{% endfor %}{% endif %}
 				"{{ '/assets/css/fonts.css' | prepend: site.baseurl }}"
 			], function() {
-				console.log("loaded stylesheets")
+				console.log("loaded stylesheets");
 			});
 		</script>
 		{% if page.lightbox %}

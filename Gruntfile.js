@@ -33,10 +33,13 @@ module.exports = function ( grunt ) {
 					},
 					// todo: ibid
 					{
-						'<%= js_path %>photos-resultats-test.min.js': [
-							'<%= lib_path %>requirejs/require.js',
+						'<%= js_path %>photos-resultats.min.js': [
+							'<%= lib_path %>packery/dist/packery.pkgd.min.js',
 							'<%= lib_path %>nanoajax/nanoajax.min.js',
+							'<%= lib_path %>handlebars/handlebars.min.js',
+							'<%= lib_path %>blazy/blazy.js',
 							
+							'<%= js_path %>handlebars-helpers.js',
 							'<%= js_path %>photos-resultats.js'
 						]
 					}

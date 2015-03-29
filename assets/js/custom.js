@@ -1,6 +1,5 @@
-// Manage scripts w/ Grunt - and possibly everything else...?
-
-(function() {
+/*global window, document, qwery, bean, classie*/
+(function(win, doc) {
 
 	// include qwery as a selector engine
 	bean.setSelectorEngine(qwery);

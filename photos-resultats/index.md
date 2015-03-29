@@ -7,9 +7,7 @@ scripts:
   - "/assets/js/photos-resultats.min.js"
 
 stylesheets:
-  - "/assets/css/blocks-layout.css" 
-
-lightbox: true
+  - "/assets/css/blocks-layout.css"
 
 ---
 
@@ -23,8 +21,8 @@ lightbox: true
 	{% assign _url = img.url | prepend: site.lychee.url %}
 	{% include block.html title=_title caption=_caption url=_url meta=_meta %}
 	{% endfor %}
-	{% endcomment %}
 	
 	{% lychee_album_no_cache 1 %}
+	{% endcomment %}
 
 </div>
