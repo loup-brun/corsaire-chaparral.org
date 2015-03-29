@@ -1,0 +1,15 @@
+@import
+	"partials/variables",
+	"partials/mixins",
+
+	"partials/lightbox",
+	"partials/_theme/blazy"
+	
+	;
+
+.container-blocks {
+	
+	.figure-float {
+		margin: 0;
+	}
+}
