@@ -35,7 +35,7 @@ module.exports = function ( grunt ) {
 					'<%= lib_path %>classie/classie.js',
 					'<%= lib_path %>FastActive/FastActive.js',
 
-					'<%= js_path %>custom.js'
+					'<%= js_path %>src/custom.js'
 				],
 				dest: 
 					'<%= js_path %>main.js'
@@ -47,8 +47,8 @@ module.exports = function ( grunt ) {
 							'<%= lib_path %>handlebars/handlebars.js',
 							'<%= lib_path %>blazy/blazy.js',
 
-							'<%= js_path %>handlebars-helpers.js',
-							'<%= js_path %>photos-resultats.custom.js'
+							'<%= js_path %>src/handlebars-helpers.js',
+							'<%= js_path %>src/photos-resultats.custom.js'
 				],
 				dest: '<%= js_path %>photos-resultats.js'
 			}
@@ -107,8 +107,8 @@ module.exports = function ( grunt ) {
 			},
 
 			js: {
-				files: ['<%= js_path %>**/*.js'],
-				tasks: ['concat']
+				files: ['<%= js_path %>src/*.js'],
+				tasks: ['concat', 'uglify']
 			}
 		},
 

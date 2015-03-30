@@ -4022,18 +4022,6 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 
 	// moved lightbox to lightbox.js
 
-	// Packery
-
-	// in case we're having trouble w/ Packery (IE7)
-	if (typeof Packery != 'undefined') {
-		var pckry = new Packery(
-			container,
-			{ // options
-				itemSelector: '.figure-float',
-				gutter: 20
-			});
-	}
-
 	/**
 	 * Lightbox constructor
 	 * Requires qwery, bean, Handlebars, classie, nanoajax
@@ -4046,7 +4034,6 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 
 			// Private methods
 			function centerY(elem) {
-				console.log('centery elem', elem);
 				win.setTimeout(function() { // avoid bad initial values
 					var parentRect	= elem.parentNode.getBoundingClientRect(),
 							parentH		= parentRect.bottom - parentRect.top,
@@ -4060,7 +4047,6 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 			// Fetch Handlebars template and render it into the element
 			function insertContent(element, data, callback) {
 				callback = callback || function() {};
-				console.log('INSERT ELEM ', element);
 				var source;
 
 				data = data || {}; // assign data to empty object if null
@@ -4122,9 +4108,8 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 					// Attached events on Lightbox elements
 					var closeElem = qwery('.close-lightbox', masterElement)[0],
 							dimElem = qwery('.dim-lightbox', masterElement)[0],
-							imgElem = qwery('#img-lightbox', masterElement)[0];
+							imgElem = qwery('img', masterElement)[0];
 
-					centerY(imgElem);
 
 					// On click, close the lightbox
 					bean.on(closeElem, 'click', function() {
@@ -4133,6 +4118,10 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 
 					// Do the same thing on dim
 					bean.clone(dimElem, closeElem);
+
+					win.setTimeout(function() {
+						centerY(imgElem);
+					},50);
 
 					// We are ready, open the lightbox
 					classie.add(masterElement, 'open');
@@ -4164,7 +4153,7 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 	// `getAlbum` function (and not retrieve each photo individually...)
 
 	var mainAlbum,
-			allPhotosHtml,
+			blockHtml,
 			photos = [];
 
 	nanoajax.ajax({
@@ -4174,44 +4163,59 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 	}, function (code, responseText, request) { // callback
 		mainAlbum = JSON.parse(responseText);
 
-		console.log('Album parsed was ', responseText);
+		console.log('Album parsed was ', mainAlbum);
 
 		for (var key in mainAlbum.content) {
 			var photo = mainAlbum.content[key];
 			photos.push(photo);
 		}
 
-		// iterate through the photos array
-		win.setTimeout(function() { // make sure the previous step is complete
+		nanoajax.ajax('/assets/html/block.html', function(code, responseText) {
+			blockHtml = responseText;
+
+			// iterate through the photos array
 			for ( var i = 0; i < photos.length; i++ ) {
-				var template = Handlebars.compile('');
+				var template = Handlebars.compile(blockHtml);
 				var _photo = photos[i];
 				var result = template(_photo);
 				console.log('result',result);
 
-				allPhotosHtml += result;
-				//container.innerHTML += result;
+				container.innerHTML += result;
 			}
-		},0);
-	});
 
-	var bLazy = new Blazy({
-		selector: '[data-src]',
-		errorClass: 'blazy-error',
-		offset: -40,
-		success: function(element){
-			win.setTimeout(function(){
-				// We want to remove the loader gif now.
+			// Create a new instance of Packery now that we've loaded our page
+			// Packery
 
-				element.className = element.className.replace(/\blazy\b/,'');
-			}, 200);
-
-			// call Packery on success to ensure the layout
-			// is computed according to the loaded imgs
-			if ( pckry ) {
-				pckry.layout();
+			// in case we're having trouble w/ Packery (IE7)
+			if (typeof Packery != 'undefined') {
+				var pckry = new Packery(
+					container,
+					{ // options
+						itemSelector: '.figure-float',
+						gutter: 20
+					});
 			}
-		}
+
+			// once the files are added, run Blazy
+			var bLazy = new Blazy({
+				selector: '[data-src]',
+				errorClass: 'blazy-error',
+				offset: -40,
+				success: function(element){
+					win.setTimeout(function(){
+						// We want to remove the loader gif now.
+
+						element.className = element.className.replace(/\blazy\b/,'');
+					}, 200);
+
+					// call Packery on success to ensure the layout
+					// is computed according to the loaded imgs
+					if ( pckry ) {
+						pckry.layout();
+					}
+				}
+			});
+		});
 	});
 
 })(window, document);

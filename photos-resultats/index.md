@@ -11,6 +11,11 @@ stylesheets:
 
 ---
 
+
+### ;/
+
+Les photos ne sont pas disponibles pour le moment.
+
 <div class="row container-blocks">
 	{% comment %}
 	{% capture images %}{% lychee_album_no_cache 1 %}{% endcapture %}
@@ -26,7 +31,3 @@ stylesheets:
 	{% endcomment %}
 	
 </div>
-
-### ;/
-
-Les photos ne sont pas disponibles pour le moment.
