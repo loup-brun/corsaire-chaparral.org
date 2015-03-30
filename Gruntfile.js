@@ -9,11 +9,20 @@ module.exports = function ( grunt ) {
 
 		pkg: grunt.file.readJSON("package.json"),
 
-		assets_path: 'assets/',
-		css_path: '<%= assets_path %>css/',
-		css_src: '<%= css_path %>_src/',
-		js_path: '<%= assets_path %>js/',
-		lib_path: '<%= assets_path %>lib/',
+		// Setup paths
+		paths: {
+			assets: 'assets/',
+			src: '_src/',
+			lib: '<%= paths.assets %>lib/',
+			css: {
+				dist: '<%= paths.assets %>css/',
+				src: '<%= paths.src %>css/'
+			},
+			js: {
+				dist: '<%= paths.assets %>js/',
+				src: '<%= paths.src %>js/'
+			},
+		},
 
 		concat: {
 			options: {
@@ -29,28 +38,28 @@ module.exports = function ( grunt ) {
 			main: {
 				// concatenate libraries with general.js > main.js
 				src: [
-					'<%= lib_path %>ondomready/ondomready.js',
-					'<%= lib_path %>qwery/qwery.js',
-					'<%= lib_path %>bean/bean.js',
-					'<%= lib_path %>classie/classie.js',
-					'<%= lib_path %>FastActive/FastActive.js',
+					'<%= paths.lib %>ondomready/ondomready.js',
+					'<%= paths.lib %>qwery/qwery.js',
+					'<%= paths.lib %>bean/bean.js',
+					'<%= paths.lib %>classie/classie.js',
+					'<%= paths.lib %>FastActive/FastActive.js',
 
-					'<%= js_path %>src/custom.js'
+					'<%= paths.js.src %>/custom.js'
 				],
 				dest: 
-					'<%= js_path %>main.js'
+				'<%= paths.js.dist %>main.js'
 			},
 			photosRes: {
 				src: [
-					'<%= lib_path %>packery/dist/packery.pkgd.min.js',
-							'<%= lib_path %>nanoajax/nanoajax.min.js',
-							'<%= lib_path %>handlebars/handlebars.js',
-							'<%= lib_path %>blazy/blazy.js',
+					'<%= paths.lib %>packery/dist/packery.pkgd.min.js',
+					'<%= paths.lib %>nanoajax/nanoajax.min.js',
+					'<%= paths.lib %>handlebars/handlebars.js',
+					'<%= paths.lib %>blazy/blazy.js',
 
-							'<%= js_path %>src/handlebars-helpers.js',
-							'<%= js_path %>src/photos-resultats.custom.js'
+					'<%= paths.js.src %>/handlebars-helpers.js',
+					'<%= paths.js.src %>/photos-resultats.custom.js'
 				],
-				dest: '<%= js_path %>photos-resultats.js'
+				dest: '<%= paths.js.dist %>photos-resultats.js'
 			}
 		},
 
@@ -59,12 +68,14 @@ module.exports = function ( grunt ) {
 			js: {
 				files: [
 					{
-						// todo: could be done w/ requirejs instead
-						'<%= js_path %>main.min.js': ['<%= js_path %>main.js']
+						'<%= paths.js.dist %>main.min.js': [
+							'<%= paths.js.dist %>main.js'
+						]
 					},
-					// todo: ibid
 					{
-						'<%= js_path %>photos-resultats.min.js': ['<%= js_path %>photos-resultats.js']
+						'<%= paths.js.dist %>photos-resultats.min.js': [
+							'<%= paths.js.dist %>photos-resultats.js'
+						]
 					}
 				]
 			}
@@ -74,22 +85,22 @@ module.exports = function ( grunt ) {
 			// compile different stylesheets to be loaded async
 			main: {
 				files: {
-					'_includes/main.css': '<%= css_src %>main.scss'
+					'<%= paths.css.dist %>main.css': '<%= paths.css.src %>main.scss'
 				},
 			},
 			blocks: {
 				files: {
-					'<%= css_path %>blocks-layout.css': '<%= css_src %>blocks-layout.scss'
+					'<%= paths.css.dist %>blocks-layout.css': '<%= paths.css.src %>blocks-layout.scss'
 				}
 			},
 			fonts: {
 				files: {
-					'<%= css_path %>fonts.css': '<%= css_src %>fonts.scss'
+					'<%= paths.css.dist %>fonts.css': '<%= paths.css.src %>fonts.scss'
 				}
 			},
 			ie: {
 				files: {
-					'<%= css_path %>ie.css': '<%= css_src %>ie.scss'
+					'<%= paths.css.dist %>ie.css': '<%= paths.css.src %>ie.scss'
 				}
 			},
 
@@ -99,15 +110,30 @@ module.exports = function ( grunt ) {
 			}
 		},
 
+		copy: {
+			main: {
+				files: [
+					{ // copy inline css files into `_includes` directory
+						expand: true,
+						flatten: true,
+						src: [
+							'<%= paths.css.dist %>main.css'
+						],
+						dest: '_includes/'
+					}
+				]
+			}
+		},
+
 		// watch: rebuild parts of site on file change
 		watch: {
 			sass: {
-				files: ['<%= css_src %>**/*.scss'],
+				files: ['<%= paths.css.src %>**/*.scss'],
 				tasks: ['sass']
 			},
 
 			js: {
-				files: ['<%= js_path %>src/*.js'],
+				files: ['<%= paths.js.src %>/*.js'],
 				tasks: ['concat', 'uglify']
 			}
 		},
