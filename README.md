@@ -40,9 +40,8 @@ Pour les utilisateurs Windows, n'oubliez pas les [étapes supplémentaires](http
 Téléchargez ce répertoire ou clonez-le dans votre environnement:
 
 ```
-$ mkdir coch
-$ cd coch
 $ git clone https://github.com/loup-brun/coch.git
+$ cd coch
 ```
 
 Installez les dépendances:
