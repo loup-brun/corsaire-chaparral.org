@@ -167,18 +167,30 @@ module.exports = function ( grunt ) {
 		},
 
 		jekyll: {
-			options: {
-
-			},
 			build: {
 				options: {
-					//dest: './_site', // default
+					//dest: './site', // default
 					config: '_config.yml'
+				}
+			},
+			watch: {
+				options: {
+					watch: true
 				}
 			},
 			serve: {
 				options: {	
 					serve: true
+				}
+			}
+		},
+
+		// Run two infinite tasks at the same time
+		concurrent: {
+			dev: {
+				tasks: ['jekyll:serve', 'watch'],
+				options: {
+					logConcurrentOutput: true
 				}
 			}
 		}
@@ -193,7 +205,19 @@ module.exports = function ( grunt ) {
 	grunt.registerTask(
 		'build',
 		'Build the scripts and stylesheets',
-		['handlebars', 'concat', 'uglify', 'sass']
+		['handlebars', 'concat', 'sass', 'jekyll:build']
+	);
+
+	grunt.registerTask(
+		'dist',
+		'Build a site ready for production',
+		['sass', 'concat', 'uglify', 'copy', 'jekyll:build']
+	);
+
+	grunt.registerTask(
+		'serve',
+		'Serve the site and auto-regenerate on file change.',
+		['build', 'concurrent:dev']
 	);
 
 	// A utility function to get all app JavaScript sources.

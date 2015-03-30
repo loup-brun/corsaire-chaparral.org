@@ -17,7 +17,7 @@ Si tout est déjà installé (incluant [Jekyll](http://jekyllrb.com/)), entrez:
 
 ```
 $ npm install        # installe les outils de développements tels que Grunt
-$ bower install      # installe les bibliothèques
+$ bower install      # installe les bibliothèques javascript
 $ grunt build        # construit le site dans le répertoire _site/
 ```
 
