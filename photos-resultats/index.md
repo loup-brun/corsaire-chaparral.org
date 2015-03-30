@@ -12,9 +12,7 @@ stylesheets:
 ---
 
 
-### ;/
-
-Les photos ne sont pas disponibles pour le moment.
+La boîte popup n'est pas disponible pour le moment. <small>Désolé :/</small>
 
 <div class="row container-blocks">
 	{% comment %}
