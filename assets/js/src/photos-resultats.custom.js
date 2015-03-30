@@ -63,7 +63,7 @@
 
 					// Remove the element from the dom
 					body.removeChild(elem);
-				}, 1000); // leave delay for fadeOut
+				}, 300); // leave delay for fadeOut
 			}
 
 			function init() {
@@ -164,9 +164,10 @@
 				container.innerHTML += result;
 
 				// create an instance of the lightbox on each photo
-				var lbx = new Lightbox(_photo);
-
-				(function(index) {
+				(function(index, photo) {
+					var lbx = new Lightbox(photo);
+					
+					// Apply
 					win.setTimeout(function() {
 						var figure = qwery('.figure-float', container)[index];
 						console.log('figure', figure);
@@ -175,7 +176,7 @@
 							lbx.init();
 						});
 					});
-				})(i);
+				})(i, _photo);
 			}
 
 			// Create a new instance of Packery now that we've loaded our page

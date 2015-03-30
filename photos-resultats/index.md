@@ -11,9 +11,6 @@ stylesheets:
 
 ---
 
-
-La boîte popup n'est pas disponible pour le moment. <small>Désolé :/</small>
-
 <div class="row container-blocks">
 	{% comment %}
 	{% capture images %}{% lychee_album_no_cache 1 %}{% endcapture %}
