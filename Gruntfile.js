@@ -30,12 +30,17 @@ module.exports = function ( grunt ) {
 		handlebars: {
 			compile: {
 				options: {
-					//namespace: "Handlebars.templates"
+					namespace: 'Handlebars.templates',
+					
+					// trim url and extension from template name
+					processName: function(filePath) {
+						var pieces = filePath.split("/");
+						return pieces[pieces.length - 1].replace(/\.html$/, '');
+					}
 				},
 				files: {
-					'<%= paths.js.src %>templates.js': [
-						'<%= paths.html.src %>block.html', 
-						'<%= paths.html.src %>lightbox.html'
+					'<%= paths.js.src %>handlebars-templates.js': [
+						'<%= paths.html.src %>*.html'
 					] 
 				}
 			}
@@ -70,10 +75,11 @@ module.exports = function ( grunt ) {
 				src: [
 					'<%= paths.lib %>packery/dist/packery.pkgd.min.js',
 					'<%= paths.lib %>nanoajax/nanoajax.min.js',
-					'<%= paths.lib %>handlebars/handlebars.js',
+					'<%= paths.lib %>handlebars/handlebars.runtime.js',
 					'<%= paths.lib %>blazy/blazy.js',
 
 					'<%= paths.js.src %>/handlebars-helpers.js',
+					'<%= paths.js.src %>/handlebars-templates.js',
 					'<%= paths.js.src %>/photos-resultats.custom.js'
 				],
 				dest: '<%= paths.js.dist %>photos-resultats.js'
@@ -152,6 +158,11 @@ module.exports = function ( grunt ) {
 			js: {
 				files: ['<%= paths.js.src %>/*.js'],
 				tasks: ['concat', 'uglify']
+			},
+
+			html: {
+				files: ['<%= paths.html.src %>/*.html'],
+				tasks: ['handlebars']
 			}
 		},
 
@@ -161,7 +172,7 @@ module.exports = function ( grunt ) {
 			},
 			build: {
 				options: {
-					//dest: './site', // default
+					//dest: './_site', // default
 					config: '_config.yml'
 				}
 			},
