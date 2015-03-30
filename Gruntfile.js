@@ -23,7 +23,7 @@ module.exports = function ( grunt ) {
 				src: '<%= paths.src %>js/'
 			},
 			html: {
-				src: '<%= paths.assets %>html/'
+				src: '<%= paths.src %>html/'
 			}
 		},
 

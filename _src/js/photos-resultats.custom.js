@@ -36,10 +36,11 @@
 				data = data || {}; // assign data to empty object if null
 
 				// GET the lightbox template
-				nanoajax.ajax('/assets/html/lightbox.html', function(code, responseText) {
-					source = responseText;
+				//nanoajax.ajax('/assets/html/lightbox.html', function(code, responseText) {
+					//source = responseText;
 
-					var template = Handlebars.compile(source),
+				// Grab the Handlebars PRECOMPILED template
+					var template = Handlebars.templates.lightbox,
 							rendered = template(data);
 
 					element.innerHTML = rendered;
@@ -49,7 +50,7 @@
 					win.setTimeout(function() {
 						callback();
 					});
-				});
+				//});
 			}
 
 			function close() {
@@ -137,8 +138,8 @@
 	// `getAlbum` function (and not retrieve each photo individually...)
 
 	var mainAlbum,
-			blockHtml,
-			photos = [];
+			photos = [],
+			blockHtml = Handlebars.templates.block;
 
 	nanoajax.ajax({
 		url: 'http://corsaire-chaparal.org/photos-partage/php/api.php',
@@ -152,8 +153,8 @@
 			photos.push(photo);
 		}
 
-		nanoajax.ajax('/assets/html/block.html', function(code, responseText) {
-			blockHtml = responseText;
+		//nanoajax.ajax('/assets/html/block.html', function(code, responseText) {
+			//blockHtml = responseText;
 
 			// iterate through the photos array
 			for ( var i = 0; i < photos.length; i++ ) {
@@ -211,7 +212,7 @@
 					}
 				}
 			});
-		});
+		//});
 	});
 
 })(window, document);
