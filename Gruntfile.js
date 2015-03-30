@@ -22,6 +22,23 @@ module.exports = function ( grunt ) {
 				dist: '<%= paths.assets %>js/',
 				src: '<%= paths.src %>js/'
 			},
+			html: {
+				src: '<%= paths.assets %>html/'
+			}
+		},
+
+		handlebars: {
+			compile: {
+				options: {
+					//namespace: "Handlebars.templates"
+				},
+				files: {
+					'<%= paths.js.src %>templates.js': [
+						'<%= paths.html.src %>block.html', 
+						'<%= paths.html.src %>lightbox.html'
+					] 
+				}
+			}
 		},
 
 		concat: {
@@ -157,8 +174,16 @@ module.exports = function ( grunt ) {
 	});
 
 
-	grunt.registerTask( 'default', [ 'concat', 'sass' ] );
-	grunt.registerTask( 'build', [ 'sass', 'concat', 'uglify' ]);
+	grunt.registerTask(
+		'default',
+		'Run the build task',
+		['build']
+	);
+	grunt.registerTask(
+		'build',
+		'Build the scripts and stylesheets',
+		['handlebars', 'concat', 'uglify', 'sass']
+	);
 
 	// A utility function to get all app JavaScript sources.
 	function filterForJS ( files ) {
