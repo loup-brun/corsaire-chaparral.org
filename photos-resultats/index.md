@@ -4,7 +4,7 @@ title: Photos et résultats
 icon: trophy
 
 scripts:
-  - "/assets/js/photos-resultats.js"
+  - "/assets/js/photos-resultats.min.js"
 
 stylesheets:
   - "/assets/css/blocks-layout.css"
@@ -24,5 +24,9 @@ stylesheets:
 	
 	{% lychee_album_no_cache 1 %}
 	{% endcomment %}
-
+	
 </div>
+
+### ;/
+
+Les photos ne sont pas disponibles pour le moment.

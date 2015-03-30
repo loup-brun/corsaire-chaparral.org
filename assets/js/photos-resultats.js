@@ -4164,6 +4164,7 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 	// `getAlbum` function (and not retrieve each photo individually...)
 
 	var mainAlbum,
+			allPhotosHtml,
 			photos = [];
 
 	nanoajax.ajax({
@@ -4183,7 +4184,7 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 		// iterate through the photos array
 		win.setTimeout(function() { // make sure the previous step is complete
 			for ( var i = 0; i < photos.length; i++ ) {
-				var template = Handlebars.compile(source);
+				var template = Handlebars.compile('');
 				var _photo = photos[i];
 				var result = template(_photo);
 				console.log('result',result);

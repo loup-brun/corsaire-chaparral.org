@@ -10,6 +10,7 @@ photo:
 
 formation:
   - Entraîneur spécialisé en demi-fond (400m, 800m, 1500m)
+  - Entraîneur certifié PNCE niveau 3 (CC 980166)
   - Certification en massothérapie sportive
 
 ---
@@ -18,7 +19,7 @@ Ancien athlète olympique ayant participé aux Jeux d’Athènes en 2004 et à c
 
 Achraf joint l’équipe d’entraineurs du Club d’athlétisme Corsaire-Chaparal avec l’objectif de transmettre sa passion et son expérience aux jeunes athlètes prometteurs du club avec motivation et plaisir, afin qu’ils atteignent les plus hauts sommets dans leur carrière.
 
-Il est actuellement à compléter son niveau 3 sous la supervision de la Fédération canadienne d’athlétisme.
+Entraîneur certifié PNCE niveau 3, Achraf complètera prochainement sont niveau 4.
 
 Records personnels :
 
