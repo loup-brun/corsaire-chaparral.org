@@ -5,11 +5,23 @@ Ce répertoire recense le code source du site web du [club d'athlétisme Corsair
 
 ### Installation
 
-Pour construire ce site, assurez-vous d'avoir installé les langages suivants sur votre système:
+Pour construire ce site, assurez-vous d'avoir installé les modules suivants sur votre système:
 
 - [Node.js](https://nodejs.org/)
 - [Ruby](https://www.ruby-lang.org/fr/)
 - [Bower](http://bower.io/)
+
+#### En deux temps, trois mouvements
+
+Si tout est déjà installé (incluant [Jekyll](http://jekyllrb.com/)), entrez:
+
+```
+$ npm install        # installe les outils de développements tels que Grunt
+$ bower install      # installe les bibliothèques
+$ grunt build        # construit le site dans le répertoire _site/
+```
+
+#### Installation détaillée
 
 Installez Jekyll:
 
@@ -17,7 +29,7 @@ Installez Jekyll:
 $ gem install jekyll
 ```
 
-Vous pouvez vérifier si Jekyll est installé en tapant
+Vous pouvez vérifier si Jekyll est installé en entrant
 
 ```
 $ jekyll -v
