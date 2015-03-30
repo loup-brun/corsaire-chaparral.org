@@ -13,7 +13,7 @@ Pour construire ce site, assurez-vous d'avoir installé les modules suivants sur
 
 #### En deux temps, trois mouvements
 
-Si tout est déjà installé (incluant [Jekyll](http://jekyllrb.com/)), entrez:
+Si tout est déjà installé (incluant [Jekyll](http://jekyllrb.com/) et [sass](http://sass-lang.com/)), entrez:
 
 ```
 $ npm install        // installe les outils de développements tels que Grunt

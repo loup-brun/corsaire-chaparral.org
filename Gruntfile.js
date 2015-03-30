@@ -129,7 +129,8 @@ module.exports = function ( grunt ) {
 
 			// pass in the options object for sass
 			options: {
-				style: 'compressed'
+				style: 'compressed',
+				sourcemap: 'none' // 'inline' for dev
 			}
 		},
 
