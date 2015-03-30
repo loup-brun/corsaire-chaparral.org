@@ -4,7 +4,7 @@ title: Photos et résultats
 icon: trophy
 
 scripts:
-  - "/assets/js/photos-resultats.min.js"
+  - "/assets/js/photos-resultats.js"
 
 stylesheets:
   - "/assets/css/blocks-layout.css"

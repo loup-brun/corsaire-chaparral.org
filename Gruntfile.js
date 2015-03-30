@@ -15,36 +15,56 @@ module.exports = function ( grunt ) {
 		js_path: '<%= assets_path %>js/',
 		lib_path: '<%= assets_path %>lib/',
 
-		// minify the sources
-		uglify: {
-			js: {
-				options: {
-					beautify: true
-				},
-				files: [
-					{
-						// todo: could be done w/ requirejs instead
-						'<%= js_path %>custom.min.js': [
-							'<%= lib_path %>ondomready/ondomready.js',
-							'<%= lib_path %>qwery/qwery.js',
-							'<%= lib_path %>classie/classie.js',
-							'<%= lib_path %>bean/bean.js',
-							'<%= lib_path %>FastActive/FastActive.js',
+		concat: {
+			options: {
+				separator: ';',
+				banner:
+				'/**' +
+				' * @author <%= pkg.author %> \n' +
+				' * @version <%= pkg.version %> \n' +
+				' * @description <% pkg.description %> \n' +
+				' * @license <% pkg.license %> \n' +
+				' */ '
+			},
+			main: {
+				// concatenate libraries with general.js > main.js
+				src: [
+					'<%= lib_path %>ondomready/ondomready.js',
+					'<%= lib_path %>qwery/qwery.js',
+					'<%= lib_path %>bean/bean.js',
+					'<%= lib_path %>classie/classie.js',
+					'<%= lib_path %>FastActive/FastActive.js',
 
-							'<%= js_path %>custom.js'
-						]
-					},
-					// todo: ibid
-					{
-						'<%= js_path %>photos-resultats.min.js': [
-							'<%= lib_path %>packery/dist/packery.pkgd.min.js',
+					'<%= js_path %>custom.js'
+				],
+				dest: 
+					'<%= js_path %>main.js'
+			},
+			photosRes: {
+				src: [
+					'<%= lib_path %>packery/dist/packery.pkgd.min.js',
 							'<%= lib_path %>nanoajax/nanoajax.min.js',
-							'<%= lib_path %>handlebars/handlebars.min.js',
+							'<%= lib_path %>handlebars/handlebars.js',
 							'<%= lib_path %>blazy/blazy.js',
 
 							'<%= js_path %>handlebars-helpers.js',
-							'<%= js_path %>photos-resultats.js'
-						]
+							'<%= js_path %>photos-resultats.custom.js'
+				],
+				dest: '<%= js_path %>photos-resultats.js'
+			}
+		},
+
+		// minify the sources
+		uglify: {
+			js: {
+				files: [
+					{
+						// todo: could be done w/ requirejs instead
+						'<%= js_path %>main.min.js': ['<%= js_path %>main.js']
+					},
+					// todo: ibid
+					{
+						'<%= js_path %>photos-resultats.min.js': ['<%= js_path %>photos-resultats.js']
 					}
 				]
 			}
@@ -88,7 +108,7 @@ module.exports = function ( grunt ) {
 
 			js: {
 				files: ['<%= js_path %>**/*.js'],
-				tasks: ['js']
+				tasks: ['concat']
 			}
 		},
 
@@ -111,10 +131,8 @@ module.exports = function ( grunt ) {
 	});
 
 
-	grunt.registerTask( 'js', [ 'uglify:js' ]);
-	grunt.registerTask( 'css', [ 'sass' ]);
-	grunt.registerTask( 'default', [ 'js', 'sass' ] );
-	grunt.registerTask( 'build', [ 'sass', 'js' ]);
+	grunt.registerTask( 'default', [ 'concat', 'sass' ] );
+	grunt.registerTask( 'build', [ 'sass', 'concat', 'uglify' ]);
 
 	// A utility function to get all app JavaScript sources.
 	function filterForJS ( files ) {
