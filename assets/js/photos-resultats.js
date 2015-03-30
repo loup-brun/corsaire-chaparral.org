@@ -4163,8 +4163,6 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 	}, function (code, responseText, request) { // callback
 		mainAlbum = JSON.parse(responseText);
 
-		console.log('Album parsed was ', mainAlbum);
-
 		for (var key in mainAlbum.content) {
 			var photo = mainAlbum.content[key];
 			photos.push(photo);
@@ -4178,9 +4176,22 @@ var __module0__ = (function(__dependency1__, __dependency2__, __dependency3__, _
 				var template = Handlebars.compile(blockHtml);
 				var _photo = photos[i];
 				var result = template(_photo);
-				console.log('result',result);
 
 				container.innerHTML += result;
+
+				// create an instance of the lightbox on each photo
+				var lbx = new Lightbox(_photo);
+
+				(function(index) {
+					win.setTimeout(function() {
+						var figure = qwery('.figure-float', container)[index];
+						console.log('figure', figure);
+
+						bean.on(figure, 'click', function() {
+							lbx.init();
+						});
+					});
+				})(i);
 			}
 
 			// Create a new instance of Packery now that we've loaded our page
