@@ -204,20 +204,20 @@ module.exports = function ( grunt ) {
 	);
 	grunt.registerTask(
 		'build',
-		'Build the scripts and stylesheets',
-		['handlebars', 'concat', 'sass', 'jekyll:build']
+		'Build the scripts, stylesheets and output the site in _site/',
+		['handlebars', 'concat', 'sass', 'copy', 'jekyll:build']
 	);
 
 	grunt.registerTask(
 		'dist',
-		'Build a site ready for production',
-		['sass', 'concat', 'uglify', 'copy', 'jekyll:build']
+		'Build + uglify',
+		['handlebars', 'concat', 'sass', 'copy', 'uglify', 'jekyll:build']
 	);
 
 	grunt.registerTask(
 		'serve',
 		'Serve the site and auto-regenerate on file change.',
-		['build', 'concurrent:dev']
+		['dist', 'concurrent:dev']
 	);
 
 	// A utility function to get all app JavaScript sources.

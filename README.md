@@ -16,9 +16,9 @@ Pour construire ce site, assurez-vous d'avoir installé les modules suivants sur
 Si tout est déjà installé (incluant [Jekyll](http://jekyllrb.com/)), entrez:
 
 ```
-$ npm install        # installe les outils de développements tels que Grunt
-$ bower install      # installe les bibliothèques javascript
-$ grunt build        # construit le site dans le répertoire _site/
+$ npm install        // installe les outils de développements tels que Grunt
+$ bower install      // installe les bibliothèques javascript
+$ grunt serve        // construit le site dans `_site/` et le rend dispo à http://localhost:4000
 ```
 
 #### Installation détaillée
@@ -56,7 +56,7 @@ $ bower install
 
 **bower** installe les bibliothèques (_front-end_) du site web. Voyez le fichier bower.json pour la liste des dépendances (surtout des scripts `.js`). Les bibliothèques seront installées dans `assets/lib/`. Vous _devez_ installer les bibliothèques pour générer le site correctement.
 
-Vous pouvez à présent construire les ressources (qui se trouveront dans le dossier `assets/lib/`.
+Vous pouvez à présent construire le site:
 
 ```
 $ grunt build
@@ -65,24 +65,13 @@ $ grunt build
 Dans un environnement de développement, Grunt peut surveiller les fichiers afin de les compiler lorsqu'ils sont modifiés: 
 
 ```
-$ grunt watch
+$ grunt serve
 ```
 
-Finalement, il ne reste qu'à générer le site web:
-
-```
-$ jekyll build
-$ jekyll build --watch
-$ jekyll serve
-```
-
-* **build**: génère le site
-* **build --watch**: regénère le site lorsqu'un fichier est modifié
-* **serve**: le site est servi sur un serveur local à l'adresse `http://localhost:4000`.
 
 ### Configuration
 
-Les données de configuration pour générer le site sont situées dans le fichier `_config.yml`.
+Les données de configuration Jekyll sont situées dans le fichier `_config.yml`.
 
 Les données pour la compilation `.js` et `sass` sont dans le fichier `Gruntfile.js`.
 
