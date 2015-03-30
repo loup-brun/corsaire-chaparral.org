@@ -1032,8 +1032,7 @@ this["Handlebars"]["templates"]["lightbox"] = Handlebars.template({"compiler":[6
 },"useData":true});;/*global window, document, qwery, bean, classie, Packery, Blazy, nanoajax, Handlebars*/
 (function(win, doc) {
 
-	var container			= qwery('.container-blocks')[0],
-			body					= qwery('body')[0];
+	var container			= qwery('.container-blocks')[0];
 
 	// moved lightbox to lightbox.js
 
@@ -1066,22 +1065,17 @@ this["Handlebars"]["templates"]["lightbox"] = Handlebars.template({"compiler":[6
 
 				data = data || {}; // assign data to empty object if null
 
-				// GET the lightbox template
-				//nanoajax.ajax('/assets/html/lightbox.html', function(code, responseText) {
-					//source = responseText;
-
 				// Grab the Handlebars PRECOMPILED template
-					var template = Handlebars.templates.lightbox,
-							rendered = template(data);
+				var template = Handlebars.templates.lightbox,
+						rendered = template(data);
 
-					element.innerHTML = rendered;
+				element.innerHTML = rendered;
 
-					// Wrap final callback in setTimeout to ensure
-					// the previous step is finished
-					win.setTimeout(function() {
-						callback();
-					});
-				//});
+				// Wrap final callback in setTimeout to ensure
+				// the previous step is finished
+				win.setTimeout(function() {
+					callback();
+				});
 			}
 
 			function close() {
@@ -1170,7 +1164,7 @@ this["Handlebars"]["templates"]["lightbox"] = Handlebars.template({"compiler":[6
 
 	var mainAlbum,
 			photos = [],
-			blockHtml = Handlebars.templates.block;
+			blockTemplate = Handlebars.templates.block;
 
 	nanoajax.ajax({
 		url: 'http://corsaire-chaparal.org/photos-partage/php/api.php',
@@ -1184,66 +1178,61 @@ this["Handlebars"]["templates"]["lightbox"] = Handlebars.template({"compiler":[6
 			photos.push(photo);
 		}
 
-		//nanoajax.ajax('/assets/html/block.html', function(code, responseText) {
-			//blockHtml = responseText;
+		// iterate through the photos array
+		for ( var i = 0; i < photos.length; i++ ) {
+			var _photo = photos[i];
+			var result = blockTemplate(_photo);
 
-			// iterate through the photos array
-			for ( var i = 0; i < photos.length; i++ ) {
-				var template = Handlebars.compile(blockHtml);
-				var _photo = photos[i];
-				var result = template(_photo);
+			container.innerHTML += result;
 
-				container.innerHTML += result;
+			// create an instance of the lightbox on each photo
+			(function(index, photo) {
+				var lbx = new Lightbox(photo);
 
-				// create an instance of the lightbox on each photo
-				(function(index, photo) {
-					var lbx = new Lightbox(photo);
-					
-					// Apply
-					win.setTimeout(function() {
-						var figure = qwery('.figure-float', container)[index];
-						console.log('figure', figure);
+				// Apply
+				win.setTimeout(function() {
+					// Get the ith figure and show the corresponding lightbox on click
+					var figure = qwery('.figure-float', container)[index];
 
-						bean.on(figure, 'click', function() {
-							lbx.init();
-						});
+					bean.on(figure, 'click', function() {
+						lbx.init();
 					});
-				})(i, _photo);
-			}
+				});
+			})(i, _photo);
+		}
 
-			// Create a new instance of Packery now that we've loaded our page
-			// Packery
+		// Create a new instance of Packery now that we've loaded our page
+		// Packery
 
-			// in case we're having trouble w/ Packery (IE7)
-			if (typeof Packery != 'undefined') {
-				var pckry = new Packery(
-					container,
-					{ // options
-						itemSelector: '.figure-float',
-						gutter: 20
-					});
-			}
+		// in case we're having trouble w/ Packery (IE7)
+		if (typeof Packery != 'undefined') {
+			var pckry = new Packery(
+				container,
+				{ // options
+					itemSelector: '.figure-float',
+					gutter: 20
+				});
+		}
 
-			// once the files are added, run Blazy
-			var bLazy = new Blazy({
-				selector: '[data-src]',
-				errorClass: 'blazy-error',
-				offset: -40,
-				success: function(element){
-					win.setTimeout(function(){
-						// We want to remove the loader gif now.
+		// once the files are added, run Blazy
+		var bLazy = new Blazy({
+			selector: '[data-src]',
+			errorClass: 'blazy-error',
+			offset: -40,
+			success: function(element){
+				win.setTimeout(function(){
+					// We want to remove the loader gif now.
 
-						element.className = element.className.replace(/\blazy\b/,'');
-					}, 200);
+					element.className = element.className.replace(/\blazy\b/,'');
+				}, 200);
 
-					// call Packery on success to ensure the layout
-					// is computed according to the loaded imgs
-					if ( pckry ) {
-						pckry.layout();
-					}
+				// call Packery on success to ensure the layout
+				// is computed according to the loaded imgs
+				if ( pckry ) {
+					pckry.layout();
 				}
-			});
-		//});
+			}
+		});
 	});
 
 })(window, document);
