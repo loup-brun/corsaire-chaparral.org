@@ -1,0 +1,72 @@
+// Theme
+// -----------------------------------
+
+body, html {
+	background-color: $gray-lighter;
+	color: $font-color;
+}
+
+::selection {
+	background-color: $color-link;
+	color: #fff;
+}
+
+::-moz-selection {
+	background-color: $color-link;
+	color: #fff;
+}
+
+p a { // inline text links
+	@extend .font-bold;
+	@include transition(background-color, .3s);
+	padding: 1px 2px;
+
+	&:hover {
+		background-color: $color-link;
+		color: check-background($color-link);
+	}
+}
+
+.container-main {
+	@include horizontal-padding(0);
+	position: relative;
+	margin-top: $spacing;
+	margin-bottom: $spacing;
+	padding-bottom: $spacing-xl;
+	background-color: #fff;
+}
+
+.container-landing {
+	margin-top: 0;
+	margin-bottom: 0;
+	overflow-x: hidden;
+}
+
+.hr-sm {
+	max-width: 300px;
+	background-color: $gray-light;
+}
+
+.badge {
+	@include border-radius($spacing-xs);
+	display: inline-block;
+	margin: 0 $spacing-xs;
+	padding: 2px $spacing-xs;
+	font-size: $font-size-sm;
+	text-transform: uppercase;
+}
+
+.badge-primary {
+	background-color: $color-primary;
+	color: check-background($color-primary);
+}
+
+@import '_theme/header';
+@import '_theme/footer';
+@import '_theme/navbar';
+@import '_theme/partenaires';
+@import '_theme/rows';
+
+// Responsive
+@import '_theme/tablet';
+@import '_theme/phone';

@@ -1,0 +1,72 @@
+// Navigation
+// -----------------------------------
+
+.nav {
+	@include list-reset;
+	@include clearfix;
+
+	> li {
+		float: left;
+
+		> a {
+			display: block;
+			padding: $spacing-sm;
+		}
+	}
+}
+
+.nav-toggle {
+	display: none; // show when nav collapses
+
+	> li {
+		> a {
+			padding: $spacing-xs;
+			cursor: pointer;
+		}
+	}
+}
+
+.dropdown {
+	position: relative;
+	cursor: pointer;
+	z-index: $z-index-overlay; // old IE needs a z-index on parent
+
+	&.open, &:hover {
+		> .dropdown-list {
+			@include transition-delay(.4s); // in case mouse goes out
+			max-height: 500px; // adjust to needs according to lists
+			//opacity: 1;
+		}
+	}
+}
+
+.dropdown-list {
+	@include list-reset;
+	@include drop-shadow;
+	@include transition(max-height 1s);
+	max-height: 0; // toggle w/ javascript/hover
+	//opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	min-width: 200px;
+	max-width: 320px;
+	top: 100%;
+	left: 0;
+	background-color: #fff;
+
+	// shadow
+	// offset top?
+
+	> li {
+
+		> a {
+			display: block;
+			padding: $spacing-xs;
+			z-index: $z-index-overlay;
+
+			&:hover {
+				background-color: $gray-lighter;
+			}
+		}
+	}
+}

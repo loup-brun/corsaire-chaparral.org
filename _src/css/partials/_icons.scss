@@ -1,0 +1,136 @@
+// Icons
+// -----------------------------------
+
+@font-face {
+	font-family: 'coch-icons';
+	src:url($assets-url + 'fonts/coch-icons/coch-icons.eot?b8zism');
+	src:url($assets-url + 'fonts/coch-icons/coch-icons.eot?#iefixb8zism') format('embedded-opentype'),
+		url($assets-url + 'fonts/coch-icons/coch-icons.woff?b8zism') format('woff'),
+		url($assets-url + 'fonts/coch-icons/coch-icons.ttf?b8zism') format('truetype'),
+		url($assets-url + 'fonts/coch-icons/coch-icons.svg?b8zism#coch-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+// General styles
+.icon {
+	font-family: 'coch-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	margin: 4px;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-lg {
+	font-size: 200px;
+	pointer-events: none;
+}
+
+// Icon items
+
+.icon-partenaire:before {
+	content: "\e607";
+}
+
+.icon-endurance:before {
+	content: "\e605";
+}
+
+.icon-logo-coch:before {
+	content: "\e606";
+}
+
+.icon-high-jump:before {
+	content: "\e600";
+}
+
+.icon-athletics-3:before {
+	content: "\e601";
+}
+
+.icon-javelin:before {
+	content: "\e602";
+}
+
+.icon-run:before {
+	content: "\e603";
+}
+
+.icon-stopwatch:before {
+	content: "\e604";
+}
+
+.icon-star:before {
+	content: "\f005";
+}
+
+.icon-close:before {
+	content: "\f00d";
+}
+
+.icon-pencil:before {
+	content: "\f040";
+}
+
+.icon-map-marker:before {
+	content: "\f041";
+}
+
+.icon-asterisk:before {
+	content: "\f069";
+}
+
+.icon-calendar:before {
+	content: "\f073";
+}
+
+.icon-twitter-square:before {
+	content: "\f081";
+}
+
+.icon-facebook-square:before {
+	content: "\f082";
+}
+
+.icon-trophy:before {
+	content: "\f091";
+}
+
+.icon-phone:before {
+	content: "\f095";
+}
+
+.icon-chain:before {
+	content: "\f0c1";
+}
+
+.icon-bars:before {
+	content: "\f0c9";
+}
+
+.icon-envelope:before {
+	content: "\f0e0";
+}
+
+.icon-angle-left:before {
+	content: "\f104";
+}
+
+.icon-angle-right:before {
+	content: "\f105";
+}
+
+.icon-angle-up:before {
+	content: "\f106";
+}
+
+.icon-angle-down:before {
+	content: "\f107";
+}

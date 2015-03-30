@@ -1,0 +1,9 @@
+// Layout - large displays
+// -----------------------------------
+
+@media screen and (min-width: $lg-breakpoint) {
+
+	.container {
+		max-width: $container-lg;
+	}
+}
