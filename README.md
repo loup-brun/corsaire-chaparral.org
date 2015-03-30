@@ -65,7 +65,7 @@ $ grunt build
 Dans un environnement de développement, Grunt peut surveiller les fichiers afin de les compiler lorsqu'ils sont modifiés: 
 
 ```
-$ grunt serve        # Sert le site à l'adresse locale http://localhost:4000
+$ grunt serve        // Sert le site à l'adresse locale http://localhost:4000
 ```
 
 ### Configuration
