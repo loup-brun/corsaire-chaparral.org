@@ -1,0 +1,16 @@
+---
+layout: page.hbs
+---
+
+<div class="row">
+  <figure class="col col-3 tablet-col-4 figure-thumb">
+    <img src="{{ site.baseurl }}{{ photo.src }}" title="{{ title }}" alt="{{ photo.caption }}" />
+    <figcaption>{{ photo.caption }}</figcaption>
+  </figure>
+  <div class="col col-9 tablet-col-8">
+    <ul>
+      {{#each formation }}<li>{{ this }}</li>
+      {{/each }}</ul>
+  </div>
+</div>
+{{> body}}

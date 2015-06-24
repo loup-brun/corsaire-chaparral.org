@@ -1,0 +1,31 @@
+- name: Claude Surprenant
+  image: "/assets/img/partenaires/claude-surprenant.jpg"
+  montant: 1000
+
+- name: Fondation Philippe-Laheurte
+  montant: 500
+
+- name: J. P. Lauzon & fils
+  url: "http://www.jplauzon.com/index.php/fr/"
+  image: "/assets/img/partenaires/lauzon-fils.gif"
+  montant: 250
+
+- name: Bleu Pélican
+  url: "http://bleupelican.com/"
+  image: "/assets/img/partenaires/bleu-pelican.jpg"
+  montant: 250
+
+- name: Inter Clotûre Sentinelle
+  url: "http://www.cloturesentinelle.com/"
+  image: "/assets/img/partenaires/inter-clotures.jpg"
+  montant: 250
+
+- name: La Maison de la Course
+  url: "http://maisondelacourse.com/"
+  image: "/assets/img/partenaires/maison-course.jpg"
+  montant: 200
+
+- name: La Petite Bretonne
+  url: "http://www.petitebretonne.com/accueil/"
+  image: "/assets/img/partenaires/petite-bretonne.jpg"
+  montant: 100

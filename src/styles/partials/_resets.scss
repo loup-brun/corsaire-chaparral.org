@@ -1,0 +1,33 @@
+// Resets
+// -----------------------------------
+*, *:before, *:after{ @include box-sizing(border-box); }
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary { display: block }
+html, button, input, select, textarea { font-family: sans-serif }
+body, form, fieldset, legend, input, select, textarea, button { margin: 0 }
+html { font-size: 100% }
+
+// Images
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+svg:not(:root) { overflow: hidden }
+figure { margin: 0 }
+
+a {
+  -webkit-tab-highlight-color: rgba(0,0,0,0);
+}
+
+address { font-style: normal }
+
+// Horizontal Rule
+hr {
+  border: 0;
+  background: none;
+  outline: 0;
+  background-color: $gray;
+  margin: $spacing-lg auto;
+  *margin: 1em 0;
+  height: 1px;
+}

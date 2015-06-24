@@ -1,0 +1,24 @@
+---
+layout: default.hbs
+---
+<main class="container-main container-landing">
+  <header class="header-landing">
+    <span class="icon icon-athletics-3 icon-landing"></span>
+    <div class="container">
+      <div class="row">
+        <div class="col col-7 tablet-col-12">
+          <h1>{{ site.title }}</h1>
+        </div>
+        <div class="col col-5 tablet-col-12">
+          <p class="lead">{{ site.description }}</p>
+          <a href="{{link '/club/' }}" class="btn btn-default">En savoir plus <span class="icon icon-angle-right"></span></a>
+          <a href="{{link '/club/inscription/' }}" class="btn btn-cta">Inscription</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <article>
+    {{> body }}
+  </article>
+</main>

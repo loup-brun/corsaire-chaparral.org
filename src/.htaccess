@@ -1,0 +1,41 @@
+ErrorDocument 404 http://corsaire-chaparal.org/404/
+
+RewriteEngine On
+
+# redirect from HTTP://www to non-www
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP_HOST}        ^www\.(.+)$ [NC]
+RewriteRule ^                   http://%1%{REQUEST_URI}  [R=301,L]
+
+# rewrite /accueuil/
+RewriteCond %{HTTP_REFERER} !^http://corsaire-chaparal.org [NC]
+RewriteRule ^$ /accueil/ [R,L]
+
+AddType image/svg+xml svg
+AddType image/svg+xml svgz
+AddEncoding x-gzip .svgz
+
+<IfModule mod_deflate.c>
+	AddOutputFilterByType DEFLATE image/svg+xml
+	AddOutputFilterByType DEFLATE text/css
+	AddOutputFilterByType DEFLATE text/html
+	AddOutputFilterByType DEFLATE text/javascript
+	AddOutputFilterByType DEFLATE image/jpg
+	AddOutputFilterByType DEFLATE image/jpeg 
+	AddOutputFilterByType DEFLATE image/png
+	AddOutputFilterByType DEFLATE application/x-font-woff
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive On
+
+ExpiresByType text/html "access plus 1 hour"
+ExpiresByType image/svg+xml "access plus 1 week"
+ExpiresByType audio/ogg "access plus 1 week"
+ExpiresByType audio/mpeg "access plus 1 week"
+ExpiresByType audio/x-wav "access plus 1 week"
+# Default directive
+<FilesMatch "\.(png|woff|woff2|svg|jpg|jpeg|png|js|css)$">
+ExpiresDefault "access plus 1 month"
+</FilesMatch>
+</IfModule>

@@ -1,0 +1,22 @@
+- name: "Accueil"
+  url: "/accueil/"
+  
+- name: "Le club"
+  url: "/club/"
+  subnav: "Club"
+
+- name: "Compétitions"
+  url: "/competitions/"
+  subnav: "Compétitions"
+
+- name: "Résultats"
+  url: "/resultats/"
+  
+- name: "Photos"
+  url: "/photos/"
+  
+- name: "Partenaires"
+  url: "/partenaires/"
+  
+- name: "Contact"
+  url: "/contact/"

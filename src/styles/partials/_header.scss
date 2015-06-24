@@ -1,0 +1,79 @@
+// THEME - header
+// -----------------------------------
+
+.header-page {
+  @include vertical-padding($spacing-xl);
+  margin-bottom: $spacing-lg;
+  border-bottom: 1px solid $gray-lighter;
+
+  .col {
+    margin-left: 0;
+  }
+}
+
+.title-header {
+  @include box-sizing(border-box);
+  @include vertical-padding($spacing-lg);
+  background-color: $color-primary;
+  color: check-background($color-primary);
+  word-wrap: break-word;
+  position: relative;
+  left: -$header-fold-size;
+
+  &:after {
+    position: absolute;
+    content: '';
+    display: block;
+    height: 0;
+    width: 0;
+    top: auto;
+    bottom: -$header-fold-size;
+    left:0;
+    border-left: $header-fold-size solid transparent;
+    border-top: $header-fold-size solid darken($color-primary, 20%);
+  }
+}
+
+.title-meta {
+  color: $gray
+}
+
+
+// Landing page
+.header-landing {
+  @include vertical-padding($spacing-xl * 2);
+  //margin-bottom: $spacing-xl;
+  position: relative;
+  overflow: hidden;
+  background-color: $color-primary;
+  background-image: url($assets-url + 'img/low-poly.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  //background-attachment: fixed;
+  background-position: center center;
+  color: check-background($color-primary);
+
+  > .container {
+    position: relative;
+    z-index: $z-index-page + 1;
+  }
+}
+
+.icon-header {
+  position: absolute;
+  font-size: 200px;
+  top: $spacing-lg;
+  right: $spacing-lg;
+  color: $gray-light;
+}
+
+.icon-landing {
+  pointer-events: none;
+  position: absolute;
+  top: $spacing;
+  left: auto;
+  right: $spacing;
+  color: darken($color-primary,10%);
+  @include opacity(0.7);
+  font-size: 350px;
+}

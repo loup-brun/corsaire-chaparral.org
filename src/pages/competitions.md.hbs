@@ -1,0 +1,11 @@
+---
+title: Compétitions
+meta_title: Corsaire-Chaparal
+icon: logo-coch
+---
+
+{{#withSort pages "date"}}
+{{#is data.category "Compétitions"}}
+* [{{ data.title }}]({{baseurl}}/competitions/{{ basename }})
+{{/is}}
+{{/withSort}}

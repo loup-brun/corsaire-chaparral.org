@@ -1,0 +1,27 @@
+---
+layout: default.hbs
+---
+<main class="container container-main" role="main">
+  <header class="header-page row">
+    <span class="icon icon-{{ icon }} icon-lg icon-header"></span>
+    <div class="col col-8 tablet-col-10">
+      <div class="container">
+        <h6 class="title-meta">{{#if category}}{{ category }} | {{/if}}{{default meta_title "Corsaire-Chaparal" }}</h6>
+      </div>
+      <div class="title-header container">
+        <h1>{{ title }}</h1>
+      </div>
+      {{#if date }}
+      <div class="container">
+        <small class="title-meta">{{formatDate date "%d-%m-%Y" }}</small>
+      </div>
+      {{/if}}
+    </div>
+  </header>
+
+  <article class="container">
+    {{#markdown}}
+    {{> body }}
+    {{/markdown}}
+  </article>
+</main>

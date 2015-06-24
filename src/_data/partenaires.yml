@@ -1,0 +1,61 @@
+- name: "Fédération québécoise d'athlétisme"
+  url: "http://athletisme-quebec.ca"
+  image: "/assets/img/partenaires/federation-quebecoise-athletisme.png"
+
+- name: "Ville de Sainte-Thérèse"
+  url: "http://www.ville.sainte-therese.qc.ca/"
+  image: "/assets/img/partenaires/ville-sainte-therese.jpg"
+
+- name: "Ville de Blainville"
+  url: "http://www.ville.blainville.qc.ca/"
+  image: "/assets/img/partenaires/ville-blainville.png"
+
+- name: "Ville de Boisbriand"
+  url: "http://www.ville.boisbriand.qc.ca/"
+  image: "/assets/img/partenaires/ville-boisbriand.jpg"
+
+- name: "Ville de Rosemère"
+  url: "http://www.ville.rosemere.qc.ca/"
+  image: "/assets/img/partenaires/ville-rosemere.gif"
+
+- name: "Club optimiste de Sainte-Thérèse"
+  image: "/assets/img/partenaires/club-optimiste-ste-therese.gif"
+
+- name: "Équipe Endurance"
+  url: "http://www.boutiqueendurance.ca/"
+  image: "/assets/img/partenaires/equipe-endurance-rive-nord.gif"
+
+- name: "Comité de l'athlétisme aux Jeux mondiaux des pompiers et policiers de Blainville"
+  image: "/assets/img/partenaires/athletisme-jeux-policiers-pompiers.png"
+
+- name: "J. P. Lauzon et fils Ltée"
+  url: "http://www.jplauzon.com/index.php/fr/"
+  image: "/assets/img/partenaires/lauzon-fils.gif"
+
+- name: "Technisoins"
+  url: "http://www.technisoins.com/"
+  image: "/assets/img/partenaires/technisoins.gif"
+
+- name: "Julie Lepage, chiropraticienne"
+  image: "/assets/img/partenaires/centre-chiro-sante.gif"
+
+- name: "Boutique Endurance"
+  url: "http://www.boutiqueendurance.ca/"
+  image: "/assets/img/partenaires/boutique-endurance.png"
+
+- name: "Fondation Philippe Laheurte"
+
+- name: "Boutique Courir"
+  url: "http://www.boutiquecourir.com/"
+  image: "/assets/img/partenaires/boutique-courir.jpg"
+
+- name: "Tim Hortons"
+  url: "http://www.timhortons.com/"
+  image: "/assets/img/partenaires/tim-hortons.gif"
+
+- name: "Boston Pizza"
+  image: "/assets/img/partenaires/boston-pizza.jpg"
+
+- name: "IGA Daigle"
+  url: "http://igadaigle.com/"
+  image: "/assets/img/partenaires/iga-daigle.jpg"

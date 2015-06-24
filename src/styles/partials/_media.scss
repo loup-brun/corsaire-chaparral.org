@@ -1,0 +1,65 @@
+// Media
+// -----------------------------------
+
+figure {
+  img {
+    @extend .img-responsive;
+  }
+
+  > figcaption {
+    padding: $spacing-xs;
+    font-size: $font-size-sm;
+    color: $gray;
+  }
+}
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.figure-thumb {
+
+  img {
+    padding: 4px;
+    max-height: 260px; // ensure portrait images don't take up too much space
+    border: 1px solid $gray-lighter
+  }
+
+  > figcaption {
+
+  }
+}
+
+.figure-float {
+  @include drop-shadow;
+  margin-bottom: $spacing;
+  background-color: #fff;
+  position: relative;
+  cursor: pointer;
+
+  > img {
+    width: 100%;
+  }
+
+  > figcaption {
+    padding: $spacing;
+    h5 { color: $color-link; }
+    p { margin: $spacing-xs 0; }
+  }
+}
+
+.fluid-16-9 {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}

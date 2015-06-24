@@ -1,0 +1,20 @@
+
+<aside class="navbar-side" id="navbar-side">
+  <a class="toggle-sidebar"><span class="icon icon-close"></span></a>
+  <h6 class="title-aside">Menu</h6>
+  <ul class="nav nav-side">
+    {{#each navigation }}
+    <li class="{{#is ../title this.name }}active{{/is}}{{#is this.subnav ../page.category }}{{#if this.subnav}}active{{/if}}{{/is}}">
+      <a href="{{link this.url }}">{{ this.name }}</a>
+      {{#if this.subnav }}
+      <ul class="nav nav-side nav-side-sub">
+        {{#each ../../pages}}
+        {{#is data.category ../this.subnav}}
+        <li><a href="{{ baseurl }}/{{ data.category }}/{{ this.basename }}/">{{ data.title }}</a></li>
+        {{/is}}
+        {{/each}}
+      </ul>{{/if}}
+    </li>
+    {{/each}}
+  </ul>
+</aside>

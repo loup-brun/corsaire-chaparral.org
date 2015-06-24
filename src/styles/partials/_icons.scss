@@ -1,0 +1,113 @@
+// Icons
+// -----------------------------------
+
+@font-face {
+	font-family: 'coch-icons';
+  src:url('#{$assets-url}fonts/coch-icons/coch-icons.eot?ypd9a4');
+  src:url('#{$assets-url}fonts/coch-icons/coch-icons.eot?#iefixypd9a4') format('embedded-opentype'),
+      url('#{$assets-url}fonts/coch-icons/coch-icons.ttf?ypd9a4') format('truetype'),
+      url('#{$assets-url}fonts/coch-icons/coch-icons.woff?ypd9a4') format('woff'),
+      url('#{$assets-url}fonts/coch-icons/coch-icons.svg?ypd9a4#coch-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+// General styles
+.icon {
+  font-family: 'coch-icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  //vertical-align: middle;
+  line-height: 1;
+  margin: 4px;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-lg {
+  font-size: 200px;
+  pointer-events: none;
+}
+
+// Icon items
+
+.icon-cup:before {
+	content: "\e604";
+}
+.icon-close:before {
+	content: "\e608";
+}
+.icon-angle-right:before {
+	content: "\e609";
+}
+.icon-angle-left:before {
+	content: "\e60a";
+}
+.icon-hamburger:before {
+	content: "\e60b";
+}
+.icon-list:before {
+	content: "\e60c";
+}
+.icon-star:before {
+	content: "\e60d";
+}
+.icon-person:before {
+	content: "\e60e";
+}
+.icon-phone:before {
+	content: "\e60f";
+}
+.icon-twitter:before {
+	content: "\e610";
+}
+.icon-facebook:before {
+	content: "\e611";
+}
+.icon-mail:before {
+	content: "\e612";
+}
+.icon-map:before {
+	content: "\e613";
+}
+.icon-calendar:before {
+	content: "\e614";
+}
+.icon-stopwatch:before {
+	content: "\e615";
+}
+.icon-partenaire:before {
+	content: "\e607";
+}
+.icon-endurance:before {
+	content: "\e605";
+}
+.icon-logo-coch:before {
+	content: "\e606";
+}
+.icon-high-jump:before {
+	content: "\e600";
+}
+.icon-athletics-3:before {
+	content: "\e601";
+}
+.icon-javelin:before {
+	content: "\e602";
+}
+.icon-run:before {
+	content: "\e603";
+}
+.icon-pencil:before {
+	content: "\f040";
+}
+.icon-asterisk:before {
+	content: "\f069";
+}
+.icon-chain:before {
+	content: "\f0c1";
+}

@@ -1,0 +1,31 @@
+// THEME - tablet styles
+// -----------------------------------
+
+@include mquery($tablet-breakpoint) {
+  .title-header {
+    left: 0;
+    &:after { display: none }
+  }
+
+  .icon-header {
+    font-size: 80px;
+    top: $spacing-xs;
+    right: $spacing-xs;
+  }
+
+  .container-main {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  // show toggle button for navbar
+  .nav-menu { display: block; }
+
+  .nav-break {
+    display: none; // toggle w/ js
+  }
+  
+  .navbar-side {
+    //display: block;
+  }
+}

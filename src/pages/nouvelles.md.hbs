@@ -1,0 +1,10 @@
+---
+layout: page.hbs
+title: Nouvelles
+---
+
+{{#withSort pages "date"}}
+{{#is data.category "nouvelles"}}
+{{> nouvelle-apercu }}
+{{/is}}
+{{/withSort}}

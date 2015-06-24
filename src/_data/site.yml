@@ -1,0 +1,11 @@
+title: >
+  Club d'athlétisme Corsaire-Chaparal
+email: corsairechaparal@hotmail.com
+adminEmail: louis.oli.br@gmail.com
+description: >
+  Situé dans les Basses-Laurentides, le club d'athlétisme Corsaire-Chaparal est un organisme sans but lucratif dont la mission est de promouvoir l'athlétisme auprès des jeunes.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://corsaire-chaparal.org" # the base hostname & protocol for your site
+
+facebook: "https://www.facebook.com/CorsaireChaparal"
+twitter: "https://twitter.com/CorsaireC"

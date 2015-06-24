@@ -1,0 +1,36 @@
+<footer class="footer-main">
+  <div class="container">
+    <div class="row">
+      <div class="col col-6 phone-col-12">
+        <h5>{{ site.title }}</h5>
+        <p class="text-footer">{{ site.description }}</p>
+      </div>
+      <div class="col col-3 phone-col-6">
+        <h5>Navigation</h5>
+        <ul class="list-footer">
+          {{#each navigation }}
+          <li class="{{#is ../title this.name }}active{{/is}}{{#is this.subnav ../page.category }}{{#if this.subnav}}active{{/if}}{{/is}}">
+            <a href="{{link this.url }}">{{ this.name }}</a>
+          </li>
+          {{/each}}
+        </ul>
+      </div>
+      <div class="col col-3 phone-col-6">
+        <h5>Réseaux sociaux</h5>
+        <ul class="list-footer list-footer-social">
+          <li><a href="{{ site.facebook }}" target="_blank"><span class="icon icon-facebook"></span> Facebook</a></li>
+          <li><a href="{{ site.twitter }}" target="_blank"><span class="icon icon-twitter"></span> Twitter</a></li>
+          <li><a href="mailto:{{ site.email }}" target="_blank"><span class="icon icon-mail"></span> Courriel</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row text-legal">
+      <div class="col col-6 phone-col-12">
+        &copy;2015 {{ site.title }}. Tous droits réservés.
+      </div>
+      <div class="col col-6 phone-col-12">
+        <p>Webmestre: <a href="mailto:{{ site.adminEmail }}">Louis-Olivier Brassard</a></p>
+      </div>
+    </div>
+  </div>
+</footer>

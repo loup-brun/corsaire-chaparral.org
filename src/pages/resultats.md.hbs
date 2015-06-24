@@ -1,0 +1,11 @@
+---
+title: Résultats
+title_meta: Compétitions du COCH
+icon: list
+---
+
+{{#withSort pages "date"}}
+{{#is data.category "Résultats"}}
+* [{{ data.title }}]({{baseurl}}/resultats/{{ basename }})
+{{/is}}
+{{/withSort}}

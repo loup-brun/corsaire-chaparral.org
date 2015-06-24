@@ -1,0 +1,131 @@
+// Navigation
+// -----------------------------------
+
+.nav {
+  @include list-reset;
+  @include clearfix;
+
+  > li {
+    float: left;
+
+    > a {
+      display: block;
+      padding: $spacing-sm;
+    }
+  }
+}
+
+.nav-menu {
+  display: none; // show when nav collapses
+
+  > li {
+    > a {
+      padding: $spacing-xs;
+      cursor: pointer;
+    }
+  }
+}
+
+.navbar-main {
+  @include clearfix;
+  background-color: $color-navbar;
+  color: check-background($color-navbar);
+  font-size: $font-size-navbar;
+
+  .nav {
+
+    float: left;
+    &.nav-menu { float: right; }
+
+    > li {
+
+      > a {
+        @include transition(background-color .3s);
+        padding: $spacing-navbar;
+        color: check-background($color-navbar);
+
+        &:hover, &:focus {
+          background-color: $color-primary;
+          color: check-background($color-primary);
+        }
+      }
+
+      &.active {
+        > a {
+          background-color: lighten($color-navbar, 5%);
+        }
+      }
+    }
+  }
+
+}
+
+.logo-navbar {
+  @include square($height-navbar);
+  display: block;
+  float: left;
+  //background: $color-primary;
+  color: #fff;
+
+  > img {
+    @include square($height-navbar - 8px);
+    margin: 4px 0 0 4px;
+  }
+}
+
+.dropdown {
+  position: relative;
+  cursor: pointer;
+  z-index: $z-index-overlay; // old IE needs a z-index on parent
+
+  &.open, &:hover {
+    > .dropdown-list {
+      @include transition-delay(0s); // no delay because of visibility
+      @include opacity(1);
+      //@include transform(translateY(0px));
+      visibility: visible;
+    }
+  }
+  
+  .caret {
+    float: right;
+  }
+}
+
+.dropdown-list {
+  @include list-reset;
+  @include drop-shadow;
+  @include transition(transform .3s ease, opacity .3s ease, visibility 0s linear 1s);
+  @include opacity(0);
+  //overflow: hidden;
+  position: absolute;
+  visibility: hidden;
+  min-width: 200px;
+  max-width: 320px;
+  top: 100%;
+  left: 0;
+  background-color: $gray-darker;
+  color: $gray-lighter;
+  z-index: $z-index-overlay; // old IE needs a z-index on parent
+
+  > li {
+
+    > a {
+      display: block;
+      padding: $spacing-xs;
+      z-index: $z-index-overlay;
+      color: $gray-lighter;
+
+      &:hover {
+        background-color: $color-primary;
+        color: check-background($color-primary);
+      }
+    }
+    
+    // nested dropdowns
+    .dropdown-list {
+      top: 0;
+      left: 100%;
+    }
+  }
+}

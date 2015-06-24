@@ -1,0 +1,12 @@
+---
+title: Entraîneurs
+icon: person
+category: Club
+subnav: Entraîneurs
+---
+
+{{#each pages }}
+{{#is data.category 'Entraîneurs'}}
+* [{{ data.title }}]({{ baseurl }}/club/entraineurs/{{ this.basename }}/)
+{{/is}}
+{{/each}}
