@@ -3,12 +3,12 @@
 
 @include mquery($tablet-breakpoint) {
   .title-header {
+    @include box-shadow(none);
     left: 0;
     &:after { display: none }
   }
 
   .icon-header {
-    @include box-shadow(4px 6px 0 rgba(0,0,0,0.1));
     font-size: 120px;
     top: $spacing-xs;
     right: $spacing-xs;
