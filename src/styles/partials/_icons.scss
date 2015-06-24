@@ -3,11 +3,11 @@
 
 @font-face {
 	font-family: 'coch-icons';
-  src:url('#{$assets-url}fonts/coch-icons/coch-icons.eot?ypd9a4');
-  src:url('#{$assets-url}fonts/coch-icons/coch-icons.eot?#iefixypd9a4') format('embedded-opentype'),
-      url('#{$assets-url}fonts/coch-icons/coch-icons.ttf?ypd9a4') format('truetype'),
-      url('#{$assets-url}fonts/coch-icons/coch-icons.woff?ypd9a4') format('woff'),
-      url('#{$assets-url}fonts/coch-icons/coch-icons.svg?ypd9a4#coch-icons') format('svg');
+  src:url('#{$assets-url}fonts/coch-icons/coch-icons.eot?-fmkj5x');
+  src:url('#{$assets-url}fonts/coch-icons/coch-icons.eot?#iefix-fmkj5x') format('embedded-opentype'),
+      url('#{$assets-url}fonts/coch-icons/coch-icons.ttf?-fmkj5x') format('truetype'),
+      url('#{$assets-url}fonts/coch-icons/coch-icons.woff?-fmkj5x') format('woff'),
+      url('#{$assets-url}fonts/coch-icons/coch-icons.svg?-fmkj5x#coch-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -36,50 +36,66 @@
 
 // Icon items
 
+
+.icon-phone:before {
+	content: "\e608";
+}
 .icon-cup:before {
 	content: "\e604";
 }
-.icon-close:before {
-	content: "\e608";
+.icon-error:before {
+	content: "\e000";
 }
-.icon-angle-right:before {
-	content: "\e609";
+.icon-warning:before {
+	content: "\e002";
+}
+.icon-mail:before {
+	content: "\e07c";
+}
+.icon-stopwatch:before {
+	content: "\e1b6";
+}
+.icon-map:before {
+	content: "\e1f3";
+}
+.icon-map-marker:before {
+	content: "\e1f7";
 }
 .icon-angle-left:before {
-	content: "\e60a";
+	content: "\e207";
+}
+.icon-angle-right:before {
+	content: "\e208";
+}
+.icon-angle-up:before {
+	content: "\e20a";
+}
+.icon-angle-down:before {
+	content: "\e20b";
 }
 .icon-hamburger:before {
-	content: "\e60b";
+	content: "\e20e";
+}
+.icon-assignment:before {
+	content: "\e272";
+}
+.icon-assignment_ind:before {
+	content: "\e273";
 }
 .icon-list:before {
-	content: "\e60c";
+	content: "\e2aa";
+}
+.icon-thumb_up:before {
+	content: "\e2ee";
 }
 .icon-star:before {
 	content: "\e60d";
-}
-.icon-person:before {
-	content: "\e60e";
-}
-.icon-phone:before {
-	content: "\e60f";
 }
 .icon-twitter:before {
 	content: "\e610";
 }
 .icon-facebook:before {
 	content: "\e611";
-}
-.icon-mail:before {
-	content: "\e612";
-}
-.icon-map:before {
-	content: "\e613";
-}
-.icon-calendar:before {
-	content: "\e614";
-}
-.icon-stopwatch:before {
-	content: "\e615";
 }
 .icon-partenaire:before {
 	content: "\e607";
@@ -90,7 +106,7 @@
 .icon-logo-coch:before {
 	content: "\e606";
 }
-.icon-high-jump:before {
+.icon-highjump:before {
 	content: "\e600";
 }
 .icon-athletics-3:before {
@@ -102,11 +118,17 @@
 .icon-run:before {
 	content: "\e603";
 }
+.icon-close:before {
+	content: "\f00d";
+}
 .icon-pencil:before {
 	content: "\f040";
 }
 .icon-asterisk:before {
 	content: "\f069";
+}
+.icon-calendar:before {
+	content: "\f073";
 }
 .icon-chain:before {
 	content: "\f0c1";

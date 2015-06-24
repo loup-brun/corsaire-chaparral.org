@@ -2,7 +2,7 @@
 title: Championnat Canadien Junior, Ste-Thérèse 2014
 category: Résultats
 date: 2014-07-04
-icon: list
+icon: assignment
 ---
 
 <pre>

@@ -2,7 +2,7 @@
 title: Classique Hivernale COCH 2015
 category: Résultats
 date: 2015-02-07
-icon: list
+icon: assignment
 ---
 
 <pre>

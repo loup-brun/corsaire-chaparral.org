@@ -2,7 +2,7 @@
 title: Corsaire-Chaparal Invitation 2015
 category: Résultats
 date: 2015-06-20
-icon: list
+icon: assignment
 ---
 
 <pre>
