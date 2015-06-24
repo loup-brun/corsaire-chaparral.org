@@ -14,6 +14,7 @@
 .title-header {
   @include box-sizing(border-box);
   @include vertical-padding($spacing-lg);
+  @include box-shadow(4px 6px 0 rgba(0,0,0,0.1));
   background-color: $color-primary;
   color: check-background($color-primary);
   word-wrap: break-word;

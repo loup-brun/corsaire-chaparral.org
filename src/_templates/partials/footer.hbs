@@ -9,7 +9,7 @@
         <h5>Navigation</h5>
         <ul class="list-footer">
           {{#each navigation }}
-          <li class="{{#is ../title this.name }}active{{/is}}{{#is this.subnav ../page.category }}{{#if this.subnav}}active{{/if}}{{/is}}">
+          <li class="{{#is ../title this.name }}active{{/is}}{{#is this.subnav ../page.category }}{{#if this.subnav}}active{{/if}}{{/is}}{{#is this.subnav ../page.top_category}}{{#if this.subnav }} active{{/if}}{{/is}}">
             <a href="{{link this.url }}">{{ this.name }}</a>
           </li>
           {{/each}}
