@@ -4,7 +4,7 @@
   <h6 class="title-aside">Menu</h6>
   <ul class="nav nav-side">
     {{#each navigation }}
-    <li class="{{#is ../title this.name }}active{{/is}}{{#is this.subnav ../page.category }}{{#if this.subnav}}active{{/if}}{{/is}}">
+    <li class="{{#is ../title this.name }}active{{/is}}{{#is this.subnav ../page.category }}{{#if this.subnav}}active{{/if}}{{/is}}{{#is this.subnav ../page.top_category}}{{#if this.subnav }} active{{/if}}{{/is}}">
       <a href="{{link this.url }}">{{ this.name }}</a>
       {{#if this.subnav }}
       <ul class="nav nav-side nav-side-sub">
