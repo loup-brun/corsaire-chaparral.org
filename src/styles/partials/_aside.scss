@@ -49,7 +49,7 @@
 
     > a {
       @include transition(background-color .3s);
-      padding: $spacing-xs;
+      padding: $spacing-sm;
 
       &:hover {
         background-color: $color-primary;
@@ -66,8 +66,8 @@
     ul {
       li {
         a {
-          padding-left: $spacing;
           padding: $spacing-xs;
+          padding-left: $spacing;
           font-size: $font-size-sm - 2;
         }
       }
