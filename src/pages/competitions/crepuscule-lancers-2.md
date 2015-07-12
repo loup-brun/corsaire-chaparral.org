@@ -9,8 +9,13 @@ icon: calendar
 
 Un deuxième crépuscule de lancers sera offert le jeudi 9 juillet 2015, au stade d'athlétisme Richard-Garneau, à Ste-Thérèse.
 
-La rencontre débutera à 18h30.
+L'inscription se fait sur place, jusqu'au début de la rencontre à 18h30.
 
-Les quatre épreuves de lancers seront offertes à toutes les catégories, dans l'ordre suivant: poids, javelot, marteau, disque.
+Les quatre épreuves de lancers sont offertes à toutes les catégories, dans l'ordre suivant:
+
+* javelot
+* disque
+* poids
+* marteau
 
 Responsable de la compétition: [Robert Lavoie](mailto:corsaire-chaparal@hotmail.com)
