@@ -95,7 +95,7 @@
 .dropdown-list {
   @include list-reset;
   @include drop-shadow;
-  @include transition(transform .3s ease, opacity .3s ease, visibility 0s linear 1s);
+  @include transition(transform .3s ease, opacity .3s ease, visibility 0s linear 0.4s);
   @include opacity(0);
   //overflow: hidden;
   position: absolute;
