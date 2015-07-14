@@ -93,6 +93,17 @@
   }
 }
 
+.invisible-overlay {
+  //display: none;
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: $z-index-overlay - 1;
+}
+
 .dropdown-list {
   @include list-reset;
   @include drop-shadow;

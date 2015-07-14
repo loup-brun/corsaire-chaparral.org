@@ -1,7 +1,7 @@
 /*global window, document, qwery, bean, classie, head, Velocity*/
 (function(win, doc) {
 
-  head.ready(document, function() {
+  head.ready(doc, function() {
 
     // include qwery as a selector engine
     bean.setSelectorEngine(qwery);
@@ -11,23 +11,20 @@
         sidebar = qwery('#navbar-side')[0],
         body  = qwery('body')[0];
 
-    function toggleNav(handle, navElem) {
+    function toggleSidebar() {
 
-      bean.on(handle, 'click touchstart', function(event) {
+      if (classie.has(sidebar, 'toggled')) {
+        Velocity(sidebar, { translateX: [260, 0] }, { duration: 400, easing: 'easeInCubic', display: 'none' });
+      } else {
+        Velocity(sidebar, { translateX: [0, 260] }, { duration: 800, easing: 'easeOutExpo', display: 'block' });
+      }
 
-        if (classie.has(navElem, 'toggled')) {
-          Velocity(navElem, { translateX: [260, 0] }, { duration: 400, easing: 'easeInCubic', display: 'none' });
-        } else {
-          Velocity(navElem, { translateX: [0, 260] }, { duration: 800, easing: 'easeOutExpo', display: 'block' });
-        }
-
-        classie.toggleClass(body, 'in-modal');
-        classie.toggleClass(navElem, 'toggled');
-      });
+      classie.toggleClass(body, 'in-modal');
+      classie.toggleClass(sidebar, 'toggled');
     }
 
     for (var i in toggles) {
-      toggleNav(toggles[i], sidebar);
+      bean.on(toggles[i], 'click touchstart', toggleSidebar);
     }
 
     // Prevent default on touch screens for dropdowns
@@ -59,6 +56,15 @@
       var a = qwery('a', ddown)[0];
 
       bean.on(a, 'click touchstart', function(e) {
+
+        var overlay = doc.createElement('div');
+        body.appendChild(overlay);
+        classie.add(overlay, 'invisible-overlay');
+        bean.on(overlay, 'click touchstart', function() {
+          clearAllDropdowns();
+          bean.off(overlay);
+          body.removeChild(overlay);
+        });
 
         if (!classie.hasClass(ddown, 'open')) {
           e.preventDefault();
