@@ -101,8 +101,8 @@ module.exports = function ( grunt ) {
             cwd: '<%= config.src %>/assets',
             src: [
               '**',
-              '!scripts/',
-              '!styles/',
+              '!**scripts/*',
+              '!**styles/*',
             ],
             dest: '<%= config.temp %>/assets'
           },
@@ -124,7 +124,7 @@ module.exports = function ( grunt ) {
             cwd: '<%= config.temp %>/assets',
             src: [
               '**',
-              '!scripts/',
+              '!**scripts/*',
             ],
             dest: '<%= config.dist %>/assets'
           },
@@ -167,9 +167,9 @@ module.exports = function ( grunt ) {
       dist: {
         files: [{
           expand: true,
-          cwd: '<%= config.temp %>/assets/scripts/',
+          cwd: '<%= config.temp %>/assets/scripts',
           src: ['*.js'],
-          dest: '<%= config.dist %>/assets/scripts/'
+          dest: '<%= config.dist %>/assets/scripts'
         }]
       }
     },
