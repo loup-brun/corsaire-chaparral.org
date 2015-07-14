@@ -86,6 +86,10 @@ p a { // inline text links
   color: check-background($color-primary);
 }
 
+.text--primary {
+  color: $color-primary;
+}
+
 @import '_theme/partenaires';
 @import '_theme/rows';
 
