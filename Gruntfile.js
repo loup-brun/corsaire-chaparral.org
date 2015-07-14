@@ -57,8 +57,7 @@ module.exports = function ( grunt ) {
             '<%= bowerrc.directory %>/FastActive/FastActive.js',
             '<%= bowerrc.directory %>/blazy/blazy.js',
             '<%= bowerrc.directory %>/nanoajax/nanoajax.min.js',
-            '<%= bowerrc.directory %>/gsap/src/uncompressed/TweenLite.js',
-            '<%= bowerrc.directory %>/gsap/src/uncompressed/plugins/CSSPlugin.js',
+            '<%= bowerrc.directory %>/velocity/velocity.js',
           ],
 
           '<%= config.temp %>/assets/scripts/main.js': ['<%= config.src %>/scripts/*.js'],

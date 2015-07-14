@@ -26,6 +26,6 @@
     "handlebars": "~3.0.0",
     "imagesloaded": "~3.1.8",
     "headjs": "1.0.3",
-    "gsap": "https://github.com/greensock/GreenSock-JS.git#~1.17.0"
+    "velocity": "~1.2.2"
   }
 }

@@ -78,7 +78,7 @@
   cursor: pointer;
   z-index: $z-index-overlay; // old IE needs a z-index on parent
 
-  &.open, &:hover {
+  &:hover, &.open {
     > .dropdown-list {
       @include transition-delay(0s); // no delay because of visibility
       @include opacity(1);
