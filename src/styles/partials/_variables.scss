@@ -76,7 +76,8 @@ $height-navbar: $font-size-navbar * $line-height + 2 * $spacing-navbar;
 $color-navbar: $gray-darker;
 
 // Header
-$header-fold-size: 20px;
+$header-fold-size:      20px;
+$header-fold-size-sm:   12px;
 
 // Lightbox
 $caption-lightbox-width: 300px;

@@ -4,24 +4,23 @@ layout: default.hbs
 <main class="container container-main" role="main">
   <header class="header-page">
     <span class="icon icon-{{ icon }} icon-lg icon-header"></span>
-
     <div class="row no-padding">
-      <div class="col col-8 tablet-col-10">
+      <div class="col col-8 tablet-col-10 phone-col-11">
         <div class="title-header container">
           <h1>{{ title }}</h1>
         </div>
       </div>
     </div>
-    <div class="container">
-      <div class="row row-sm">
-        {{#if date }}
-          <div class="title-meta col"><span class="icon icon-calendar"></span> {{formatDate date "%d-%m-%Y" }}</div>
-        {{/if}}
-        {{#if category}}
-        <div class="title-meta em text--primary col">{{ category }}</div>
-        {{/if}}
+    {{#if date }}
+    <div class="row row-sm">
+      <div class="col col-4 phone-col-8">
+        <div class="meta-header container">
+          <small><span class="icon icon-calendar"></span> {{formatDate date "%d-%m-%Y" }}</small>
+        </div>
       </div>
     </div>
+    {{/if}}
+
   </header>
 
   <article class="container">

@@ -22,14 +22,14 @@
   left: -$header-fold-size;
 
   &:after {
-    position: absolute;
     content: '';
     display: block;
-    height: 0;
-    width: 0;
+    position: absolute;
     top: auto;
     bottom: -$header-fold-size;
-    left:0;
+    left: 0;
+    height: 0;
+    width: 0;
     border-left: $header-fold-size solid transparent;
     border-top: $header-fold-size solid darken($color-primary, 20%);
   }
@@ -37,6 +37,28 @@
 
 .title-meta {
   color: $gray
+}
+
+.meta-header {
+  position: relative;
+  top: 0;
+  left: -$header-fold-size-sm;
+  padding: $spacing-sm $spacing-lg;
+  background-color: $orange;
+  color: $gray-lighter;;
+
+  &:after {
+    position: absolute;
+    content: '';
+    display: block;
+    height: 0;
+    width: 0;
+    top: auto;
+    bottom: -$header-fold-size-sm;
+    left:0;
+    border-left: $header-fold-size-sm solid transparent;
+    border-top: $header-fold-size-sm solid darken($orange, 20%);
+  }
 }
 
 // Landing page
