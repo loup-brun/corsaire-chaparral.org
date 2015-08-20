@@ -8,7 +8,7 @@
   <ul class="nav nav-break">
     {{#each navigation }}
     <li class="{{#is ../title this.name }}active{{/is}}{{#is this.subnav ../page.category }}{{#if this.subnav}}active{{/if}}{{/is}}{{#is this.subnav ../page.top_category}}{{#if this.subnav }} active{{/if}}{{/is}}{{#if this.subnav }} dropdown{{/if}}">
-      <a href="{{link url }}">{{ name }}</a>
+      <a href="{{link url }}">{{ name }} {{#if this.subnav}}<span class="icon icon-angle-down"></span>{{/if}}</a>
       {{#if this.subnav }}
       <ul class="dropdown-list">
         {{#each ../../pages }}
