@@ -5,51 +5,39 @@
   window.onload = function() {
 
     var form = document.getElementById('form-inscription'),
-        fields = getFields(),
+        fields = qwery('input,textarea', form),
         clearBtn = document.getElementById('startOver'),
-        validateBtn = document.getElementById('validate'),
+        //validateBtn = document.getElementById('validate'),
+        successElem = document.getElementById('success-feedback'),
         warnings = [],
         i, j, k, w
     ;
 
     clearBtn.onclick = function() {
       if (confirm('Êtes-vous certain de vouloir tout effacer?')) { 
-        clearFields(form);
+        clearFields();
 
         clearValidation();
       }
     };
     
-    validateBtn.onclick = function() {
-      validateFields();
-    };
-
-    form.onsubmit = function(ev) {
+    form.onsubmit = function() {
       if (!validateFields()) {
         return false;
       }
 
       for (k = 0; k < fields.length; k++ ) {
         if (!fields[k].value.length) {
-          console.warn('Veuillez remplir tous les champs');
-          break;
+          return false;
         }
       }
     };
-
-    function getFields() {
-      var ret = [],
-          inputs = document.getElementsByTagName('input'),
-          textareas = document.getElementsByTagName('textarea');
-
-      ret.concat(Array.prototype.slice.call(inputs));
-      ret.concat(Array.prototype.slice.call(textareas));
-
-      return ret;
+    
+    for (j = 0; j < fields.length; j++) {
+      fields[j].onblur = validateFields;
     }
 
-    function clearFields(context) {
-      var fields = qwery('input,textarea', context);
+    function clearFields() {
 
       for (i = 0; i < fields.length; i++) {
         fields[i].value = '';
@@ -115,6 +103,10 @@
           warn(phone, 'Veuillez entrer un numéro de téléphone valide.');
         }
       }
+      
+      if (ret) {
+        successElem.innerHTML = 'Le formulaire est valide <span class="icon icon-thumb_up"></span>';
+      }
 
       return ret;
     }
@@ -127,6 +119,7 @@
 
       // clear the warnings collection
       warnings = [];
+        successElem.innerHTML = '';
     }
   };
 

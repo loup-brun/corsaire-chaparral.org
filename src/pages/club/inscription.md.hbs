@@ -1,11 +1,15 @@
 ---
 title: Inscription
 category: Club
-meta_title: 2014-2015
+meta_title: 2015-2016
 icon: pencil
-scripts:
-  - '/assets/scripts/inscription.js'
 ---
+
+Vous trouverez les détails relatifs à l'inscription sur cette page. Vous pouvez remplir le formulaire d'inscription en cliquant sur le lien ci-dessous:
+
+<a class="btn btn-cta" href="http://corsaire-chaparal.org/api/inscription.php">Formulaire d'inscription <span class="icon icon-assignment"></span></a>
+
+### Information générales et politiques d'inscription
 
 Le coût d’inscription est établi selon l’année de naissance de l’athlète. L’inscription comprend l’affiliation à la Fédération québécoise d'athlétisme et les frais d’entraînement pour la période du 1<sup>er</sup> septembre au 31 août de l'année suivante. Par le biais d'activités de financement et de subventions, le club assume les frais d'inscription de l'athlète aux compétitions sélectionnées par l'entraîneur. Lorsque les compétitions se déroulent à l’extérieur (Sherbrooke, Québec, etc.), les athlètes doivent s’organiser pour le transport soit avec les parents, soit avec un autre athlète ou encore un entraîneur.
 
@@ -29,69 +33,6 @@ Veuillez prendre note que nous avons une politique familiale, c’est-à-dire un
 
 > **\*Note:** il faut également prévoir 30$ pour les frais d'infrastructure ainsi que 100$ pour les activités de financement.
 
---------------------------------------
+Vous recevrez par courriel une facture comprenant la somme intégrale à payer lors de votre inscription. 
 
-### Formulaire d'inscription
-
-<form action="http://corsaire-chaparal.org/coch_api/index.php" method="post" id="form-inscription" novalidate>
-  <fieldset>
-      <legend>
-        <p>Veuillez remplir le formulaire ci-dessous afin de procéder à votre inscription.</p>
-    </legend>
-    <div class="row">
-      <div class="col col-4 tablet-col-12 form-group">
-        <label for="firstName">Prénom</label>
-        <input type="text" name="firstName" id="firstName" placeholder="Votre prénom" required />
-      </div>
-      <div class="col col-4 tablet-col-12 form-group">
-        <label for="lastName">Nom de famille</label>
-        <input type="text" name="lastName" id="lastName" placeholder="Votre nom de famille" required />
-      </div>
-      <div class="col col-4 tablet-col-12 form-group">
-        <label for="dob">Date de naissance (JJ-MM-AAAA)</label>
-        <input type="text" name="dob" id="dob" placeholder="Ex. 23-06-1998" required />
-      </div>
-    </div>
-    <div class="row">
-      <div class="col col-8 tablet-col-12 form-group">
-        <label for="address">Adresse complète</label>
-        <input type="text" name="address" id="address" placeholder="Ex. 123, rue de la Course, Ste-Thérèse" required />
-      </div>
-      <div class="col col-4 tablet-col-6 phone-col-8">
-        <label for="apt">Numéro d'appartement (optionel)</label>
-        <input type="text" name="apt" id="apt" placeholder="#" />
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="col col-4 tablet-col-6 phone-col-8 form-group">
-        <label for="telephone">Numéro de téléphone</label>
-        <input type="text" name="telephone" id="telephone" placeholder="Ex. 012-345-6789 ext:123" required />
-      </div>
-      <div class="col col-8 tablet-col-12 form-group">
-        <label for="email">Adresse courriel</label>
-        <input type="email" name="email" id="email" placeholder="Ex. corsaire@corsaire-chaparal.org" required />
-      </div>
-    </div>
-    <div class="row">
-      <div class="col col-12 form-group">
-        <label for="health">Problèmes de santé (optionel)</label>
-        <textarea name="health" id="health" placeholder="Certains renseignements médicaux dont les entraîneurs devraient être informés..."></textarea>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col col-6 tablet-col-12">
-        <div class="checkbox">
-          <input type="checkbox" name="family" id="family" />
-          <label for="family">2 enfants et plus d'une même famille sont inscrits au club</label>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col col-6 tablet-col-12 phone-text-center">
-        <a id="startOver" class="btn btn-default">Recommencer</a> <a class="btn btn-default" id="validate">Valider</a> <button type="submit" class="btn btn-primary">Soumettre</button>
-      </div>
-    </div>
-    <input type="hidden" name="coch_inscription" value="true" />
-  </fieldset>
-</form>
+Pour vous inscrire, veuillez remplir le <a href="http://corsaire-chaparal.org/api/inscription.php">formulaire d'inscription</a>.
