@@ -89,6 +89,9 @@ p a { // inline text links
 .text--primary {
   color: $color-primary;
 }
+.text--danger {
+  color: $color-danger;
+}
 
 @import '_theme/partenaires';
 @import '_theme/rows';

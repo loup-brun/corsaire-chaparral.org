@@ -6,14 +6,10 @@
       max-height: $height-navbar * 8;
 
       > li {
-        > a {
-        }
-
         &:hover {
           // ensure dropdowns don't show on stacked navbar
           .dropdown-list { display: none; }
         }
-
       }
     }
   }
@@ -24,17 +20,3 @@
     .figure-float { margin: 0 $gutter}
   }
 }
-
-/*
-.touch {
-
-  .dropdown {
-    &:hover {
-      > .dropdown-list {
-        visibility: hidden; // no dropdown on hover for touch
-      }
-    }
-  }
-
-}
-*/

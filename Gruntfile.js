@@ -20,12 +20,12 @@ module.exports = function ( grunt ) {
     bowerrc: grunt.file.readJSON(".bowerrc"),
     config: config,
     banner:
-    '/**' +
+    '/** \n' +
     ' * @author <%= pkg.author %> \n' +
     ' * @version <%= pkg.version %> \n' +
     ' * @description <%= pkg.description %> \n' +
     ' * @license <%= pkg.license %> \n' +
-    ' */ ',
+    ' */ \n',
 
     handlebars: {
       compile: {
@@ -70,7 +70,9 @@ module.exports = function ( grunt ) {
             '<%= bowerrc.directory %>/imagesloaded/imagesloaded.pkgd.js',
           ],
 
-          '<%= config.temp %>/assets/scripts/ie.js': ['<%= config.src %>/scripts/ie/*.js']
+          '<%= config.temp %>/assets/scripts/ie.js': ['<%= config.src %>/scripts/ie/*.js'],
+          
+          '<%= config.temp %>/assets/scripts/inscription.js': ['<%= config.src %>/scripts/inscription/*.js']
 
         },
       },

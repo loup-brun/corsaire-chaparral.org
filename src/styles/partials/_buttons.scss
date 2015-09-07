@@ -4,13 +4,19 @@
 // Set Generic <button> and .btn styling.
 // use .btn on any element to give it the styling of a button
 .btn {
-	@include inline-block;
-	@include border-radius(1px);
-	font-size: $font-size;
-	border: 0;
-	cursor: pointer;
-	margin: 3px;
-	padding: $spacing-xs $spacing-sm;
+  @include inline-block;
+  border-radius: $border-radius;
+  font-size: $font-size;
+  border: 0;
+  cursor: pointer;
+  margin: 3px;
+  padding: $spacing-xs $spacing-sm;
+  font-family: $font-family;
+  
+  &:active {
+    box-shadow: 0 0 0 0;
+    transform: translateY(1px);
+  }
 }
 
 .btn-default { @include btn-style($gray-lighter) }
@@ -21,6 +27,6 @@
 
 .btn[disabled],
 .btn.disabled {
-	color: #999;
-	background-color: #f1f1f1;
+  color: #999;
+  background-color: #f1f1f1;
 }

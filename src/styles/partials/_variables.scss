@@ -51,29 +51,31 @@ $easeInOutCubic: cubic-bezier(0.645, 0.045, 0.355, 1);
 // Layout
 
 // Resonsive Design Break Points
-$phone-breakpoint:	520px;
-$tablet-breakpoint:	900px;
-$lg-breakpoint:		1400px;
+$phone-breakpoint:	      520px;
+$tablet-breakpoint:	      900px;
+$lg-breakpoint:		      1400px;
 
 // Container
-$desktop-container: 900px;
-$container-lg: 1050px;
+$desktop-container:       900px;
+$container-lg:            1050px;
 
 // Grid
-$columns:			12;
-$gutter:			2%;
+$columns:			      12;
+$gutter:			      2%;
 
-$spacing-xs:		8px;
-$spacing-sm:		16px;
-$spacing:			25px;
-$spacing-lg:		40px;
-$spacing-xl:		60px;
+$spacing-xs:		      8px;
+$spacing-sm:		      16px;
+$spacing:			      25px;
+$spacing-lg:		      40px;
+$spacing-xl:		      60px;
+
+$border-radius:           3px;
 
 // Navbar
-$font-size-navbar: $font-size - 2;
-$spacing-navbar: $spacing-sm;
-$height-navbar: $font-size-navbar * $line-height + 2 * $spacing-navbar;
-$color-navbar: $gray-darker;
+$font-size-navbar:        $font-size - 2;
+$spacing-navbar:          $spacing-sm;
+$height-navbar:           $font-size-navbar * $line-height + 2 * $spacing-navbar;
+$color-navbar:            $gray-darker;
 
 // Header
 $header-fold-size:      20px;

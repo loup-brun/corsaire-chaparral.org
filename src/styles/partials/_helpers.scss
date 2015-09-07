@@ -11,7 +11,7 @@
 .inline { display: inline; }
 .none, 
 [hidden] {
-	display: none;
+  display: none;
 }
 
 // Font Weights
@@ -32,14 +32,14 @@
 
 // Accessibility (offscreen text for screen readers)
 .visuallyhidden {
-	border: 0;
-	clip: rect(0 0 0 0);
-	height: 1px;
-	overflow: hidden;
-	padding: 0;
-	position: absolute;
-	width: 1px;
-	left: -9999em;
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  left: -9999em;
 }
 
 // Image Spacing
