@@ -56,7 +56,8 @@
 
           patterns = {
             dob: /^\d{2}-\d{2}-\d{4}$/,
-            address: /^[0-9]*,[^,]+,[\w\s]+$/,
+            address: /^\d(\s|,)+.{4,64}$/,
+            postalCode: /[a-zA-Z]\d[a-zA-Z]\s?\d[a-zA-Z]\d/,
             apt: /^\d{1,6}$/,
             email: /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i,
             phone: /^(?:\d)?\d{3}-?\d{3}-?(\d{4}(?:\s?\ext:\d{1,6})?)$/
@@ -87,20 +88,30 @@
         warn(dob, 'La date de naissance doit suivre le format JJ-MM-AAAA.');
         ret = false;
       }
+      
       if (!patterns.address.test(address.value)) {
-        warn(address, 'L\'adresse indiquée doit comporter un numéro civique, une rue, ainsi que le nom de la municipalité, séparés par des virgules.');
+        warn(address, 'L\'adresse indiquée doit débuter par un numéro civique et comporter une rue, ainsi qu\'une municipalité.');
+        ret = false;
+      }
+      else if (patterns.postalCode.test(address.value)) {
+        warn(address, 'Veuillez ne pas inclure de code postal dans l\'adresse.');
+        ret = false;
       }
       if (apt.value.length && !patterns.apt.test(apt.value)) {
         warn(apt, 'Vous devez entrer un numéro comportant de 1 à 6 caractères.');
+        ret = false;
       }
       if (!patterns.email.test(email.value)) {
         warn(email, 'Veuillez entrer une adresse courriel valide.');
+        ret = false;
       }
       if (!patterns.phone.test(phone.value)) {
         if (/[\(\)]/.test(phone.value)) {
           warn(phone, 'Veuillez employer la disposition suggérée, c\'est-à-dire sans parenthèses ni d\'espaces.');
+          ret = false;
         } else { 
           warn(phone, 'Veuillez entrer un numéro de téléphone valide.');
+          ret = false;
         }
       }
       
