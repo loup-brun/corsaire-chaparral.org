@@ -78,40 +78,31 @@
 
       if (fName.value.length < 3) {
         warn(fName, 'Le prénom doit comporter au moins 3 caractères.');
-        ret = false;
       }
       if (lName.value.length < 3) {
         warn(lName, 'Le nom de famille doit  comporter au moins 3 caractères.');
-        ret = false;
       }
       if (!patterns.dob.test(dob.value)) {
         warn(dob, 'La date de naissance doit suivre le format JJ-MM-AAAA.');
-        ret = false;
       }
       
       if (!patterns.address.test(address.value)) {
         warn(address, 'L\'adresse indiquée doit débuter par un numéro civique et comporter une rue, ainsi qu\'une municipalité.');
-        ret = false;
       }
       else if (patterns.postalCode.test(address.value)) {
         warn(address, 'Veuillez ne pas inclure de code postal dans l\'adresse.');
-        ret = false;
       }
       if (apt.value.length && !patterns.apt.test(apt.value)) {
         warn(apt, 'Vous devez entrer un numéro comportant de 1 à 6 caractères.');
-        ret = false;
       }
       if (!patterns.email.test(email.value)) {
         warn(email, 'Veuillez entrer une adresse courriel valide.');
-        ret = false;
       }
       if (!patterns.phone.test(phone.value)) {
-        if (/[\(\)]/.test(phone.value)) {
+        if (/[\(\)\s]/.test(phone.value)) {
           warn(phone, 'Veuillez employer la disposition suggérée, c\'est-à-dire sans parenthèses ni d\'espaces.');
-          ret = false;
         } else { 
           warn(phone, 'Veuillez entrer un numéro de téléphone valide.');
-          ret = false;
         }
       }
       
