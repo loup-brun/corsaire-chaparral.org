@@ -25,12 +25,6 @@
       if (!validateFields()) {
         return false;
       }
-
-      for (k = 0; k < fields.length; k++ ) {
-        if (!fields[k].value.length) {
-          return false;
-        }
-      }
     };
     
     for (j = 0; j < fields.length; j++) {
@@ -110,7 +104,7 @@
         successElem.innerHTML = 'Le formulaire est valide <span class="icon icon-thumb_up"></span>';
       }
 
-      return ret;
+      return warnings.length ? false : true;
     }
 
     function clearValidation() {
