@@ -50,8 +50,8 @@
 
           patterns = {
             dob: /^\d{2}-\d{2}-\d{4}$/,
-            address: /^\d(\s|,)+.{4,64}$/,
-            postalCode: /[a-zA-Z]\d[a-zA-Z]\s?\d[a-zA-Z]\d/,
+            address: /^\d{1,6}(?:\s|,)+.{4,64}$/,
+            postalCode: /[a-zA-Z]\d[a-zA-Z][\s-]?\d[a-zA-Z]\d/,
             apt: /^\d{1,6}$/,
             email: /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i,
             phone: /^(?:\d)?\d{3}-?\d{3}-?(\d{4}(?:\s?\ext:\d{1,6})?)$/
@@ -70,16 +70,15 @@
 
       clearValidation();
 
-      if (fName.value.length < 3) {
-        warn(fName, 'Le prénom doit comporter au moins 3 caractères.');
+      if (fName.value.length < 2) {
+        warn(fName, 'Le prénom doit comporter au moins 2 caractères.');
       }
-      if (lName.value.length < 3) {
-        warn(lName, 'Le nom de famille doit  comporter au moins 3 caractères.');
+      if (lName.value.length < 2) {
+        warn(lName, 'Le nom de famille doit comporter au moins 2 caractères.');
       }
       if (!patterns.dob.test(dob.value)) {
         warn(dob, 'La date de naissance doit suivre le format JJ-MM-AAAA.');
       }
-      
       if (!patterns.address.test(address.value)) {
         warn(address, 'L\'adresse indiquée doit débuter par un numéro civique et comporter une rue, ainsi qu\'une municipalité.');
       }
