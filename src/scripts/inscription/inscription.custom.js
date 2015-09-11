@@ -47,6 +47,7 @@
           apt = document.getElementById('apt'),
           email = document.getElementById('email'),
           phone = document.getElementById('telephone'),
+          acceptPhotos = document.getElementById('acceptPhotos'),
 
           patterns = {
             dob: /^\d{2}-\d{2}-\d{4}$/,
@@ -97,6 +98,9 @@
         } else { 
           warn(phone, 'Veuillez entrer un numéro de téléphone valide.');
         }
+      }
+      if (!acceptPhotos.checked) {
+        warn(acceptPhotos, 'Vous devez consentir à l\'utilisation de médias concernant l\'athlète.');
       }
       
       if (ret) {
