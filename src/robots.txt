@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /404/
 Disallow: /photos-partage/
+Disallow: /api/
