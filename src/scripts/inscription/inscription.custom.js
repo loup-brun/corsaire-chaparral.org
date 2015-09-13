@@ -44,6 +44,7 @@
           lName = document.getElementById('lastName'),
           dob = document.getElementById('dob'),
           address = document.getElementById('address'),
+          pCode = document.getElementById('postalCode'),
           apt = document.getElementById('apt'),
           email = document.getElementById('email'),
           phone = document.getElementById('telephone'),
@@ -53,6 +54,7 @@
             dob: /^\d{2}-\d{2}-\d{4}$/,
             address: /^\d{1,6}(?:\s|,)+.{4,64}$/,
             postalCode: /[a-zA-Z]\d[a-zA-Z][\s-]?\d[a-zA-Z]\d/,
+            strictPostalCode: /^[a-zA-Z]\d[a-zA-Z][\s-]?\d[a-zA-Z]\d$/,
             apt: /^\d{1,6}$/,
             email: /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i,
             phone: /^(?:\d)?\d{3}-?\d{3}-?(\d{4}(?:\s?\ext:\d{1,6})?)$/
@@ -88,6 +90,9 @@
       }
       if (apt.value.length && !patterns.apt.test(apt.value)) {
         warn(apt, 'Vous devez entrer un numéro comportant de 1 à 6 caractères.');
+      }
+      if (!patterns.strictPostalCode.test(pCode.value)) {
+        warn(pCode, 'Veuillez inclure une adresse postale valide.');
       }
       if (!patterns.email.test(email.value)) {
         warn(email, 'Veuillez entrer une adresse courriel valide.');
