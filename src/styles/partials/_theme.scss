@@ -75,7 +75,6 @@ p a { // inline text links
 .badge {
   @include border-radius($spacing-xs);
   display: inline-block;
-  margin: 0 $spacing-xs;
   padding: 2px $spacing-xs;
   font-size: $font-size-sm;
   text-transform: uppercase;
