@@ -1,5 +1,5 @@
 ---
-title: Championnat Canadien Junior, Ste-Thérèse 2014
+title: Championnat canadien junior, Ste-Thérèse 2014
 category: Résultats
 date: 2014-07-04
 icon: assignment
