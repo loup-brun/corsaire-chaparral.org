@@ -13,4 +13,6 @@ La rencontre se déroule sur une piste synthétique comportant 4 corridors sur u
 
 Plus d'informations sont disponibles sur le site web de la [fédération québécoise d'athlétisme](http://athletisme-quebec.ca/nouvelle?id=1219&mod=event).
 
+[Résultats]({{link '/resultats/classique-hivernale-coch-2016/' }})
+
 Responsable de compétition: [Robert Lavoie](robertlecoach@gmail.com).
