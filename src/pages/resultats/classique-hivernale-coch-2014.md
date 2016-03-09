@@ -1,5 +1,5 @@
 ---
-title: Classique Hivernale COCH 2014
+title: Classique hivernale COCH 2014
 category: Résultats
 date: 2014-02-01
 icon: assignment
@@ -7,10 +7,10 @@ icon: assignment
 
 <pre>
 Licensed to Claude-Robillard Sport Facility - Site License
-                                        HY-TEK's Meet Manager 2/1/2014 05:52 PM
-                    Classique Corsaire Chaparal - 2/1/2014                     
-                                   Montreal                                    
-                                   Resultats                                   
+             HY-TEK's Meet Manager 2/1/2014 05:52 PM
+                Classique Corsaire Chaparal - 2/1/2014                     
+                            Montreal                                    
+                            Resultats                                   
  
 Epreuve 1  Femme 60 Metre Course Benjamin
 ================================================================
