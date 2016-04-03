@@ -1,26 +1,26 @@
 ---
 title: Corsaire-Chaparal Invitation
 category: Compétitions
-date: 2015-06-20
+date: 2016-06-25
 icon: calendar
 ---
 
-Le club d'athlétisme Corsaire-Chaparal organise annuellement sa compétition estivale avec, au programme, un ensemble d'épreuves pour les athlètes de catégorie benjamine à senior. La rencontre se tiendra au stade d'athlétisme Richard-Garneau, à Sainte-Thérèse.
+Le club d'athlétisme Corsaire-Chaparal organise annuellement sa compétition estivale avec, au programme, un ensemble d'épreuves pour les athlètes de catégories benjamine à senior.
+
+Cette compétition tient également lieu de championnat provincial des **épreuves combinées chez les cadets**.
 
 ### Informations générales
 
 La rencontre se déroule sur une piste synthétique comportant 8 corridors en courbe et 10 en ligne droite. Deux cages de lancers sont disponibles, ainsi qu'une aire d'échauffement à l'extérieur de la zone de compétition.
 
-Téléchargez le [document technique](http://corsaire-chaparal.org/medias/competitions/2015/coch2015ete.pdf).
+L'horaire de compétition sera disponible sous peu.
 
-Responsable de compétition: [Olivier Lavoie](mailto:corsairechaparal@hotmail.com)
+#### Date
 
-[Horaire définitif](http://corsaire-chaparal.org/medias/competitions/2015/horaire-final-coch-2015.pdf)
+La rencontre aura lieu le **samedi 25 juin 2016**.
 
-[Résultats]({{link '/resultats/corsaire-chaparal-invitation-2015/'}})
+#### Emplacement
 
-### Partenaires du Corsaire-Chaparal Invitation 2015
+Stade Richard-Garneau  
+401, boul. du Domaine, Ste-Thérèse
 
-{{#each partenaires_ete_2015 }}
-{{> partenaire }}
-{{/each}}

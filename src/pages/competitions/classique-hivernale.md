@@ -9,9 +9,9 @@ Le club d'athlétisme Corsaire-Chaparal organise annuellement sa compétition hi
 
 ### Informations générales
 
-La rencontre se déroule sur une piste synthétique comportant 4 corridors sur une piste intérieure de 200m, comportant des courbes inclinées. Les sauts en hauteur et en longueur sont offerts, ainsi que le lancer du poids.
+La rencontre se déroule sur une piste synthétique comportant 4 corridors sur une piste intérieure de 200 m, comportant des courbes inclinées. Les sauts en hauteur et en longueur sont offerts, ainsi que le lancer du poids.
 
-Plus d'informations sont disponibles sur le site web de la [fédération québécoise d'athlétisme](http://athletisme-quebec.ca/nouvelle?id=1219&mod=event).
+Vous trouverez plus de détails sur le site internet de la [fédération québécoise d'athlétisme](http://athletisme-quebec.ca/nouvelle?id=1219&mod=event).
 
 [Résultats]({{link '/resultats/classique-hivernale-coch-2016/' }})
 
