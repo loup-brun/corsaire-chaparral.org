@@ -10,7 +10,7 @@ body, html {
 // Applied on body
 .in-modal {
   overflow: hidden;
-  
+
   .page-wrap {
     //@include transform(translateX(-50px));
     //opacity: 0.9;
@@ -33,12 +33,12 @@ body, html {
 
 p a { // inline text links
   @extend .font-bold;
-  @include transition(background-color, .3s);
+  @include transition(border-color .3s);
   padding: 1px 2px;
+  border-bottom: 1px solid $color-link;
 
-  &:hover {
-    background-color: $color-link;
-    color: check-background($color-link);
+  &:hover, &:focus {
+    border-bottom-color: transparent;
   }
 }
 
@@ -56,9 +56,9 @@ p a { // inline text links
   @include horizontal-padding(0);
   position: relative;
   margin-top: $spacing;
-  margin-bottom: $spacing;
   padding-bottom: $spacing-xl;
   background-color: #fff;
+  @include box-shadow(0 5px 10px rgba(0,0,0,0.1));
 }
 
 .container-landing {

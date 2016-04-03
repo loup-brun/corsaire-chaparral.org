@@ -2,10 +2,10 @@
 // -----------------------------------
 blockquote {
   @extend .em;
-  font-size: $font-size;
-  line-height: $line-height * 1.2;
+  font-size: $font-size + 4;
+  line-height: $line-height + 0.2;
   margin: $spacing 0;
-  padding: 0 $spacing-sm;
+  padding: 0 $spacing;
   color: $gray-dark;
   position: relative;
   border-left: 6px solid $gray-lighter;

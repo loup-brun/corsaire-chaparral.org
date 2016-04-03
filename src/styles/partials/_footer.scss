@@ -2,8 +2,10 @@
 // -----------------------------------
 
 .footer-main {
+  margin-top: -$spacing-sm;
+  padding-top: $spacing-lg;
   background-color: $gray-darker;
-  color: $gray;
+  color: $gray-lighter;
   font-size: $font-size-sm;
 }
 
@@ -21,6 +23,7 @@
       margin-top: $spacing-xs;
       display: block;
       color: $gray;
+      border-bottom: 0;
 
       &:hover, &:focus {
         color: $color-link;

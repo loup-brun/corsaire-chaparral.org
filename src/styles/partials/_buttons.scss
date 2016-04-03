@@ -5,7 +5,7 @@
 // use .btn on any element to give it the styling of a button
 .btn {
   @include inline-block;
-  border-radius: $border-radius;
+  //border-radius: $border-radius;
   font-size: $font-size;
   border: 0;
   cursor: pointer;
