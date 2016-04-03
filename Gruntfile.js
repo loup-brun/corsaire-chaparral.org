@@ -58,6 +58,7 @@ module.exports = function ( grunt ) {
             '<%= bowerrc.directory %>/blazy/blazy.js',
             '<%= bowerrc.directory %>/nanoajax/nanoajax.min.js',
             '<%= bowerrc.directory %>/velocity/velocity.js',
+            '<%= bowerrc.directory %>/swipe-js/swipe.js'
           ],
 
           '<%= config.temp %>/assets/scripts/main.js': ['<%= config.src %>/scripts/*.js'],
