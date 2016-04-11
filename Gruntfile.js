@@ -72,7 +72,7 @@ module.exports = function ( grunt ) {
           ],
 
           '<%= config.temp %>/assets/scripts/ie.js': ['<%= config.src %>/scripts/ie/*.js'],
-          
+
           '<%= config.temp %>/assets/scripts/inscription.js': ['<%= config.src %>/scripts/inscription/*.js']
 
         },
@@ -93,6 +93,20 @@ module.exports = function ( grunt ) {
           { '<%= config.temp %>/assets/styles/fonts.css': '<%= config.src %>/styles/fonts.scss' },
           { '<%= config.temp %>/assets/styles/ie.css': '<%= config.src %>/styles/ie.scss' }
         ],
+      }
+    },
+
+    postcss: {
+      options: {
+        map: true,
+        processors: [
+          require('autoprefixer')({
+            browsers: ['last 2 versions']
+          })
+        ]
+      },
+      temp: {
+        src: [ '<%= config.temp %>/assets/styles/*.css', '<%= config.src %>/_templates/partials/main.css.hbs']
       }
     },
 
@@ -358,6 +372,7 @@ module.exports = function ( grunt ) {
       'concat:temp',
       'sass:temp',
       'copy:temp',
+      'postcss:temp',
       'assemble',
     ]
   );
