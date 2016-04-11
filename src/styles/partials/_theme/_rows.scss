@@ -13,9 +13,11 @@
 .row-danger { background-color: $color-danger; color: check-background($color-danger); }
 
 .well {
+  @include vertical-margin($spacing);
+  padding: $spacing;
   background-color: $gray-lighter;
   color: $gray-dark;
-  padding: $spacing;
+  border-radius: 5px;
 }
 
 // Showcase

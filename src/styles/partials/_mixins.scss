@@ -69,6 +69,16 @@
   padding-bottom: $value;
 }
 
+@mixin vertical-margin($value) {
+  margin-top: $value;
+  margin-bottom: $value;
+}
+
+@mixin horizontal-margin($value) {
+  margin-left: $value;
+  margin-right: $value;
+}
+
 @mixin inline-block {
   display: inline-block;
   *zoom: 1;

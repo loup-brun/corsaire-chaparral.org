@@ -12,14 +12,14 @@
 }
 
 .title-header {
-  @include box-sizing(border-box);
+  box-sizing: border-box;
   @include vertical-padding($spacing-lg);
-  @include box-shadow(3px 6px 0 rgba(0,0,0,0.05));
   background-color: $color-primary;
   color: check-background($color-primary);
   word-wrap: break-word;
   position: relative;
   left: -$header-fold-size;
+  box-shadow: 0 3px 4px rgba(0,0,0,0.3);
 
   &:after {
     content: '';

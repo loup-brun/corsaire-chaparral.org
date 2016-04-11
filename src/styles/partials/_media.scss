@@ -21,9 +21,10 @@ figure {
 .figure-thumb {
 
   img {
-    padding: 4px;
     max-height: 260px; // ensure portrait images don't take up too much space
-    border: 1px solid $gray-lighter
+    border: 8px solid #fff;
+    transform: rotate(-3deg);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   }
 
   > figcaption {
