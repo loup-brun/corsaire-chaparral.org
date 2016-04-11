@@ -63,12 +63,13 @@
 
 // Landing page
 .header-landing {
-  @include vertical-padding($spacing-xl * 2);
+  @include vertical-padding(12%);
   //margin-bottom: $spacing-xl;
   position: relative;
   overflow: hidden;
   background-color: $color-primary;
-  background-image: url('#{$assets-url}img/low-poly.jpg');
+  //background-image: url('#{$assets-url}img/low-poly.jpg');
+  background-image: linear-gradient(-45deg, $color-primary, saturate(adjust-hue($color-primary, 12%), 15%));
   background-repeat: no-repeat;
   background-size: cover;
   //background-attachment: fixed;
@@ -93,9 +94,9 @@
   @include opacity(0.7);
   pointer-events: none;
   position: absolute;
-  top: $spacing;
   left: auto;
-  right: $spacing;
+  top: 120px;
+  right: 120px;
   color: darken($color-primary, 10%);
-  font-size: 350px;
+  font-size: 500px;
 }

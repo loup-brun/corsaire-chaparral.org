@@ -28,8 +28,6 @@
   overflow: hidden;
   color: check-background($color-primary);
 
-  h1,h2,h3 { margin: $spacing-lg 0; }
-
   > .img-bg-showcase, .bg-overlay-showcase {
     position: absolute;
     top: 0;

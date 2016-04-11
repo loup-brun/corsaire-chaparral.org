@@ -24,4 +24,4 @@ Stade Richard-Garneau
 
 #### Programmation
 
-Une programmation détaillée de chacune des rencontres sera éventuellement publiée. Notez que l'ensemble des épreuves de lancer (poids, disque, javelot et marteau) et de saut (hauteur, longeur, triple et perche) seront offertes au cours des crépuscules estivaux.
+Une programmation détaillée de chacune des rencontres sera éventuellement publiée. Notez que l'ensemble des épreuves de lancer (poids, disque, javelot et marteau) et de saut (hauteur, longeur, triple et perche) seront offertes au cours de ces crépuscules estivaux.

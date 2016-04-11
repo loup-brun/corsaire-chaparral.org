@@ -9,7 +9,7 @@ En vue de la [50<sup>e</sup> finale provinciale des Jeux du Québec 2016](http:/
 
 30 athlètes, parmi lesquels des filles et des garçons de catégories cadette et jeunesse (juvénile), seront retenus pour la composition de la délégation régionale en athlétisme. Chaque athlète devra concourir dans trois épreuves (excluant les épreuves de relais) lors de la grande finale provinciale afin d'accumuler le plus de points possible. La performance individuelle ainsi que le caractère polyvalent de l'athlète seront donc pris en compte lors de la sélection définitive.
 
-La participation à la finale régionale est obligatoire pour faire partie de l'équipe des Laurentides. Notez cependant que la sélection ne se limite pas qu'à la finale régionale, les performances effectuées lors rencontres étant également considérées.
+La participation à la finale régionale est **obligatoire** pour faire partie de l'équipe des Laurentides. Notez cependant que la sélection ne se limite pas qu'à la finale régionale ; les performances effectuées lors rencontres seront également considérées.
 
 L'affiliation à la Fédération québécoise d'athlétisme n'est pas requise pour participer cette compétition.
 
@@ -19,4 +19,4 @@ La rencontre se déroulera au stade Richard-Garneau (adjacent à la polyvalente 
 
 D'autres détails suivront.
 
-Responsables de la rencontre : [Marc-Olivier Guindon-Gibeault](marco_guindon@hotmail.com) ; [Louis-Olivier Brassard](mailto:louis.oli.br@gmail.com)
+Responsables de la rencontre : [Marc-Olivier Guindon-Gibeault](mailto:marco_guindon@hotmail.com) ; [Louis-Olivier Brassard](mailto:louis.oli.br@gmail.com)
