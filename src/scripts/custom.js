@@ -1,7 +1,15 @@
-/*global window, document, qwery, bean, classie, head, Velocity*/
+/*global window, document, qwery, bean, classie, head, Velocity, Swipe*/
 (function(win, doc) {
 
   head.ready(doc, function() {
+
+    if (document.getElementById('landing-slider')) {
+      var landingSliderElem = document.getElementById('landing-slider');
+      window.landingSlider = new Swipe(landingSliderElem, {
+        speed: 650,
+        auto: 4000
+      });
+    }
 
     // include qwery as a selector engine
     bean.setSelectorEngine(qwery);
