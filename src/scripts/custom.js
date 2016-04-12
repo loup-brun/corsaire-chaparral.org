@@ -3,12 +3,106 @@
 
   head.ready(doc, function() {
 
+    // Home slider
     if (document.getElementById('landing-slider')) {
-      var landingSliderElem = document.getElementById('landing-slider');
-      window.landingSlider = new Swipe(landingSliderElem, {
-        speed: 650,
-        auto: 4000
-      });
+
+      (function sliderBusiness() {
+        // begin slider business
+
+        // variable definitions
+        var sliderElem = doc.getElementById('landing-slider'),
+            prevElem = doc.getElementById('landing-slider-btn-controls-left'),
+            nextElem = doc.getElementById('landing-slider-btn-controls-right'),
+            slides = sliderElem.getElementsByTagName('div')[0].children,
+            bulletsSliderElem = doc.getElementById('landing-slider-bullets'),
+
+            landingSlider = new Swipe(sliderElem, {
+              speed: 650,
+              auto: 4000,
+              callback: function(index, elem) {
+                updateSliderBullets(index, bulletsSliderElem);
+              }
+            });
+
+        // Add bullets at the bottom of the slider
+        addSliderBullets(landingSlider, bulletsSliderElem);
+
+        // Initially highlight bullet 0 (since the slider starts at 0)
+        updateSliderBullets(0, bulletsSliderElem);
+
+        // Bind events on next/prev buttons
+        bean.on(prevElem, 'click touchstart', function() {
+          landingSlider.prev();
+        });
+        bean.on(nextElem, 'click touchstart', function() {
+          landingSlider.next();
+        });
+        
+        // Bind keyboard events for slider
+        makeSliderKeyInteractive(landingSlider);
+
+        /**
+         * @param slider {Object} [Swipe]
+         * @param bullets {DOM Object}
+         */
+        function addSliderBullets(slider, bullets) {
+          var length = slider.getNumSlides(), i;
+
+          for (i = 0; i < length; i++) {
+            bindEach(i);	
+          }
+
+          // private function for individual binding
+          function bindEach(index) {
+            var li = doc.createElement('li'),
+                a = doc.createElement('a');
+
+            // Bind click events on bullets
+            bean.on(a, 'click touchstart', function() {
+              slider.slide(index); // got to the nth-slide
+            });
+
+            li.appendChild(a);
+
+            bullets.appendChild(li);
+          }
+        }
+
+        function updateSliderBullets(slideIndex, bullets) {
+          var children = qwery('li a', bullets), i;
+
+          for (i = 0; i < children.length; i++) {
+            removeActive(i);
+          }
+
+          // add active class on nth-bullet
+          var current = children[slideIndex];
+          classie.add(current, 'active');
+
+          // private function for individual class removal
+          function removeActive(n) {
+            var a = children[n];
+
+            classie.remove(a, 'active');
+          }
+        }
+
+        // keyboard interaction, event binding
+        function makeSliderKeyInteractive(slider) {
+          document.onkeydown = function (e) {
+            if (e !== undefined) { // IE7 not handling event
+              switch (parseInt(e.which, 10)) {
+                case 37: // left arrow
+                  slider.prev();
+                  break;
+                case 39: // right arrow
+                  slider.next();
+                  break;
+              }
+            }
+          };
+        }
+      })();
     }
 
     // include qwery as a selector engine

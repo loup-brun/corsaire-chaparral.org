@@ -101,7 +101,7 @@ module.exports = function ( grunt ) {
         map: true,
         processors: [
           require('autoprefixer')({
-            browsers: ['last 2 versions']
+            browsers: ['last 2 versions', 'IE 7']
           })
         ]
       },

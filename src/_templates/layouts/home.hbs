@@ -4,7 +4,7 @@ layout: default.hbs
 <main class="container-main container-landing">
   <header class="header-landing">
     <span class="icon icon-athletics-3 icon-landing"></span>
-    <div class="swipe" id="landing-slider">
+    <div class="swipe landing-slider" id="landing-slider">
       <div class="swipe-wrap">
 
         <section>
@@ -25,19 +25,25 @@ layout: default.hbs
           <div class="container">
             <div class="row">
               <div class="col col-4 tablet-col-12">
-                <div style="height: 250px; width: 250px; background: #fff; border-radius: 150px;"></div>
+                <img src="http://athletics.ca/wp-content/uploads/2015/04/LegionLogoSPORTS_2015-370x245-300x198.jpg" alt="Légions" class="img-responsive" />
               </div>
 
               <div class="col col-8 tablet-col-12">
-                <h2>Championnats nationaux pour jeunes</h2>
-                <p class="lead">Du 5 au 7 août, le club d'athlétisme Corsaire-Chaparal organisera, pour une deuxième année consécutive, les championnats nationaux pour jeunes.</p>
-                <p><a class="btn btn-cta" href="http://benevoleschampionnatcanadien.corsaire-chaparal.org">Devenir bénévole <span class="icon icon-angle-right"></span></a></p>
+                <h2>Championnats nationaux d'athlétisme pour jeunes</h2>
+                <p class="lead">Du 5 au 7 août, le club d'athlétisme Corsaire-Chaparal organisera, pour une deuxième année consécutive, les championnats nationaux d'athlétisme pour jeunes.</p>
+                <p><a class="btn btn-cta" href="http://benevoleschampionnatcanadien.corsaire-chaparal.org" target="_blank">Devenir bénévole <span class="icon icon-angle-right"></span></a></p>
               </div>
             </div>
           </div>
         </section>
 
       </div>
+      
+      <div class="slider-btn-controls slider-btn-controls-left" id="landing-slider-btn-controls-left"><span class="icon icon-angle-left"></span></div>
+      <div class="slider-btn-controls slider-btn-controls-right" id="landing-slider-btn-controls-right"><span class="icon icon-angle-right"></span></div>
+      
+      <ul class="slider-bullets" id="landing-slider-bullets"></ul>
+      
     </div>
   </header>
 

@@ -29,4 +29,18 @@
   .navbar-side {
     //display: block;
   }
+
+  .slider-btn-controls {
+
+    .icon {
+      width: $btn-slider-size-responsive;
+      font-size: floor($btn-slider-size-responsive * 0.8);
+    }
+  }
+  .slider-btn-controls-left {
+    left: 0;
+  }
+  .slider-btn-controls-right {
+    right: 0;
+  }
 }

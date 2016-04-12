@@ -20,6 +20,7 @@ i, em, .em { font-style: italic; }
 a {
   color: $color-link;
   text-decoration: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
   &:hover { text-decoration: none; }
   &:focus { outline: none; }
   &:active, a:hover { outline: none; }

@@ -7,7 +7,7 @@ icon: calendar
 
 ### Informations générales
 
-Le club d'athlétisme Corsaire-Chaparal est heureux d'offrir une série de rencontres en soirée (des « crépuscules ») pour la saison estivale 2016. Une variété d'épreuves de pelouse (sauts et lancers) est proposée lors de chacune de ces rencontres. Les engins sont fournis par les organisateurs.
+Le club d'athlétisme Corsaire-Chaparal est heureux d'offrir une série de rencontres en soirée (des «&nbsp;crépuscules&nbsp;») pour la saison estivale 2016. Une variété d'épreuves de pelouse (sauts et lancers) est proposée lors de chacune de ces rencontres. Les engins sont fournis par les organisateurs.
 
 #### Dates
 

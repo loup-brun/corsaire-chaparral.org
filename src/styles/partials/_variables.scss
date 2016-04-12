@@ -8,6 +8,7 @@ $assets-url: "/assets/"; // add site baseurl if needed
 $purple:				#5F1599; // Primary color
 $orange:				#f6851e; // Secondary color
 $blue:                  #305AFF;
+$green:                 #00E26D;
 $red:					#a62d36; // Warning color
 
 // Grays
@@ -88,7 +89,11 @@ $caption-lightbox-height: 180px; // on tablet (portrait)
 
 $size-loader: 50px;
 
+// Slider
+$btn-slider-size:       60px;
+$btn-slider-size-responsive: 30px;
+
 // z-index
-$z-index-page:		5;
-$z-index-overlay:	10;
-$z-index-modal:	20;
+$z-index-page:          5;
+$z-index-overlay:       10;
+$z-index-modal:         20;
