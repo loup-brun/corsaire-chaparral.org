@@ -4,9 +4,10 @@ title_meta: Compétitions du COCH
 icon: assignment
 ---
 
-{{#withSort pages "date" }}
-{{#is data.category "Résultats"}}
-  {{reverse this}}
+{{#each categories }}
+{{#is category "Résultats"}}
+{{#withSort pages "data.date"}}
 * [{{ data.title }}]({{baseurl}}/resultats/{{ basename }})
-{{/is}}
 {{/withSort}}
+{{/is}}
+{{/each}}

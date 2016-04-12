@@ -1,8 +1,8 @@
 ---
 title: Classique hivernale du CoCh 2015
-date: 2015-02-07
+date: "2015-02-07"
 meta_title: <%= date %>
-category: nouvelles
+categories: nouvelles
 ---
 
 Le Corsaire-Chaparal est l'organisateur chaque année de la Classique hivernale au centre sportif Claude-Robillard, à Montréal.

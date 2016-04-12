@@ -1,9 +1,10 @@
 ---
-title: Classique hivernale
-category: Compétitions
-date: 2016-02-06
+title: "Classique hivernale"
+categories: Compétitions
+date: "2016-02-06"
 icon: calendar
 ---
+
 
 Le club d'athlétisme Corsaire-Chaparal organise annuellement sa compétition hivernale avec, au programme, un ensemble d'épreuves pour les athlètes de catégorie benjamine à senior. La rencontre se tiendra au centre sportif Claude-Robillard, à Montréal.
 
@@ -11,8 +12,8 @@ Le club d'athlétisme Corsaire-Chaparal organise annuellement sa compétition hi
 
 La rencontre se déroule sur une piste synthétique comportant 4 corridors sur une piste intérieure de 200 m, comportant des courbes inclinées. Les sauts en hauteur et en longueur sont offerts, ainsi que le lancer du poids.
 
-Vous trouverez plus de détails sur le site internet de la [fédération québécoise d'athlétisme](http://athletisme-quebec.ca/nouvelle?id=1219&mod=event).
+Vous trouverez plus de détails sur le site internet de la [Fédération québécoise d'athlétisme](http://athletisme-quebec.ca/nouvelle?id=1219&mod=event).
 
 [Résultats]({{link '/resultats/classique-hivernale-coch-2016/' }})
 
-Responsable de compétition: [Robert Lavoie](robertlecoach@gmail.com).
+Responsable de compétition: [Robert Lavoie](mailto:robertlecoach@gmail.com).

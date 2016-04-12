@@ -4,8 +4,10 @@ meta_title: Corsaire-Chaparal
 icon: calendar
 ---
 
-{{#withSort pages "date"}}
-{{#is data.category "Compétitions"}}
+{{#each categories }}
+{{#is category "Compétitions" }}
+{{#withSort pages "data.date"}}
 * [{{ data.title }}]({{baseurl}}/competitions/{{ basename }})
-{{/is}}
 {{/withSort}}
+{{/is}}
+{{/each}}

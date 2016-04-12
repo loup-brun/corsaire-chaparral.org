@@ -1,6 +1,7 @@
 ---
 title: "Crépuscules estivaux"
-category: Compétitions
+categories: Compétitions
+date: "2016-05-18"
 icon: calendar
 ---
 
@@ -20,7 +21,7 @@ Les rencontres auront lieu les mercredis en soirée aux dates suivantes :
 #### Emplacement
 
 Stade Richard-Garneau  
-401, boul. du Domaine, Ste-Thérèse (adjacent à la polyvalente Ste-Thérèse)
+401, boul. du Domaine, Sainte-Thérèse (adjacent à la polyvalente Sainte-Thérèse)
 
 #### Programmation
 

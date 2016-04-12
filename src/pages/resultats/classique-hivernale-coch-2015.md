@@ -1,7 +1,7 @@
 ---
 title: Classique hivernale COCH 2015
-category: Résultats
-date: 2015-02-07
+categories: Résultats
+date: "2015-02-07"
 icon: assignment
 ---
 

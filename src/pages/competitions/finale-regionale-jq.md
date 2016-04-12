@@ -1,7 +1,7 @@
 ---
 title: "Finale régionale des Jeux du Québec"
-category: Compétitions
-date: 2016-06-04
+categories: Compétitions
+date: "2016-06-04"
 icon: calendar
 ---
 
@@ -15,7 +15,7 @@ L'affiliation à la Fédération québécoise d'athlétisme n'est pas requise po
 
 ### Informations générales
 
-La rencontre se déroulera au stade Richard-Garneau (adjacent à la polyvalente Ste-Thérèse) le **4 juin 2016**, à partir de 11 h. Un éventail d'épreuves sera offert, dont des courses diverses (sprints et épreuves de demi-fond), des lancers ainsi que des sauts.
+La rencontre se déroulera au stade Richard-Garneau (adjacent à la polyvalente Sainte-Thérèse) le **4 juin 2016**, à partir de 11 h. Un éventail d'épreuves sera offert, dont des courses diverses (sprints et épreuves de demi-fond), des lancers ainsi que des sauts.
 
 D'autres détails suivront.
 

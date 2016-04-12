@@ -1,7 +1,7 @@
 ---
 title: Classique d'athlétisme des Laurentides COCH 2014
-category: Résultats
-date: 2015-06-21
+categories: Résultats
+date: "2015-06-21"
 icon: assignment
 ---
 
@@ -11,7 +11,7 @@ Licensed to Claude-Robillard Sport Facility - Site License
                                        HY-TEK's Meet Manager 6/22/2014 12:09 PM
                      Classique des Laurentides - 6/21/2014                     
                   Championnat Prov Epreuves Combinees Ben-Cad                  
-                                  Ste-Thérèse                                  
+                                  Sainte-Thérèse                                  
                                    Résultats                                   
  
 Épreuve 1  Femmes 80 Mètre Course Benjamin

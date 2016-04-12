@@ -1,8 +1,8 @@
 ---
 title: Invitation familiale
-date: 2015-05-09
+date: "2015-05-09"
 meta_title: <%= date %>
-category: nouvelles
+categories: nouvelles
 ---
 
 Le Corsaire-Chaparal invite le grand public à se joindre à une journée familiale de l'athlétisme. Au programme:

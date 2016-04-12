@@ -1,7 +1,7 @@
 ---
 title: Corsaire-Chaparal Invitation 2014
-date: 2014-07-12
-category: Résultats
+date: "2014-07-12"
+categories: Résultats
 icon: assignment
 ---
 

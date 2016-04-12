@@ -1,7 +1,7 @@
 ---
 title: "Crépuscule de lancers #2 2015"
-category: Résultats
-date: 2015-07-09
+categories: Résultats
+date: "2015-07-09"
 icon: assignment
 ---
 

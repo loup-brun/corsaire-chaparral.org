@@ -1,7 +1,7 @@
 ---
 title: Corsaire-Chaparal Invitation
-category: Compétitions
-date: 2016-06-25
+categories: Compétitions
+date: "2016-06-25"
 icon: calendar
 ---
 
@@ -22,5 +22,5 @@ La rencontre aura lieu le **samedi 25 juin 2016**.
 #### Emplacement
 
 Stade Richard-Garneau  
-401, boul. du Domaine, Ste-Thérèse
+401, boul. du Domaine, Sainte-Thérèse
 
