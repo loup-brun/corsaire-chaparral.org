@@ -83,8 +83,8 @@ module.exports = function ( grunt ) {
       // compile different stylesheets to be loaded async
       temp: {
         options: {
-          style: 'compressed',
-          sourcemap: 'none'
+          outputStyle: 'compressed',
+          sourceMap: false
         },
         files: [
           { '<%= config.src %>/_templates/partials/main.css.hbs': '<%= config.src %>/styles/main.scss' },
