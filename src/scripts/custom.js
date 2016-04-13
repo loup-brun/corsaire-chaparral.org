@@ -13,7 +13,7 @@
         var sliderElem = doc.getElementById('landing-slider'),
             prevElem = doc.getElementById('landing-slider-btn-controls-left'),
             nextElem = doc.getElementById('landing-slider-btn-controls-right'),
-            slides = sliderElem.getElementsByTagName('div')[0].children,
+            //slides = sliderElem.getElementsByTagName('div')[0].children,
             bulletsSliderElem = doc.getElementById('landing-slider-bullets'),
 
             landingSlider = new Swipe(sliderElem, {
@@ -39,7 +39,7 @@
           landingSlider.next();
           e.preventDefault();
         });
-        
+
         // Bind keyboard events for slider
         makeSliderKeyInteractive(landingSlider);
 
@@ -76,6 +76,14 @@
           for (i = 0; i < children.length; i++) {
             removeActive(i);
           }
+          
+          // Temporary fix if there are only two slides
+          // This strange error happens after resizing the
+          // window. The slide index then continues beyond
+          // the actual number of slides, then comes back to 0.
+          if (slideIndex >= children.length) {
+            slideIndex = slideIndex - 2;
+          }
 
           // add active class on nth-bullet
           var current = children[slideIndex];
@@ -91,7 +99,7 @@
 
         // keyboard interaction, event binding
         function makeSliderKeyInteractive(slider) {
-          document.onkeydown = function (e) {
+          bean.on(document, 'keydown', function (e) {
             if (e !== undefined) { // IE7 not handling event
               switch (parseInt(e.which, 10)) {
                 case 37: // left arrow
@@ -102,7 +110,7 @@
                   break;
               }
             }
-          };
+          });
         }
       })();
     }
@@ -111,9 +119,13 @@
     bean.setSelectorEngine(qwery);
 
     // Toggle nav
-    var toggles = qwery('.toggle-sidebar'),
+    var toggleElems = qwery('.toggle-sidebar'),
         sidebar = qwery('#navbar-side')[0],
         body  = qwery('body')[0];
+
+    for (var i in toggleElems) {
+      bean.on(toggleElems[i], 'click', toggleSidebar);
+    }
 
     function toggleSidebar() {
 
@@ -125,10 +137,6 @@
 
       classie.toggleClass(body, 'in-modal');
       classie.toggleClass(sidebar, 'toggled');
-    }
-
-    for (var i in toggles) {
-      bean.on(toggles[i], 'click touchstart', toggleSidebar);
     }
 
     // Prevent default on touch screens for dropdowns
