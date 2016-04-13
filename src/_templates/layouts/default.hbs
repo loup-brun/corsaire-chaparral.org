@@ -32,7 +32,7 @@
           {{#each page.stylesheets }}
           "{{ this }}",
           {{/each}}
-          "{{link '/assets/styles/fonts.css'}}"
+          "{{!link '/assets/styles/fonts.css'}}"
         ], function() {
           console.log("loaded stylesheets");
         });
