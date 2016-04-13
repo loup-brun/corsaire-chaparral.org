@@ -31,11 +31,13 @@
         updateSliderBullets(0, bulletsSliderElem);
 
         // Bind events on next/prev buttons
-        bean.on(prevElem, 'click touchstart', function() {
+        bean.on(prevElem, 'click', function(e) {
           landingSlider.prev();
+          e.preventDefault();
         });
-        bean.on(nextElem, 'click touchstart', function() {
+        bean.on(nextElem, 'click', function(e) {
           landingSlider.next();
+          e.preventDefault();
         });
         
         // Bind keyboard events for slider
@@ -58,7 +60,7 @@
                 a = doc.createElement('a');
 
             // Bind click events on bullets
-            bean.on(a, 'click touchstart', function() {
+            bean.on(a, 'click', function() {
               slider.slide(index); // got to the nth-slide
             });
 
