@@ -1,31 +1,33 @@
 @import
-	"partials/variables",
-	"partials/mixins",
-	"partials/resets",
+  "partials/variables",
+  "partials/mixins",
+  "partials/resets",
 
-	// General
-	"partials/helpers",
-	"partials/lists",
-	"partials/type",
-	"partials/tables",
-	
-	// Components
-	"partials/blockquotes",
-	"partials/code",
-	"partials/buttons",
-	"partials/forms",
-	"partials/layout", // includes mobile + tablet layouts
-	//"partials/lightbox",
-	"partials/media",
-	"partials/nav",
-    "partials/aside",
-    "partials/header",
-    "partials/footer",
-    "partials/slider",
+  // General
+  "partials/helpers",
+  "partials/lists",
+  "partials/type",
+  "partials/tables",
 
-	"partials/icons",
-	"partials/theme",
-  
-	"partials/fallbacks"
+  // Components
+  "partials/blockquotes",
+  "partials/code",
+  "partials/buttons",
+  "partials/forms",
+  "partials/layout", // includes mobile + tablet layouts
+  //"partials/lightbox",
+  "partials/media",
+  "partials/nav",
+  "partials/aside",
+  "partials/header",
+  "partials/footer",
+  "partials/slider",
 
-	;
+  "partials/icons",
+  "partials/theme",
+
+  "fonts",
+
+  "partials/fallbacks"
+
+  ;
