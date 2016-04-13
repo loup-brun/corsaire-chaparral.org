@@ -3,6 +3,9 @@
 
   head.ready(doc, function() {
 
+    // include qwery as a selector engine
+    bean.setSelectorEngine(qwery);
+
     // Home slider
     if (document.getElementById('landing-slider')) {
 
@@ -76,7 +79,7 @@
           for (i = 0; i < children.length; i++) {
             removeActive(i);
           }
-          
+
           // Temporary fix if there are only two slides
           // This strange error happens after resizing the
           // window. The slide index then continues beyond
@@ -115,17 +118,12 @@
       })();
     }
 
-    // include qwery as a selector engine
-    bean.setSelectorEngine(qwery);
-
     // Toggle nav
-    var toggleElems = qwery('.toggle-sidebar'),
+    var toggleElem = document.getElementById('toggle-sidebar'),
         sidebar = qwery('#navbar-side')[0],
         body  = qwery('body')[0];
 
-    for (var i in toggleElems) {
-      bean.on(toggleElems[i], 'click', toggleSidebar);
-    }
+    bean.on(toggleElem, 'click', toggleSidebar);
 
     function toggleSidebar() {
 
@@ -146,24 +144,6 @@
         nestedDropdowns = qwery('.dropdown .dropdown', navbar);
 
     function catchDropdown(ddown) {
-
-      function isNestedDropdown(ddown) {
-        var ret = false;
-
-        for (var j in nestedDropdowns) {
-          if (ddown === nestedDropdowns[j]) {
-            ret = true;
-          }
-        }
-
-        return ret;
-      }
-
-      function clearAllDropdowns() {
-        for (var i in dropdowns) {
-          classie.remove(dropdowns[i], 'open');
-        }
-      }
 
       var a = qwery('a', ddown)[0];
 
@@ -207,6 +187,33 @@
         }
 
       });
+
+      function isNestedDropdown(ddown) {
+        var ret = false;
+
+        for (var j in nestedDropdowns) {
+          if (ddown === nestedDropdowns[j]) {
+            ret = true;
+          }
+        }
+
+        return ret;
+      }
+
+      function clearAllDropdowns() {
+        
+        // ensure there are no overlays
+        
+        var existingOverlays = qwery('.invisible-overlay'), d, o;
+        
+        for (o in existingOverlays) {
+          body.removeChild(existingOverlays[o]);
+        }
+        
+        for (d in dropdowns) {
+          classie.remove(dropdowns[d], 'open');
+        }
+      }
     }
 
     //if (head.touch()) {

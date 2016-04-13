@@ -3,7 +3,13 @@
 
 @include mquery($tablet-breakpoint) {
   .title-header {
-    @include box-shadow(none);
+    //box-shadow: none;
+    left: 0;
+    &:after { display: none }
+  }
+  
+  .meta-header {
+    //box-shadow: none;
     left: 0;
     &:after { display: none }
   }

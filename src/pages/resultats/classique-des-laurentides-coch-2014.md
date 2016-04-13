@@ -1,7 +1,7 @@
 ---
 title: Classique d'athlétisme des Laurentides COCH 2014
 categories: Résultats
-date: "2015-06-21"
+date: "2014-06-21"
 icon: assignment
 ---
 

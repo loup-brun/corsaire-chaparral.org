@@ -1,5 +1,5 @@
 <aside class="navbar-side" id="navbar-side">
-  <div class="h6 title-aside"><a href="#" class="toggle-sidebar left"><span class="icon icon-close"></span></a> Menu</div>
+  <div class="h6 title-aside">Menu</div>
   <ul class="nav nav-side">
      {{#each navigation }}
     <li class="{{#is ../title this.name }}active{{/is}}{{#is this.subnav ../page.categories }}{{#if this.subnav}}active{{/if}}{{/is}}{{#is this.subnav ../page.top_category}}{{#if this.subnav }} active{{/if}}{{/is}}">

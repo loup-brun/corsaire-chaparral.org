@@ -5,8 +5,11 @@ icon: assignment_ind
 subnav: Entraîneurs
 ---
 
-{{#each pages }}
-{{#is data.category 'Entraîneurs'}}
-* [{{ data.title }}]({{ baseurl }}/club/entraineurs/{{ this.basename }}/)
+{{#each categories }}
+{{#is category "Entraîneurs" }}
+{{#withSort pages "data.title"}}
+* [{{ data.title }}]({{baseurl}}/club/entraineurs/{{ basename }})
+{{/withSort}}
 {{/is}}
 {{/each}}
+

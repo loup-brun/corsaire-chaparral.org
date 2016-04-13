@@ -1,10 +1,13 @@
 ---
 layout: page.hbs
 title: Nouvelles
+icon: hamburger
 ---
 
-{{#withSort pages "date"}}
-{{#is data.category "nouvelles"}}
+{{#each categories }}
+{{#is category "nouvelles"}}
+{{#withSort pages "data.date"}}
 {{> nouvelle-apercu }}
-{{/is}}
 {{/withSort}}
+{{/is}}
+{{/each}}

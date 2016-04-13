@@ -19,7 +19,7 @@
   word-wrap: break-word;
   position: relative;
   left: -$header-fold-size;
-  box-shadow: 0 3px 4px rgba(0,0,0,0.3);
+  box-shadow: 0 5px 6px rgba(0,0,0,0.2);
 
   &:after {
     content: '';
@@ -45,7 +45,8 @@
   left: -$header-fold-size-sm;
   padding: $spacing-sm $spacing-lg;
   background-color: $orange;
-  color: $gray-lighter;;
+  color: $gray-lighter;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 
   &:after {
     position: absolute;

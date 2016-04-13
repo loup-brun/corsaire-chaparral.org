@@ -45,11 +45,8 @@ p a { // inline text links
 .link-unstyled {
   font-weight: normal;
   color: $font-color;
-
-  &:hover {
-    background-color: transparent;
-    color: $font-color;
-  }
+  border: 0;
+  padding: 0;
 }
 
 .container-main {

@@ -3,7 +3,7 @@
   position: fixed;
   top: 0;
   right: 0;
-  padding: $spacing-sm 0;
+  padding: ceil($spacing-sm * 2 + $font-size * $line-height) 0 $spacing-sm;
   width: 260px;
   height: 100%;
   overflow: auto;
@@ -11,6 +11,7 @@
   color: $gray-lighter;
   z-index: $z-index-overlay;
   font-size: $font-size-sm;
+  box-shadow: 0 0 4px 1px rgba(0,0,0,0.4);
 
   //&.toggled { display: block; }
 
