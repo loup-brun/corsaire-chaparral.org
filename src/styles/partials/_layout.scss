@@ -44,6 +44,7 @@
 .row-sm { @include vertical-padding($spacing-sm); }
 .row-lg { @include vertical-padding($spacing-xl); }
 .row-xl { @include vertical-padding(2 * $spacing-xl); }
+.row-space-fluid { @include vertical-padding(12%); } // increase the spacing at smaller sizes
 
 .hide-desktop { display: none; }
 

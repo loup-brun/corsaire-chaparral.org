@@ -1,4 +1,6 @@
 // Fallbacks
+// -----------------------------------
+
 .no-js {
   @include mquery($tablet-breakpoint) {
     .nav-toggle { display: none }

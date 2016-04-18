@@ -10,6 +10,7 @@
 
 // Colors
 .row-primary { background-color: $color-primary; color: check-background($color-primary); }
+.row-secondary { background-color: $color-secondary; color: check-background($color-secondary); }
 .row-danger { background-color: $color-danger; color: check-background($color-danger); }
 
 .well {
@@ -22,7 +23,6 @@
 
 // Showcase
 .row-showcase {
-  @include vertical-padding($spacing-xl * 2);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -46,9 +46,19 @@
 
   // use css filter instead?
   > .bg-overlay-showcase {
-    background: $color-primary;
-    @include background-gradient(rgba($color-primary, 0.9), rgba($color-primary, 0.6), 'vertical');
+    //background: $color-primary;
+    //background-image: linear-gradient(145deg, rgba($color-primary, 0.9), rgba($color-primary, 0.6));
     z-index: $z-index-page - 1;
+  }
+  
+  > .bg-overlay-primary {
+    background: $color-primary;
+    background: linear-gradient(145deg, rgba(adjust-hue($color-primary, -20%), 0.9), rgba($color-primary, 0.6));
+  }
+  
+  > .bg-overlay-secondary {
+    background: $color-secondary;
+    background: linear-gradient(145deg, rgba(adjust-hue($color-secondary, -12%), 0.9), rgba($color-secondary, 0.6));
   }
 
   > .container {
@@ -59,6 +69,9 @@
 
 // Home page
 
+#camp-de-jour {
+  background-image: url('#{$assets-url}img/jeunes-lancer-turbo-javelots.jpg');
+}
 
 #demi-fond {
   background-image: url('#{$assets-url}img/mass_2km_Ste-Therese_2014-16.jpg');
@@ -66,13 +79,11 @@
 
 #coch-invitation {
   background-image: url('#{$assets-url}img/piste-bleue-bloc.jpg');
-  background-size: cover;
   background-position: center bottom;
 }
 
 #crepuscule-lancers {
   background-image: url('#{$assets-url}img/javelots.jpg');
-  background-size: cover;
   background-position: right center;
 }
 

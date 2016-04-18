@@ -82,12 +82,10 @@ p a { // inline text links
   color: check-background($color-primary);
 }
 
-.text--primary {
-  color: $color-primary;
-}
-.text--danger {
-  color: $color-danger;
-}
+.text--gray { color: $gray; }
+.text--primary { color: $color-primary; }
+.text--secondary { color: $color-secondary; }
+.text--danger { color: $color-danger; }
 
 @import '_theme/partenaires';
 @import '_theme/rows';

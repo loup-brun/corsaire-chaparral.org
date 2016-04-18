@@ -88,9 +88,8 @@ module.exports = function ( grunt ) {
         },
         files: [
           { '<%= config.src %>/_templates/partials/main.css.hbs': '<%= config.src %>/styles/main.scss' },
-          //{ '<%= config.temp %>/assets/styles/main.css': '<%= config.src %>/styles/main.scss' },
+          { '<%= config.temp %>/assets/styles/main.css': '<%= config.src %>/styles/main.scss' },
           { '<%= config.temp %>/assets/styles/blocks-layout.css': '<%= config.src %>/styles/blocks-layout.scss' },
-          //{ '<%= config.temp %>/assets/styles/fonts.css': '<%= config.src %>/styles/fonts.scss' },
           { '<%= config.temp %>/assets/styles/ie.css': '<%= config.src %>/styles/ie.scss' }
         ],
       }

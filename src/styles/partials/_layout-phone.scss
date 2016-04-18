@@ -1,52 +1,55 @@
 // Layout - phone
 // -----------------------------------
+
 @include mquery($phone-breakpoint) {
-	
-	.container {
-		@include horizontal-padding($spacing);
-		float: none;
-		//&:first-child { margin-left: auto; }
-	}
 
-	.phone-no-gutter {
-		padding-left: 0;
-		padding-right: 0;
-	}
+  .container {
+    @include horizontal-padding($spacing);
+    float: none;
+    //&:first-child { margin-left: auto; }
+  }
 
-	// Grid
-	@for $i from 1 through $columns {
-		.phone-col-#{$i} { width: (100% * $i / $columns) - (2 * $gutter); }
+  .phone-no-gutter {
+    padding-left: 0;
+    padding-right: 0;
+  }
 
-		@if $i != $columns {
-			.phone-push-#{$i} { left: (100% * $i / $columns) - (2 * $gutter); }
-			//.phone-pull-#{$i} { left: (-100% * $i / $columns) - (2 * $gutter); }
-		}
-	}
+  // Grid
+  @for $i from 1 through $columns {
+    .phone-col-#{$i} { width: (100% * $i / $columns) - (2 * $gutter); }
 
-	.phone-no-push, .phone-no-pull { left: auto; }
+    @if $i != $columns {
+      .phone-push-#{$i} { left: (100% * $i / $columns) - (2 * $gutter); }
+      //.phone-pull-#{$i} { left: (-100% * $i / $columns) - (2 * $gutter); }
+    }
+  }
 
-	.phone-full {
-		left: auto;
-		clear: both;
-		float: none;
-		width: 100%;
-		margin: 0 0 $spacing;
-		display: block;
-	}
+  .phone-no-push, .phone-no-pull { left: auto; }
 
-	.phone-text-left { text-align: left; }
-	.phone-text-right { text-align: right; }
-	.phone-text-center { text-align: center; }
+  .phone-full {
+    left: auto;
+    clear: both;
+    float: none;
+    width: 100%;
+    margin: 0 0 $spacing;
+    display: block;
+  }
 
-	.phone-left { float: left; }
-	.phone-right { float: right; }
-	.phone-no-float { float: none; }
+  .phone-text-left { text-align: left; }
+  .phone-text-right { text-align: right; }
+  .phone-text-center { text-align: center; }
 
-	// Remove Margin / Padding
-	.phone-no-margin { margin: 0; }
-	.phone-no-padding { padding: 0; }
+  .phone-left { float: left; }
+  .phone-right { float: right; }
+  .phone-no-float { float: none; }
 
-	.hide-phone { display: none; }
-	.show-phone { display: block; }
+  // Remove Margin / Padding
+  .phone-no-margin { margin: 0; }
+  .phone-no-padding { padding: 0; }
+
+  .hide-phone { display: none; }
+  .show-phone { display: block; }
+  
+  .row-space-fluid { @include vertical-padding(20%); }
 
 }
