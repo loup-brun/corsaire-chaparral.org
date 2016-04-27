@@ -64,7 +64,7 @@
 
 // Landing page
 .header-landing {
-  @include vertical-padding(12%);
+  @include vertical-padding(10%);
   position: relative;
   //overflow: hidden;
   background-color: $color-primary;
