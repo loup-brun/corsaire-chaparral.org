@@ -1,7 +1,7 @@
 Site web du club d'athlétisme Corsaire-Chaparal
 ===
 
-Ce répertoire recense le code source du site web du [club d'athlétisme Corsaire-Chaparal](http://corsaire-chaparal.org). Il est généré avec [Assemble](http://assemble.io), un générateur de sites web statiques écrit en [Node.js](https://nodejs.org/), une tâche [Grunt](http://gruntjs.com).
+Ce répertoire recense le code source du site web du [club d'athlétisme Corsaire-Chaparal](http://corsaire-chaparal.org). Il est généré avec [Assemble](http://assemble.io), un générateur de sites web statiques écrit en [Node.js](https://nodejs.org/) à l'aide de [Grunt](http://gruntjs.com).
 
 ### Installation
 
@@ -9,7 +9,7 @@ Pour construire ce site, assurez-vous d'avoir installé [Node.js](https://nodejs
 
 #### En deux temps, trois mouvements
 
-Si tout est déjà installé (incluant `grunt-cli`, `bower` et [sass](http://sass-lang.com/) pour les feuilles de style), entrez:
+Si tout est déjà installé (incluant `grunt-cli` et `bower`), entrez :
 
 ```shell
 npm install        # installe les outils de développements tels que Grunt
@@ -26,23 +26,23 @@ npm install -g bower       # installe bower et le rend disponible à partir de l
 npm install -g grunt-cli   # installe grunt-cli et le rend disponible à partir de l'interface ligne de commande
 ```
 
-Pour compiler les feuilles de style `.scss`, vous pouvez utiliser le compilateur `sass` en [Ruby](http://sass-lang.com) ou [libsass](http://(libsass.org)).
+Les feuilles de style  sont écrites en `.scss` et sont compilées à l'aide d'une tâche Grunt.
 
-Téléchargez ce répertoire ou clonez-le dans votre environnement:
+Téléchargez ce répertoire ou, mieux, clonez-le dans votre environnement :
 
 ```shell
 git clone https://github.com/loup-brun/coch.git
 cd coch
 ```
 
-Installez les dépendances:
+Installez les dépendances :
 
 ```
 npm install
 bower install
 ```
 
-**npm** installe les fichiers de développement Node.js pour générer les ressources du site (avec Grunt).
+**npm** installe les fichiers de développement Node.js pour générer les ressources du site.
 
 **bower** installe les bibliothèques (_front-end_) du site web. Voyez le fichier bower.json pour la liste des dépendances (surtout des scripts `.js`). Les bibliothèques seront installées dans `bower_components/`. Vous _devez_ installer les bibliothèques pour produire les scripts correctement.
 
@@ -52,15 +52,15 @@ Vous pouvez à présent construire le site:
 grunt              # `grunt build` fait la même chose
 ```
 
-Dans un environnement de développement, Grunt peut surveiller les fichiers afin de les compiler lorsqu'ils sont modifiés: 
+Dans un environnement de développement, Grunt peut surveiller les fichiers afin de les compiler lorsqu'ils sont modifiés : 
 
 ```shell
-grunt server       # Sert le site à l'adresse locale http://localhost:9000
+grunt server       # Démarre un serveur local à l'adresse locale http://localhost:9000
 ```
 
 ### Configuration
 
-Les données pour la génération des pages, la compilation `.js` et `sass` ainsi que les outils de développement sont dans le fichier `Gruntfile.js`.
+La configuration pour la génération des pages, la compilation `.js` et `.scss` ainsi que les outils de développement sont dans le fichier `Gruntfile.js`.
 
 ### Partage de photos
 
