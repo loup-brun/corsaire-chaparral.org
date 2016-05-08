@@ -11,13 +11,13 @@
       <a href="{{link url }}">{{ name }} {{#if this.subnav}}<span class="icon icon-angle-down"></span>{{/if}}</a>
       {{#if this.subnav }}
       <ul class="dropdown-list">
+        <li><a href="{{link ../url }}/">{{ ../name }}</a></li>
         {{#each ../../pages }}
         {{#is data.categories ../this.subnav}}
         <li {{#if data.subnav }}class="dropdown"{{/if}}>
           <a href="{{ baseurl }}{{ ../../url }}{{ basename }}/">{{ data.title }} {{#if data.subnav }}<span class="icon icon-angle-right caret"></span>{{/if}}</a>
           {{#if data.subnav }}
           <ul class="dropdown-list">
-            <li><a href="{{ ../../baseurl }}{{ ../url }}{{ ../basename }}/">{{ ../data.title }}</a></li>
             {{#each ../../../../../pages }}
             {{#is data.categories ../data.subnav }}
             <li><a href="{{ baseurl }}{{ ../../../../../url }}{{ ../../basename }}/{{ basename }}/">{{ data.title }}</a></li>
