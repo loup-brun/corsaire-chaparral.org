@@ -1,7 +1,7 @@
 module.exports = function ( grunt ) {
 
   // Take care of all Grunt plugins in a single line
-  require('load-grunt-tasks')(grunt);
+  require('load-grunt-tasks')(grunt, { pattern: ['grunt-*', '!grunt-assemble-*'] });
 
   var config = {
     'src': 'src',
@@ -272,7 +272,7 @@ module.exports = function ( grunt ) {
         layout: 'page.hbs',
         data: '<%= config.src %>/_data/*.{json,yml}',
         partials: ['<%= config.src %>/_templates/partials/*.hbs'],
-        plugins: ['assemble-contrib-permalinks'],
+        plugins: ['grunt-assemble-permalinks'],
         permalinks: {
           structure: ':basename/index:ext'
         },
@@ -353,7 +353,7 @@ module.exports = function ( grunt ) {
     }
   });
 
-  grunt.loadNpmTasks('assemble');
+  //grunt.loadNpmTasks('assemble');
 
 
   grunt.registerTask(

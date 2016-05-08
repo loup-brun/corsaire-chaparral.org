@@ -34,7 +34,7 @@ body, html {
 p a { // inline text links
   @extend .font-bold;
   @include transition(border-color .3s);
-  padding: 1px 2px;
+  padding: 0 2px;
   border-bottom: 1px solid $color-link;
 
   &:hover, &:focus {

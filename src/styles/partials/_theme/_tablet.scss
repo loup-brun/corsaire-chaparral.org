@@ -10,8 +10,8 @@
   
   .meta-header {
     //box-shadow: none;
-    left: 0;
-    &:after { display: none }
+    //left: 0;
+    //&:after { display: none }
   }
 
   .icon-header {
@@ -30,10 +30,6 @@
 
   .nav-break {
     display: none; // toggle w/ js
-  }
-
-  .navbar-side {
-    //display: block;
   }
 
   .slider-btn-controls {

@@ -17,6 +17,8 @@ L'affiliation à la Fédération québécoise d'athlétisme n'est pas requise po
 
 La rencontre se déroulera au stade Richard-Garneau (adjacent à la polyvalente Sainte-Thérèse) le **4 juin 2016**, à partir de 11 h. Un éventail d'épreuves sera offert, dont des courses diverses (sprints et épreuves de demi-fond), des lancers ainsi que des sauts.
 
-D'autres détails suivront.
+Consultez le [document technique]({{ baseurl }}/medias/competitions/2016/selection-jeux-du-quebec-2016-document-technique.pdf) pour tous les détails de la rencontre, y compris les modalités d'inscription.
 
-Responsables de la rencontre : [Marc-Olivier Guindon-Gibeault](mailto:marco_guindon@hotmail.com) ; [Louis-Olivier Brassard](mailto:louis.oli.br@gmail.com)
+Directeur de la rencontre : Monsieur [Robert Lavoie](mailto:robertlecoach@gmail.com)
+
+Répondant régional pour l'équipe des Laurentides en athlétisme : [Louis-Olivier Brassard](mailto:louis.oli.br@gmail.com)
