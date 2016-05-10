@@ -67,6 +67,13 @@
 
 .landing-slider {
   
+  // make landing carousel items vertically centered
+  .swipe-wrap {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
   .slider-bullets {
     > li {
       
