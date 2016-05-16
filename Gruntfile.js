@@ -330,9 +330,9 @@ module.exports = function ( grunt ) {
           },
           {
             expand: true,
-            cwd: '<%= config.src %>/pages/nouvelles',
+            cwd: '<%= config.src %>/pages/communiques',
             src: ['*.{hbs,md}'],
-            dest: '<%= config.temp %>/nouvelles',
+            dest: '<%= config.temp %>/communiques',
             ext: '.html'
           }
         ]

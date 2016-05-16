@@ -2,12 +2,22 @@
 // -----------------------------------
 
 @include mquery($tablet-breakpoint) {
+
+
+  #nouvelles {
+
+    .bg-text {
+      font-size: 100px;
+    }
+  }
+
+
   .title-header {
     //box-shadow: none;
     left: 0;
     &:after { display: none }
   }
-  
+
   .meta-header {
     //box-shadow: none;
     //left: 0;

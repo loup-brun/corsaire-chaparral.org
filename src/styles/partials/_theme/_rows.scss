@@ -50,12 +50,12 @@
     //background-image: linear-gradient(145deg, rgba($color-primary, 0.9), rgba($color-primary, 0.6));
     z-index: $z-index-page - 1;
   }
-  
+
   > .bg-overlay-primary {
     background: $color-primary;
     background: linear-gradient(145deg, rgba(adjust-hue($color-primary, -20%), 0.9), rgba($color-primary, 0.6));
   }
-  
+
   > .bg-overlay-secondary {
     background: $color-secondary;
     background: linear-gradient(145deg, rgba(adjust-hue($color-secondary, -12%), 0.9), rgba($color-secondary, 0.6));
@@ -68,6 +68,22 @@
 }
 
 // Home page
+
+#nouvelles {
+  position: relative;
+
+  .bg-text {
+    position: absolute;
+    color: $gray-lighter;
+    font-size: 300px;
+    transform: rotate(90deg);
+    font-family: $font-family-h;
+    top: $spacing;
+    right: $spacing;
+    line-height: 1;
+    transform-origin: 50% 110%;
+  }
+}
 
 #camp-de-jour {
   background-image: url('#{$assets-url}img/jeunes-lancer-turbo-javelots.jpg');
