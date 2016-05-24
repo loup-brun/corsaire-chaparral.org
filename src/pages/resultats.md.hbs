@@ -1,13 +1,40 @@
 ---
 title: Résultats
-title_meta: Compétitions du COCH
 icon: assignment
 ---
+
+## 2016
 
 {{#each categories }}
 {{#is category "Résultats"}}
 {{#withSort pages "data.date"}}
-* [{{ data.title }}]({{baseurl}}/resultats/{{ basename }})
+{{#contains data.date "2016-" }}
+* [{{ data.title }}]({{baseurl}}/resultats/2016/{{ basename }})
+{{/contains}}
+{{/withSort}}
+{{/is}}
+{{/each}}
+
+## 2015
+
+{{#each categories }}
+{{#is category "Résultats"}}
+{{#withSort pages "data.date"}}
+{{#contains data.date "2015-" }}
+* [{{ data.title }}]({{baseurl}}/resultats/2015/{{ basename }})
+{{/contains}}
+{{/withSort}}
+{{/is}}
+{{/each}}
+
+## 2014
+
+{{#each categories }}
+{{#is category "Résultats"}}
+{{#withSort pages "data.date"}}
+{{#contains data.date "2014-" }}
+* [{{ data.title }}]({{baseurl}}/resultats/2014/{{ basename }})
+{{/contains}}
 {{/withSort}}
 {{/is}}
 {{/each}}

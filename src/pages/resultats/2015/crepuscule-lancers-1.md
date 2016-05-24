@@ -8,8 +8,6 @@ icon: assignment
 Téléchargez les résultats en [format pdf](http://corsaire-chaparal.org/medias/competitions/2015/crepuscule-lancers-4-juin-resultat.pdf).
 
 <pre>
-
-
 DATE:  04-juin-15
 
 DOSSARD_FQA  CLUB  NOM  AGE CATEGORIE  POIDS_DE_L'ENGIN

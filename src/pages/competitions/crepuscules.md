@@ -33,6 +33,8 @@ Stade Richard-Garneau
 
 * **Ouvert** : hauteur, longueur, triple-saut, poids, marteau, javelot
 
+[Résultats]({{link '/resultats/2016/crepuscule-1/' }})
+
 ### Mercredi 8 juin 2016
 
 * **Benjamin** : longueur, poids, marteau, javelot

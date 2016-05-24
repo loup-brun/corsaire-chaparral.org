@@ -1,0 +1,14 @@
+---
+title: Résultats - 2014
+icon: assignment
+---
+
+{{#each categories }}
+{{#is category "Résultats"}}
+{{#withSort pages "data.date"}}
+{{#contains data.date "2014-" }}
+* [{{ data.title }}]({{baseurl}}/resultats/2014/{{ basename }})
+{{/contains}}
+{{/withSort}}
+{{/is}}
+{{/each}}

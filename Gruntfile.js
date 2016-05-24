@@ -317,7 +317,7 @@ module.exports = function ( grunt ) {
           {
             expand: true,
             cwd: '<%= config.src %>/pages/resultats',
-            src: ['*.{hbs,md}'],
+            src: ['{,*/}*.{hbs,md}'],
             dest: '<%= config.temp %>/resultats',
             ext: '.html'
           },
