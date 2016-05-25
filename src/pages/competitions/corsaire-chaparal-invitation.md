@@ -13,7 +13,7 @@ Cette compétition tient également lieu de championnat provincial des **épreuv
 
 La rencontre se déroule sur une piste synthétique comportant 8 corridors en courbe et 10 en ligne droite. Deux cages de lancers sont disponibles, ainsi qu'une aire d'échauffement à l'extérieur de la zone de compétition.
 
-L'horaire de compétition sera disponible sous peu.
+Téléchargez le [document technique]({{link '/medias/competitions/2016/corsaire-chaparal-invitation-2016.pdf'}}).
 
 #### Date
 
