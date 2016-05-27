@@ -5,7 +5,7 @@ date: "2016-06-04"
 icon: calendar
 ---
 
-En vue de la [50<sup>e</sup> finale provinciale des Jeux du Québec 2016](http://www.jeuxduquebec.com/) à Montréal, le club d'athlétisme Corsaire-Chaparal organisera la finale régionale des Laurentides pour les épreuves d'athlétisme. Cette épreuve servira de qualification pour les athlètes désirant faire partie de la délégation laurentienne à cette 50<sup>e</sup> édition des Jeux.
+En vue de la [51<sup>e</sup> finale provinciale des Jeux du Québec 2016](http://www.jeuxduquebec.com/) à Montréal, le club d'athlétisme Corsaire-Chaparal organisera la finale régionale des Laurentides pour les épreuves d'athlétisme. Cette épreuve servira de qualification pour les athlètes désirant faire partie de la délégation laurentienne à la grande finale provinciale des Jeux.
 
 30 athlètes, parmi lesquels des filles et des garçons de catégories cadette et jeunesse (juvénile), seront retenus pour la composition de la délégation régionale en athlétisme. Chaque athlète devra concourir dans trois épreuves (excluant les relais) lors de la grande finale provinciale afin d'accumuler le plus de points possible. La performance individuelle ainsi que le caractère polyvalent de l'athlète seront donc pris en compte lors de la sélection définitive.
 
