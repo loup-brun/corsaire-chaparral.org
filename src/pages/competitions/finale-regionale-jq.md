@@ -19,6 +19,8 @@ La rencontre se déroulera au stade Richard-Garneau (adjacent à la polyvalente 
 
 Consultez le [document technique]({{ baseurl }}/medias/competitions/2016/selection-jeux-du-quebec-2016-document-technique.pdf) pour tous les détails de la rencontre, y compris les modalités d'inscription.
 
+[Horaire définitif]({{ baseurl }}/medias/competitions/2016/selection-jq-laurentides-2016-horaire-definitif.pdf)
+
 Directeur de la rencontre : Monsieur [Robert Lavoie](mailto:robertlecoach@gmail.com)
 
 Répondant régional pour l'équipe des Laurentides en athlétisme : [Louis-Olivier Brassard](mailto:louis.oli.br@gmail.com)
