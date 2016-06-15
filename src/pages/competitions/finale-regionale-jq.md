@@ -21,6 +21,8 @@ Consultez le [document technique]({{ baseurl }}/medias/competitions/2016/selecti
 
 [Horaire définitif]({{ baseurl }}/medias/competitions/2016/selection-jq-laurentides-2016-horaire-definitif.pdf)
 
+[Résultats]({{ baseurl }}/resultats/2016/finale-regionale-jq/)
+
 Directeur de la rencontre : Monsieur [Robert Lavoie](mailto:robertlecoach@gmail.com)
 
 Répondant régional pour l'équipe des Laurentides en athlétisme : [Louis-Olivier Brassard](mailto:louis.oli.br@gmail.com)

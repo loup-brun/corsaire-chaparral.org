@@ -15,6 +15,8 @@ La rencontre se déroule sur une piste synthétique comportant 8 corridors en co
 
 Téléchargez le [document technique]({{link '/medias/competitions/2016/corsaire-chaparal-invitation-2016.pdf'}}).
 
+[Horaire provisoire]({{link '/medias/competitions/2016/horaire-piste-pelouse-25-juin-2016.pdf'}})
+
 #### Date
 
 La rencontre aura lieu le **samedi 25 juin 2016**.

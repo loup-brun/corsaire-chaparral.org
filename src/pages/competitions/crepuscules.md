@@ -44,6 +44,8 @@ Stade Richard-Garneau
 * **Senior** : perche, longueur, poids, marteau, javelot
 * **Vétéran** : perche, longueur, poids, marteau, javelot
 
+[Résultats]({{link '/resultats/2016/crepuscule-2/' }})
+
 ### Mercredi 29 juin 2016
 
 * **Ouvert** : perche, poids, marteau, disque
