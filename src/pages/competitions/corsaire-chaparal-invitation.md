@@ -19,6 +19,8 @@ Téléchargez le [document technique]({{link '/medias/competitions/2016/corsaire
 
 Horaire définitif [piste]({{link '/medias/competitions/2016/horaire-final-piste-coch-invitation-2016.pdf'}}), [pelouse]({{link '/medias/competitions/2016/horaire-final-pelouse-coch-invitation-2016.pdf'}}).
 
+[Résultats]({{link '/resultats/2016/corsaire-chaparal-invitation/'}})
+
 #### Date
 
 La rencontre aura lieu le **samedi 25 juin 2016**.
