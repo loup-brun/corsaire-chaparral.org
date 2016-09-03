@@ -75,7 +75,7 @@
   .bg-text {
     position: absolute;
     color: $gray-lighter;
-    font-size: 300px;
+    font-size: 250px;
     transform: rotate(90deg);
     font-family: $font-family-h;
     top: $spacing;
@@ -102,5 +102,12 @@
 #crepuscule-lancers {
   background-image: url('#{$assets-url}img/javelots.jpg');
   background-position: right center;
+}
+
+.row-40e {
+  background-image: url('#{$assets-url}img/fond-40e.png');
+  background-repeat: no-repeat;
+  background-position: 85% 50%;
+  background-size: auto 80%;
 }
 

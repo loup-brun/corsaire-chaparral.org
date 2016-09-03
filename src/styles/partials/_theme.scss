@@ -56,6 +56,11 @@ p a { // inline text links
   padding-bottom: $spacing-xl;
   background-color: #fff;
   @include box-shadow(0 5px 10px rgba(0,0,0,0.1));
+  
+  &.container-full {
+    @include vertical-margin(0);
+    @include vertical-padding(0);
+  }
 }
 
 .container-landing {

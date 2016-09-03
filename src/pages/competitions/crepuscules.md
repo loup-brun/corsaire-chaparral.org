@@ -48,8 +48,12 @@ Stade Richard-Garneau
 
 ### Mercredi 29 juin 2016
 
-* **Ouvert** : perche, poids, marteau, disque
+* **Ouvert** : poids, marteau, disque
+
+[Résultats]({{link '/resultats/2016/crepuscule-3/' }})
 
 ### Mercredi 13 juillet 2016
 
-* **Ouvert** : hauteur, poids, javelot, disque
+* **Ouvert** : poids, javelot, disque, hauteur
+
+[Informations]({{link '/medias/competitions/2016/crepuscule-13-juillet.pdf' }})

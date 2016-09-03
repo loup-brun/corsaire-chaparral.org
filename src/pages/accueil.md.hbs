@@ -1,94 +1,136 @@
 ---
-layout: home.hbs
+layout: default.hbs
 title: Accueil
 ---
 
-<section class="row row-space-fluid" id="nouvelles">
-  <span class="bg-text">2016</span>
-  <div class="container">
-    <div class="row">
-      <div class="col col-10 push-2 phone-col-12 phone-no-push">
-        <h2>À venir en 2016</h2>
-        <p>La saison estivale s'annonce particulièrement chargée, avec la tenue nombreuses compétitions et crépuscules, notamment les championnats nationaux d'athlétisme pour jeunes (également connu sous le nom de «&nbsp;Jeux de la Légion&nbsp;»), à Blainville/Sainte-Thérèse.</p>
+<main class="container-main container-landing">
+  <header class="header-landing">
+    <div class="swipe landing-slider" id="landing-slider">
+      <div class="swipe-wrap">
 
-        <p><s class="text--gray"><strong>Samedi 30 avril</strong>&nbsp;: une porte ouverte se tiendra au stade Richard-Garneau à l'occasion de l'ouverture printanière de la piste.</s> Terminé !</p>
+        <section>
+          <div class="container">
+            <div class="row text-center">
+              <div class="row-sm">
+                <h1>{{ site.title }}</h1>
+              </div>
 
-        <p><s class="text--gray"><strong>Dimanche 1<sup>er</sup> mai</strong>&nbsp;: le <a href="http://www.circuitendurance.ca/fr/defi-course-et-marche-desjardins/" target="_blank">défi course et marche Desjardins</a>, coorganisé par le club Lions et le club d'athlétisme Corsaire-Chaparal. Cette course sur route du réputé <a href="http://www.circuitendurance.ca/fr/" target="_blank">Circuit Endurance</a> attire chaque année de nombreux participants. L'événement est sanctionné or par la Fédération québécoise d'athlétisme.</s> Terminé !</p>
+              <p class="lead">{{ site.description }}</p>
+              <a href="{{link '/club/' }}" class="btn btn-default">En savoir plus <span class="icon icon-angle-right"></span></a>
+              <a href="{{link '/club/inscription/' }}" class="btn btn-secondary">Inscription</a>
+            </div>
+          </div>
+        </section>
 
-        <p><s class="text--gray"><strong>Samedi 4 juin</strong>&nbsp;: la <a href="{{link '/competitions/finale-regionale-jq/' }}">finale régionale des Jeux du Québec</a> (pour la région des Laurentides) à Sainte-Thérèse.</s> Terminé ! <a href="{{link '/resultats/2016/finale-regionale-jq/'}}">Résultats</a></p>
+        <section>
+          <div class="container">
+            <div class="row">
+              <div class="col col-6 phone-col-12">
+                <h2>Le Corsaire-Chaparal fête ses 40 ans&nbsp;!</h2>
+              </div>
 
-        <p><s class="text--gray"><strong>Samedi 25 juin</strong>&nbsp;: la <a href="{{link '/competitions/corsaire-chaparal-invitation/' }}">Corsaire-Chaparal Invitation</a> à Sainte-Thérèse.</s> Terminé !</p>
+              <div class="col col-6 phone-col-12">
+                <p>De 1976 à 2016, le club Corsaire-Chaparal a marqué de nombreux athlètes sur plusieurs générations. Venez célébrer avec nous&nbsp;!</p>
+                <a href="{{link '/40-ans/' }}" class="btn btn-secondary">En savoir plus <span class="icon icon-angle-right"></span></a>
+              </div>
+            </div>
+          </div>
+        </section>
 
-        <p><strong>5 au 7 août</strong>&nbsp;: les championnats nationaux d'athlétisme pour jeunes, en collaboration avec les villes de Blainville et de Sainte-Thérèse. Envie d'être bénévole lors de l'événement&nbsp;? <a href="http://benevoleschampionnatcanadien.corsaire-chaparal.org" target="_blank">Inscrivez-vous en ligne&nbsp;!</a></p>
-
-        <p><strong>Samedi 13 août</strong>&nbsp;: le <a href="{{link '/competitions/challenge-jean-paul-baert/' }}">Challenge Jean-Paul Baert</a> à Sainte-Thérèse.</p>
-
-        <p>Voyez également la liste des <a href="{{link '/competitions/crepuscules/' }}">crépuscules</a> offerts cet été.</p>
       </div>
-    </div>
-  </div>
-</section>
 
-<section class="row row-space-fluid row-secondary row-showcase" id="camp-de-jour">
-  <div class="bg-overlay-showcase bg-overlay-secondary"></div>
-  <div class="container">
-    <div class="col col-7 push-5 tablet-col-9 tablet-push-3 phone-col-12 phone-no-push">
-      <h2>Camp de jour en athlétisme</h2>
+      <a href="#" class="slider-btn-controls slider-btn-controls-left" id="landing-slider-btn-controls-left"><span class="icon icon-angle-left"></span></a>
+      <a href="#" class="slider-btn-controls slider-btn-controls-right" id="landing-slider-btn-controls-right"><span class="icon icon-angle-right"></span></a>
+      <ul class="slider-bullets" id="landing-slider-bullets"></ul>
 
-      <p>La ville de Sainte-Thérèse offrira cet été un camp de jour spécialisé en athlétisme en collaboration avec le club d'athlétisme Corsaire-Chaparal. Pour tous les détails, visitez la section dédiée aux camps de jour sur le site internet de la ville de Sainte-Thérèse.</p>
-      
-      <p>Notez que les résidents des villes adjacentes doivent se procurer la carte citoyen de non-résident à la ville de Sainte-Thérèse pour procéder à l'inscription.</p>
-      
-      <p><a class="btn btn-primary" href="http://www.sainte-therese.ca/quoi-faire-a-sainte-therese/camps-de-jour-et-relache-scolaire/camps-de-jour.html" target="_blank">Détails <span class="icon icon-angle-right"></span></a></p>
     </div>
-  </div>
-</section>
-<!--
+  </header>
+
+  <article>
+
+    <section class="row row-space-fluid" id="nouvelles">
+      <span class="bg-text">2016</span>
+      <div class="container">
+        <div class="row">
+          <div class="col col-9 tablet-col-10 phone-col-12">
+            <h2>Quelle belle année !</h2>
+
+            <p>La saison estivale 2016 fut bien remplie. Les athlètes du club Corsaire-Chaparal ont eu l'occasion d'établir de nouveaux records personnels, mais aussi de participer aux championnats provinciaux (en y récoltant des médailes&nbsp;!), aux Jeux du Québec, ainsi qu'aux championnats canadiens, dont l'édition jeunesse se tenait au stade Richard-Garneau, à Sainte-Thérèse. Nous sommes très fiers de nos athlètes&nbsp;!</p>
+
+            <p>C'est – hélas&nbsp;! – maintenant le temps de prendre des vacances bien méritées. Les entraînements reprendront au début du mois de septembre (détails à venir).</p>
+
+            <h2>Journée portes ouvertes</h2>
+
+            <p>Une journée portes ouvertes se tiendra le <strong>samedi 17 septembre</strong> (heure à confirmer). Bienvenue à tous&nbsp;!</p>
+            
+            <h2>Le Corsaire-Chaparal fête ses 40 ans&nbsp;!</h2>
+            
+            <p>Anciens et nouveaux, vous êtes tous invités à venir célébrer le <a href="{{link '/40e/'}}">40<sup>e</sup> anniversaire</a> de l'un des plus importants clubs d'athlétisme du Québec.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="row row-space-fluid row-secondary row-showcase" id="camp-de-jour">
+      <div class="bg-overlay-showcase bg-overlay-secondary"></div>
+      <div class="container">
+        <div class="col col-8 push-2 text-center tablet-col-10 tablet-push-1 phone-col-12 phone-no-push">
+          <h2>Camp de jour en athlétisme &mdash; une réussite !</h2>
+
+          <p>La ville de Sainte-Thérèse offrait à l'été 2016 un camp de jour spécialisé en athlétisme en collaboration avec le club d'athlétisme Corsaire-Chaparal. Cette première édition a connu un grand succès. Le club a bon espoir de reconduire l'événement l'an prochain.</p>
+        </div>
+      </div>
+    </section>
+    <!--
 <section class="row row-space-fluid text-center text--gray">
-  <div class="container">
-    <h2>Connaissez-vous nos <span class="text--primary">entraîneurs</span>&nbsp;?</h2>
-    
-    <p>Des entraîneurs passionnés certifiés par le programme national de certification des entraîneurs (<abbr title="Programme national de certification des entraîneurs">PNCE</abbr>) permettent de former les jeunes à la compétition athlétique en favorisant le développement humain.</p>
+<div class="container">
+<h2>Connaissez-vous nos <span class="text--primary">entraîneurs</span>&nbsp;?</h2>
 
-    <p>Visitez la section des <a href="{{link '/club/entraineurs/'}}">entraîneurs</a>.</p>
-  </div>
+<p>Des entraîneurs passionnés certifiés par le programme national de certification des entraîneurs (<abbr title="Programme national de certification des entraîneurs">PNCE</abbr>) permettent de former les jeunes à la compétition athlétique en favorisant le développement humain.</p>
+
+<p>Visitez la section des <a href="{{link '/club/entraineurs/'}}">entraîneurs</a>.</p>
+</div>
 </section>
 -->
-<section class="row row-space-fluid row-showcase" id="demi-fond">
-  <div class="bg-overlay-showcase bg-overlay-primary"></div>
-  <div class="container">
-    <div class="row">
-      <div class="col col-6 tablet-col-10 phone-col-12">
-        <h3>Épreuves de demi-fond au club Corsaire-Chaparal</h3>
-        <p>Le club Corsaire-Chaparal a pignon sur rue dans la région des basses Laurentides depuis plus de 35 ans. Reconnu comme l'un des meilleurs clubs au Québec, 12 entraîneurs travaillent au développement des athlètes des différents groupes d’épreuves, dont l'olympien et recordman québécois <strong>Achraf Tadili</strong>.</p>
-        <p>Achraf entraîne un groupe se composant d'athlètes, filles et garçons, âgés entre 14 et 20 ans, se spécialisant dans les épreuves allant du 400 m au 3000 m.</p>
+    <section class="row row-space-fluid row-showcase" id="demi-fond">
+      <div class="bg-overlay-showcase bg-overlay-primary"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col col-6 tablet-col-10 phone-col-12">
+            <h3>Épreuves de demi-fond au club Corsaire-Chaparal</h3>
+
+            <p>Le club Corsaire-Chaparal a pignon sur rue dans la région des basses Laurentides depuis plus de 35 ans. Reconnu comme l'un des meilleurs clubs au Québec, 12 entraîneurs travaillent au développement des athlètes des différents groupes d’épreuves, dont l'olympien et recordman québécois <strong>Achraf Tadili</strong>.</p>
+
+            <p>Achraf entraîne un groupe se composant d'athlètes, filles et garçons, âgés entre 14 et 20 ans, se spécialisant dans les épreuves allant du 400 m au 3000 m.</p>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</section>
-<!--
+    </section>
+    <!--
 <section class="row row-space-fluid">
-  <div class="container">
-    <div class="col col-8 tablet-col-12">
-      <h3>Un lieu d'entraînement idéal</h3>
-      <p>Les entraînements se font à la piste d'athlétisme du stade Richard-Garneau, à Sainte-Thérèse. La piste a été inaugurée à l'été 2013 pour accueillir le championnat canadien junior. En plus des huit corridors en courbe (10 en ligne droite), la piste est dotée d'une cage pour l'aire de lancers, d'une fosse à steeple ainsi que d'un large terrain d'échauffement. De plus, les gymnases de la polyvalente sont accessibles au club lors des heures d'entraînement.</p>
-    </div>
-    <figure class="col col-4 tablet-col-12 text-center">
-      <img src="{{link '/assets/img/map-marker-orange.png' }}" alt="Marqueur de carte"/>
-    </figure>
-  </div>
+<div class="container">
+<div class="col col-8 tablet-col-12">
+<h3>Un lieu d'entraînement idéal</h3>
+<p>Les entraînements se font à la piste d'athlétisme du stade Richard-Garneau, à Sainte-Thérèse. La piste a été inaugurée à l'été 2013 pour accueillir le championnat canadien junior. En plus des huit corridors en courbe (10 en ligne droite), la piste est dotée d'une cage pour l'aire de lancers, d'une fosse à steeple ainsi que d'un large terrain d'échauffement. De plus, les gymnases de la polyvalente sont accessibles au club lors des heures d'entraînement.</p>
+</div>
+<figure class="col col-4 tablet-col-12 text-center">
+<img src="{{link '/assets/img/map-marker-orange.png' }}" alt="Marqueur de carte"/>
+</figure>
+</div>
 </section>
 -->
 
-<section class="row row-space-fluid row-primary">
-  <div class="container">
-    <div class="col col-6 tablet-col-12 text-center">
-      <span class="icon icon-endurance icon-lg"></span>
-    </div>
-    <div class="col col-6 tablet-col-12">
-      <h3>Course sur route</h3>
-      <p>Les adultes qui désirent rejoindre à un groupe de course sur route peuvent faire partie de l'équipe Endurance Rive-Nord, dirigée par le propriétaire de la boutique Endurance Pierre Léveillé.</p>
-      <a href="http://boutiqueendurance.ca" class="btn btn-default">En savoir plus</a>
-    </div>
-  </div>
-</section>
+    <section class="row row-space-fluid row-primary">
+      <div class="container">
+        <div class="col col-6 tablet-col-12 text-center">
+          <span class="icon icon-endurance icon-lg"></span>
+        </div>
+        <div class="col col-6 tablet-col-12">
+          <h3>Course sur route</h3>
+          <p>Les adultes qui désirent rejoindre à un groupe de course sur route peuvent faire partie de l'équipe Endurance Rive-Nord, dirigée par le propriétaire de la boutique Endurance Pierre Léveillé.</p>
+          <a href="http://boutiqueendurance.ca" class="btn btn-default">En savoir plus</a>
+        </div>
+      </div>
+    </section>
+  </article>
+</main>
