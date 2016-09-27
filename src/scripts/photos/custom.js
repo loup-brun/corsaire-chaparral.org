@@ -20,7 +20,7 @@
 
         var parentRect	= elem.parentNode.getBoundingClientRect(),
             parentH		= parentRect.bottom - parentRect.top,
-            imgH			= elem.offsetHeight,
+            imgH		= elem.offsetHeight,
             offset		= (parentH - imgH) / 2;
 
         elem.style.marginTop = offset + "px";

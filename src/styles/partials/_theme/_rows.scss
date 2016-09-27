@@ -21,6 +21,28 @@
   border-radius: 5px;
 }
 
+.well-primary {
+  background-color: $color-primary;
+  color: check-background($color-primary);
+  
+  &.feedback-box {
+    .icon--feedback.icon-thumb_up {
+      display: block;
+    }
+  }
+}
+
+.well-secondary {
+  background-color: $color-secondary;
+  color: check-background($color-secondary);
+  
+  &.feedback-box {
+    .icon--feedback.icon-warning {
+      display: block;
+    }
+  }
+}
+
 // Showcase
 .row-showcase {
   background-repeat: no-repeat;

@@ -34,8 +34,14 @@
   pointer-events: none;
 }
 
-// Icon items
+.icon--feedback {
+  font-size: $spacing-lg;
+  float: left;
+  margin-right: $spacing-sm;
+  display: none;
+}
 
+// Icon items
 
 .icon-phone:before {
 	content: "\e608";

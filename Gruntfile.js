@@ -73,7 +73,10 @@ module.exports = function ( grunt ) {
 
           '<%= config.temp %>/assets/scripts/ie.js': ['<%= config.src %>/scripts/ie/*.js'],
 
-          '<%= config.temp %>/assets/scripts/inscription.js': ['<%= config.src %>/scripts/inscription/*.js']
+          '<%= config.temp %>/assets/scripts/inscription.js': [
+            //'<%= bowerrc.directory %>/nanoajax/nanoajax.min.js',
+            '<%= config.src %>/scripts/inscription/*.js'
+          ]
 
         },
       },
@@ -168,7 +171,7 @@ module.exports = function ( grunt ) {
           removeCommentsFromCDATA: true,
           removeEmptyAttributes: false,
           removeOptionalTags: false,
-          removeRedundantAttributes: true,
+          removeRedundantAttributes: false,
           useShortDoctype: true
         },
         files: [{
