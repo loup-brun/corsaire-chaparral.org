@@ -63,3 +63,7 @@
 - name: "Performe Massothérapie"
   url: "https://www.facebook.com/Performe-Massothérapie-461000613984044/"
   image: "/assets/img/partenaires/performe-massotherapie-logo.png"
+
+- name: "G2 Logiciels"
+  url: "https://g2logiciels.com/fr/"
+  image: "/assets/img/partenaires/g2-logiciels.jpg"
