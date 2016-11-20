@@ -75,7 +75,7 @@
     
     bean.on(form['naissance_annee'], 'blur', function() {
       var annee = parseInt(form['naissance_annee'].value);
-      console.log(annee)
+      
       if (annee < 2000) {
         classie.add(impotsFieldset, 'fieldset-disabled');
       } else {
