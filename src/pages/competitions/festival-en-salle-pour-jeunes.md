@@ -11,7 +11,7 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 Responsable : [Nathalie Prince](mailto:Nathalie.Prince@cssmi.qc.ca)
 
-[Document technique]({{ '/medias/competitions/2016/festival-jeunes-coch-2016.pdf' }})
+[Document technique]({{link '/medias/competitions/2016/festival-jeunes-coch-2016.pdf' }})
 
 ~~Inscriptions~~ (fermées)
 

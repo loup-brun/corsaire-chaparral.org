@@ -9,7 +9,7 @@ Vous trouverez ci-bas le calendrier des principales compétitions auxquelles par
 
 ## Décembre
 
-* **17 décembre** : [Festival en salle des Jeunes Corsaire-Chaparal]({{link '/competitions/festival-en-salle-pour-jeunes/' }}), Sainte-Thérèse
+* **17 décembre** : [Festival en salle des jeunes Corsaire-Chaparal]({{link '/competitions/festival-en-salle-pour-jeunes/' }}), Sainte-Thérèse
 
 ## Janvier
 
@@ -21,5 +21,5 @@ Vous trouverez ci-bas le calendrier des principales compétitions auxquelles par
 
 ## Mars
 
-* **4-5 mars* : Championnat Provincial Benjamin – cadet, Sherbrooke
+* **4-5 mars** : Championnat provincial benjamin–cadet, Sherbrooke
 * **25-26 mars** : Championnat Provincial des épreuves combinées benjamin-cadet, Québec
