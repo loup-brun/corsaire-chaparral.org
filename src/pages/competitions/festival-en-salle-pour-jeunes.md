@@ -9,13 +9,13 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 ## Informations générales
 
-Responsable : [Nathalie Prince](mailto:Nathalie.Prince@cssmi.qc.ca)
+Responsable : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
 [Document technique]({{link '/medias/competitions/2016/festival-jeunes-coch-2016.pdf' }})
 
 ~~Inscriptions~~ (fermées)
 
-L'horaire définitif sera publié sous peu et sera ajusté en fonction du nombre de participants.
+[Horaire définitif]({{link '/medias/competitions/2016/horaire-festival-en-salle-coch-2016.pdf' }})
 
 ## Lieu
 
