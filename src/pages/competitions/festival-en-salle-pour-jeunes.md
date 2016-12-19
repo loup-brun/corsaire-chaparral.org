@@ -17,6 +17,8 @@ Responsable : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
 [Horaire définitif]({{link '/medias/competitions/2016/horaire-festival-en-salle-coch-2016.pdf' }})
 
+[Résultats]({{link '/medias/competitions/2016/resultats-festival-en-salle-coch-2016.pdf'}})
+
 ## Lieu
 
 Polyvalente Sainte-Thérèse
