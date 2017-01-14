@@ -9,8 +9,12 @@ Le club d'athlétisme Corsaire-Chaparal organise annuellement sa compétition hi
 
 ## Informations générales
 
-Les informations concernant l'édition 2017 seront publiées sous peu.
+[Document technique]({{link '/medias/competitions/2017/classique-corsaire-chaparal-4-fevrier-2017.pdf' }})
 
-[Résultats 2016]({{link '/resultats/classique-hivernale-coch-2016/' }})
+[Résultats 2016]({{link '/resultats/2016/classique-hivernale-coch-2016/' }})
+
+[Résultats 2015]({{link '/resultats/2015/classique-hivernale-coch-2015/' }})
+
+[Résultats 2014]({{link '/resultats/2014/classique-hivernale-coch-2014/' }})
 
 Responsable de compétition: [Robert Lavoie](mailto:robertlecoach@gmail.com).
