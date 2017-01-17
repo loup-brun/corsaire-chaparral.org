@@ -36,6 +36,10 @@
   url: "http://www.technisoins.com/"
   image: "/assets/img/partenaires/technisoins.gif"
 
+- name: "G2 Logiciels"
+  url: "https://g2logiciels.com/fr/"
+  image: "/assets/img/partenaires/g2-logiciels.jpg"
+
 - name: "Julie Lepage, chiropraticienne"
   image: "/assets/img/partenaires/centre-chiro-sante.gif"
 
@@ -63,7 +67,3 @@
 - name: "Performe Massothérapie"
   url: "https://www.facebook.com/Performe-Massothérapie-461000613984044/"
   image: "/assets/img/partenaires/performe-massotherapie-logo.png"
-
-- name: "G2 Logiciels"
-  url: "https://g2logiciels.com/fr/"
-  image: "/assets/img/partenaires/g2-logiciels.jpg"
