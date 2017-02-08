@@ -39,3 +39,7 @@ ExpiresByType audio/x-wav "access plus 1 week"
 ExpiresDefault "access plus 1 month"
 </FilesMatch>
 </IfModule>
+
+# invert this rule eventually to point to rencontre-hivernale-andre-harel
+RewriteEngine On
+RewriteRule ^(.+)\/rencontre-hivernale-andre-harel\/?$ /$1/classique-hivernale/ [R,L]
