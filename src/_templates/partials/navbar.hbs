@@ -11,7 +11,7 @@
       <a href="{{link url }}">{{ name }} {{#if this.subnav}}<span class="icon icon-angle-down"></span>{{/if}}</a>
       {{#if this.subnav }}
       <ul class="dropdown-list">
-        <li><a href="{{link ../url }}/">{{ ../name }}</a></li>
+        <li><a href="{{link ../url }}">{{ ../name }}</a></li>
         {{#each ../../pages }}
         {{#is data.categories ../this.subnav}}
         <li {{#if data.subnav }}class="dropdown"{{/if}}>
