@@ -7,7 +7,7 @@ icon: calendar
 
 Le club d'athlétisme Corsaire-Chaparal organise annuellement sa compétition hivernale avec, au programme, un ensemble d'épreuves pour les athlètes de catégorie benjamine à senior. La rencontre se tiendra au **Complexe sportif Claude-Robillard**, à Montréal.
 
-Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fondatrices du club, la Classique hivernale sera dès l'an prochain rebaptisée sous le titre éponyme de **Classique hivernale André Harel**.
+Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fondatrices du club, la Classique hivernale sera dès l'an prochain rebaptisée sous le titre éponyme de **Rencontre hivernale André Harel**.
 
 ## Informations générales
 
@@ -17,7 +17,7 @@ Horaire définitif [piste]({{link '/medias/competitions/2017/horaire-piste-coch-
 
 [Liste des participants]({{link '/medias/competitions/2017/liste-perf-coch-hiver-2017.pdf' }})
 
-[Résultats](http://athletisme-quebec.ca/live/results/) en temps réel.
+[Résultats]({{link '/resultats/2017/classique-hivernale-coch-2017/'}})
 
 Responsable de compétition : [Robert Lavoie](mailto:robertlecoach@gmail.com).
 
