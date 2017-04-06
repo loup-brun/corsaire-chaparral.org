@@ -3,6 +3,7 @@ title: Calendrier des compétitions
 categories: Compétitions
 date: "2017"
 icon: calendar
+published: false
 ---
 
 Vous trouverez ci-bas le calendrier des principales compétitions auxquelles participent les athlètes du club. Notez que d'autres compétitions peuvent être prévues par les entraîneurs.
