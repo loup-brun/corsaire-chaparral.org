@@ -61,6 +61,10 @@ p a { // inline text links
     @include vertical-margin(0);
     @include vertical-padding(0);
   }
+  
+  img {
+	max-width: 100%;
+  }
 }
 
 .container-landing {
