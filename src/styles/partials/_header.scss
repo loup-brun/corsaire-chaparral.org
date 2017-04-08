@@ -2,7 +2,8 @@
 // -----------------------------------
 
 .header-page {
-  @include vertical-padding($spacing-xl);
+  padding-top: $spacing-xl;
+  padding-bottom: $spacing-lg;
   margin-bottom: $spacing-lg;
   border-bottom: 1px solid $gray-lighter;
 
@@ -32,6 +33,10 @@
     width: 0;
     border-left: $header-fold-size solid transparent;
     border-top: $header-fold-size solid darken($color-primary, 20%);
+  }
+  
+  h1 {
+    margin: 0;
   }
 }
 
@@ -65,7 +70,7 @@
 
 // Landing page
 .header-landing {
-  @include vertical-padding(10%);
+  @include vertical-padding(7%);
   position: relative;
   //overflow: hidden;
   background-color: $color-primary;
@@ -87,8 +92,8 @@
 .icon-header {
   position: absolute;
   font-size: 200px;
-  top: $spacing-lg;
-  right: $spacing-lg;
+  top: 25px;
+  right: 25px;
   color: $gray-lighter;
 }
 

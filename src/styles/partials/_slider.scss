@@ -20,15 +20,15 @@
 .slider-bullets {
   @include list-reset;
   text-align: center;
-  @include vertical-padding($spacing-sm);
+  @include vertical-padding($spacing);
   
   > li {
     @include inline-block;
-    @include horizontal-margin($spacing-xs / 2);
+    @include horizontal-margin(.5em);
     
     > a {
-      @include square($spacing-xs);
-      border-radius: $spacing-xs / 2;
+      @include square(.9em);
+      border-radius: .5em;
       display: block;
       cursor: pointer;
     }

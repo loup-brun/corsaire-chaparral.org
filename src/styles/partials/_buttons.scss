@@ -9,10 +9,10 @@
   font-size: $font-size;
   border: 0;
   cursor: pointer;
-  margin: 3px;
-  padding: $spacing-xs $spacing-sm;
+  margin: 0.2em;
+  padding: .9em 1.05em;
   font-family: $font-family;
-  border-radius: ceil($spacing-xs / 3);
+  border-radius: 0.36em;
   user-select: none;
   transition: box-shadow 0.2s, transform 0.2s;
   

@@ -63,15 +63,14 @@
 }
 
 .logo-navbar {
-  @include square($height-navbar);
   display: block;
   float: left;
-  //background: $color-primary;
   color: #fff;
+  line-height: 1;
+  margin-right: $spacing-xs;
 
   > img {
-    @include square($height-navbar - 8px);
-    margin: 4px 0 0 4px;
+    @include square($height-navbar);
   }
 }
 
@@ -126,7 +125,7 @@
 
     > a {
       display: block;
-      padding: $spacing-xs;
+      padding: $spacing;
       z-index: $z-index-overlay;
       color: $gray-lighter;
 

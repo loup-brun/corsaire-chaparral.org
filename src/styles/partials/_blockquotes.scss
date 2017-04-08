@@ -3,17 +3,14 @@
 
 blockquote {
   @extend .em;
-  font-size: $font-size + 4;
-  line-height: $line-height + 0.2;
+  font-size: $font-size * 1.2;
+  line-height: $line-height;
   margin: $spacing 0;
-  padding: 0 $spacing;
+  padding: 0 $spacing-sm;
   color: $gray-dark;
   position: relative;
   border-left: 6px solid $gray-lighter;
   z-index: 1;
-  p {
-    margin: $spacing-sm;
-  }
 }
 
 cite {

@@ -6,7 +6,7 @@
   position: fixed;
   top: 0;
   right: 0;
-  padding: ceil($spacing-sm * 2 + $font-size * $line-height) 0 $spacing-sm;
+  padding: ceil($spacing-sm * 2 + $line-height) 0 $spacing-sm;
   width: 260px;
   height: 100%;
   overflow: auto;
@@ -44,10 +44,9 @@
     display: block;
     float: none;
 
-
     > a {
       @include transition(background-color .3s);
-      padding: $spacing-sm;
+      padding: $spacing * 1.3;
 
       &:hover {
         background-color: $color-primary;
@@ -64,9 +63,9 @@
     ul {
       li {
         a {
-          padding: $spacing-xs;
-          padding-left: $spacing;
-          font-size: $font-size-sm - 2;
+          padding: $spacing;
+          padding-left: $spacing-lg;
+          font-size: $font-size-sm;
         }
       }
     }
