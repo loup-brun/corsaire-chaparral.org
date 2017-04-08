@@ -1,59 +1,29 @@
 ---
 title: "Crépuscules estivaux"
 categories: Compétitions
-date: "2016-05-18"
+date: "2017"
 icon: calendar
 ---
 
 ## Informations générales
 
-Le club d'athlétisme Corsaire-Chaparal est heureux d'offrir une série de rencontres en soirée (des «&nbsp;crépuscules&nbsp;») pour la saison estivale 2016. Une variété d'épreuves de pelouse (sauts et lancers) est proposée lors de chacune de ces rencontres. Les engins sont fournis par les organisateurs.
+Le club d'athlétisme Corsaire-Chaparal est heureux d'offrir une nouvelle série de crépuscules pour la saison estivale 2017. Une variété d'épreuves (piste et concours) est proposée au travers de **5 rencontres** en soirée.
 
-Les inscriptions se font sur place.
+Tout le matériel est fourni par les organisateurs.
 
 Les athlètes de toutes catégories peuvent participer dans les épreuves _ouvertes_, selon les normes de leur propre catégorie.
 
-### Dates
+### Programmation
 
-Les rencontres auront lieu les mercredis en soirée aux dates suivantes :
-
-* Mercredi 18 mai 2016
-* Mercredi 8 juin 2016
-* Mercredi 29 juin 2016
-* Mercredi 13 juillet 2016
+* [Crépuscule #1]({{link '/medias/competitions/2017/crepuscule-coch-1.pdf' }}) (mercredi 24 mai 2017)
+* [Crépuscule #2]({{link '/medias/competitions/2017/crepuscule-coch-2.pdf' }}) (mercredi 7 juin 2017)
+* [Crépuscule #3]({{link '/medias/competitions/2017/crepuscule-coch-3.pdf' }}) (mercredi 28 juin 2017)
+* [Crépuscule #4]({{link '/medias/competitions/2017/crepuscule-coch-4.pdf' }}) (mercredi 12 juillet 2017)
+* [Crépuscule #5]({{link '/medias/competitions/2017/crepuscule-coch-5.pdf' }}) (mercredi 2 août 2017)
 
 ### Emplacement
 
-Stade Richard-Garneau  
-401, boul. du Domaine, Sainte-Thérèse (adjacent à la polyvalente Sainte-Thérèse)
+**Stade Richard-Garneau**  
+401 Boulevard du Domaine  
+Sainte-Thérèse, QC J7E 4S4
 
-## Programmation
-
-### Mercredi 18 mai 2016
-
-* **Ouvert** : hauteur, longueur, triple-saut, poids, marteau, javelot
-
-[Résultats]({{link '/resultats/2016/crepuscule-1/' }})
-
-### Mercredi 8 juin 2016
-
-* **Benjamin** : longueur, poids, marteau, javelot
-* **Cadet** : perche, longueur, poids, marteau, javelot
-* **Juvénile** : perche, longueur, poids, marteau, javelot
-* **Junior** : perche, longueur, poids, marteau, javelot
-* **Senior** : perche, longueur, poids, marteau, javelot
-* **Vétéran** : perche, longueur, poids, marteau, javelot
-
-[Résultats]({{link '/resultats/2016/crepuscule-2/' }})
-
-### Mercredi 29 juin 2016
-
-* **Ouvert** : poids, marteau, disque
-
-[Résultats]({{link '/resultats/2016/crepuscule-3/' }})
-
-### Mercredi 13 juillet 2016
-
-* **Ouvert** : poids, javelot, disque, hauteur
-
-[Informations]({{link '/medias/competitions/2016/crepuscule-13-juillet.pdf' }})
