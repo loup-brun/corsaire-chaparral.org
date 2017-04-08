@@ -12,7 +12,7 @@
   margin: 0.2em;
   padding: .9em 1.05em;
   font-family: $font-family;
-  border-radius: 0.36em;
+  border-radius: $border-radius;
   user-select: none;
   transition: box-shadow 0.2s, transform 0.2s;
   
