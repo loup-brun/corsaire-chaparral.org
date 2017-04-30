@@ -13,7 +13,13 @@ Cette compétition tient également lieu de championnat provincial des **épreuv
 
 La rencontre se déroule sur une piste synthétique comportant 8 corridors en courbe et 10 en ligne droite. Deux cages de lancers sont disponibles, ainsi qu'une aire d'échauffement à l'extérieur de la zone de compétition.
 
-Consultez le [document technique]({{link '/medias/competitions/2017/coch-invitation-2017-document-technique-preliminaire.pdf'}}) (préliminaire).
+Consultez le [document technique]({{link '/medias/competitions/2017/coch-invitation-2017-document-technique-final.pdf'}}) (final).
+
+#### Ordre des épreuves
+
+* [Piste]({{link '/medias/competitions/2017/coch-invitation-2017-ordre-piste-preliminaire.pdf'}}) (préliminaire)
+
+* [Pelouse]({{link '/medias/competitions/2017/coch-invitation-2017-ordre-pelouse-preliminaire.pdf'}}) (préliminaire)
 
 #### Date
 
