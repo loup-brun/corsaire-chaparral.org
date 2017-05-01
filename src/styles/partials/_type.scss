@@ -29,6 +29,7 @@ a {
 // Paragraph and Small
 p {
   margin: 0 0 $spacing 0;
+  hyphens: auto;
 }
 
 pre { margin: $spacing-sm 0; }
