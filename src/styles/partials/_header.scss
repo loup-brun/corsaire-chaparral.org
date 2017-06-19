@@ -77,7 +77,8 @@
   //background-image: url('#{$assets-url}img/low-poly.jpg');
   background-image: linear-gradient(-45deg, $color-primary, saturate(adjust-hue($color-primary, 14%), 18%));
   background-image: url('#{$assets-url}img/couverture-accueil-degrade2.jpg');
-  background-position: top left;
+  //background-position: top left;
+  background-position: 50% 35%;
   background-repeat: no-repeat;
   background-size: cover;
   
