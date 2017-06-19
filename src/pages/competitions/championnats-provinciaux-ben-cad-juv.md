@@ -30,4 +30,4 @@ Stade Richard-Garneau
 
 ### Bénévolat
 
-Vous souhaitez être bénévole lors de cet événement d'envergure? Envoyez un courriel à Nadine Lauzon, responsable des bénévoles à l'adresse [corsairechaparal@hotmail.com](mailto:corsairechaparal@hotmail.com).
+Vous souhaitez être bénévole lors de cet événement d'envergure? Entrez vos disponibilités en remplissant le [court formulaire](https://www.surveymonkey.com/r/HNSGW2W) ici.
