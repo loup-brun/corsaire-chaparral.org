@@ -10,6 +10,21 @@
   url: "http://www.ville.blainville.qc.ca/"
   image: "/assets/img/partenaires/ville-blainville.png"
 
+- name: "Club Optimiste de Sainte-Thérèse"
+  image: "/assets/img/partenaires/club-optimiste-ste-therese.gif"
+
+- name: "Boston Pizza Sainte-Thérèse"
+  url: "https://bostonpizza.com/fr"
+  image: "/assets/img/partenaires/boston-pizza.png"
+  
+- name: "Sports Experts Place Rosemère"
+  url: "https://www.sportsexperts.ca"
+  image: "/assets/img/partenaires/sports-experts.jpg"
+
+- name: "IGA Daigle"
+  url: "http://igadaigle.com/"
+  image: "/assets/img/partenaires/iga-daigle.jpg"
+  
 - name: "Ville de Boisbriand"
   url: "http://www.ville.boisbriand.qc.ca/"
   image: "/assets/img/partenaires/ville-boisbriand.jpg"
@@ -17,9 +32,6 @@
 - name: "Ville de Rosemère"
   url: "http://www.ville.rosemere.qc.ca/"
   image: "/assets/img/partenaires/ville-rosemere.gif"
-
-- name: "Club optimiste de Sainte-Thérèse"
-  image: "/assets/img/partenaires/club-optimiste-ste-therese.gif"
 
 - name: "Équipe Endurance"
   url: "http://www.boutiqueendurance.ca/"
@@ -56,13 +68,6 @@
 - name: "Tim Hortons"
   url: "http://www.timhortons.com/"
   image: "/assets/img/partenaires/tim-hortons.gif"
-
-- name: "Boston Pizza"
-  image: "/assets/img/partenaires/boston-pizza.jpg"
-
-- name: "IGA Daigle"
-  url: "http://igadaigle.com/"
-  image: "/assets/img/partenaires/iga-daigle.jpg"
 
 - name: "Performe Massothérapie"
   url: "https://www.facebook.com/Performe-Massothérapie-461000613984044/"
