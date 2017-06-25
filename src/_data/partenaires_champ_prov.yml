@@ -1,0 +1,10 @@
+- name: "Boston Pizza Sainte-Thérèse"
+  url: "https://bostonpizza.com/fr"
+  image: "/assets/img/partenaires/boston-pizza.png"
+  
+- name: "Sports Experts Place Rosemère"
+  url: "https://www.sportsexperts.ca"
+  image: "/assets/img/partenaires/sports-experts.jpg"
+
+- name: "Club Optimiste de Sainte-Thérèse"
+  image: "/assets/img/partenaires/club-optimiste-ste-therese.gif"

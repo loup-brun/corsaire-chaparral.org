@@ -31,3 +31,11 @@ Stade Richard-Garneau
 ### Bénévolat
 
 Vous souhaitez être bénévole lors de cet événement d'envergure? Entrez vos disponibilités en remplissant le [court formulaire](https://www.surveymonkey.com/r/HNSGW2W) ici.
+
+## Partenaires
+
+Le Corsaire-Chaparal tient à remercier ses principaux partenaires lors de l'événement, lesquels offrent un précieux soutien pour la tenue d'événements d'envergure tel que les championnats provinciaux civils d'athlétisme.
+
+{{#each partenaires_champ_prov }}
+{{> partenaire}}
+{{/each}}

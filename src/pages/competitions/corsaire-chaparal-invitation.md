@@ -37,3 +37,12 @@ Veuillez procéder à l'inscription *via* le site [avs-sport.com](https://www.av
 * [Pelouse]({{link '/medias/competitions/2017/coch-invitation-2017-ordre-pelouse-preliminaire.pdf'}})
 
 Veuillez prendre note que ces horaires sont préliminaires et donc sujet à modifications.
+
+## Partenaires
+
+Le Corsaire-Chaparal tient à remercier ses principaux partenaires lors de l'événement, lesquels offrent un précieux soutien pour la tenue d'événements d'envergure tel que le Corsaire-Chaparal Invitation.
+
+{{#each partenaires_coch_invitation}}
+{{> partenaire}}
+{{/each}}
+
