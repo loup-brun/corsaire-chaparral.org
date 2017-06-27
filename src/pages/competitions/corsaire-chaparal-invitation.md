@@ -15,6 +15,8 @@ La rencontre se déroule sur une piste synthétique comportant 8 corridors en co
 
 Consultez le [document technique]({{link '/medias/competitions/2017/coch-invitation-2017-document-technique-final.pdf'}}) pour de plus amples détails concernant la compétition.
 
+[Liste des performances]({{link '/medias/competitions/2017/liste-perf-coch-invitation-2017.pdf' }}).
+
 Responsable de la rencontre : [Robert Lavoie](mailto:robertlecoach@gmail.com).
 
 #### Date
@@ -29,7 +31,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 #### Inscription
 
-Veuillez procéder à l'inscription *via* le site [avs-sport.com](https://www.avs-sport.com/main.php).
+~~Veuillez procéder à l'inscription *via* le site [avs-sport.com](https://www.avs-sport.com/main.php)~~ Les inscriptions sont fermées.
 
 #### Ordre des épreuves
 
