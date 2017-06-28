@@ -21,6 +21,10 @@
   url: "https://www.sportsexperts.ca"
   image: "/assets/img/partenaires/sports-experts.jpg"
 
+- name: "Rôtisserie Scores Sainte-Thérèse"
+  url: "https://www.scores.ca/restaurant/28-rotisserie-scores-sainte-therese.html"
+  image: "/assets/img/partenaires/rotisserie-scores.jpg"
+  
 - name: "IGA Daigle"
   url: "http://igadaigle.com/"
   image: "/assets/img/partenaires/iga-daigle.jpg"

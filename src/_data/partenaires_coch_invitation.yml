@@ -6,5 +6,9 @@
   url: "https://www.sportsexperts.ca"
   image: "/assets/img/partenaires/sports-experts.jpg"
 
+- name: "Rôtisserie Scores Sainte-Thérèse"
+  url: "https://www.scores.ca/restaurant/28-rotisserie-scores-sainte-therese.html"
+  image: "/assets/img/partenaires/rotisserie-scores.jpg"
+
 - name: "Club Optimiste de Sainte-Thérèse"
   image: "/assets/img/partenaires/club-optimiste-ste-therese.gif"
