@@ -33,10 +33,10 @@ Sainte-Thérèse, QC J7E 4S4
 
 ~~Veuillez procéder à l'inscription *via* le site [avs-sport.com](https://www.avs-sport.com/main.php)~~ Les inscriptions sont fermées.
 
-#### Ordre des épreuves
+#### Horaire des épreuves
 
 * [Piste]({{link '/medias/competitions/2017/coch-invitation-2017-ordre-piste-preliminaire.pdf'}})
-* [Pelouse]({{link '/medias/competitions/2017/coch-invitation-2017-ordre-pelouse-preliminaire.pdf'}})
+* [Pelouse - DÉFINITIF]({{link '/medias/competitions/2017/coch-invitation-2017-horaire-concours-final.pdf'}})
 
 Veuillez prendre note que ces horaires sont préliminaires et donc sujet à modifications.
 
