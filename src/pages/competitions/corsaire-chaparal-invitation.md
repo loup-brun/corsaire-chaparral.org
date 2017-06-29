@@ -35,10 +35,12 @@ Sainte-Thérèse, QC J7E 4S4
 
 #### Horaire des épreuves
 
-* [Piste]({{link '/medias/competitions/2017/coch-invitation-2017-ordre-piste-preliminaire.pdf'}})
+* [Piste - DÉFINITIF]({{link '/medias/competitions/2017/corsaire-chaparal-invitation-2017-horaire-finale-piste-27-juin.pdf'}})
 * [Pelouse - DÉFINITIF]({{link '/medias/competitions/2017/coch-invitation-2017-horaire-concours-final.pdf'}})
 
-Veuillez prendre note que ces horaires sont préliminaires et donc sujet à modifications.
+## Résultats
+
+Les résultats seront diffusés en direct [sur le web]({{link '/resulats/direct/'}}).
 
 ## Partenaires
 
