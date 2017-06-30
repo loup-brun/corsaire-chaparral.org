@@ -1,28 +1,21 @@
 ---
-title: Classique hivernale Corsaire-Chaparal 2017
+title: Corsaire-Chaparal Invitation 2017
 layout: none
 #published: false
 ---
 
 <!doctype html>
-<html>
+<html class="fullpage-iframe">
   {{>head}}
   <body>
-    <div class="container">
-      {{#markdown}}
-
-
-```
-
-# {{ page.title }}
-
-Les résultats seront disponibles sous peu.
-
-```
-
-Retour sur [corsaire-chaparal.org]({{link '/accueil/'}})
     
-      {{/markdown}}
+    <div class="fullpage-overlay">
+      <a href="{{link '/accueil/'}}">Retour à l'accueil</a>
+      <img src="{{link '/assets/img/coch-logo.png' }}"/>
     </div>
+          
+    <iframe src="http://corsaire-chaparal.org/resultats/direct/index.htm"></iframe>
+        
   </body>
+
 </html>
