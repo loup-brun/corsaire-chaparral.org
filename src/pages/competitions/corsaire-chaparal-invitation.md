@@ -15,7 +15,7 @@ La rencontre se déroule sur une piste synthétique comportant 8 corridors en co
 
 Consultez le [document technique]({{link '/medias/competitions/2017/coch-invitation-2017-document-technique-final.pdf'}}) pour de plus amples détails concernant la compétition.
 
-[Liste des performances]({{link '/medias/competitions/2017/liste-perf-coch-invitation-2017.pdf' }}).
+[Liste des performances]({{link '/medias/competitions/2017/liste-perf-coch-invitation-2017.pdf' }}) _(mise à jour le 29 juin à 21 h)_.
 
 Responsable de la rencontre : [Robert Lavoie](mailto:robertlecoach@gmail.com).
 
@@ -40,7 +40,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 ## Résultats
 
-Les résultats seront diffusés en direct [sur le web]({{link '/resulats/direct/'}}).
+Les résultats seront diffusés en direct [sur le web]({{link '/resultats/direct/'}}).
 
 ## Partenaires
 
