@@ -40,7 +40,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 ## Résultats
 
-Les résultats seront diffusés en direct [sur le web]({{link '/resultats/direct/'}}).
+[Résultats]({{link '/resultats/2017/corsaire-chaparal-invitation/' }})
 
 ## Partenaires
 
