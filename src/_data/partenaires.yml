@@ -29,6 +29,12 @@
   url: "http://igadaigle.com/"
   image: "/assets/img/partenaires/iga-daigle.jpg"
   
+- name: "Ramez Ayoub, député fédéral de Thérèse-de-Blainville"
+  url: "http://rayoub.liberal.ca/"
+
+- name: "Municipalité d'Oka"
+  url: "http://municipalite.oka.qc.ca/"
+  
 - name: "Ville de Boisbriand"
   url: "http://www.ville.boisbriand.qc.ca/"
   image: "/assets/img/partenaires/ville-boisbriand.jpg"
