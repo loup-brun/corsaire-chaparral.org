@@ -13,7 +13,9 @@ Cette compétition servira également de sélection pour l'équipe du Québec au
 
 Consultez le [document technique]({{link '/medias/competitions/2017/document-technique-champ-prov-pleinair-benj-juv-2017.pdf' }}) pour tous les détails.
 
-Les inscriptions doivent être reçues avant le **7 juillet 2017** avant **17 h** sur le site web d'[avs-sport](https://avs-sport.com/main.php).
+Les inscriptions doivent être reçues avant le **7 juillet 2017** avant **17 h** sur le site web ~~d'[avs-sport](https://avs-sport.com/main.php)~~ – _les inscriptions sont maintenant fermées._
+
+[Liste des performances]({{link '/medias/competitions/2017/lisperfchampprovbenjcadjuv2017.pdf' }})
 
 Directeur de la rencontre : [Robert Lavoie](mailto:robertlecoach@gmail.com)
 
@@ -39,3 +41,4 @@ Le Corsaire-Chaparal tient à remercier ses principaux partenaires lors de l'év
 {{#each partenaires_champ_prov }}
 {{> partenaire}}
 {{/each}}
+
