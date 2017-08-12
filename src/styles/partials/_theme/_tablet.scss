@@ -3,15 +3,6 @@
 
 @include mquery($tablet-breakpoint) {
 
-
-  #nouvelles {
-
-    .bg-text {
-      font-size: 50px;
-    }
-  }
-
-
   .title-header {
     //box-shadow: none;
     left: 0;

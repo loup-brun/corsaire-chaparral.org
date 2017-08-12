@@ -97,13 +97,25 @@
   .bg-text {
     position: absolute;
     color: $gray-lighter;
-    font-size: 250px;
+    font-size: 140px;
     transform: rotate(90deg);
     font-family: $font-family-h;
-    top: $spacing;
-    right: $spacing;
     line-height: 1;
-    transform-origin: 50% 110%;
+    left: 16px;
+    
+    &.-left {
+      top: 10%;
+      transform: translateY(-120%) rotate(90deg);
+      transform-origin: 0 100%;
+      font-size: 80px;
+    }
+    
+    &.-right {
+      left: 16px;
+      transform: translateY(120%) rotate(90deg);
+      transform-origin: 100% 0;
+      font-size: 160px;
+    }
   }
 }
 
