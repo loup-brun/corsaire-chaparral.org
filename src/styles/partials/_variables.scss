@@ -6,23 +6,23 @@ $assets-url: "/assets/"; // add site baseurl if needed
 
 // Colours
 $purple:				  #5F1599; // Primary color
-$orange:				  #f6851e; // Secondary color
+$orange:				  #f26e21; // Secondary color
 $blue:                    #305AFF;
 $green:                   #00E26D;
 $red:					  #f21a29; // Warning color
 
 // Grays
-$gray-darker:             #1C1E24;
+$gray-darker:             #222721;
 $gray-dark:			      #525354;
-$gray:				      #6E737F;
+$gray:				      #5C5E5E;
 $gray-light:		      #B2B4B8;
-$gray-lighter:		      #E6E9ED;
+$gray-lighter:		      #EDEDED;
 
 // Theming
-$color-primary:           $purple;
-$color-secondary:         $orange;
+$color-primary:           $orange;
+$color-secondary:         $green;
 $color-danger:            $red;
-$color-link:              $blue;
+$color-link:              $color-primary;
 
 // Fonts
 $font-family:             "Lato", "Verdana", sans-serif;

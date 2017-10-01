@@ -95,7 +95,7 @@
         
         &.active {
           background-color: $color-link;
-          background-image: linear-gradient(-45deg, $color-secondary, adjust-hue($color-secondary, 12%));
+          background-image: linear-gradient(-45deg, $gray-lighter, lighten($gray-lighter, 12%));
           opacity: 1;
         }
       }

@@ -9,8 +9,14 @@
 .row-darker { background-color: $gray-darker; color: check-background($gray-darker); }
 
 // Colors
-.row-primary { background-color: $color-primary; color: check-background($color-primary); }
-.row-secondary { background-color: $color-secondary; color: check-background($color-secondary); }
+.row-primary {
+    background-color: $color-primary;
+    color: check-background($color-primary);
+    p > a {
+        color: check-background($color-primary);
+        border-color: check-background($color-primary);
+    }
+}
 .row-danger { background-color: $color-danger; color: check-background($color-danger); }
 
 .well {
@@ -126,16 +132,6 @@
 #demi-fond {
   background-image: url('#{$assets-url}img/mireille-mariane-camille-800m-en-salle.jpg');
   //background-image: url('#{$assets-url}img/mass_2km_Ste-Therese_2014-16.jpg');
-}
-
-#coch-invitation {
-  background-image: url('#{$assets-url}img/piste-bleue-bloc.jpg');
-  background-position: center bottom;
-}
-
-#crepuscule-lancers {
-  background-image: url('#{$assets-url}img/javelots.jpg');
-  background-position: right center;
 }
 
 .row-40e {

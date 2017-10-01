@@ -97,6 +97,11 @@ p a { // inline text links
   color: check-background($color-secondary);
 }
 
+.badge-darker {
+  background-color: $gray-darker;
+  color: #fff;
+}
+
 .badge-danger {
   background-color: $color-danger;
   color: check-background($color-danger);

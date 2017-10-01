@@ -11,11 +11,15 @@
         feedbackElemBottom = document.getElementById('feedback-bottom'),
         feedBackElems = [feedbackElemTop, feedbackElemBottom],
         processingText = document.getElementById('processing-text'),
+        submitText = document.getElementById('submit-text'),
         impotsFieldset = document.getElementById('fieldset-impots'),
 
         userData = {}
     ;
-
+    
+    console.log('form dta', formToJSON(form));
+    
+    window.run = formToJSON;
 
     bean.on(submitBtn, 'click', function(ev) {
       ev.preventDefault();
@@ -23,7 +27,8 @@
       updateFeedback('', feedBackElems);
 
       // do form validation
-      var validation = validateRequiredFields(form);
+//      var validation = validateRequiredFields(form);
+      var validation = true;
 
       if (!validation) {
         updateFeedback('Certains champs requis n\'ont pas été remplis. Veuillez remplir tous les champs accompagnés d\'une astérisque.', feedBackElems, 'warning');
@@ -31,32 +36,32 @@
 
         // bind the form data to userData
         var userData = formToJSON(form);
-        form['submit-btn'].setAttribute('disabled', '');
-        classie.remove(processingText, 'none');
+        
+        startProcessing();
 
         // submit the user info via API
         nanoajax.ajax({
-          url: 'http://corsaire-chaparal.org/api/publicapi.php/membres_2016_2017',
+          url: 'http://localhost:8888/coch-api/index.php/membres_2017_2018',
           method: 'POST',
           cors: true,
           body: JSON.stringify(userData)
         }, function(code, responseText) {
-          form['submit-btn'].removeAttribute('disabled');
+          stopProcessing(form);
 
           if (code !== 200) {
             // not good
             updateFeedback('Hum... quelque chose ne s\'est pas bien passé. Veuillez réessayer plus tard.', feedbackElemBottom, 'warning');
           } else {
             // positive
-            updateFeedback('Merci ! Votre inscription a bien été reçue ! Vous recevrez bientôt des communications par courriel de notre part.', feedBackElems, 'success');
-            
-            nanoajax.ajax({
-              url: 'http://corsaire-chaparal.org/api/mail-notification.php',
-              method: 'POST',
-              cors: true,
-              body:
-              'prenom=' + userData.prenom + '&nom=' + userData.nom + '&annee=' + userData.naissance_annee + '&courriel=' + userData.courriel
-            });
+            updateFeedback('Merci! Votre inscription a bien été reçue! Vous recevrez bientôt des communications par courriel de notre part.', feedBackElems, 'success');
+     
+//            nanoajax.ajax({
+//              url: 'http://corsaire-chaparal.org/api/mail-notification.php',
+//              method: 'POST',
+//              cors: true,
+//              body:
+//              'prenom=' + userData.prenom + '&nom=' + userData.nom + '&annee=' + userData.naissance_annee + '&courriel=' + userData.courriel
+//            });
           }
           
           // end of process, hide processing text
@@ -85,60 +90,75 @@
       }
     });
     // end formatters
-  };
 
-  function validateRequiredFields(form) {
-    var i;
+    function validateRequiredFields(form) {
+      var i;
 
-    for (i = 0; i < form.length; i++) {
-      if (form[i].hasAttribute('required') && !form[i].value) {
+      for (i = 0; i < form.length; i++) {
+        if (form[i].hasAttribute('required') && !form[i].value) {
+          return false;
+        }
+      }
+
+      // special case for checkbox
+      if (!form['accept'].checked) {
         return false;
       }
+
+      return true;
     }
 
-    // special case for checkbox
-    if (!form['accept'].checked) {
-      return false;
-    }
+    function formToJSON(form) {
+      var i, returnedObj = {};
 
-    return true;
-  }
+      for (i = 0; i < form.length; i++) {
+        if (/\btext|email|select|checkbox|textarea\b/.test(form[i].type)) {
 
-  function formToJSON(form) {
-    var i, returnedObj = {};
-
-    for (i = 0; i < form.length; i++) {
-      if (form[i].value && /\btext|email|select\b/.test(form[i].type)) {
-        returnedObj[form[i].name] = form[i].value;
+          if (form[i].value) {
+            returnedObj[form[i].name] = form[i].value;
+          }
+        }
       }
+
+      return returnedObj;
     }
 
-    return returnedObj;
-  }
+    function updateFeedback(feedbackMsg, elements, type) {
+      type = type || '';
+      var i;
 
-  function updateFeedback(feedbackMsg, elements, type) {
-    type = type || '';
-    var i;
-
-    for (i = 0; i < elements.length; i++) {
-      qwery('.feedback-message', elements[i])[0].innerHTML = feedbackMsg;
-      if (!feedbackMsg.length) {
-        classie.add(elements[i], 'none');
-      } else {
-        classie.remove(elements[i], 'none');
-
-        if (type === 'warning') {
-          classie.remove(elements[i], 'well-primary');
-          classie.add(elements[i], 'well-secondary');
-        } else if (type === 'success') {
-          classie.remove(elements[i], 'well-secondary');
-          classie.add(elements[i], 'well-primary');
+      for (i = 0; i < elements.length; i++) {
+        qwery('.feedback-message', elements[i])[0].innerHTML = feedbackMsg;
+        if (!feedbackMsg.length) {
+          classie.add(elements[i], 'none');
         } else {
-          classie.remove(elements[i], 'well-primary');
-          classie.remove(elements[i], 'well-secondary');
+          classie.remove(elements[i], 'none');
+
+          if (type === 'warning') {
+            classie.remove(elements[i], 'well-primary');
+            classie.add(elements[i], 'well-secondary');
+          } else if (type === 'success') {
+            classie.remove(elements[i], 'well-secondary');
+            classie.add(elements[i], 'well-primary');
+          } else {
+            classie.remove(elements[i], 'well-primary');
+            classie.remove(elements[i], 'well-secondary');
+          }
         }
       }
     }
-  }
+
+    function startProcessing() {
+      form['submit-btn'].setAttribute('disabled', '');
+      classie.remove(processingText, 'none');
+      classie.add(submitText, 'none');
+    }
+
+    function stopProcessing() {
+      form['submit-btn'].removeAttribute('disabled');
+      classie.add(processingText, 'none');
+      classie.remove(submitText, 'none');
+    }
+  };
 
 })(window, document);

@@ -1,4 +1,4 @@
-ErrorDocument 404 http://corsaire-chaparal.org/404/
+ErrorDocument 404 /404/
 
 RewriteEngine On
 
@@ -7,9 +7,8 @@ RewriteCond %{HTTPS} !=on
 RewriteCond %{HTTP_HOST}        ^www\.(.+)$ [NC]
 RewriteRule ^                   http://%1%{REQUEST_URI}  [R=301,L]
 
-# rewrite /accueuil/
-RewriteCond %{HTTP_REFERER} !^http://corsaire-chaparal.org [NC]
-RewriteRule ^$ /accueil/ [R,L]
+# rewrite / to /accueil/
+RewriteRule ^/?$ /accueil/ [R]
 
 AddType image/svg+xml svg
 AddType image/svg+xml svgz

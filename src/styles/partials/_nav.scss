@@ -70,7 +70,9 @@
   margin-right: $spacing-xs;
 
   > img {
-    @include square($height-navbar);
+//    @include square($height-navbar);
+    height: 54px;
+    width: 80px;
   }
 }
 
