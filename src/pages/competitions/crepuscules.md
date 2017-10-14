@@ -7,7 +7,7 @@ icon: calendar
 
 ## Informations générales
 
-Le club d'athlétisme Corsaire-Chaparal est heureux d'offrir une nouvelle série de crépuscules pour la saison estivale 2017. Une variété d'épreuves (piste et concours) est proposée au travers de **5 rencontres** en soirée.
+Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle série de crépuscules pour la saison estivale 2017. Une variété d'épreuves (piste et concours) est proposée au travers de **5 rencontres** en soirée.
 
 Tout le matériel est fourni par les organisateurs.
 

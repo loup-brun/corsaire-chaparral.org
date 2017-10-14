@@ -10,7 +10,7 @@ Vous trouverez ci-bas le calendrier des principales compétitions auxquelles par
 
 ## Décembre
 
-* **17 décembre** : [Festival en salle des jeunes Corsaire-Chaparal]({{link '/competitions/festival-en-salle-pour-jeunes/' }}), Sainte-Thérèse
+* **17 décembre** : [Festival en salle des jeunes Corsaire-Chaparral]({{link '/competitions/festival-en-salle-pour-jeunes/' }}), Sainte-Thérèse
 
 ## Janvier
 
@@ -18,7 +18,7 @@ Vous trouverez ci-bas le calendrier des principales compétitions auxquelles par
 
 ## Février
 
-* **4 février** : [Classique hivernale Corsaire-Chaparal]({{link '/competitions/classique-hivernale/' }}), Montréal
+* **4 février** : [Classique hivernale Corsaire-Chaparral]({{link '/competitions/classique-hivernale/' }}), Montréal
 
 ## Mars
 

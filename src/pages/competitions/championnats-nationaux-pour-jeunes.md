@@ -6,7 +6,7 @@ icon: calendar
 published: false
 ---
 
-Chaque année, la Légion Royale Canadienne organise les championnats nationaux pour jeunes d'athlétisme (également connus sous le nom de <i>Jeux de la Légion</i>). Le club Corsaire-Chaparal accueillera, pour une deuxième année consécutive, cette compétition d'envergure regroupant les jeunes de catégories cadette et jeunesse (juvénile).
+Chaque année, la Légion Royale Canadienne organise les championnats nationaux pour jeunes d'athlétisme (également connus sous le nom de <i>Jeux de la Légion</i>). Le club Corsaire-Chaparral accueillera, pour une deuxième année consécutive, cette compétition d'envergure regroupant les jeunes de catégories cadette et jeunesse (juvénile).
 
 ### Informations générales
 

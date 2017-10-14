@@ -5,7 +5,7 @@ date: "2017-02-04"
 icon: calendar
 ---
 
-Le club d'athlétisme Corsaire-Chaparal organise annuellement sa compétition hivernale avec, au programme, un ensemble d'épreuves pour les athlètes de catégorie benjamine à senior. La rencontre se tiendra au **Complexe sportif Claude-Robillard**, à Montréal.
+Le club d'athlétisme Corsaire-Chaparral organise annuellement sa compétition hivernale avec, au programme, un ensemble d'épreuves pour les athlètes de catégorie benjamine à senior. La rencontre se tiendra au **Complexe sportif Claude-Robillard**, à Montréal.
 
 Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fondatrices du club, la Classique hivernale sera dès l'an prochain rebaptisée sous le titre éponyme de **Rencontre hivernale André Harel**.
 
@@ -29,7 +29,7 @@ L'adresse du Complexe sportif Claude-Robillard est la suivante :
 1000 Avenue Émile-Journault, Montréal, QC H2M 2E7
 ```
 
-## Résultats antérieurs
+## Réésultats antérieurs
 
 [Résultats 2016]({{link '/resultats/2016/classique-hivernale-coch-2016/' }})
 

@@ -1,11 +1,11 @@
 ---
-title: Corsaire-Chaparal Invitation
+title: Corsaire-Chaparral Invitation
 categories: Compétitions
 date: "2017-07-01"
 icon: calendar
 ---
 
-Le club d'athlétisme Corsaire-Chaparal organise annuellement sa compétition estivale avec, au programme, un ensemble d'épreuves pour les athlètes de catégories benjamine à senior.
+Le club d'athlétisme Corsaire-Chaparral organise annuellement sa compétition estivale avec, au programme, un ensemble d'épreuves pour les athlètes de catégories benjamine à senior.
 
 Cette compétition tient également lieu de **championnat provincial des épreuves combinées chez les cadets**.
 
@@ -44,7 +44,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 ## Partenaires
 
-Le Corsaire-Chaparal tient à remercier ses principaux partenaires lors de l'événement, lesquels offrent un précieux soutien pour la tenue d'événements d'envergure tel que le Corsaire-Chaparal Invitation.
+Le Corsaire-Chaparral tient à remercier ses principaux partenaires lors de l'événement, lesquels offrent un précieux soutien pour la tenue d'événements d'envergure tel que le Corsaire-Chaparral Invitation.
 
 {{#each partenaires_coch_invitation}}
 {{> partenaire}}
