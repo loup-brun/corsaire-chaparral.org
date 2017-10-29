@@ -83,3 +83,8 @@
 - name: "Performe Massothérapie"
   url: "https://www.facebook.com/Performe-Massothérapie-461000613984044/"
   image: "/assets/img/partenaires/performe-massotherapie-logo.png"
+  
+- name: "Apogée Sports"
+  url: "https://apogee-sports.com/"
+  image: "/assets/img/partenaires/apogee.png"
+
