@@ -18,5 +18,8 @@
 - name: "Partenaires"
   url: "/partenaires/"
   
+- name: "Portail"
+  url: "https://portail.corsaire-chaparral.org"
+  
 - name: "Contact"
   url: "/contact/"
