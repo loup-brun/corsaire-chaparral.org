@@ -326,6 +326,13 @@ module.exports = function ( grunt ) {
           },
           {
             expand: true,
+            cwd: '<%= config.src %>/pages/nouvelles',
+            src: ['{,*/}*.{hbs,md}'],
+            dest: '<%= config.temp %>/nouvelles',
+            ext: '.html'
+          },
+          {
+            expand: true,
             cwd: '<%= config.src %>/pages/competitions',
             src: ['*.{hbs,md}'],
             dest: '<%= config.temp %>/competitions',

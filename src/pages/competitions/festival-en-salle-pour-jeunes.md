@@ -1,7 +1,7 @@
 ---
 title: Festival en salle pour jeunes
 categories: Compétitions
-date: "2016-12-17"
+date: "2017-12-16"
 icon: calendar
 ---
 
@@ -11,13 +11,13 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 Responsable : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
-[Document technique]({{link '/medias/competitions/2016/festival-jeunes-coch-2016.pdf' }})
+[Document technique]({{link '/medias/competitions/2017/festival-en-salle-des-jeunes-2017-chaparal.pdf' }})
 
-~~Inscriptions~~ (fermées)
+Inscription : en ligne via [AVS-Sport](http://www.avs-sport.com/main.php )
 
-[Horaire définitif]({{link '/medias/competitions/2016/horaire-festival-en-salle-coch-2016.pdf' }})
+<!--[Horaire définitif]({{link '/medias/competitions/2016/horaire-festival-en-salle-coch-2016.pdf' }})-->
 
-[Résultats]({{link '/medias/competitions/2016/resultats-festival-en-salle-coch-2016.pdf'}})
+[Résultats 2016]({{link '/medias/competitions/2016/resultats-festival-en-salle-coch-2016.pdf'}})
 
 ## Lieu
 
