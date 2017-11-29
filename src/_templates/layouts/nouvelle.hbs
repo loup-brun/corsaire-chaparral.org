@@ -1,0 +1,32 @@
+---
+layout: default.hbs
+---
+<main class="container container-main" role="main">
+  <header class="header-page">
+
+    <span class="icon icon-{{ icon }} icon-lg icon-header"></span>
+    <div class="row no-padding">
+      <div class="col col-9 tablet-col-10 phone-col-11">
+        <div class="title-header container">
+          <h1>{{ title }}</h1>
+        </div>
+      </div>
+    </div>
+    {{#if date }}
+    <div class="row row-sm">
+      <div class="col col-12">
+        <div class="meta-header container">
+          <span class="icon icon-calendar"></span> {{ date }}
+        </div>
+      </div>
+    </div>
+    {{/if}}
+
+  </header>
+
+  <article class="container">
+    {{#markdown}}
+    {{> body }}
+    {{/markdown}}
+  </article>
+</main>
