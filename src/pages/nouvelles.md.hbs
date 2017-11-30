@@ -6,8 +6,10 @@ icon: hamburger
 
 {{#each categories }}
 {{#is category "nouvelles"}}
-{{#withSort pages "data.date"}}
+{{!#withSort pages "data.date" }}
+{{#each pages }}
 {{> nouvelle-apercu }}
-{{/withSort}}
+{{/each}}
+{{!/withSort}}
 {{/is}}
 {{/each}}

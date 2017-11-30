@@ -4,6 +4,9 @@
 - name: "Le club"
   url: "/club/"
   subnav: "Club"
+  
+- name: "Nouvelles"
+  url: "/nouvelles/"
 
 - name: "Compétitions"
   url: "/competitions/"
@@ -12,8 +15,8 @@
 - name: "Résultats"
   url: "/resultats/"
   
-- name: "Photos"
-  url: "/photos/"
+#- name: "Photos"
+#  url: "/photos/"
   
 - name: "Partenaires"
   url: "/partenaires/"

@@ -3,8 +3,17 @@ layout: default.hbs
 ---
 <main class="container container-main" role="main">
   <header class="header-page">
-
     <span class="icon icon-{{ icon }} icon-lg icon-header"></span>
+
+    {{#if subtitle }}
+    <div class="row row-sm">
+      <div class="col col-12">
+        <div class="meta-header container">
+          {{ subtitle }}
+        </div>
+      </div>
+    </div>
+    {{/if}}
     <div class="row no-padding">
       <div class="col col-9 tablet-col-10 phone-col-11">
         <div class="title-header container">
@@ -12,21 +21,43 @@ layout: default.hbs
         </div>
       </div>
     </div>
-    {{#if date }}
-    <div class="row row-sm">
-      <div class="col col-12">
-        <div class="meta-header container">
-          <span class="icon icon-calendar"></span> {{ date }}
-        </div>
-      </div>
-    </div>
-    {{/if}}
-
   </header>
+  
+  <div class="row">
+    <div class="col col-8 phone-col-12">
+      <aside class="none show-phone container">
+        <p class="text--gray">
+          {{#if author}}
+          {{ author }} |
+          {{/if}}
+          {{ date }}
+        </p>
+      </aside>
+      <article class="container article-container">
+          {{#if image}}
+          <figure>
+            <img src="image.url" alt="image.title" />
+            <figcaption>{{ image.title }}</figcaption>
+          </figure>
+          {{/if}}
 
-  <article class="container">
-    {{#markdown}}
-    {{> body }}
-    {{/markdown}}
-  </article>
+          {{#markdown}}
+          {{> body }}
+          {{/markdown}}
+      </article>
+    </div>
+    
+    <div class="col col-4 phone-col-12 right hide-phone">
+      <aside class="container sidebar-container">
+        {{#if author}}
+         <p class="text--gray">
+          {{ author }}
+        </p>
+        {{/if}}
+         <p class="text--gray">
+          {{ date }}
+        </p>
+      </aside>
+    </div>
+  </div>
 </main>

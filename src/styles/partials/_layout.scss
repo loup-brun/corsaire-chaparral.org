@@ -10,6 +10,13 @@
 
 .container-full { max-width: none !important; }
 
+.container.article-container {
+  padding-right: $spacing;
+}
+.container.sidebar-container {
+  @include horizontal-padding($spacing);
+}
+
 // Grid
 
 // Columns
@@ -38,6 +45,10 @@
 .row {
   @include clearfix;
   @include vertical-padding($spacing);
+}
+
+.clearfix {
+  @include clearfix;
 }
 
 .row-0 { @include vertical-padding(0); }

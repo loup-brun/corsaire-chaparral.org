@@ -282,18 +282,20 @@ module.exports = function ( grunt ) {
         baseurl: '',
         collections: [
           {
-            name: 'Entraîneurs',
+            title: 'entraineurs',
           },
           { 
-            name: 'Compétitions',
+            title: 'competitions',
           },
           {
-            name: 'Résultats',
-          }
+            title: 'resultats',
+          },
         ]
       },
       pages: {
         options: {
+          sortorder: 'desc',
+          dir: 'desc'
         },
         files: [
           {
@@ -312,6 +314,13 @@ module.exports = function ( grunt ) {
           },
           {
             expand: true,
+            cwd: '<%= config.src %>/pages/nouvelles',
+            src: ['{,*/}*.{hbs,md}'],
+            dest: '<%= config.temp %>/nouvelles',
+            ext: '.html'
+          },
+          {
+            expand: true,
             cwd: '<%= config.src %>/pages/club/entraineurs',
             src: ['*.hbs'],
             dest: '<%= config.temp %>/club/entraineurs',
@@ -326,25 +335,18 @@ module.exports = function ( grunt ) {
           },
           {
             expand: true,
-            cwd: '<%= config.src %>/pages/nouvelles',
-            src: ['{,*/}*.{hbs,md}'],
-            dest: '<%= config.temp %>/nouvelles',
-            ext: '.html'
-          },
-          {
-            expand: true,
             cwd: '<%= config.src %>/pages/competitions',
             src: ['*.{hbs,md}'],
             dest: '<%= config.temp %>/competitions',
             ext: '.html'
-          },
-          {
-            expand: true,
-            cwd: '<%= config.src %>/pages/communiques',
-            src: ['*.{hbs,md}'],
-            dest: '<%= config.temp %>/communiques',
-            ext: '.html'
           }
+        ]
+      },
+      nouvelles: {
+        options: {
+          
+        },
+        files: [
         ]
       }
     },
