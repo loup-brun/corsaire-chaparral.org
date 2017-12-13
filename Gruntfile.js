@@ -328,6 +328,13 @@ module.exports = function ( grunt ) {
           },
           {
             expand: true,
+            cwd: '<%= config.src %>/pages/club/liens-ressources',
+            src: ['*.hbs'],
+            dest: '<%= config.temp %>/club/liens-ressources',
+            ext: '.html'
+          },
+          {
+            expand: true,
             cwd: '<%= config.src %>/pages/resultats',
             src: ['{,*/}*.{hbs,md}'],
             dest: '<%= config.temp %>/resultats',
