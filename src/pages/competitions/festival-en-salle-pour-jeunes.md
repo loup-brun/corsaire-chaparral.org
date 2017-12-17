@@ -11,18 +11,18 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 Responsable : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
-[Document technique]({{link '/medias/competitions/2017/festival-en-salle-des-jeunes-2017-chaparal.pdf' }})
+[Document technique]({{link '/medias/competitions/2017/festival-en-salle-pour-jeunes-2017.pdf ' }})
 
-Inscription : en ligne via [AVS-Sport](http://www.avs-sport.com/main.php )
-
-<!--[Horaire définitif]({{link '/medias/competitions/2016/horaire-festival-en-salle-coch-2016.pdf' }})-->
-
-[Résultats 2016]({{link '/medias/competitions/2016/resultats-festival-en-salle-coch-2016.pdf'}})
+[Résultats 2017]({{link '/resultats/2017/festival-en-salle-pour-jeunes/' }})
 
 ## Lieu
 
 Polyvalente Sainte-Thérèse
 
 401 boulevard du Domaine, Sainte-Thérèse J7E 4S4
+
+## Résultats antérieurs
+
+[Résultats 2016]({{link '/medias/competitions/2016/resultats-festival-en-salle-coch-2016.pdf'}})
 
 ![Premières Foulées Bruny Surin]({{link '/assets/img/logo-premieres-foulees-bruny-surin.jpg' }})
