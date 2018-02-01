@@ -44,7 +44,9 @@ ExpiresDefault "access plus 1 month"
 ########################################################
 RewriteEngine On
 
-# invert this rule eventually to point to rencontre-hivernale-andre-harel
-RewriteRule ^competitions\/rencontre-hivernale-andre-harel\/?$ /competitions/classique-hivernale/ [R,L]
+# Invert this rule eventually to point to rencontre-hivernale-andre-harel
+RewriteRule ^competitions\/classique-hivernale\/?$ /competitions/rencontre-hivernale-andre-harel/ [R,L]
+RewriteRule ^competitions\/rencontre-hivernale-andre-harel\/?$ /competitions/challenge-andre-harel/ [R,L]
+
 # Rewrite old URL to new (new name) for Corsaire-Chaparral Invitation
 RewriteRule ^competitions\/corsaire-chaparal-invitation\/?$ /competitions/corsaire-chaparral-invitation/ [R,L]
