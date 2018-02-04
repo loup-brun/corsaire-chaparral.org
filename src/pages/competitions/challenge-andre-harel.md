@@ -13,9 +13,11 @@ Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fond
 
 Téléchargez le [document technique]({{link '/medias/competitions/2018/doc-technique-rencontre-hivernale-andre-harel-2018.pdf' }}).
 
-Liste des [participants]({{link '/medias/competitions/2018/challenge-andre-harel-participants-attendus.pdf' }})
+Liste des [participants]({{link '/medias/competitions/2018/challenge-andre-harel-participants-attendus.pdf' }}) *(mise à jour le 2018-02-02)*
 
-Horaire définitif [piste]({{link '/medias/competitions/2018/challenge-andre-harel-2018.piste.pdf'}}) | [pelouse]({{link '/medias/competitions/2018/challenge-andre-harel-2018.pelouse.pdf'}})
+Horaire définitif (*dernière mise à jour le 2018-02-01 à 21 h 50*) [piste]({{link '/medias/competitions/2018/challenge-andre-harel-2018.piste.pdf'}}) | [pelouse]({{link '/medias/competitions/2018/challenge-andre-harel-2018.pelouse.pdf'}})
+
+[Résultats]({{link '/resultats/2018/challenge-andre-harel/' }})
 
 
 Responsable de compétition : [Robert Lavoie](mailto:robertlecoach@gmail.com).
