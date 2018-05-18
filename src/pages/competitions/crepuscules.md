@@ -1,25 +1,31 @@
 ---
 title: "Crépuscules estivaux"
 categories: Compétitions
-date: "2017"
+date: "2018"
 icon: calendar
 ---
 
 ## Informations générales
 
-Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle série de crépuscules pour la saison estivale 2017. Une variété d'épreuves (piste et concours) est proposée au travers de **5 rencontres** en soirée.
+Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle série de crépuscules pour la saison estivale 2018. Une variété d'épreuves (piste et concours) est proposée au travers de plusieurs rencontres en soirée.
 
 Tout le matériel est fourni par les organisateurs.
 
 Les athlètes de toutes catégories peuvent participer dans les épreuves _ouvertes_, selon les normes de leur propre catégorie.
 
+### Coût
+
+**15 $** par épreuve (20 $ sur place), payable le jour même de l’événement.
+
+
+### Inscription
+
+Par courriel à [chronometrage@corsaire-chaparral.org](mailto:chronometrage@corsaire-chaparral.org)
+
 ### Programmation
 
-* [Crépuscule #1]({{link '/medias/competitions/2017/crepuscule-coch-1.pdf' }}) (mercredi 24 mai 2017) [Résultats]({{link '/resultats/2017/crepuscule-1/'}})
-* [Crépuscule #2]({{link '/medias/competitions/2017/crepuscule-coch-2.pdf' }}) (mercredi 7 juin 2017) [Résultats]({{link '/resultats/2017/crepuscule-2/'}})
-* [Crépuscule #3]({{link '/medias/competitions/2017/crepuscule-coch-3.pdf' }}) (mercredi 28 juin 2017) [Résultats]({{link '/resultats/2017/crepuscule-3/'}})
-* [Crépuscule #4]({{link '/medias/competitions/2017/crepuscule-coch-4.pdf' }}) (mercredi 12 juillet 2017) [Résultats]({{link '/resultats/2017/crepuscule-4/'}})
-* [Crépuscule #5]({{link '/medias/competitions/2017/crepuscule-coch-5-final.pdf' }}) (mercredi 2 août 2017) [Résultats]({{link '/resultats/2017/crepuscule-5/'}})
+* Crépuscule #1 : mercredi 23 mai 2018 | [Document technique]({{link '/medias/competitions/2018/crepuscule-coch-1.pdf' }})
+* Crépuscule #2 : mercredi 6 juin 2018 | [Document technique]({{link '/medias/competitions/2018/crepuscule-coch-2.pdf' }})
 
 ### Emplacement
 
