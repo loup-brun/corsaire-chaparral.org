@@ -1,7 +1,7 @@
-Site web du club d'athlétisme Corsaire-Chaparal
+Site web du club d'athlétisme Corsaire-Chaparral
 ===
 
-Ce répertoire recense le code source du site web du [club d'athlétisme Corsaire-Chaparal](http://corsaire-chaparal.org). Il est généré avec [Assemble](http://assemble.io), un générateur de sites web statiques écrit en [Node.js](https://nodejs.org/) à l'aide de [Grunt](http://gruntjs.com).
+Ce répertoire recense le code source du site web du [club d'athlétisme Corsaire-Chaparral](https://corsaire-chaparral.org). Il est généré avec [Assemble](http://assemble.io), un générateur de sites web statiques écrit en [Node.js](https://nodejs.org/) à l'aide de [Grunt](http://gruntjs.com).
 
 ### Installation
 
@@ -64,11 +64,10 @@ La configuration pour la génération des pages, la compilation `.js` et `.scss`
 
 ### Partage de photos
 
-Les photos sont partagées à l'adresse `http://corsaire-chaparal.org/photos-partage/`. Solution à étudier.
+~~Les photos sont partagées à l'adresse `http://corsaire-chaparral.org/photos-partage/`.~~ Solution à étudier.
 
-### Questions
+### Soutien
 
-Envoyez un courriel à louis.oli.br@gmail.com
+Envoyez un courriel à [Louis-Olivier Brassrad](louis@corsaire-chaparral.org).
 
-**Louis-Olivier Brassard**
 
