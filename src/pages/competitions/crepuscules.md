@@ -13,19 +13,24 @@ Tout le matériel est fourni par les organisateurs.
 
 Les athlètes de toutes catégories peuvent participer dans les épreuves _ouvertes_, selon les normes de leur propre catégorie.
 
-### Coût
-
-**15 $** par épreuve (20 $ sur place), payable le jour même de l’événement.
-
-
 ### Inscription
 
-Par courriel à [chronometrage@corsaire-chaparral.org](mailto:chronometrage@corsaire-chaparral.org)
+* Par courriel (jusqu’à 2 jours avant l’événement) à [chronometrage@corsaire-chaparral.org](mailto:chronometrage@corsaire-chaparral.org)
+* Sur place, le jour même de l’événement.
+
+### Tarifs
+
+Les frais doivent être acquittés le jour même de l’événement. _Aucune inscription sans paiement._
+
+* Pré-inscription : **15 $** par épreuve
+* Sur place (jusqu’à 18 h) : **20 $** par épreuve
 
 ### Programmation
 
-* Crépuscule #1 : mercredi 23 mai 2018 | [Document technique]({{link '/medias/competitions/2018/crepuscule-coch-1.pdf' }})
-* Crépuscule #2 : mercredi 6 juin 2018 | [Document technique]({{link '/medias/competitions/2018/crepuscule-coch-2.pdf' }})
+* Crépuscule #1 : mercredi 23 mai 2018
+| [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-1.pdf)
+| [Résultats]({{link '/resultats/2018/crepuscule-coch-1/' }})
+* Crépuscule #2 : mercredi 6 juin 2018 | [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-2.pdf)
 
 ### Emplacement
 

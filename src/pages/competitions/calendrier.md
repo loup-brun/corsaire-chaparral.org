@@ -1,7 +1,7 @@
 ---
 title: Calendrier des compétitions
 categories: Compétitions
-date: "2017"
+date: "2018"
 icon: calendar
 published: false
 ---
