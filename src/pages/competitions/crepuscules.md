@@ -15,7 +15,7 @@ Les athlètes de toutes catégories peuvent participer dans les épreuves _ouver
 
 ### Inscription
 
-* Par courriel (jusqu’à 2 jours avant l’événement) à [chronometrage@corsaire-chaparral.org](mailto:chronometrage@corsaire-chaparral.org)
+* Par courriel (jusqu’à 3 jours avant l’événement) à [chronometrage@corsaire-chaparral.org](mailto:chronometrage@corsaire-chaparral.org)
 * Sur place, le jour même de l’événement.
 
 ### Tarifs
