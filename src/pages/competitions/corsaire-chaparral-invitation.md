@@ -15,7 +15,7 @@ La rencontre se déroule sur une piste synthétique comportant 8 corridors en co
 
 [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/corsaire-chaparal-invitation-2018-document-technique.pdf)
 
-Horaire préliminaire _(sera disponible sous peu)_
+[Horaire préliminaire](https://corsaire-chaparral.org/medias/competitions/2018/coch-invitation-2018-horaire-provisoire.pdf)
 
 <!--
 [Liste des performances]({{link '/medias/competitions/2018/liste-perf-coch-invitation-2018.pdf' }}) _(mise à jour le 29 juin à 21 h)_.
@@ -37,7 +37,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 Veuillez procéder à l'inscription *via* le site [avs-sport.com](https://www.avs-sport.com/main.php) entre le 8 juin et le 22 juin 2018.
 
-Tel que spécifié Les inscriptions tardives
+Tel que spécifié dans le document technique, les **inscriptions tardives** seront acceptées par courriel à [robertlecoach@gmail.com](robertlecoach@gmail.com) jusqu’au **lundi 25 juin à 16 h** moyennant des frais de 50 $ par épreuve. Aucune inscription après cette date. Aucune inscription sans paiement.
 
 <!--
 
