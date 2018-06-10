@@ -13,7 +13,7 @@ Cette compétition tient également lieu de **finale régionale des Laurentides*
 
 La rencontre se déroule sur une piste synthétique comportant 8 corridors en courbe et 10 en ligne droite, avec des aires de saut constituées de la même surface de caoutchouc *Regupol*. Deux cages de lancers sont disponibles, ainsi qu'une zone d'échauffement gazonnée à l'extérieur de l'enceinte de compétition.
 
-[Document technique](https://corsaire-chaparral.org/medias/competitions/2018/corsaire-chaparal-invitation-2018-document-technique.pdf)
+[Document technique](https://corsaire-chaparral.org/medias/competitions/2018/corsaire-chaparral-invitation-2018-document-technique.pdf)
 
 [Horaire préliminaire](https://corsaire-chaparral.org/medias/competitions/2018/coch-invitation-2018-horaire-provisoire.pdf)
 
@@ -36,6 +36,8 @@ Sainte-Thérèse, QC J7E 4S4
 #### Inscription
 
 Veuillez procéder à l'inscription *via* le site [avs-sport.com](https://www.avs-sport.com/main.php) entre le 8 juin et le 22 juin 2018.
+
+**Athlètes du Corsaire-Chaparral** : inscrivez-vous via le formulaire qui vous a été envoyé par courriel. Pour toutes questions, adressez-vous à [Nadine Lauzon](mailto:corsairechaparal@hotmail.com).
 
 Tel que spécifié dans le document technique, les **inscriptions tardives** seront acceptées par courriel à [robertlecoach@gmail.com](robertlecoach@gmail.com) jusqu’au **lundi 25 juin à 16 h** moyennant des frais de 50 $ par épreuve. Aucune inscription après cette date. Aucune inscription sans paiement.
 
