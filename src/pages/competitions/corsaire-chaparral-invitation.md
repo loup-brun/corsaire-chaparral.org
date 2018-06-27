@@ -13,9 +13,9 @@ Cette compétition tient également lieu de **finale régionale des Laurentides*
 
 La rencontre se déroule sur une piste synthétique comportant 8 corridors en courbe et 10 en ligne droite, avec des aires de saut constituées de la même surface de caoutchouc *Regupol*. Deux cages de lancers sont disponibles, ainsi qu'une zone d'échauffement gazonnée à l'extérieur de l'enceinte de compétition.
 
-[Document technique](https://corsaire-chaparral.org/medias/competitions/2018/corsaire-chaparral-invitation-2018-document-technique.pdf) _(mis à jour le 18 juin 2018)_
+[Document technique](https://corsaire-chaparral.org/medias/competitions/2018/corsaire-chaparral-invitation-2018-document-technique.pdf) _(mis à jour le 26 juin 2018)_
 
-[Horaire préliminaire](https://corsaire-chaparral.org/medias/competitions/2018/coch-invitation-2018-horaire-provisoire.pdf) _(mis à jour le 18 juin 2018)_
+[Horaire final](https://corsaire-chaparral.org/medias/competitions/2018/coch-invitation-2018.horaire.pdf) _(mis à jour le 26 juin 2018)_
 
 <!--
 [Liste des performances]({{link '/medias/competitions/2018/liste-perf-coch-invitation-2018.pdf' }}) _(mise à jour le 29 juin à 21 h)_.
