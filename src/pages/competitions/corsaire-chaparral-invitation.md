@@ -15,7 +15,7 @@ La rencontre se déroule sur une piste synthétique comportant 8 corridors en co
 
 [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/corsaire-chaparral-invitation-2018-document-technique.pdf) _(mis à jour le 27 juin 2018)_
 
-[Horaire final](https://corsaire-chaparral.org/medias/competitions/2018/coch-invitation-2018.horaire.pdf) _(mis à jour le 27 juin 2018)_
+[Horaire final](https://corsaire-chaparral.org/medias/competitions/2018/coch-invitation-2018.horaire.pdf) _(mis à jour le 28 juin 2018)_
 
 [Liste des performances](https://corsaire-chaparral.org/medias/competitions/2018/coch-invitation-2018.liste-perf.pdf) _(mis à jour le 27 juin 2018)_.
 
