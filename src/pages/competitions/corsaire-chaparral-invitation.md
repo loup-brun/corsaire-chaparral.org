@@ -19,7 +19,7 @@ La rencontre se déroule sur une piste synthétique comportant 8 corridors en co
 
 [Liste des performances](https://corsaire-chaparral.org/medias/competitions/2018/coch-invitation-2018.liste-perf.pdf) _(mis à jour le 27 juin 2018)_.
 
-[Résultats en direct]({{link '/resultats/direct' }})
+<!--[Résultats en direct]({{link '/resultats/direct' }})-->
 
 Responsable de la rencontre : [Robert Lavoie](mailto:robertlecoach@gmail.com).
 
@@ -44,6 +44,8 @@ Veuillez procéder à l'inscription *via* le site [avs-sport.com](https://www.av
 Tel que spécifié dans le document technique, les **inscriptions tardives** seront acceptées sur AVS-Sport jusqu’au **lundi 25 juin à 16 h** moyennant des frais de 50 $ par épreuve. Aucune inscription après cette date. Aucune inscription sans paiement.
 
 ## Résultats
+
+[Résultats 2018]({{link '/resultats/2018/corsaire-chaparral-invitation/' }})
 
 [Résultats 2017]({{link '/resultats/2017/corsaire-chaparal-invitation/' }})
 
