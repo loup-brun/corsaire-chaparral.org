@@ -16,3 +16,5 @@ Au total, **30 athlètes** seront retenus pour la composition de la délégation
 Les **critères de sélection** sont publiés sur le site web de la Fédération québécoise d'athlétisme, section [Jeux du Québec](http://athletisme-quebec.ca/jeux-du-quebec).
 
 La participation à la finale régionale est **obligatoire** pour faire partie de l'équipe des Laurentides. Notez cependant que la sélection ne se limite pas qu'à la finale régionale; les performances effectuées lors d'autres rencontres seront également considérées.
+
+Tous les athlètes qui souhaitent participer aux Jeux du Québec doivent remplir le **formulaire de déclaration** suivant : [https://goo.gl/bvYj28](https://goo.gl/bvYj28)
