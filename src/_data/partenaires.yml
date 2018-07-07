@@ -13,6 +13,10 @@
 - name: "Club Optimiste de Sainte-Thérèse"
   image: "/assets/img/partenaires/club-optimiste-ste-therese.gif"
 
+- name: "Desjardins"
+  url: "https://www.desjardins.com"
+  image: "/assets/img/partenaires/desjardins-logo-rgb.jpg"
+
 - name: "Boston Pizza Sainte-Thérèse"
   url: "https://bostonpizza.com/fr"
   image: "/assets/img/partenaires/boston-pizza.png"
