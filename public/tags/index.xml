@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Club d’athlétisme Corsaire-Chaparral</title>
+    <link>https://corsaire-chaparral.org/tags/</link>
+    <description>Recent content in Tags on Club d’athlétisme Corsaire-Chaparral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>Tous droits réservés.</copyright>
+    
+	<atom:link href="https://corsaire-chaparral.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,162 @@
+// Navigation
+// -----------------------------------
+
+.nav {
+  @include list-reset;
+  @include clearfix;
+
+  > li {
+    float: left;
+
+    > a {
+      display: block;
+      padding: $spacing-sm;
+    }
+  }
+}
+
+.nav-menu {
+  display: none; // show when nav collapses
+
+  > li {
+    > a {
+      padding: $spacing-xs;
+      cursor: pointer;
+    }
+  }
+}
+
+.navbar-main {
+  @include clearfix;
+  position: relative;
+  z-index: $z-index-overlay + 1; // overlay the responsive menu
+  font-size: $font-size-navbar;
+  color: check-background($color-navbar);
+  background-color: $color-navbar;
+
+  .nav {
+
+    float: left;
+    &.nav-menu { float: right; }
+
+    > li {
+
+      > a {
+        transition: background-color .3s;
+        padding: $spacing-navbar;
+        color: check-background($color-navbar);
+
+        &:hover, &:focus {
+          background-color: $color-primary;
+          color: check-background($color-primary);
+        }
+      }
+
+      &.active {
+        > a {
+          background-color: lighten($color-navbar, 5%);
+        }
+      }
+    }
+  }
+
+}
+
+.logo-navbar {
+  display: block;
+  float: left;
+  color: #fff;
+  line-height: 1;
+  margin-right: $spacing-xs;
+
+  > img {
+//    @include square($height-navbar);
+    height: 54px;
+    width: 80px;
+  }
+}
+
+.dropdown {
+  position: relative;
+  cursor: pointer;
+  z-index: $z-index-overlay; // old IE needs a z-index on parent
+
+  //&:hover,
+  &.open {
+    > .dropdown-list {
+      transition-delay: 0s; // no delay because of visibility
+      @include opacity(1);
+      //transform: translateY(0px);
+      visibility: visible;
+    }
+  }
+  
+  .caret {
+    float: right;
+  }
+}
+
+.invisible-overlay {
+  //display: none;
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: $z-index-overlay - 1;
+}
+
+.dropdown-list {
+  @include list-reset;
+  @include drop-shadow;
+  transition: transform .3s ease, opacity .3s ease, visibility 0s linear 0.4s;
+  @include opacity(0);
+  //overflow: hidden;
+  position: absolute;
+  visibility: hidden;
+  min-width: 200px;
+  max-width: 320px;
+  top: 100%;
+  left: 0;
+  background-color: $gray-darker;
+  color: $gray-lighter;
+  z-index: $z-index-overlay; // old IE needs a z-index on parent
+
+  > li {
+
+    > a {
+      display: block;
+      padding: $spacing;
+      z-index: $z-index-overlay;
+      color: $gray-lighter;
+
+      &:hover {
+        background-color: $color-primary;
+        color: check-background($color-primary);
+      }
+    }
+    
+    // nested dropdowns
+    .dropdown-list {
+      top: 0;
+      left: 100%;
+    }
+  }
+}
+
+.icon-hamburger-toggled {
+  display: none;
+}
+
+.in-modal {
+  .toggle-sidebar {
+    .icon-hamburger {
+      display: none;
+    }
+    
+    .icon-hamburger-toggled {
+      display: inline;
+    }
+  }
+}

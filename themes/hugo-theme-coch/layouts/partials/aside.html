@@ -1,0 +1,20 @@
+<aside class="navbar-side" id="navbar-side">
+  <div class="h6 title-aside">Menu</div>
+  <ul class="nav nav-side">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main.ByWeight }}
+    <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}">
+      {{ if .HasChildren }}
+      <ul class="nav nav-side nav-side-sub">
+        <li>
+          <a href="{{ .URL }}">{{ .Title }}</a>
+        </li>
+        {{ range .Children }}
+        <li {{ if .HasChildren }}class="dropdown"{{end}}>
+          <a href="{{ .URL }}">{{ .Title }}</a>
+        </li>{{ end }}
+      </ul>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</aside>

@@ -1,0 +1,41 @@
+// Buttons
+// -----------------------------------
+
+// Set Generic <button> and .btn styling.
+// use .btn on any element to give it the styling of a button
+.btn {
+  @include inline-block;
+  //border-radius: $border-radius;
+  font-size: $font-size;
+  border: 0;
+  cursor: pointer;
+  margin: 0.2em;
+  padding: .9em 1.05em;
+  font-family: $font-family;
+  border-radius: $border-radius;
+  user-select: none;
+  transition: box-shadow 0.2s, transform 0.2s;
+  
+  &:hover, &:focus {
+    box-shadow: 0 2px $spacing-sm rgba(0, 0, 0, 0.5);
+  }
+  
+  &:active {
+    transition-duration: 0.05s;
+    box-shadow: inset 0 2px 3px 1px rgba(0,0,0,0.6) !important;
+    transform: translateY(2px);
+  }
+}
+
+.btn-default { @include btn-style($gray-lighter) }
+.btn-primary { @include btn-style($color-primary) }
+.btn-secondary { @include btn-style($color-secondary) }
+.btn-link { @include btn-style($color-link) }
+//.btn-danger { @include btn-style($red) }
+//.btn-white { @include btn-style(#fff) }
+
+.btn[disabled],
+.btn.disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}

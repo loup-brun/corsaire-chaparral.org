@@ -1,0 +1,44 @@
+---
+title: Records et statistiques
+icon: stopwatch
+main:
+  menu:
+    identifier: records-statistiques
+    weight: 0
+    parent: club
+---
+
+### Records du club (1976-2016)
+
+Ces statistiques regroupent les meilleures performances de chaque catégorie pour chaque épreuve depuis les débuts du club.  
+_Dernière mise à jour : 24 août 2016._
+
+[Records du club](/medias/records/Records-Club.pdf)
+
+### Records comparatifs (1976-2016)
+
+Statistiques sous forme de tableau comparatif réunissant les performances du club, du stade, du Québec, du Canada.  
+_Dernière mise à jour : 24 août 2016._
+
+[Records comparatifs](/medias/records/Ensemble-Records.pdf)
+
+### Statistiques femmes (1976-2016)
+
+L'ensemble de toutes les meilleures performances par saison par athlète chez les femmes.  
+_Dernière mise à jour : 24 août 2016._
+
+[Statistiques femmes](/medias/records/Statistiques-Club-Femmes.pdf)
+
+### Statistiques hommes (1976-2016)
+
+L'ensemble de toutes les meilleures performances par saison par athlète chez les hommes.  
+_Dernière mise à jour : 24 août 2016._
+
+[Statistiques hommes](/medias/records/Statistiques-Club-Hommes.pdf)
+
+### Records du stade (2013-2016)
+
+Les records par épreuve et par catégorie inscrits au stade Richard-Garneau depuis son inauguration en 2013.  
+_Dernière mise à jour : 24 août 2016._
+
+[Records du stade](link '/medias/records/Records_piste.pdf)

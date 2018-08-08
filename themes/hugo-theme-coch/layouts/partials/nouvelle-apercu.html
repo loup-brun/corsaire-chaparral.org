@@ -1,0 +1,10 @@
+<div class="row">
+  <small class="title-meta"><span class="icon icon-calendar"></span>{{ .Date }}</small>
+  <h4><a href="{{ .BaseUrl }}/nouvelles/">{{ .Title }}</a></h4>
+  
+  {{ with .Resume }}
+    {{ .Resume }}
+  {{ end }}
+
+  <a class="btn btn-primary" href="{{ .BaseUrl }}/nouvelles/">Lire la suite <span class="icon icon-angle-right"></span></a>
+</div>

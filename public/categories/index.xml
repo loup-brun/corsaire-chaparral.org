@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Club d’athlétisme Corsaire-Chaparral</title>
+    <link>https://corsaire-chaparral.org/categories/</link>
+    <description>Recent content in Categories on Club d’athlétisme Corsaire-Chaparral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>Tous droits réservés.</copyright>
+    
+	<atom:link href="https://corsaire-chaparral.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Club</title>
+      <link>https://corsaire-chaparral.org/categories/club/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://corsaire-chaparral.org/categories/club/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compétitions</title>
+      <link>https://corsaire-chaparral.org/categories/comp%C3%A9titions/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://corsaire-chaparral.org/categories/comp%C3%A9titions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entraineurs</title>
+      <link>https://corsaire-chaparral.org/categories/entraineurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://corsaire-chaparral.org/categories/entraineurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nouvelles</title>
+      <link>https://corsaire-chaparral.org/categories/nouvelles/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://corsaire-chaparral.org/categories/nouvelles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Résultats</title>
+      <link>https://corsaire-chaparral.org/categories/r%C3%A9sultats/</link>
+      <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://corsaire-chaparral.org/categories/r%C3%A9sultats/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

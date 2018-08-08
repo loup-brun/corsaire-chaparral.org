@@ -1,0 +1,17 @@
+// Code
+// ------------------------------------
+
+kbd, pre, samp {
+  padding: $spacing-sm;
+  font-family: $font-family-monospace;
+  line-height: normal;
+  font-weight: normal;
+  background-color: $gray-lighter;
+  color: $gray-dark;
+  word-wrap: break-word;
+}
+
+pre {
+  overflow: auto;
+  line-height: 2;
+}

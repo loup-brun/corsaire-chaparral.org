@@ -1,0 +1,33 @@
+<nav class="navbar-main">
+<!--  <a class="logo-navbar" href="/"><img src="/assets/img/logo-navbar.png" alt="" /></a>-->
+  <ul class="nav nav-menu">
+    <li>
+      <a class="toggle-sidebar" id="toggle-sidebar" title="Menu"><span class="icon icon-hamburger"></span><span class="icon icon-close icon-hamburger-toggled"></span></a>
+    </li>
+  </ul>
+  <ul class="nav nav-break">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main.ByWeight }}
+    <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}{{ if .HasChildren }} dropdown{{ end }}">
+      <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} <span class="icon icon-angle-down"></span>{{ end }}</a>
+      {{ if .HasChildren }}
+      <ul class="dropdown-list">
+        <li>
+          <a href="{{ .URL }}">{{ .Title }}</a>
+        </li>
+        {{ range .Children }}
+        <li {{ if .HasChildren }}class="dropdown"{{end}}>
+          <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} <span class="icon icon-angle-right caret"></span>{{ end }}</a>
+          {{ if .HasChildren }}
+          <ul class="dropdown-list">
+            {{ range .Children }}
+            <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </li>{{ end }}
+      </ul>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</nav>

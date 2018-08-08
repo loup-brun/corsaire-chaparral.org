@@ -1,0 +1,28 @@
+- name: "Accueil"
+  url: "/accueil/"
+  
+- name: "Le club"
+  url: "/club/"
+  subnav: "Club"
+  
+- name: "Nouvelles"
+  url: "/nouvelles/"
+
+- name: "Compétitions"
+  url: "/competitions/"
+  subnav: "Compétitions"
+
+- name: "Résultats"
+  url: "/resultats/"
+  
+#- name: "Photos"
+#  url: "/photos/"
+  
+- name: "Partenaires"
+  url: "/partenaires/"
+  
+- name: "Portail"
+  url: "https://portail.corsaire-chaparral.org"
+  
+- name: "Contact"
+  url: "/contact/"

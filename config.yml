@@ -1,0 +1,114 @@
+languageCode: "fr-ca"
+
+title: Club d’athlétisme Corsaire-Chaparral
+baseURL: "https://corsaire-chaparral.org" # the base hostname & protocol for your site
+theme: hugo-theme-coch
+copyright: Tous droits réservés.
+
+params:
+  themeColor: '#f26e21'
+  description: >
+    Situé dans les Basses-Laurentides, le club d’athlétisme Corsaire-Chaparral est un organisme sans but lucratif dont la mission est de promouvoir l’athlétisme auprès des jeunes.
+  facebook: "CorsaireChaparral"
+  twitter: "CorsaireC"  
+  email: corsairechaparal@hotmail.com
+  adminEmail: louis@corsaire-chaparral.org
+  admin: Louis-Olivier Brassard
+
+menu:
+  main:
+#  - identifier: home
+#    title: Accueil
+#    url: '/accueil/'
+#    weight: -110
+  
+#  - identifier: club
+#    title: Club
+#    url: '/club/'
+#    weight: 10
+#  - identifier: entrainements
+#    url: '/club/entrainements/'
+#    title: Entraînements
+#    parent: club
+#  - identifier: inscription
+#    url: '/club/inscription/'
+#    title: Inscription
+#    parent: club
+#  - identifier: entraineurs
+#    url: '/club/entraineurs/'
+#    title: Entraîneurs
+#    parent: club
+#  - identifier: liens-ressources
+#    url: '/club/liens-ressources/'
+#    title: Liens et ressources
+#    parent: club
+#  - identifier: records-statistiques
+#    url: '/club/records-statistiques/'
+#    title: Records et statistiques
+#    parent: club
+    
+#  - identifier: nouvelles
+#    url: '/nouvelles/'
+#    title: Nouvelles
+#    weight: 20
+
+#  - identifier: competitions
+#    title: Compétitions
+#    url: '/competitions/'
+#    weight: 60
+#  - identifier: coch-invitation
+#    title: Corsaire-Chaparral Invitation
+#    url: '/competitions/corsaire-chaparral-invitation/'
+#    weight: 0
+#    parent: competitions
+#  - identifier: challenge-andre-harel
+#    title: Challenge André-Harel
+#    url: '/competitions/challenge-andre-harel/'
+#    weight: 0
+#    parent: competitions
+#  - identifier: crepuscules
+#    title: Crépuscules
+#    url: '/competitions/crepuscules/'
+#    weight: 0
+#    parent: competitions
+#  - identifier: festival-jeunes
+#    title: Festival en salle pour jeunes
+#    url: '/competitions/festival-en-salle-pour-jeunes/'
+#    weight: 0
+#    parent: competitions
+#  - identifier: challenge-jean-paul-baert
+#    title: Challenge Jean-Paul-Baert
+#    url: '/competitions/challenge-jean-paul-baert/'
+#    weight: 0
+#    parent: competitions
+#  - identifier: finale-regionale
+#    title: Finale régionale des Jeux du Québec
+#    url: '/competitions/finale-regionale/'
+#    weight: 0
+#    parent: competitions
+
+#  - identifier: resultats
+#    title: Résultats
+#    url: '/resultats/'
+#    weight: 70
+  
+#  - identifier: photos
+#    title: Photos
+#    url: '/photos/'
+#    weight: 80
+  
+#  - identifier: partenaires
+#    title: Partenaires
+#    url: '/partenaires/'
+#    weight: 90
+  
+  
+  - identifier: portail
+    title: Portail
+    url: 'https://portail.corsaire-chaparral.org'
+    weight: 95
+  
+#  - identifier: contact
+#    title: Contact
+#    url: '/contact/'
+#    weight: 110

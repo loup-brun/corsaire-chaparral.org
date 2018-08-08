@@ -1,0 +1,55 @@
+// THEME - tablet styles
+// -----------------------------------
+
+@include mquery($tablet-breakpoint) {
+
+  .title-header {
+    //box-shadow: none;
+    left: 0;
+    &:after { display: none }
+  }
+
+  .meta-header {
+    //box-shadow: none;
+    //left: 0;
+    //&:after { display: none }
+  }
+
+  .icon-header {
+    font-size: 120px;
+    top: 16px;
+    right: 16px;
+  }
+
+  .container-main {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  // show toggle button for navbar
+  .nav-menu { display: block; }
+
+  .nav-break {
+    display: none; // toggle w/ js
+  }
+
+  .slider-btn-controls {
+
+    .icon {
+      width: $btn-slider-size-responsive;
+      font-size: floor($btn-slider-size-responsive * 0.8);
+    }
+  }
+  .slider-btn-controls-left {
+    left: 0;
+  }
+  .slider-btn-controls-right {
+    right: 0;
+  }
+  
+  .row-40e {
+    background-size: auto 45%;
+    background-position: 90% 10%;
+  }
+  
+}

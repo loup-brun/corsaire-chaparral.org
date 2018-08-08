@@ -1,0 +1,25 @@
+- name: Boutique Endurance
+  url: "http://www.boutiqueendurance.ca/"
+  image: "/assets/img/partenaires/boutique-endurance.png"
+
+- name: Maison de la Course
+  url: "http://maisondelacourse.com/"
+  image: "/assets/img/partenaires/maison-course.jpg"
+
+
+- name: Inter Clôtures Sentinelle
+  url: "http://www.cloturesentinelle.com/"
+  image: "/assets/img/partenaires/inter-clotures.jpg"
+
+
+- name: Ramez Ayoub, député fédéral, Thérèse-de-Blainville
+  url: "http://rayoub.liberal.ca/"
+  image: "/assets/img/partenaires/ramez-ayoub.jpg"
+
+
+- name: J.P. Lauzon & fils
+  url: "http://www.jplauzon.com/index.php/fr/"
+  image: "/assets/img/partenaires/lauzon-fils.gif"
+
+- name: "Municipalité d'Oka"
+  url: "http://municipalite.oka.qc.ca/"

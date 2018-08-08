@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+{{ "<!--[if lt IE 7]>" | safeHTML }}<html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"> {{ "<![endif]-->" | safeHTML }}
+{{ "<!--[if IE 7]>" | safeHTML }}<html lang="fr" class="no-js lt-ie9 lt-ie8"> {{ "<![endif]-->" | safeHTML }}
+{{ "<!--[if IE 8]>" | safeHTML }}<html lang="fr" class="no-js lt-ie9"> {{ "<![endif]-->" | safeHTML }}
+{{ "<!--[if gt IE 8]><!-->" | safeHTML }}<html class="no-js" lang="fr"> {{ "<!--<![endif]-->" | safeHTML }}
+  {{ partial "head.html" . }}
+  <body>
+    {{- partial "navbar.html" . -}}
+
+    {{- block "main" . }}{{- end }}
+
+    {{- partial "footer.html" . -}}
+
+    {{- partial "aside.html" . -}}
+    <script>
+      (function(head) {
+        head.load([
+          {{ $vendorJS := resources.Get "scripts/vendor.js"}}
+          "{{ $vendorJS.Permalink }}",
+          {{ $mainJS := resources.Get "scripts/main.js" }}
+          "{{ $mainJS.Permalink }}"
+          {{ range .Params.Scripts }}
+          ,"{{ . }}"
+          {{ end }}
+        ], function() {
+          console.log("loaded scripts");
+        });
+        head.load([
+          "/styles/fonts.css"
+          {{ range .Params.Scripts }}
+          ,"{{ . }}"
+          {{ end }}
+        ], function() {
+          console.log("loaded stylesheets");
+        });
+      })(head);
+    </script>
+    </body>
+</html>

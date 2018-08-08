@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Club on Club d’athlétisme Corsaire-Chaparral</title>
+    <link>https://corsaire-chaparral.org/categories/club/</link>
+    <description>Recent content in Club on Club d’athlétisme Corsaire-Chaparral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>Tous droits réservés.</copyright>
+    
+	<atom:link href="https://corsaire-chaparral.org/categories/club/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entraînements</title>
+      <link>https://corsaire-chaparral.org/club/entrainements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://corsaire-chaparral.org/club/entrainements/</guid>
+      <description>À la saison prochaine! Les entraînements reprendront à l&amp;rsquo;automne (la date officielle sera communiquée au début du mois de septembre) après un congé bien mérité pendant tout le mois d&amp;rsquo;août.
+Bon été!
+ Lieux d&amp;rsquo;entraînement Les entraînements ont lieu au Stade Richard-Garneau, ainsi qu&amp;rsquo;au bloc sportif de la Polyvalente Sainte-Thérèse qui lui est adjacent.
+401 Boulevard du Domaine Sainte-Thérèse, QC J7E 4S4  Dans le but d&amp;rsquo;alléger les plateaux sportifs de la polyvalente durant la session d&amp;rsquo;hiver, certains entraînements des athlètes de catégorie juvénile et plus vieux peuvent se donner à l&amp;rsquo;école Saint-Pierre.</description>
+    </item>
+    
+    <item>
+      <title>Inscription</title>
+      <link>https://corsaire-chaparral.org/club/inscription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://corsaire-chaparral.org/club/inscription/</guid>
+      <description>Inscription en ligne : pour procéder à votre inscription, vous devez faire une demande d’inscription via le Portail Corsaire-Chaparral (lien au bas de cette page).
+Informations générales et politiques d&amp;rsquo;inscription Le coût d’inscription est établi selon l’année de naissance de l’athlète. L’inscription comprend l’affiliation à la Fédération québécoise d&amp;rsquo;athlétisme et les frais d’entraînement pour la période du 1er septembre au 31 août de l&amp;rsquo;année suivante. Par le biais d&amp;rsquo;activités de financement et de subventions, le club assume les frais d&amp;rsquo;inscription de l&amp;rsquo;athlète aux compétitions sélectionnées par l&amp;rsquo;entraîneur.</description>
+    </item>
+    
+  </channel>
+</rss>

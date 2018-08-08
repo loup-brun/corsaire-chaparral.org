@@ -1,0 +1,15 @@
+<div class="row row-partenaire">
+  <figure class="col col-3 tablet-col-4 figure-thumb text-center">
+    {{ if .Image }}
+    <a {{ with .Url }}href="{{ . }}" target="_blank"{{end}}><img src="{{ . }}" alt="{{ .Name }}" /></a>
+    {{ else }}
+    <span class="icon icon-star icon-partenaire-default"></span>
+    {{ end }}
+  </figure>
+  <div class="col col-9 tablet-col-8">
+    <h5>{{ .Name }}</h5>
+    {{ with .Url }}
+    <p><span class="icon icon-chain"></span> {{ . }}</p>
+    {{ end }}
+  </div>
+</div>

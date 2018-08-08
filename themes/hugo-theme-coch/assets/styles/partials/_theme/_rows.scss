@@ -1,0 +1,143 @@
+// THEME - rows
+// -----------------------------------
+
+// Grays
+.row-lighter { background-color: $gray-lighter; color: check-background($gray-lighter); }
+.row-light { background-color: $gray-light; color: check-background($gray-light); }
+.row-gray { background-color: $gray; color: check-background($gray); }
+.row-dark { background-color: $gray-dark; color: check-background($gray-dark); }
+.row-darker { background-color: $gray-darker; color: check-background($gray-darker); }
+
+// Colors
+.row-primary {
+    background-color: $color-primary;
+    color: check-background($color-primary);
+    p > a {
+        color: check-background($color-primary);
+        border-color: check-background($color-primary);
+    }
+}
+.row-danger { background-color: $color-danger; color: check-background($color-danger); }
+
+.well {
+  @include vertical-margin($spacing);
+  padding: $spacing;
+  background-color: $gray-lighter;
+  color: $gray-dark;
+  border-radius: 5px;
+}
+
+.well-primary {
+  background-color: $color-primary;
+  color: check-background($color-primary);
+  
+  &.feedback-box {
+    .icon--feedback.icon-thumb_up {
+      display: block;
+    }
+  }
+}
+
+.well-secondary {
+  background-color: $color-secondary;
+  color: check-background($color-secondary);
+  
+  &.feedback-box {
+    .icon--feedback.icon-warning {
+      display: block;
+    }
+  }
+}
+
+// Showcase
+.row-showcase {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  color: check-background($color-primary);
+
+  > .img-bg-showcase, .bg-overlay-showcase {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 100%;
+    min-width: 100%;
+  }
+
+  > .img-bg-showcase {
+    width: 100%;
+    height: auto;
+    z-index: $z-index-page - 2;
+  }
+
+  // use css filter instead?
+  > .bg-overlay-showcase {
+    //background: $color-primary;
+    //background-image: linear-gradient(145deg, rgba($color-primary, 0.9), rgba($color-primary, 0.6));
+    z-index: $z-index-page - 1;
+  }
+
+  > .bg-overlay-primary {
+    background: $color-primary;
+    background: linear-gradient(145deg, rgba(adjust-hue($color-primary, -20%), 0.9), rgba($color-primary, 0.6));
+  }
+
+  > .bg-overlay-secondary {
+    background: $color-secondary;
+    background: linear-gradient(145deg, rgba(adjust-hue($color-secondary, -12%), 0.9), rgba($color-secondary, 0.6));
+  }
+
+  > .container {
+    position: relative;
+    z-index: $z-index-page; // overlay the bg
+  }
+}
+
+// Home page
+
+#nouvelles {
+  position: relative;
+
+  .bg-text {
+    position: absolute;
+    color: $gray-lighter;
+    font-size: 140px;
+    transform: rotate(90deg);
+    font-family: $font-family-h;
+    line-height: 1;
+    left: 16px;
+    
+    &.-left {
+      top: 10%;
+      transform: translateY(-120%) rotate(90deg);
+      transform-origin: 0 100%;
+      font-size: 80px;
+    }
+    
+    &.-right {
+      left: 16px;
+      transform: translateY(10%) rotate(90deg);
+      transform-origin: 30% 100%;
+      font-size: 160px;
+    }
+  }
+}
+
+#camp-de-jour {
+  background-image: url('#{$assets-url}img/jeunes-lancer-turbo-javelots.jpg');
+}
+
+#demi-fond {
+  background-image: url('#{$assets-url}img/mireille-mariane-camille-800m-en-salle.jpg');
+  //background-image: url('#{$assets-url}img/mass_2km_Ste-Therese_2014-16.jpg');
+}
+
+.row-40e {
+  background-image: url('#{$assets-url}img/fond-40e.png');
+  background-repeat: no-repeat;
+  background-position: 85% 50%;
+  background-size: auto 80%;
+}
+

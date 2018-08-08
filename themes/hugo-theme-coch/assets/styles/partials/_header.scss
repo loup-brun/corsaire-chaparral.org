@@ -1,0 +1,110 @@
+// Header
+// -----------------------------------
+
+.header-page {
+  padding-top: $spacing-xl;
+  padding-bottom: $spacing-lg;
+  margin-bottom: $spacing-lg;
+  border-bottom: 1px solid $gray-lighter;
+
+  .col {
+    margin-left: 0;
+  }
+}
+
+.title-header {
+  box-sizing: border-box;
+  @include vertical-padding($spacing-lg);
+  background-color: $color-primary;
+  color: check-background($color-primary);
+  word-wrap: break-word;
+  position: relative;
+  left: -$header-fold-size;
+  box-shadow: 0 5px 6px rgba(0,0,0,0.2);
+
+  &:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: auto;
+    bottom: -$header-fold-size;
+    left: 0;
+    height: 0;
+    width: 0;
+    border-left: $header-fold-size solid transparent;
+    border-top: $header-fold-size solid darken($color-primary, 20%);
+  }
+  
+  h1 {
+    margin: 0;
+  }
+}
+
+.title-meta {
+  color: $gray
+}
+
+.meta-header {
+  //position: relative;
+  //top: 0;
+  //left: -$header-fold-size-sm;
+  //padding: $spacing-sm $spacing-lg;
+  //background-color: $orange;
+  color: $gray;
+  font-size: $h6;
+  //box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+
+  //&:after {
+  //  position: absolute;
+  //  content: '';
+  //  display: block;
+  //  height: 0;
+  //  width: 0;
+  //  top: auto;
+  //  bottom: -$header-fold-size-sm;
+  //  left:0;
+  //  border-left: $header-fold-size-sm solid transparent;
+  //  border-top: $header-fold-size-sm solid darken($orange, 20%);
+  //}
+}
+
+// Landing page
+.header-landing {
+  @include vertical-padding(7%);
+  position: relative;
+  //overflow: hidden;
+  background-color: $color-secondary;
+  //background-image: url('#{$assets-url}img/low-poly.jpg');
+  background-image: linear-gradient(-45deg, $color-secondary, saturate(adjust-hue($color-secondary, 14%), 18%));
+  background-image: url('#{$assets-url}img/fond-piste-orange.jpg');
+  //background-position: top left;
+  background-position: 50% 35%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  color: check-background($color-secondary);
+
+  > .container {
+    position: relative;
+    z-index: $z-index-page + 1;
+  }
+}
+
+.icon-header {
+  position: absolute;
+  font-size: 200px;
+  top: 25px;
+  right: 25px;
+  color: $gray-lighter;
+}
+
+//.icon-landing {
+//  @include opacity(0.7);
+//  pointer-events: none;
+//  position: absolute;
+//  left: auto;
+//  top: 120px;
+//  right: 120px;
+//  color: darken($color-primary, 10%);
+//  font-size: 500px;
+//}

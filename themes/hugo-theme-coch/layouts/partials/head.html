@@ -1,0 +1,29 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ with .Title }}{{ . }} | {{ end }}{{ $.Site.Title }}</title>
+  <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
+  <meta name="description" content="{{ if .Description }}{{ . }}{{else}}{{ $.Site.Params.description |  }}{{end}}">
+  
+  <style>
+    {{- $style := resources.Get "styles/main.scss" | resources.ToCSS | resources.PostCSS | resources.Minify -}}
+    {{- $sass := $style.Content -}}
+    {{ $sass | safeCSS }}
+  </style>
+<!--  <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" />-->
+  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link rel="canonical" href="{{ .Site.BaseURL }}">
+  <script>
+    {{- $headJS := resources.Get "scripts/head.min.js" -}}
+    {{ $headJS.Content | safeJS }}
+  </script>
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png"/>
+  <meta name="msapplication-TileColor" content="{{ $.Site.Params.ThemeColor | default "#f26e21" }}">
+  {{ "<!--[if lt IE 9]>" | safeHTML }}
+  {{ $ieStyle := resources.Get "styles/ie.scss" | resources.ToCSS }}
+  <link rel="stylesheet" type="text/css" href="{{ $ieStyle.Permalink }}" />
+  {{ "<![endif]-->" | safeHTML }}
+  {{ "<!--[if lt IE 8]>" | safeHTML }}
+  <script src="/scripts/ie.js"></script>
+  {{ "<![endif]-->" | safeHTML }}
+</head>
