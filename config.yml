@@ -1,9 +1,11 @@
 languageCode: "fr-ca"
 
 title: Club d’athlétisme Corsaire-Chaparral
-baseURL: "https://corsaire-chaparral.org" # the base hostname & protocol for your site
+baseURL: "" # the base hostname & protocol for your site
 theme: hugo-theme-coch
 copyright: Tous droits réservés.
+
+publishDir: dist
 
 params:
   themeColor: '#f26e21'
@@ -14,6 +16,8 @@ params:
   email: corsairechaparal@hotmail.com
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
+
+#sectionPagesMenu: main
 
 menu:
   main:

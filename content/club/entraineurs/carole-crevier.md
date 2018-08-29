@@ -1,11 +1,13 @@
 ---
 title: Carole Crevier
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 
 photo:
-  src: "/assets/img/entraineurs/carole-crevier.jpg"
+  src: "/img/entraineurs/carole-crevier.jpg"
   caption: Carole Crevier
 
 formation:

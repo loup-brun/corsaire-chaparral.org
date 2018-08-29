@@ -1,0 +1,55 @@
+ErrorDocument 404 /404/
+
+RewriteEngine On
+
+# redirect from HTTP://www to non-www
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP_HOST}        ^www\.(.+)$ [NC]
+RewriteRule ^                   http://%1%{REQUEST_URI}  [R=301,L]
+
+# rewrite / to /accueil/
+#RewriteRule ^/?$ /accueil/ [R]
+
+RewriteRule ^accueil\/?$ / [R]
+
+AddType image/svg+xml svg
+AddType image/svg+xml svgz
+AddEncoding x-gzip .svgz
+
+<IfModule mod_deflate.c>
+	AddOutputFilterByType DEFLATE image/svg+xml
+	AddOutputFilterByType DEFLATE text/css
+	AddOutputFilterByType DEFLATE text/html
+	AddOutputFilterByType DEFLATE text/javascript
+	AddOutputFilterByType DEFLATE image/jpg
+	AddOutputFilterByType DEFLATE image/jpeg 
+	AddOutputFilterByType DEFLATE image/png
+	AddOutputFilterByType DEFLATE application/x-font-woff
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive On
+
+ExpiresByType text/html "access plus 1 hour"
+ExpiresByType image/svg+xml "access plus 1 week"
+ExpiresByType audio/ogg "access plus 1 week"
+ExpiresByType audio/mpeg "access plus 1 week"
+ExpiresByType audio/x-wav "access plus 1 week"
+# Default directive
+<FilesMatch "\.(png|woff|woff2|svg|jpg|jpeg|png|js|css)$">
+ExpiresDefault "access plus 1 month"
+</FilesMatch>
+</IfModule>
+
+########################################################
+# URL rewriting
+########################################################
+RewriteEngine On
+
+# Invert this rule eventually to point to challenge-andre-harel
+RewriteRule ^competitions\/classique-hivernale\/?$ /competitions/challenge-andre-harel/ [R,L]
+RewriteRule ^competitions\/rencontre-hivernale-andre-harel\/?$ /competitions/challenge-andre-harel/ [R,L]
+
+
+# Rewrite old URL to new (new name) for Corsaire-Chaparral Invitation
+RewriteRule ^competitions\/corsaire-chaparal-invitation\/?$ /competitions/corsaire-chaparral-invitation/ [R,L]

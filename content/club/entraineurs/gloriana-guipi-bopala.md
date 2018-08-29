@@ -1,12 +1,15 @@
 ---
 title: Gloriana Guipi-Bopala
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
+
 courriel: gloriana@corsaire-chaparral.org
 
 photo:
-  src: "/assets/img/entraineurs/gloriana-guipi-bopala-acindoor2016.jpg"
+  src: "/img/entraineurs/gloriana-guipi-bopala-acindoor2016.jpg"
   caption: "Gloriana aux championnats canadiens d'athlétisme en salle 2016 (photo Yves Longpré)"
 
 formation:

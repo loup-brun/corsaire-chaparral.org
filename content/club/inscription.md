@@ -10,7 +10,9 @@ menu:
     parent: club
 ---
 
-**Inscription en ligne** : pour procéder à votre inscription, vous devez faire une demande d’inscription via le *Portail Corsaire-Chaparral* (lien au bas de cette page).
+{{% div class="well" %}}
+**Note** : il n’est pas nécessaire d’être inscrit dès le premier entraînement. Présentez-vous selon [l’horaire](/club/entrainements) de votre catégorie et bénéficiez d’une période d’essai sans frais!
+{{% /div %}}
 
 ### Informations générales et politiques d'inscription
 
@@ -39,9 +41,13 @@ Enfin, vous recevrez **par courriel** une facture comprenant la somme intégrale
 | Vétéran (1983 et avant) | 560 $        | 30 $            | 200 $     | 30 $        | 820 $ |
 | Transfert universitaire | 305 $        | 30 $            | 200 $     | 30 $        | 565 $ |
 
-<div class="well">**\* Frais de piste** : notez que les résidents de la ville de **Blainville** n'ont pas à débourser le montant concernant les frais d'infrastructure.</div>
+{{< note >}}
+**Frais de piste** : notez que les résidents de la ville de **Blainville** n'ont pas à débourser le montant concernant les frais d'infrastructure.
+{{< /note >}}
 
-<div class="well">**\* Camisole/chandail :** l'achat de la nouvelle camisole du club (ou chandail de sport technique) est désormais obligatoire lors de l'inscription. En raison du changement d'identité visuelle cette année, le club a décidé d'assumer une part des coûts associés à cette mesure.</div>
+{{< note >}}
+**Camisole/chandail :** l'achat de la nouvelle camisole du club (ou chandail de sport technique) est désormais obligatoire lors de l'inscription. En raison du changement d'identité visuelle cette année, le club a décidé d'assumer une part des coûts associés à cette mesure.
+{{< /note >}}
 
 ### Catégories d'âge et tarifs d'inscription (club Lachute)
 
@@ -55,7 +61,7 @@ Enfin, vous recevrez **par courriel** une facture comprenant la somme intégrale
 
 Il est attendu que les athlètes, ainsi que leur famille, contribuent aux événements organisés par le Corsaire-Chaparral. Ces événements constituent généralement une source de financement importante pour le club. Afin d'assurer le bon déroulement de ceux-ci, un système de contribution de bénévolat a été mis en place pour favoriser la participation des membres du club aux activités organisées tout au long de l'année.
 
-<em class="badge badge-primary">Changements en 2018</em> Chaque **famille** doit accomplir un minimum de **15 heures** au cours de l'année. Un dépôt de **200 $** est demandé au début de la saison d'inscription, montant qui sera remboursé à la fin de la saison estivale suivante. Ce montant sera facturé uniquement à l'enfant le plus âgé de la famille.
+{{< badge >}}Changements en 2018{{< /badge >}} Chaque **famille** doit accomplir un minimum de **15 heures** au cours de l'année. Un dépôt de **200 $** est demandé au début de la saison d'inscription, montant qui sera remboursé à la fin de la saison estivale suivante. Ce montant sera facturé uniquement à l'enfant le plus âgé de la famille.
 
 Le club déduira **13,33 $** de la contribution initiale pour chaque heure non accomplie.
 
@@ -66,6 +72,4 @@ Au-delà de 15 heures de bénévolat, l'athlète est acquitté de ses devoirs et
 
 ### Inscription
 
-Lorsque vous aurez pris connaissance de tous les détails d'inscription, veuillez remplir une demande d'adhésion sur le [Portail Corsaire-Chaparral](https://portail.corsaire-chaparral.org) :
-
-<a href="https://portail.corsaire-chaparral.org" target="_blank" class="btn btn-primary">Inscription</a>
+L’inscription doit être faite en ligne, ainsi que le paiement de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**

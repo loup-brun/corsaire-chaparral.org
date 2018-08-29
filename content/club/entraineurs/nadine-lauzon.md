@@ -1,11 +1,13 @@
 ---
 title: Nadine Lauzon
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 
 photo:
-  src: "/assets/img/entraineurs/nadine-lauzon.jpg"
+  src: "/img/entraineurs/nadine-lauzon.jpg"
   caption: Nadine Lauzon
 
 formation:

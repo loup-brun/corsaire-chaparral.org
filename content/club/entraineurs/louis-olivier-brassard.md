@@ -1,12 +1,14 @@
 ---
 title: Louis-Olivier Brassard
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 courriel: louis@corsaire-chaparral.org
 
 photo:
-  src: "/assets/img/entraineurs/louis-olivier-brassard.jpg"
+  src: "/img/entraineurs/louis-olivier-brassard.jpg"
   caption: "Louis-Olivier Brassard (Photo : Pierre Morin)"
 
 formation:

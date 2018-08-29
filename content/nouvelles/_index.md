@@ -5,7 +5,10 @@ menu:
   main:
     identifier: nouvelles
     weight: 20
-layout: [baseof, _default.single]
----
 
-Nouvelles
+params:
+  menu:
+    main:
+      parent: nouvelles
+  icon: hamburger
+---

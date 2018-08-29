@@ -1,13 +1,15 @@
 ---
 title: Nicolas Riopel
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 
 courriel: nicolas@corsaire-chaparral.org
 
 photo:
-  src: "/assets/img/entraineurs/nicolas-riopel.jpg"
+  src: "/img/entraineurs/nicolas-riopel.jpg"
   caption: "Nicolas en 2017 (Photo : Louis-Olivier Brassard)"
 
 formation:

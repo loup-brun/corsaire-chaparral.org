@@ -9,11 +9,9 @@ menu:
     parent: club
 ---
 
-## À la saison prochaine!
+## Reprise saison 2018-2019
 
-Les entraînements reprendront à l'automne (la date officielle sera communiquée au début du mois de septembre) après un congé bien mérité pendant tout le mois d'août.
-
-Bon été!
+Les entraînements reprendront **samedi 15 septembre 2018**. Présentez-vous selon l’horaire de votre catégorie (voir plus bas).
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
@@ -43,7 +41,7 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
-_Pour le club satellite de Lachute, voir [plus bas](#horaire-d-entra-nement-lachute)._
+_Pour le club satellite de Lachute, voir [plus bas](#horaire-d-entraînement-lachute)._
 
 #### Colibri (2009-2010)
 

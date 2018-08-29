@@ -10,7 +10,7 @@ menu:
     parent: competitions
 ---
 
-![Premières Foulées Bruny Surin]({{link '/assets/img/logo-premieres-foulees-bruny-surin.jpg' }})
+![Premières Foulées Bruny Surin](/img/logo-premieres-foulees-bruny-surin.jpg)
 
 Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Bruny Surin](http://www.athletisme-quebec.ca/evenements-en-gymnase). L'événement s'adresse aux jeunes de catégories colibri, minime et benjamin et prendra la forme d'un pentathlon de cinq épreuves pour tous (voir le document technique pour les détails). Cet événement est sanctionné par la Fédération Québécoise d'Athlétisme.
 
@@ -18,9 +18,9 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 Responsable : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
-[Document technique]({{link '/medias/competitions/2017/festival-en-salle-pour-jeunes-2017.pdf ' }})
+[Document technique](/medias/competitions/2017/festival-en-salle-pour-jeunes-2017.pdf )
 
-[Résultats 2017]({{link '/resultats/2017/festival-en-salle-pour-jeunes/' }})
+[Résultats 2017](/resultats/2017/festival-en-salle-pour-jeunes/)
 
 ## Lieu
 
@@ -30,4 +30,4 @@ Polyvalente Sainte-Thérèse
 
 ## Résultats antérieurs
 
-[Résultats 2016]({{link '/medias/competitions/2016/resultats-festival-en-salle-coch-2016.pdf'}})
+[Résultats 2016](/medias/competitions/2016/resultats-festival-en-salle-coch-2016.pdf)

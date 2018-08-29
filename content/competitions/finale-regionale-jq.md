@@ -10,11 +10,11 @@ menu:
     parent: competitions
 ---
 
-_Répondant régional pour l'équipe des Laurentides en athlétisme : [Louis-Olivier Brassard](mailto:louis.oli.br@gmail.com)_
+_Répondant régional pour l'équipe des Laurentides en athlétisme : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)_
 
 En vue de la [53<sup>e</sup> finale provinciale des Jeux du Québec 2018](http://www.jeuxduquebec.com/) à Thetford, le club d'athlétisme Corsaire-Chaparral organisera la finale régionale des Laurentides pour les épreuves d'athlétisme. Cette épreuve servira de qualification pour les athlètes désirant faire partie de la délégation laurentienne à la grande finale provinciale des Jeux.
 
-C'est la [Corsaire-Chaparral Invitation]({{link '/competitions/corsaire-chaparral-invitation/' }}) qui tiendra lieu de finale régionale. Remarque : l'affiliation de niveau compétitif est requise pour participer à cette compétition, sanctionnée par la [Fédération québécoise d'athlétisme](http://athletisme-quebec.ca).
+C'est la [Corsaire-Chaparral Invitation](/competitions/corsaire-chaparral-invitation/) qui tiendra lieu de finale régionale. Remarque : l'affiliation de niveau compétitif est requise pour participer à cette compétition, sanctionnée par la [Fédération québécoise d'athlétisme](http://athletisme-quebec.ca).
 
 Au total, **30 athlètes** seront retenus pour la composition de la délégation régionale en athlétisme. À noter que les épreuves sont offertes **en catégorie jeunesse (juvénile) seulement** (nouvelles normes d'opération depuis 2017). La performance individuelle ainsi que le caractère polyvalent de l'athlète seront donc pris en compte lors de la sélection définitive.
 

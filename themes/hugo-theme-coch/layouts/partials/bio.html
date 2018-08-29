@@ -1,0 +1,21 @@
+<div class="well">
+  <div class="row">
+    <figure class="col col-4 phone-col-12 phone-text-center figure-thumb">
+      <img src="{{ .Params.photo.src }}" title="{{ .Title }}" alt="{{ .Params.photo.caption }}" />
+      <figcaption>{{ .Params.photo.caption }}</figcaption>
+    </figure>
+
+    <div class="col col-8 phone-col-12">
+      <ul>
+        {{ range .Params.formation }}
+        <li>{{ . }}</li>
+        {{ end }}</ul>
+
+      {{ with .Params.courriel }}
+      <p>
+        <strong>Courriel :</strong> <a href="mailto:{{ . }}">{{ . }}</a>
+      </p>
+      {{ end }}
+    </div>
+  </div>
+</div>

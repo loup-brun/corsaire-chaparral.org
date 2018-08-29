@@ -1,11 +1,13 @@
 ---
 title: Alexanne Prince-Pelletier
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 
 photo:
-  src: "/assets/img/entraineurs/alexanne-prince-pelletier.jpg"
+  src: "/img/entraineurs/alexanne-prince-pelletier.jpg"
   caption: Alexanne Prince-Pelletier
 
 formation:

@@ -7,5 +7,5 @@ menu:
     identifier: partenaires
     title: Partenaires
     weight: 90
+layout: partenaires
 ---
-

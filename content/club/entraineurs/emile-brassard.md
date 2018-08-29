@@ -1,11 +1,13 @@
 ---
-title: Émile Brassar
+title: Émile Brassard
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 
 photo:
-  src: "/assets/img/entraineurs/emile-brassard.jpg"
+  src: "/img/entraineurs/emile-brassard.jpg"
   caption: Émile Brassard
 
 formation:

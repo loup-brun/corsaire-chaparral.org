@@ -1,12 +1,14 @@
 ---
 title: Geneviève Tremblay-Lucier
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 published: false
 
 photo:
-  src: "/assets/img/entraineurs/genevieve-tremblay-lucier.jpg"
+  src: "/img/entraineurs/genevieve-tremblay-lucier.jpg"
   caption: Geneviève Tremblay-Lucier
 
 formation:

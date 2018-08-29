@@ -1,94 +1,94 @@
 - name: "Fédération québécoise d'athlétisme"
   url: "http://athletisme-quebec.ca"
-  image: "/assets/img/partenaires/federation-quebecoise-athletisme.png"
+  image: "/img/partenaires/federation-quebecoise-athletisme.png"
 
 - name: "Ville de Sainte-Thérèse"
   url: "http://www.ville.sainte-therese.qc.ca/"
-  image: "/assets/img/partenaires/ville-sainte-therese.jpg"
+  image: "/img/partenaires/ville-sainte-therese.jpg"
 
 - name: "Ville de Blainville"
   url: "http://www.ville.blainville.qc.ca/"
-  image: "/assets/img/partenaires/ville-blainville.png"
+  image: "/img/partenaires/ville-blainville.png"
 
 - name: "Club Optimiste de Sainte-Thérèse"
-  image: "/assets/img/partenaires/club-optimiste-ste-therese.gif"
+  image: "/img/partenaires/club-optimiste-ste-therese.gif"
 
 - name: "Desjardins"
   url: "https://www.desjardins.com"
-  image: "/assets/img/partenaires/desjardins-logo-rgb.jpg"
+  image: "/img/partenaires/desjardins-logo-rgb.jpg"
 
 - name: "Boston Pizza Sainte-Thérèse"
   url: "https://bostonpizza.com/fr"
-  image: "/assets/img/partenaires/boston-pizza.png"
+  image: "/img/partenaires/boston-pizza.png"
   
 - name: "Sports Experts Place Rosemère"
   url: "https://www.sportsexperts.ca"
-  image: "/assets/img/partenaires/sports-experts-place-rosemere.jpg"
+  image: "/img/partenaires/sports-experts-place-rosemere.jpg"
 
 - name: "Rôtisserie Scores Sainte-Thérèse"
   url: "https://www.scores.ca/restaurant/28-rotisserie-scores-sainte-therese.html"
-  image: "/assets/img/partenaires/rotisserie-scores.jpg"
+  image: "/img/partenaires/rotisserie-scores.jpg"
   
 - name: "IGA Daigle"
   url: "http://igadaigle.com/"
-  image: "/assets/img/partenaires/iga-daigle.jpg"
+  image: "/img/partenaires/iga-daigle.jpg"
   
 - name: "Ramez Ayoub, député fédéral de Thérèse-de-Blainville"
   url: "http://rayoub.liberal.ca/"
-  image: "/assets/img/partenaires/ramez-ayoub.jpg"
+  image: "/img/partenaires/ramez-ayoub.jpg"
 
 - name: "Municipalité d'Oka"
   url: "http://municipalite.oka.qc.ca/"
   
 - name: "Ville de Boisbriand"
   url: "http://www.ville.boisbriand.qc.ca/"
-  image: "/assets/img/partenaires/ville-boisbriand.jpg"
+  image: "/img/partenaires/ville-boisbriand.jpg"
 
 - name: "Ville de Rosemère"
   url: "http://www.ville.rosemere.qc.ca/"
-  image: "/assets/img/partenaires/ville-rosemere.gif"
+  image: "/img/partenaires/ville-rosemere.gif"
 
 - name: "Équipe Endurance"
   url: "http://www.boutiqueendurance.ca/"
-  image: "/assets/img/partenaires/equipe-endurance-rive-nord.gif"
+  image: "/img/partenaires/equipe-endurance-rive-nord.gif"
 
 - name: "Comité de l'athlétisme aux Jeux mondiaux des pompiers et policiers de Blainville"
-  image: "/assets/img/partenaires/athletisme-jeux-policiers-pompiers.png"
+  image: "/img/partenaires/athletisme-jeux-policiers-pompiers.png"
 
 - name: "J. P. Lauzon et fils Ltée"
   url: "http://www.jplauzon.com/index.php/fr/"
-  image: "/assets/img/partenaires/lauzon-fils.gif"
+  image: "/img/partenaires/lauzon-fils.gif"
 
 - name: "Technisoins"
   url: "http://www.technisoins.com/"
-  image: "/assets/img/partenaires/technisoins.gif"
+  image: "/img/partenaires/technisoins.gif"
 
 - name: "G2 Logiciels"
   url: "https://g2logiciels.com/fr/"
-  image: "/assets/img/partenaires/g2-logiciels.jpg"
+  image: "/img/partenaires/g2-logiciels.jpg"
 
 - name: "Julie Lepage, chiropraticienne"
-  image: "/assets/img/partenaires/centre-chiro-sante.gif"
+  image: "/img/partenaires/centre-chiro-sante.gif"
 
 - name: "Boutique Endurance"
   url: "http://www.boutiqueendurance.ca/"
-  image: "/assets/img/partenaires/boutique-endurance.png"
+  image: "/img/partenaires/boutique-endurance.png"
 
 - name: "Fondation Philippe Laheurte"
 
 - name: "Boutique Courir"
   url: "http://www.boutiquecourir.com/"
-  image: "/assets/img/partenaires/boutique-courir.jpg"
+  image: "/img/partenaires/boutique-courir.jpg"
 
 - name: "Tim Hortons"
   url: "http://www.timhortons.com/"
-  image: "/assets/img/partenaires/tim-hortons.gif"
+  image: "/img/partenaires/tim-hortons.gif"
 
 - name: "Performe Massothérapie"
   url: "https://www.facebook.com/Performe-Massothérapie-461000613984044/"
-  image: "/assets/img/partenaires/performe-massotherapie-logo.png"
+  image: "/img/partenaires/performe-massotherapie-logo.png"
   
 - name: "CDESL – Conseil de développement de l’excellence sportive des Laurentides"
   url: "http://www.cdesl.ca/"
-  image: "/assets/img/partenaires/cdesl.png"
+  image: "/img/partenaires/cdesl.png"
 

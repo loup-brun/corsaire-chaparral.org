@@ -1,12 +1,14 @@
 ---
 title: Marjolaine Lalande
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 published: false
 
 photo:
-  src: "/assets/img/entraineurs/marjolaine-lalande.jpg"
+  src: "/img/entraineurs/marjolaine-lalande.jpg"
   caption: Marjolaine Lalande
 
 formation:

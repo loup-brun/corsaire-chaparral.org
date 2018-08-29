@@ -1,11 +1,14 @@
 ---
 title: Robert Lavoie
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 
+courriel: robertlecoach@gmail.com
 photo:
-  src: "/assets/img/entraineurs/robert-lavoie.jpg"
+  src: "/img/entraineurs/robert-lavoie.jpg"
   caption: Robert Lavoie
 
 formation:

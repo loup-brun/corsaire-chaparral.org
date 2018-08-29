@@ -8,11 +8,11 @@ scripts:
 
 stylesheets:
   - "/styles/blocks-layout.css"
-menu:
-  main:
-    identifier: photos
-    title: Photos
-    weight: 80
+#menu:
+#  main:
+#    identifier: photos
+#    title: Photos
+#    weight: 80
 ---
 
 ```

@@ -1,11 +1,13 @@
 ---
 title: Nicolas Harel
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 
 photo:
-  src: "/assets/img/entraineurs/nicolas-harel.jpg"
+  src: "/img/entraineurs/nicolas-harel.jpg"
   caption: Nicolas Harel
 
 formation:

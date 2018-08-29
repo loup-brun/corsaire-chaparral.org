@@ -24,7 +24,10 @@
   float: left;
   margin-left: $gutter;
   margin-right: $gutter;
+    
+  &.right { float: right }
 }
+
 [class*="pull-"], [class*="push-"] { position: relative; }
 
 .no-gutter {

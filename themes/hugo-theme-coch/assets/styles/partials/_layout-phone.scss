@@ -4,7 +4,6 @@
 @include mquery($phone-breakpoint) {
 
   .container {
-    @include horizontal-padding($spacing);
     float: none;
     //&:first-child { margin-left: auto; }
   }

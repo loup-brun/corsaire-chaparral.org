@@ -42,9 +42,9 @@ _C’est pourquoi nous demandons aux athlètes d’arriver 1 heure avant leur é
 
 En compétition, les athlètes font souvent plus d’une épreuve dans la même journée et, selon l’horaire, ces épreuves peuvent être espacées ou très rapprochées. Pour maximiser les performances, il est important de toujours maintenir un bon niveau d’énergie via l’alimentation. S’il y a peu de temps entre deux disciplines, il est important de privilégier des aliments à digestion rapide,  alors que l’on peut se permettre des aliments plus lourds et qui soutiennent plus longtemps si elles sont espacées.
 
-<div class="right">
-![Fruits]({{link '/assets/img/fruits.jpg'}} "Fruits")
-</div>
+{{% div class="right" %}}
+  ![Fruits](/img/fruits.jpg "Fruits")
+{{% /div %}}
 
 Temps approximatif de digestion des aliments :
 

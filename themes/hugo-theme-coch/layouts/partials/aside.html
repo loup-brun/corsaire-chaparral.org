@@ -4,11 +4,9 @@
     {{ $currentPage := . }}
     {{ range .Site.Menus.main.ByWeight }}
     <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}">
+      <a href="{{ .URL }}">{{ .Title }}</a>
       {{ if .HasChildren }}
       <ul class="nav nav-side nav-side-sub">
-        <li>
-          <a href="{{ .URL }}">{{ .Title }}</a>
-        </li>
         {{ range .Children }}
         <li {{ if .HasChildren }}class="dropdown"{{end}}>
           <a href="{{ .URL }}">{{ .Title }}</a>

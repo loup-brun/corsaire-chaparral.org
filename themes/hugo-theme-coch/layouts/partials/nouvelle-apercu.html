@@ -1,10 +1,13 @@
 <div class="row">
-  <small class="title-meta"><span class="icon icon-calendar"></span>{{ .Date }}</small>
-  <h4><a href="{{ .BaseUrl }}/nouvelles/">{{ .Title }}</a></h4>
+  <small class="title-meta"><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-2" }}</small>
+  <h4><a href="{{ .URL }}">{{ .Title }}</a></h4>
   
-  {{ with .Resume }}
-    {{ .Resume }}
-  {{ end }}
-
-  <a class="btn btn-primary" href="{{ .BaseUrl }}/nouvelles/">Lire la suite <span class="icon icon-angle-right"></span></a>
+  {{- with .Params.resume -}}
+    <article>
+    {{ . }}
+    </article>
+  {{- end -}}
+  <footer>
+    <a class="btn btn-primary" href="{{ .URL }}">Lire la suite <span class="icon icon-angle-right"></span></a>
+  </footer>
 </div>

@@ -40,10 +40,10 @@ Modes de paiement acceptés (sur place, le jour de l’événement) :
 
 * Crépuscule #1 : mercredi 23 mai 2018
 | [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-1.pdf)
-| [Résultats]({{link '/resultats/2018/crepuscule-coch-1/' }})
+| [Résultats](/resultats/2018/crepuscule-coch-1/)
 * Crépuscule #2 : mercredi 6 juin 2018
 | [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-2.pdf)
-| [Liste des inscriptions](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-2-liste-inscriptions-v2018-06-05.pdf) _(en date du 5 juin)_ | [Résultats]({{link '/resultats/2018/crepuscule-coch-2/' }})
+| [Liste des inscriptions](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-2-liste-inscriptions-v2018-06-05.pdf) _(en date du 5 juin)_ | [Résultats](/resultats/2018/crepuscule-coch-2/)
 
 ### Emplacement
 

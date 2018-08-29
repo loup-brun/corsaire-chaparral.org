@@ -2,46 +2,46 @@
 // -----------------------------------
 @include mquery($tablet-breakpoint) {
 
-	.container {
-		
-		//&:first-child { margin-left: auto; }
-	}
+  .container {
+    @include horizontal-padding($spacing);
+      //&:first-child { margin-left: auto; }
+  }
 
-	// Grid
-	@for $i from 1 through $columns {
-		.tablet-col-#{$i} { width: (100% * $i / $columns) - (2 * $gutter); }
+  // Grid
+  @for $i from 1 through $columns {
+    .tablet-col-#{$i} { width: (100% * $i / $columns) - (2 * $gutter); }
 
-		@if $i != $columns {
-			.tablet-push-#{$i} { left: (100% * $i / $columns) - (2 * $gutter); }
-			//.tablet-pull-#{$i} { left: (-100% * $i / $columns) - (2 * $gutter); }
-		}
-	}
+    @if $i != $columns {
+      .tablet-push-#{$i} { left: (100% * $i / $columns) - (2 * $gutter); }
+      //.tablet-pull-#{$i} { left: (-100% * $i / $columns) - (2 * $gutter); }
+    }
+  }
 
-	.tablet-no-push, .tablet-no-pull { left: auto; }
+  .tablet-no-push, .tablet-no-pull { left: auto; }
 
-	.tablet-full {
-		left: auto;
-		clear: both;
-		float: none;
-		width: 100%;
-		margin: 0 0 $spacing;
-		display: block;
-	}
-	//.tablet-full:first-child { margin-top: 0; }
+  .tablet-full {
+    left: auto;
+    clear: both;
+    float: none;
+    width: 100%;
+    margin: 0 0 $spacing;
+    display: block;
+  }
+  //.tablet-full:first-child { margin-top: 0; }
 
-	.tablet-text-left { text-align: left; }
-	.tablet-text-right { text-align: right; }
-	.tablet-text-center { text-align: center; }
+  .tablet-text-left { text-align: left; }
+  .tablet-text-right { text-align: right; }
+  .tablet-text-center { text-align: center; }
 
-	.tablet-left { float: left; }
-	.tablet-right { float: right; }
-	.tablet-no-float { float: none; }
+  .tablet-left { float: left; }
+  .tablet-right { float: right; }
+  .tablet-no-float { float: none; }
 
-	// Remove Margin / Padding
-	.tablet-no-margin { margin: 0; }
-	.tablet-no-padding { padding: 0; }
+  // Remove Margin / Padding
+  .tablet-no-margin { margin: 0; }
+  .tablet-no-padding { padding: 0; }
 
-	.hide-tablet { display: none; }
-	.show-tablet { display: block; }
+  .hide-tablet { display: none; }
+  .show-tablet { display: block; }
 
 }

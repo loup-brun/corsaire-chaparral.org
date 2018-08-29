@@ -1,11 +1,13 @@
 ---
 title: Marc-Olivier Guindon
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 
 photo:
-  src: "/assets/img/entraineurs/marc-olivier-guindon.jpg"
+  src: "/img/entraineurs/marc-olivier-guindon.jpg"
   caption: Marc-Olivier Guindon
 
 formation:

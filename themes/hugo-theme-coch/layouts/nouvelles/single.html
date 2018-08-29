@@ -1,59 +1,31 @@
 {{ define "main" }}
 <main class="container container-main" role="main">
-  <header class="header-page">
-    <span class="icon icon-{{ .Params.icon }} icon-lg icon-header"></span>
-
-    {{ with .Params.subtitle }}
-    <div class="row row-sm">
-      <div class="col col-12">
-        <div class="meta-header container">
-          {{ . }}
-        </div>
-      </div>
-    </div>
-    {{ end }}
-    <div class="row no-padding">
-      <div class="col col-9 tablet-col-10 phone-col-11">
-        <div class="title-header container">
-          <h1>{{ .Title }}</h1>
-        </div>
-      </div>
-    </div>
-  </header>
-  
+  {{ partial "header.html" . }}
+      
   <div class="row">
-    <div class="col col-8 phone-col-12">
-      <aside class="none show-phone container">
-        <p class="text--gray">
-          {{ with .Params.author}}
-          {{ . }} |
-          {{ end }}
-          {{ .Date.Format "2018-01-01" }}
-        </p>
-      </aside>
-      <article class="container article-container">
-          {{ with .Params.image}}
-          <figure>
-            <img src="{{ .Url}}" alt="{{.Title}}" />
-            <figcaption>{{ .Title }}</figcaption>
-          </figure>
-          {{ end }}
-
-          {{ .Content }}
-      </article>
-    </div>
-    
     <div class="col col-4 phone-col-12 right hide-phone">
       <aside class="container sidebar-container">
-        {{ with .Params.author}}
+        {{with .Params.author }}
          <p class="text--gray">
-          {{ . }}
+          {{- . -}}
         </p>
         {{ end }}
          <p class="text--gray">
-          {{ .Date }}
+          {{ .Date.Format "2006-01-02" }}
         </p>
       </aside>
+    </div>
+    <div class="col col-8 phone-col-12">
+      <article class="container article-container">
+          {{if .Params.image}}
+          <figure>
+            <img src="{{ .Params.image.url }}" alt="{{ .Params.image.title }}" />
+            <figcaption>{{ .Params.image.title }}</figcaption>
+          </figure>
+          {{ end }}
+          
+          {{ .Content }}
+      </article>
     </div>
   </div>
 </main>

@@ -15,21 +15,25 @@
     <script>
       (function(head) {
         head.load([
-          {{ $vendorJS := resources.Get "scripts/vendor.js"}}
+          {{ $vendorJS := resources.Get "scripts/vendor.js" }}
           "{{ $vendorJS.Permalink }}",
           {{ $mainJS := resources.Get "scripts/main.js" }}
           "{{ $mainJS.Permalink }}"
-          {{ range .Params.Scripts }}
+          {{ range .Params.scripts }}
           ,"{{ . }}"
-          {{ end }}
+          {{- end -}}
         ], function() {
           console.log("loaded scripts");
         });
         head.load([
-          "/styles/fonts.css"
-          {{ range .Params.Scripts }}
+          {{ $string := (printf "var rootURL: '%s'; var apiURL: '%s';" (absURL "/") (.Param "API_URL")) }}
+          {{- $targetPath := "styles/fonts.scss" -}}
+          {{- $fontsSASS := resources.Get $targetPath | resources.ToCSS | resources.PostCSS | resources.Minify -}}
+          {{- $fontsCSS := $fontsSASS.Permalink -}}
+          "{{ replace $fontsCSS "http://localhost:1313" "" }}"
+          {{ range .Params.styles }}
           ,"{{ . }}"
-          {{ end }}
+          {{- end -}}
         ], function() {
           console.log("loaded stylesheets");
         });

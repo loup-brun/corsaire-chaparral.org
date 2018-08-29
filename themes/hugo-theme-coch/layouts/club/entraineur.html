@@ -1,0 +1,9 @@
+{{ define "main" }}
+<main class="container container-main" role="main">
+  {{ partial "header.html" . }}
+  <article class="container">
+    {{ partial "bio.html" . }}
+    {{ .Content }}
+  </article>
+</main>
+{{ end }}

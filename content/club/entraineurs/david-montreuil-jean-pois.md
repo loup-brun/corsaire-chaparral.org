@@ -1,11 +1,13 @@
 ---
 title: David Montreuil-Jean-Pois
 icon: assignment_ind
-categories: entraineurs
-top_categories: Club
+layout: entraineur
+menu:
+  main:
+    parent: entraineurs
 
 photo:
-  src: "/assets/img/entraineurs/david-montreuil-jean-pois.jpg"
+  src: "/img/entraineurs/david-montreuil-jean-pois.jpg"
   caption: David Montreuil-Jean-Pois
 
 formation:

@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main class="container container-main" role="main">
+  {{ partial "header.html" . }}
+  <article class="container">
+    {{ .Content }}
+
+    <ul>
+      {{ range .Pages }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </article>
+</main>
+{{ end }}
