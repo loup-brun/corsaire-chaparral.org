@@ -66,4 +66,4 @@ slides:
 
 ## Reprise des entraînements – saison 2018-2019
 
-Les [entraînements](/club/entrainements/) reprendront officiellement le **samedi 15 septembre 2018**. Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau!
+Les [entraînements](/club/entrainements/) reprendront officiellement le **samedi 15 septembre 2018**. Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuel de l’automne!
