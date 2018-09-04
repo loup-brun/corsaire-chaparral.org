@@ -47,9 +47,9 @@ Selon les catégories (voir ci-bas).
 
 _Pour le club satellite de Lachute, voir [plus bas](#horaire-d-entraînement-lachute)._
 
-#### Colibri (2009-2010)
+#### Colibri (2010-2011)
 
-Une session de 10 semaines pour les colibris débutera le **samedi 7 avril 2018** et se terminera le **9 juin 2018**. **Date limite d’inscription : 1<sup>er</sup> avril 2018**.
+Une session de 10 semaines pour les colibris débutera à novueau cet automne. La date sera annoncé sous peu.
 
  - Samedi 9 h à 10 h 30
 

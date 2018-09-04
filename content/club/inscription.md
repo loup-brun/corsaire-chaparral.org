@@ -14,41 +14,40 @@ menu:
 **Note** : il n’est pas nécessaire d’être inscrit dès le premier entraînement. Présentez-vous selon [l’horaire](/club/entrainements) de votre catégorie et bénéficiez d’une période d’essai sans frais!
 {{% /div %}}
 
+_L'inscription en ligne sera ouverte sous peu. Merci de votre compréhension!_
+
 ### Informations générales et politiques d'inscription
 
-Le coût d’inscription est établi selon l’année de naissance de l’athlète. L’inscription comprend l’affiliation à la Fédération québécoise d'athlétisme et les frais d’entraînement pour la période du 1<sup>er</sup> septembre au 31 août de l'année suivante. Par le biais d'activités de financement et de subventions, le club assume les frais d'inscription de l'athlète aux compétitions sélectionnées par l'entraîneur. Lorsque les compétitions se déroulent à l’extérieur (Sherbrooke, Québec, etc.), les athlètes doivent s’organiser pour le transport soit avec les parents, soit avec un autre athlète ou encore un entraîneur.
+Le coût d’inscription est établi selon l’année de naissance de l’athlète. La cotisation comprend les frais d’entraînement, l’affiliation à la Fédération québécoise d'athlétisme et, les frais de piste et les frais de compétition.
 
-Les montants d’inscription 2017-2018 sont établis selon les **catégories d'âge** et du **club d’entraînement** :
+Les montants d’inscription 2018-2019 sont établis selon les **catégories d'âge** (voir tableau ci-dessous).
 
-* Club principal (Ste-Thérèse)
-* Club satellite (Lachute)
+Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un athlète inscrit au club; assurez=vous de bien indiquer cette information lors de votre inscription.
 
-Veuillez prendre note que nous avons une politique familiale, c’est-à-dire un rabais de 25 % pour le 2<sup>e</sup> enfant et de 50 % pour les suivants.
+### Catégories d'âge et tarifs d'inscription
 
-Enfin, vous recevrez **par courriel** une facture comprenant la somme intégrale à payer lors de votre inscription.
+_Les tarifs pour le club satellite de Lachute sont à venir._
 
-### Catégories d'âge et tarifs d'inscription (club Ste-Thérèse)
-
-| Catégorie               | Cotisation   | Frais de piste  | Bénévolat | Camisole \* | Total |
-| ----------------------- | ------------ | --------------- | --------- | ----------- | ----- |
-| Colibri (2009-2010)     | 75 $         |                 |           | 30 $        | 105 $ |
-| Minime (2007-2008)      | 235 $        | 30 $            | 200 $     | 30 $        | 495 $ |
-| Benjamine (2005-2006)   | 395 $        | 30 $            | 200 $     | 30 $        | 655 $ |
-| Cadettte (2003-2004)    | 435 $        | 30 $            | 200 $     | 30 $        | 695 $ |
-| Juvénile (2001-2002)    | 465 $        | 30 $            | 200 $     | 30 $        | 725 $ |
-| Junior (1999-2000)      | 520 $        | 30 $            | 200 $     | 30 $        | 780 $ |
-| Senior (1984-1998)      | 560 $        | 30 $            | 200 $     | 30 $        | 820 $ |
-| Vétéran (1983 et avant) | 560 $        | 30 $            | 200 $     | 30 $        | 820 $ |
-| Transfert universitaire | 305 $        | 30 $            | 200 $     | 30 $        | 565 $ |
+| Catégorie               | Du 1<sup>er</sup> sept au 31 août | Du 1<sup>er</sup> mars au 31 août |
+| ----------------------- | --------------------------------- | --------------------------------  |
+| Colibri (2010-2011)     | 84 $ par session                  |
+| Minime (2008-2009)      | 272 $                             | 180 $
+| Benjamine (2006-2007)   | 442 $                             | 292 $
+| Cadettte (2004-2005)    | 480 $                             | 317 $
+| Juvénile (2002-2003)    | 518 $                             | 342 $
+| Junior (2000-2001)      | 595 $                             | 393 $
+| Senior (1985-1999)      | 637 $                             | 420 $
+| Vétéran (1984 et avant) | 532 $                             | 351 $
 
 {{< note >}}
-**Frais de piste** : notez que les résidents de la ville de **Blainville** n'ont pas à débourser le montant concernant les frais d'infrastructure.
+**Frais de piste** : notez que les résidents de la ville de **Blainville** sont exemptés des frais d'infrastructure (**30 $**).
 {{< /note >}}
 
 {{< note >}}
-**Camisole/chandail :** l'achat de la nouvelle camisole du club (ou chandail de sport technique) est désormais obligatoire lors de l'inscription. En raison du changement d'identité visuelle cette année, le club a décidé d'assumer une part des coûts associés à cette mesure.
+**Chandail ou camisole :** l'achat de la nouvelle camisole du club (ou chandail de sport technique) est désormais obligatoire lors de l'inscription des nouveaux athlètes.
 {{< /note >}}
 
+<!--
 ### Catégories d'âge et tarifs d'inscription (club Lachute)
 
 | Catégorie               | Cotisation   |
@@ -56,12 +55,15 @@ Enfin, vous recevrez **par courriel** une facture comprenant la somme intégrale
 | Benjamine (2005-2006)   | 90 $         |
 | Cadette (2003-2004)     | 100 $        |
 | Juvénile (2001-2002)    | 110 $        |
+-->
 
 ### Bénévolat et activités de financement
 
-Il est attendu que les athlètes, ainsi que leur famille, contribuent aux événements organisés par le Corsaire-Chaparral. Ces événements constituent généralement une source de financement importante pour le club. Afin d'assurer le bon déroulement de ceux-ci, un système de contribution de bénévolat a été mis en place pour favoriser la participation des membres du club aux activités organisées tout au long de l'année.
+Afin d'assurer le bon déroulement des événements organisés par le club, un système est mis en place pour favoriser la participation des membres du club.
 
-{{< badge >}}Changements en 2018{{< /badge >}} Chaque **famille** doit accomplir un minimum de **15 heures** au cours de l'année. Un dépôt de **200 $** est demandé au début de la saison d'inscription, montant qui sera remboursé à la fin de la saison estivale suivante. Ce montant sera facturé uniquement à l'enfant le plus âgé de la famille.
+Une contribution financière est demandée à l'inscription de l'athlète le plus vieux de la famille. Le club encourage l'athlète et sa famille à effectuer les heures requises au moment où ils sont sollicités par le club.
+
+Chaque **famille** doit accomplir un minimum de **15 heures** au cours de l'année. Un dépôt de **200 $** est demandé au début de la saison lors de l'inscription. Ce montant sera facturé uniquement à l'enfant le plus âgé de la famille.
 
 Le club déduira **13,33 $** de la contribution initiale pour chaque heure non accomplie.
 
@@ -70,6 +72,6 @@ Au-delà de 15 heures de bénévolat, l'athlète est acquitté de ses devoirs et
 <!-- TODO: Refaire document bénévolat à jour -->
 <!--Pour tous les détails, consultez le [document](https://corsaire-chaparral.org/assets/docs/systeme-contribution-benevolat.pdf) concernant le système de contribution de bénévolat.-->
 
-### Inscription
+### Paiement et inscription
 
-L’inscription doit être faite en ligne, ainsi que le paiement de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
+Le paiement doit être fait en intégralité au moment de l'inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
