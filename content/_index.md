@@ -66,6 +66,6 @@ slides:
 
 ## Reprise des entraînements – saison 2018-2019
 
-Les [entraînements](/club/entrainements/) reprendront officiellement le **samedi 15 septembre 2018** de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories! Un pique-nique sera également organisé après l’entraînement dès midi.
+Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
 
 Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuel de l’automne!
