@@ -10,11 +10,11 @@ menu:
     parent: club
 ---
 
+_L'inscription en ligne sera ouverte sous peu. Merci de votre compréhension!_
+
 {{% div class="well" %}}
 **Note** : il n’est pas nécessaire d’être inscrit dès le premier entraînement. Présentez-vous selon [l’horaire](/club/entrainements) de votre catégorie et bénéficiez d’une période d’essai sans frais!
 {{% /div %}}
-
-_L'inscription en ligne sera ouverte sous peu. Merci de votre compréhension!_
 
 ### Informations générales et politiques d'inscription
 

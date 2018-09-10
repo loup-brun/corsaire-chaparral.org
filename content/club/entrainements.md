@@ -13,6 +13,8 @@ menu:
 
 Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
 
+Les athlètes de catégorie **colibri** reprendront à l'automne vers la mi-octobre (la date officielle sera annoncée sous peu).
+
 Les entraînements reprendront par la suite selon l’horaire des catégories (voir plus bas).
 
 Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuel de l’automne!
@@ -49,32 +51,32 @@ _Pour le club satellite de Lachute, voir [plus bas](#horaire-d-entraînement-lac
 
 #### Colibri (2010-2011)
 
-Une session de 10 semaines pour les colibris débutera à novueau cet automne. La date sera annoncé sous peu.
+Une session de 10 semaines pour les colibris débutera à novueau cet automne (_vers la mi-octobre_). La date officielle sera annoncée sous peu.
 
  - Samedi 9 h à 10 h 30
 
-### Minime (2007-2008)
+### Minime (2008-2009)
 
 - Samedi 9 h à 10 h 30
 
-### Benjamin (2005-2006)
+### Benjamin (2006-2007)
 
 - Jeudi 18 h à 19 h 30
 - Samedi 9 h à 10 h 30
 
-### Cadet (2003-2004)
+### Cadet (2004-2005)
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-### Juvénile (2001-2002), junior (1999-2000) et senior (1984-1998)
+### Juvénile (2002-2003), junior (2000-2001) et senior (1985-1999)
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
-- Jeudi 18 h à 19 h 30
+- Samedi 18 h à 19 h 30
 
-### Vétéran (1983 et avant)
+### Vétéran (1984 et avant)
 
 Horaire à confirmer lors de l'inscription.
 

@@ -6,7 +6,7 @@ menu:
     title: Accueil
     url: '/'
     weight: -110
-
+layout: home
 backgroundImg: /img/coch-dos.jpg
 slides:
   - heading: À la saison prochaine!
@@ -68,4 +68,6 @@ slides:
 
 Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
 
-Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuel de l’automne!
+Les athlètes de catégorie **colibri** reprendront à l'automne vers la mi-octobre (la date officielle sera annoncée sous peu).
+
+Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuelle de l’automne!
