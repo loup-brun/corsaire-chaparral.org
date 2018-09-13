@@ -74,7 +74,7 @@ Une session de 10 semaines pour les colibris débutera à novueau cet automne (_
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
-- Samedi 18 h à 19 h 30
+- Samedi 10 h 30 à 12 h
 
 ### Vétéran (1984 et avant)
 
