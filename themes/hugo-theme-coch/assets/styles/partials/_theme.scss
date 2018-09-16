@@ -67,6 +67,12 @@ p a { // inline text links
   }
 }
 
+.home-sidebar-container {
+  @include horizontal-padding($spacing);
+  background-color: $gray-lighter;
+  border-left: 4px solid $color-primary;
+}
+
 .container-landing {
   margin-top: 0;
   margin-bottom: 0;

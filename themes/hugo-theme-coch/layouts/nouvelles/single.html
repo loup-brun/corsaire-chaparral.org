@@ -11,20 +11,20 @@
         </p>
         {{ end }}
          <p class="text--gray">
-          {{ .Date.Format "2006-01-02" }}
+          {{ partial "date.html" .Date }}
         </p>
       </aside>
     </div>
     <div class="col col-8 phone-col-12">
       <article class="container article-container">
-          {{if .Params.image}}
-          <figure>
-            <img src="{{ .Params.image.url }}" alt="{{ .Params.image.title }}" />
-            <figcaption>{{ .Params.image.title }}</figcaption>
-          </figure>
-          {{ end }}
-          
-          {{ .Content }}
+        {{if .Params.image}}
+        <figure>
+          <img src="{{ .Params.image.url }}" alt="{{ .Params.image.title }}" />
+          <figcaption>{{ .Params.image.title }}</figcaption>
+        </figure>
+        {{ end }}
+
+        {{ .Content }}
       </article>
     </div>
   </div>

@@ -1,6 +1,5 @@
 ---
 title: "Championnats nationaux pour jeunes"
-categories: Compétitions
 date: "2016-08-05"
 icon: calendar
 menu:

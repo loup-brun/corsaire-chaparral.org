@@ -1,7 +1,12 @@
 {{ define "main" }}
 <main class="container container-main" role="main">
   {{ partial "header.html" . }}
-  <article class="container">
+  <article class="container article-container">
+    {{ with .Params.description }}
+    <div class="article-lead">
+      {{ . }}
+    </div>
+    {{ end }}
     {{ .Content }}
   </article>
 </main>

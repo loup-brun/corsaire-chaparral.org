@@ -13,11 +13,11 @@ menu:
 
 Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
 
-Les athlètes de catégorie **colibri** reprendront à l'automne vers la mi-octobre (la date officielle sera annoncée sous peu).
-
 Les entraînements reprendront par la suite selon l’horaire des catégories (voir plus bas).
 
-Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuel de l’automne!
+Les athlètes de catégorie **colibri** reprendront à l'automne le **13 octobre 2018**.
+
+_Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuel de l’automne!_
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
@@ -49,9 +49,9 @@ Selon les catégories (voir ci-bas).
 
 _Pour le club satellite de Lachute, voir [plus bas](#horaire-d-entraînement-lachute)._
 
-#### Colibri (2010-2011)
+### Colibri (2010-2011)
 
-Une session de 10 semaines pour les colibris débutera à novueau cet automne (_vers la mi-octobre_). La date officielle sera annoncée sous peu.
+Une session de 10 semaines pour les colibris débutera à nouveau le **13 octobre 2018** et se conclura **samedi 15 décembre** avec le [Festival en salle des jeunes](/competitions/festival-en-salle-des-jeunes).
 
  - Samedi 9 h à 10 h 30
 

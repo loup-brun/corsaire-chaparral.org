@@ -52,9 +52,47 @@
 
     </div>
   </header>
-  <article class="row-xl">
-    <div class="container">
-      {{ .Content }}
+  <article class="row-lg">
+    <div class="container container-full">
+      <div class="row">
+        <article class="col col-8 tablet-col-12">
+            {{ .Content }}
+        </article>
+        <aside class="col col-4 tablet-col-12 home-sidebar-container">
+          <section>
+            <h3>Dernières nouvelles</h3>
+
+            {{ with .Site.GetPage "section" "nouvelles" }}
+            {{ range first 4 .Pages }}
+            {{ partial "nouvelle-apercu.html" . }}
+            {{ end }}
+            {{ end }}
+          </section>
+
+          <section>
+            <h3>Prochaines compétitions</h3>
+            
+            {{ with .Site.GetPage "section" "competitions" }}
+            <div>
+              <ol class="list-unstyled">
+                {{ range first 3 (where .Pages.ByDate "Date" ">" now) }}
+                <li class="mar-b">
+                  <div class="row">
+                    <small class="title-meta"><i class="icon icon-calendar"></i> {{ partial "date.html" .Date }}</small>
+                    <h4 class="no-margin">
+                      <a href="{{ .URL }}">
+                        {{ .Title }}
+                      </a>
+                    </h4>
+                  </div>
+                </li>
+                {{ end }}
+              </ol>
+            </div>
+            {{ end }}
+          </section>
+        </aside>
+      </div>
     </div>
   </article>
 </main>

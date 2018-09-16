@@ -1,6 +1,5 @@
 ---
 title: Corsaire-Chaparral Invitation
-categories: Compétitions
 date: "2018-06-30"
 icon: calendar
 menu:
@@ -58,7 +57,9 @@ Tel que spécifié dans le document technique, les **inscriptions tardives** ser
 
 Le Corsaire-Chaparral tient à remercier ses principaux partenaires lors de l'événement, lesquels offrent un précieux soutien pour la tenue d'événements d'envergure tel que le Corsaire-Chaparral Invitation.
 
-{{#each partenaires_coch_invitation}}
-{{> partenaire}}
-{{/each}}
-
+- [Boston Pizza Sainte-Thérèse](https://bostonpizza.com/fr)
+- [Sports Experts Place Rosemère](https://www.sportsexperts.ca)
+- [Rôtisserie Scores Sainte-Thérèse](https://www.scores.ca/restaurant/28-rotisserie-scores-sainte-therese.html)
+- Club optimiste de Sainte-Thérèse
+- [Ramez Ayoub, député fédéral de Thérèse-de-Blainville](http://rayoub.liberal.ca/)
+- [Municipalité d'Oka](http://municipalite.oka.qc.ca/)

@@ -1,7 +1,6 @@
 ---
-title: Festival en salle pour jeunes
-categories: Compétitions
-date: "2017-12-16"
+title: "Festival en salle des jeunes"
+date: "2018-12-15"
 icon: calendar
 menu:
   main:
@@ -18,11 +17,8 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 Responsable : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
-[Document technique](/medias/competitions/2017/festival-en-salle-pour-jeunes-2017.pdf )
 
-[Résultats 2017](/resultats/2017/festival-en-salle-pour-jeunes/)
-
-## Lieu
+### Lieu
 
 Polyvalente Sainte-Thérèse
 
@@ -30,4 +26,6 @@ Polyvalente Sainte-Thérèse
 
 ## Résultats antérieurs
 
-[Résultats 2016](/medias/competitions/2016/resultats-festival-en-salle-coch-2016.pdf)
+[Résultats 2017](/resultats/2017/festival-en-salle-pour-jeunes/)
+
+[Résultats 2016](https://assets.corsaire-chaparral.org/competitions/2016/resultats-festival-en-salle-coch-2016.pdf)

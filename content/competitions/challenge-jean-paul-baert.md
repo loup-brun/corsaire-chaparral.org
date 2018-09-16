@@ -1,6 +1,5 @@
 ---
 title: Challenge Jean-Paul Baert
-categories: Compétitions
 date: ""
 icon: calendar
 menu:

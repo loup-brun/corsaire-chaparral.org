@@ -7,11 +7,11 @@
         </div>
       </div>
     </div>
-    {{ with .Params.MetaDate }}
+    {{ with .Params.date }}
     <div class="row row-sm">
       <div class="col col-12">
         <div class="meta-header container">
-          <span class="icon icon-calendar"></span> {{ . }}
+          <span class="icon icon-calendar"></span> {{ partial "date.html" . }}
         </div>
       </div>
     </div>

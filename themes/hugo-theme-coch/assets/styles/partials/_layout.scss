@@ -10,9 +10,6 @@
 
 .container-full { max-width: none !important; }
 
-.container.article-container {
-  padding-right: $spacing;
-}
 .container.sidebar-container {
   @include horizontal-padding($spacing);
 }

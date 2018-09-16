@@ -97,3 +97,7 @@ h6, .h6 {
   line-height: $line-height * 1.2;
   font-size: 1.15em;
 }
+
+.article-lead {
+  @extend .font-bold;
+}

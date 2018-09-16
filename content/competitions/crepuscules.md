@@ -1,6 +1,5 @@
 ---
 title: "Crépuscules estivaux"
-categories: Compétitions
 date: "2018"
 icon: calendar
 menu:

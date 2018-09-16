@@ -1,6 +1,7 @@
 ---
 title: Le Corsaire-Chaparral entame sa 42e année d’existence
 subtitle: Assemblée générale annuelle
+slug: 42-annee-existence
 date: "2017-11-28"
 categories: nouvelles
 author: Carolle Libersan

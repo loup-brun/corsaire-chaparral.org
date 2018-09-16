@@ -7,6 +7,12 @@ copyright: Tous droits réservés.
 
 publishDir: dist
 
+permalinks:
+  nouvelles: nouvelles/:year/:month/:day/:slug
+
+# Build pages with 'future' date
+buildFuture: true
+
 params:
   themeColor: '#f26e21'
   description: >

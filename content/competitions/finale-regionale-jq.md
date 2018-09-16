@@ -1,6 +1,5 @@
 ---
 title: "Finale régionale des Jeux du Québec"
-categories: Compétitions
 date: "2018-06-30"
 icon: calendar
 menu:

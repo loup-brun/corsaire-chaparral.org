@@ -1,6 +1,6 @@
 <div class="row">
   <small class="title-meta"><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-2" }}</small>
-  <h4><a href="{{ .URL }}">{{ .Title }}</a></h4>
+  <h4 class="no-margin"><a href="{{ .URL }}">{{ .Title }}</a></h4>
   
   {{- with .Params.resume -}}
     <article>

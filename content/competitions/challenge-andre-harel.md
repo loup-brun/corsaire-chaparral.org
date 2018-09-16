@@ -1,7 +1,6 @@
 ---
 title: "Challenge André-Harel"
-categories: Compétitions
-date: "2018-02-03"
+date: "2019-02-02"
 icon: calendar
 menu:
   main:
@@ -16,14 +15,13 @@ Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fond
 
 ## Informations générales
 
+<!--
 Téléchargez le [document technique](https://corsasire-chaparral.org/medias/competitions/2018/doc-technique-rencontre-hivernale-andre-harel-2018.pdf).
 
 Liste des [participants](https://corsasire-chaparral.org/medias/competitions/2018/challenge-andre-harel-participants-attendus.pdf) *(mise à jour le 2018-02-02)*
 
 Horaire définitif (*dernière mise à jour le 2018-02-01 à 21 h 50*) [piste](https://corsasire-chaparral.org/medias/competitions/2018/challenge-andre-harel-2018.piste.pdf) | [pelouse](https://corsasire-chaparral.org/medias/competitions/2018/challenge-andre-harel-2018.pelouse.pdf)
-
-[Résultats](/resultats/2018/challenge-andre-harel/)
-
+-->
 
 Responsable de compétition : [Robert Lavoie](mailto:robertlecoach@gmail.com).
 
@@ -37,6 +35,7 @@ L'adresse du Complexe sportif Claude-Robillard est la suivante :
 
 ## Résultats antérieurs
 
+* [Résultats 2018](/resultats/2018/challenge-andre-harel/)
 * [Résultats 2017](/resultats/2017/classique-hivernale-coch-2017/)
 * [Résultats 2016](/resultats/2016/classique-hivernale-coch-2016/)
 * [Résultats 2015](/resultats/2015/classique-hivernale-coch-2015/)
