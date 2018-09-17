@@ -1,10 +1,10 @@
 ---
-title: Nominations – Gala Athlètas 2017
+title: Nominations au Gala Athlètas 2017
+slug: nominations-au-gala-athletas-2017
 subtitle: Gala Athlètas 2017
 date: "2017-11-18"
-categories: nouvelles
 author: Louis-Olivier Brassard
-resume: 3 personnalités du club honorées au Gala Athlètas.
+description: 3 personnalités du club sont honorées au Gala Athlètas de la Fédération Québécoise d’athlétisme.
 ---
 
 Montréal – Lors du gala Athlètas de la [Fédération québécoise d'athlétisme](http://athletisme-quebec.ca/) qui s'est tenu le 18 novembre dernier, on comptait, parmi les personnalités honorées dans la soirée, trois acteurs associés au club d'athlétisme Corsaire-Chaparral. Il s'agissait de **MM. Louis Lauzon, Daniel Rouleau et Frédéric Pouzy**.

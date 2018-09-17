@@ -1,5 +1,6 @@
 ---
 title: Entraîneurs
+icon: assignment_ind
 menu:
   main:
     identifier: entraineurs

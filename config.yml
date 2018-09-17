@@ -23,19 +23,19 @@ params:
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
 
-#sectionPagesMenu: main
+sectionPagesMenu: main
 
 menu:
   main:
-#  - identifier: home
-#    title: Accueil
-#    url: '/accueil/'
-#    weight: -110
+  - identifier: home
+    title: Accueil
+    url: '/'
+    weight: -110
   
-#  - identifier: club
-#    title: Club
-#    url: '/club/'
-#    weight: 10
+  - identifier: club
+    title: Club
+    url: '/club/'
+    weight: 10
 #  - identifier: entrainements
 #    url: '/club/entrainements/'
 #    title: Entraînements
@@ -57,15 +57,16 @@ menu:
 #    title: Records et statistiques
 #    parent: club
     
-#  - identifier: nouvelles
-#    url: '/nouvelles/'
-#    title: Nouvelles
-#    weight: 20
+  - identifier: nouvelles
+    url: '/nouvelles/'
+    title: Nouvelles
+    weight: 20
 
-#  - identifier: competitions
-#    title: Compétitions
-#    url: '/competitions/'
-#    weight: 60
+  - identifier: competitions
+    title: Compétitions
+    url: '/competitions/'
+    weight: 60
+
 #  - identifier: coch-invitation
 #    title: Corsaire-Chaparral Invitation
 #    url: '/competitions/corsaire-chaparral-invitation/'
@@ -97,28 +98,22 @@ menu:
 #    weight: 0
 #    parent: competitions
 
-#  - identifier: resultats
-#    title: Résultats
-#    url: '/resultats/'
-#    weight: 70
+  - identifier: resultats
+    title: Résultats
+    url: '/resultats/'
+    weight: 70
   
 #  - identifier: photos
 #    title: Photos
 #    url: '/photos/'
 #    weight: 80
   
-#  - identifier: partenaires
-#    title: Partenaires
-#    url: '/partenaires/'
-#    weight: 90
+  - identifier: partenaires
+    title: Partenaires
+    url: '/partenaires/'
+    weight: 90
   
-  
-  - identifier: portail
-    title: Portail
-    url: 'https://portail.corsaire-chaparral.org'
-    weight: 95
-  
-#  - identifier: contact
-#    title: Contact
-#    url: '/contact/'
-#    weight: 110
+  - identifier: contact
+    title: Contact
+    url: '/contact/'
+    weight: 110

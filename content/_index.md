@@ -1,64 +1,25 @@
 ---
 title: Accueil
-menu:
-  main:
-    identifier: home
-    title: Accueil
-    url: '/'
-    weight: -110
 layout: home
 backgroundImg: /img/coch-dos.jpg
 slides:
-  - heading: À la saison prochaine!
+  - heading: Saison 2018-2019
     body: >
-      Les entraînements reprendront officiellement le **samedi 15 septembre 2018**.
+      C’est reparti pour la saison 2018-2019. Les entraînements ont désormais lieu selon l’horaire des catégories
     buttons:
     - title: Entraînements
       url: /club/entrainements/
       post: <span class="icon icon-angle-right"></span>
       class: btn-default
-  - heading: Corsaire-Chaparral Invitation 2018
-    body: >
-      La compétition annuelle du Corsaire-Chaparral Invitation a lieu le **30 juin 2018**.
-    buttons:
-    - title: En savoir plus
-      url: /competitions/corsaire-chaparral-invitation/
-      pre: 
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-default
-    - title: Résultats
-      url: /resultats/2018/corsaire-chaparral-invitation/
-      pre: 
-      post: <span class="icon icon-assignment"></span>
-      class: btn-secondary
-  - heading: Crépuscules 2018
-    body: >
-      Les plus récents crépuscules ont eu lieu les **23 mai** et **6 juin** 2018.
-    buttons:
-    - title: En savoir plus
-      url: /competitions/crepuscules/
-      pre: 
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-default
-    - title: Résultats
-      url: /resultats/2018/crepuscule-coch-2/
-      pre: 
-      post: <span class="icon icon-assignment"></span>
-      class: btn-secondary
   - heading: Club satellite – Lachute
     body: >
       Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
     buttons:
-    - title: Entraînements
+    - title: Informations
       url: /club/entrainements/
       pre: 
-      post: 
+      post: <span class="icon icon-angle-right"></span>
       class: btn-default
-    - title: Inscription
-      url: /club/inscription/
-      pre: 
-      post: <span class="icon icon-pencil"></span>
-      class: btn-secondary
   - heading: Une nouvelle identité
     body: >
       Le Corsaire-Chaparral fait peau neuve et procèdera bientôt au lancement de sa nouvelle identité visuelle. Restez à l'affût!
@@ -71,3 +32,15 @@ Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp
 Les athlètes de catégorie [**colibri**](/club/entrainements/#colibri-2010-2011) reprendront le **samedi 13 octobre 2018**.
 
 Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuelle de l’automne!
+
+## Inscription
+
+**La plateforme d’inscription en ligne sera ouverte sous peu.** Merci de votre collaboration.
+
+En attendant, vous pouvez prendre part sans problème aux [entraînements](/club/entrainements/) au stade Richard-Garneau pendant la remise en forme des mois de septembre et octobre.
+
+Retrouvez les informations (cotisation, catégories, bénévolat) sur la page [Inscription](/club/inscription).
+
+## Où est passé le Portail?
+
+L’inscription en ligne sera de retour bientôt. Consultez régulièrement notre site web pour être au courant des dernières nouvelles!

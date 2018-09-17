@@ -1,12 +1,12 @@
 ---
 title: Résultats
 icon: assignment
-menu:
-  main:
-    identifier: resultats
-    title: Résultats
-    url: '/resultats/'
-    weight: 70
+#menu:
+#  main:
+#    identifier: resultats
+#    title: Résultats
+#    url: '/resultats/'
+#    weight: 70
 layout: section
 ---
 

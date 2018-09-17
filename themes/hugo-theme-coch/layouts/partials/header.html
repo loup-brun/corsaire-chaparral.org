@@ -1,19 +1,41 @@
-  <header class="header-page">
-    <span class="icon icon-{{ .Params.Icon }} icon-lg icon-header"></span>
-    <div class="row no-padding">
-      <div class="col col-9 tablet-col-10 phone-col-11">
-        <div class="title-header container">
-          <h1>{{ .Title }}</h1>
-        </div>
+<header class="header-page">
+  <span class="icon icon-{{ .Params.Icon }} icon-lg icon-header"></span>
+  <div class="row row-sm">
+    <div class="container meta-header">
+      {{ with .Params.subtitle }}
+      <small class="uppercase">{{ . }}</small>
+      {{ end }}
+    </div>
+  </div>
+  <div class="row no-padding">
+    <div class="col col-10 tablet-col-10 phone-col-12">
+      <div class="title-header container">
+        <h1>{{ .Title }}</h1>
       </div>
     </div>
-    {{ with .Params.date }}
-    <div class="row row-sm">
-      <div class="col col-12">
-        <div class="meta-header container">
-          <span class="icon icon-calendar"></span> {{ partial "date.html" . }}
+  </div>
+  <div class="row row-sm">
+    <div class="col col-12">
+      <div class="container meta-header">
+        {{ with .Params.date }}
+        <div>
+          <small>
+            <span class="icon icon-calendar"></span> {{ partial "date.html" . }}
+          </small>
         </div>
+        {{ end }}
+        {{with .Params.author }}
+        <div>
+          <small><em>{{ . }}</em></small>
+        </div>
+        {{ end }}
       </div>
     </div>
-    {{ end }}
-  </header>
+  </div>
+  
+  {{ with .Params.image}}
+  <figure class="header-banner">
+    <img src="{{ . }}" class="img-responsive" />
+  </figure>
+  {{ end }}
+</header>

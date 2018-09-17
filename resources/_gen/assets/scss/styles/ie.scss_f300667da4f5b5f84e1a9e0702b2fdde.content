@@ -42,7 +42,7 @@ to { opacity: 1; };
 }
 */
 .lt-ie7 .container-main {
-  width: 900px; }
+  width: 760px; }
 
 .icon-phone {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe608;'); }

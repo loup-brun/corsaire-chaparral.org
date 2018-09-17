@@ -1,12 +1,6 @@
 ---
 title: Contact
 icon: phone
-menu:
-  main:
-    identifier: contact
-    title: Contact
-    url: '/contact/'
-    weight: 110
 ---
 
 **Club d’athlétisme Corsaire-Chaparral**  

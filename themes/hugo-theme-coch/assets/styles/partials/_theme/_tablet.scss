@@ -5,8 +5,8 @@
 
   .title-header {
     //box-shadow: none;
-    left: 0;
-    &:after { display: none }
+//    left: 0;
+//    &:after { display: none }
   }
 
   .meta-header {
@@ -16,14 +16,16 @@
   }
 
   .icon-header {
-    font-size: 120px;
+    font-size: 200px;
     top: 16px;
     right: 16px;
   }
 
   .container-main {
-    margin-top: 0;
-    margin-bottom: 0;
+    width: 94%;
+    margin-top: 3%;
+//    margin-top: 0;
+//    margin-bottom: 0;
   }
 
   // show toggle button for navbar
