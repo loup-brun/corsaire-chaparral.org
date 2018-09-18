@@ -19,6 +19,7 @@ Vous devez vous procurer vos [billets](http://events.eventzilla.net/e/gala-annue
 
 * Athlètes et membres : **20 $**
 * Non membres (parents et amis) : **40 $**
+* Enfants (6 ans et moins) : **10 $**
 
 ## Horaire
 
@@ -39,6 +40,6 @@ Sainte-Thérèse (Québec) J7E 1Z2
 
 ## Enregistrement en ligne
 
-L’enregistrement en ligne est **obligatoire**. Procurez-vous vos billet via le formulaire ci-dessous ou sur la page d’[Eventzilla](http://events.eventzilla.net/e/gala-annuel-coch-2018-2138715025).
+L’enregistrement en ligne est **obligatoire**. Procurez-vous vos billet via le formulaire ci-dessous ou sur la page de la [billetterie](http://events.eventzilla.net/e/gala-annuel-coch-2018-2138715025).
 
 {{< eventzilla eventId="2138715025" >}}
