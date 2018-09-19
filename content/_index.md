@@ -5,10 +5,18 @@ backgroundImg: /img/coch-dos.jpg
 slides:
   - heading: Saison 2018-2019
     body: >
-      C’est reparti pour la saison 2018-2019. Les entraînements ont désormais lieu selon l’horaire des catégories
+      C’est reparti pour la saison 2018-2019. Les entraînements ont désormais lieu selon l’horaire des catégories.
     buttons:
     - title: Entraînements
       url: /club/entrainements/
+      post: <span class="icon icon-angle-right"></span>
+      class: btn-default
+  - heading: Gala Corsaire-Chaparral 2018
+    body: >
+      Le club est heureux d'annoncer la tenue de son premier **gala annuel** le 20 octobre prochain. Soyez des nôtres!
+    buttons:
+    - title: Infos et billets
+      url: /club/gala-annuel/
       post: <span class="icon icon-angle-right"></span>
       class: btn-default
   - heading: Club satellite – Lachute
@@ -23,6 +31,12 @@ slides:
   - heading: Une nouvelle identité
     body: >
       Le Corsaire-Chaparral fait peau neuve et procèdera bientôt au lancement de sa nouvelle identité visuelle. Restez à l'affût!
+announcement:
+  title: Inscription 2018-2019
+  icon: icon-pencil
+  body: >
+    L’inscription en ligne sera ouverte bientôt, mais la saison est bel et bien recommencée! Présentez-vous simplement à l'entraînement selon l'[horaire](/club/entrainements/) des catégories! <br><br>
+    Les mois de septembre et octobre sont consacrés à la **remise en forme** en vue de l’année à venir. Bienvenue à tous!
 ---
 
 ## Reprise des entraînements – saison 2018-2019

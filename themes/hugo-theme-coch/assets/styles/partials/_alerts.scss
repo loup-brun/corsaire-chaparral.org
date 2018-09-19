@@ -1,0 +1,16 @@
+.alert {
+  padding: $spacing;
+  border-radius: $border-radius;
+  border-width: $border-radius;
+  border-style: dashed;
+
+  &.-primary {
+    background-color: lighten($color-primary, 35%);
+    color: $font-color;
+    border-color: $color-primary;
+  }
+}
+
+.icon--alert {
+  font-size: 55px;
+}

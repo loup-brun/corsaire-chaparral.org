@@ -52,8 +52,24 @@
 
     </div>
   </header>
+  
   <article class="row-lg">
     <div class="container container-full">
+      {{ with .Params.announcement }}
+      <div class="alert -primary phone-text-center">
+        <div class="row">
+          <div class="col col-1 tablet-col-2 phone-col-12">
+            <span class="icon {{ .icon }} icon--alert"></span>
+          </div>
+          <div class="col col-10 tablet-col-10 phone-col-12">
+            <span class="h1">{{ .title }}</span>
+            <p>
+              {{ .body | markdownify }}
+            </p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
       <div class="row">
         <article class="col col-8 tablet-col-12">
             {{ .Content }}
