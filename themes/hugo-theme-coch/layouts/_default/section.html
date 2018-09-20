@@ -3,14 +3,28 @@
   {{ partial "header.html" . }}
   <article class="container">
     {{ .Content }}
-
+    
     <ul>
-      {{ range .Pages }}
+      {{ range .Pages.ByWeight }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
       {{ end }}
     </ul>
+        
+    {{ range .Sections.ByWeight }}
+    <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
+    
+    <ul>
+      {{ range .Pages.ByWeight }}
+      <li>
+        <a href="{{ .URL }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    
+    {{ end }}
+
   </article>
 </main>
 {{ end }}

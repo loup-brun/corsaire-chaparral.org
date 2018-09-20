@@ -35,3 +35,9 @@ menu, ol, ul { padding: 0 0 0 $spacing-lg; }
     @include inline-block;
   }
 }
+
+.container-main {
+  li + li {
+    margin-top: 0.5em;
+  }
+}

@@ -4,7 +4,8 @@ date: 2018-09-16
 description: >
   Le Corsaire-Chaparral tiendra son premier gala annuel le 20 octobre prochain. Au menu : remise de prix, bourses et distinctions!
 author: Comité du gala Corsaire-Chaparral
-image: gala-coch.jpg
+images:
+- /img/gala-coch.jpg
 ---
 
 Tous les membres du Corsaire-Chaparral et leur entourage sont vivement conviés à la première édition du [Gala annuel Corsaire-Chaparral](/club/gala-annuel/).

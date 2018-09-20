@@ -7,10 +7,11 @@ menu:
   main:
     identifier: entrainements
     parent: club
+    weight: 30
 layout: single
 ---
 
-## Reprise saison 2018-2019
+## Reprise de la saison 2018-2019
 
 Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
 
@@ -18,7 +19,7 @@ Les entraînements reprendront par la suite selon l’horaire des catégories (v
 
 Les athlètes de catégorie **colibri** reprendront à l'automne le **13 octobre 2018**.
 
-_Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuel de l’automne!_
+_Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuelle de l’automne!_
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
@@ -54,26 +55,42 @@ _Pour le club satellite de Lachute, voir [plus bas](#horaire-d-entraînement-lac
 
  - Samedi 9 h à 10 h 30
  
-Une session de 10 semaines pour les colibris débutera à nouveau le **13 octobre 2018** et se conclura **samedi 15 décembre** avec le [Festival en salle des jeunes](/competitions/festival-en-salle-des-jeunes).
- 
-Consultez l'horaire de la session automnale des [colibris](colibris).
+Une session de 10 semaines pour les colibris débutera à nouveau le **13 octobre 2018** et se conclura **samedi 15 décembre** avec le [Festival en salle des jeunes](/competitions/festival-en-salle-des-jeunes). Une autre session sera offerte à nouveau au printemps 2019.
 
-Une autre saison sera offerte à nouveau au printemps.
+Consultez le [calendrier](colibris) de la session automnale.
+
+Entraîneurs responsables :
+
+* Christophe Miglierina (entraîneur responsable)
+* Samuel Gougeon
+* Alexandre Lafleur
 
 ### Minime (2008-2009)
 
 - Samedi 9 h à 10 h 30
+
+Consultez le [calendrier](minimes) pour les minimes.
+
+Entraîneur responsable : Charles-Olivier Roy.
 
 ### Benjamin (2006-2007)
 
 - Jeudi 18 h à 19 h 30
 - Samedi 9 h à 10 h 30
 
+Consultez le [calendrier](benjamins) pour les benjamins.
+
+Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).
+
 ### Cadet (2004-2005)
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
+
+Consultez le [calendrier](cadets) pour les cadets.
+
+Entraîneur responsable : Samuel Grondin-Bernier.
 
 ### Juvénile (2002-2003), junior (2000-2001) et senior (1985-1999)
 

@@ -4,7 +4,7 @@ icon: logo-coch
 menu:
   main:
     identifier: histoire-mission
-    weight: 20
+    weight: 10
     parent: club
 ---
 
@@ -43,7 +43,7 @@ Le COCH est un des seuls clubs au Québec à posséder une expertise dans l'ense
 
 Le Club organise annuellement, depuis ses débuts, deux compétions majeures auxquelles participent des athlètes en provenance des différentes régions du Québec, de l'Ontario, du Nouveau-Brunswick et des États-Unis :
 
-* la _Classique hivernale Corsaire-Chaparral_ : habituellement tenue en février, cette compétition recueille plus de 1000 inscriptions, pour plus de 500 athlètes, à une centaine d'épreuves supervisées par une cinquantaine d'officiels et de bénévoles;
-* le _Corsaire-Chaparral Invitation_ : organisée habituellement en juillet, cette compétition attire près de 700 athlètes, générant plus de douze cents inscriptions aux épreuves encadrées par plus de 70 officiels et bénévoles.
+* la _~~Classique hivernale Corsaire-Chaparral~~_ maintenant rebaptisée _Challenge André-Harel_ : habituellement tenue en février, cette [compétition](/competitions/challenge-andre-harel/) recueille plus de 1000 inscriptions, pour plus de 500 athlètes, à une centaine d'épreuves supervisées par une cinquantaine d'officiels et de bénévoles;
+* le _Corsaire-Chaparral Invitation_ : organisée habituellement en juillet, cette [compétition](/competitions/corsaire-chaparral-invitation/) attire près de 700 athlètes, générant plus de douze cents inscriptions aux épreuves encadrées par plus de 70 officiels et bénévoles.
 
 Le COCH se voit aussi périodiquement confier par la <a href="http://athletisme-quebec.ca" target="_blank">Fédération québécoise d'athlétisme</a> le mandat d'organiser les championnats provinciaux qui se déroulent sur une période de trois jours.

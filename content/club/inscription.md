@@ -8,6 +8,7 @@ menu:
     url: '/club/inscription/'
     title: Inscription
     parent: club
+    weight: 40
 ---
 
 _L'inscription en ligne sera ouverte sous peu. Merci de votre compréhension!_

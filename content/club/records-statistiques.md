@@ -1,12 +1,14 @@
 ---
 title: Records et statistiques
 icon: stopwatch
-main:
-  menu:
+menu:
+  main:
     identifier: records-statistiques
-    weight: 0
     parent: club
+    weight: 0
 ---
+
+_Les records ci-bas ont été compilés par Émile Brassard._
 
 ### Records du club (1976-2016)
 

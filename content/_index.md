@@ -15,10 +15,14 @@ slides:
     body: >
       Le club est heureux d'annoncer la tenue de son premier **gala annuel** le 20 octobre prochain. Soyez des nôtres!
     buttons:
-    - title: Infos et billets
+    - title: Informations
       url: /club/gala-annuel/
       post: <span class="icon icon-angle-right"></span>
       class: btn-default
+    - title: Billets
+      url: https://events.eventzilla.net/e/gala-annuel-coch-2018-2138715025
+      post: <span class="icon icon-star"></span>
+      class: btn-secondary
   - heading: Club satellite – Lachute
     body: >
       Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
@@ -43,7 +47,7 @@ announcement:
 
 Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
 
-Les athlètes de catégorie [**colibri**](/club/entrainements/#colibri-2010-2011) reprendront le **samedi 13 octobre 2018**.
+Les athlètes de catégorie [colibri](/club/entrainements/#colibri-2010-2011) reprendront le **samedi 13 octobre 2018**.
 
 Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuelle de l’automne!
 
@@ -58,3 +62,9 @@ Retrouvez les informations (cotisation, catégories, bénévolat) sur la page [I
 ## Où est passé le Portail?
 
 L’inscription en ligne sera de retour bientôt. Consultez régulièrement notre site web pour être au courant des dernières nouvelles!
+
+## Photos
+
+_+ de photos à venir!_
+
+[![SOTx.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SOTx.th.jpg)](https://photos.corsaire-chaparral.org/i/SOTx) [![SUHk.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SUHk.th.jpg)](https://photos.corsaire-chaparral.org/i/SUHk) [![SHyQ.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SHyQ.th.jpg)](https://photos.corsaire-chaparral.org/i/SHyQ) [![Sw7o.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/Sw7o.th.jpg)](https://photos.corsaire-chaparral.org/i/Sw7o) [![SqCB.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SqCB.th.jpg)](https://photos.corsaire-chaparral.org/i/SqCB)

@@ -12,12 +12,12 @@
       <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} <span class="icon icon-angle-down"></span>{{ end }}</a>
       {{ if .HasChildren }}
       <ul class="dropdown-list">
-        {{ range .Children }}
+        {{ range .Children.ByWeight }}
         <li {{ if .HasChildren }}class="dropdown"{{end}}>
           <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} <span class="icon icon-angle-right caret"></span>{{ end }}</a>
           {{ if .HasChildren }}
           <ul class="dropdown-list">
-            {{ range .Children }}
+            {{ range .Children.ByWeight }}
             <li><a href="{{ .URL }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>

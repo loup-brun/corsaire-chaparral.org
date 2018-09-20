@@ -31,15 +31,19 @@ body, html {
   color: #fff;
 }
 
-p a { // inline text links
-  @extend .font-bold;
+.styled-link {
+//  @extend .font-bold;
   @include transition(border-color .3s);
   padding: 0 2px;
   border-bottom: 1px solid $color-link;
 
   &:hover, &:focus {
-    border-bottom-color: transparent;
+    border-bottom-color: rgba($color-link, 0.15);
   }
+}
+
+p a { // inline text links
+  @extend .styled-link;
 }
 
 .link-unstyled {
@@ -86,10 +90,10 @@ p a { // inline text links
 }
 
 .badge {
-  border-radius: .6em;
+  @include horizontal-margin(.5em);
+  border-radius: 1em;
   display: inline-block;
-  padding: .2em .8em;
-  line-height: 1;
+  padding: .15em .85em 0.12em;
   text-transform: uppercase;
 }
 

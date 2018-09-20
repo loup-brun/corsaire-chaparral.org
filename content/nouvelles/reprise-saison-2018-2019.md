@@ -3,8 +3,9 @@ title: Reprise de la saison 2018-2019
 subtitle: Entraînements
 date: 2018-09-16
 author: Club d’athlétisme Corsaire-Chaparral
-image: reprise-entrainements-15-sept-2018.jpg
 description: Les entraînements reprennent selon l’horaire habituel.
+images:
+- /img/reprise-entrainements-15-sept-2018.jpg
 ---
 
 Les entraînements reprennent dès maintenant selon [l’horaire](/club/entrainements/) des catégories, pour la remise en forme de l’automne pendant les mois de septembre et octobre. Tous les entraînements sans exception se feront à l’extérieur – prévoyez des vêtements en conséquence!

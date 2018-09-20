@@ -1,9 +1,17 @@
 ---
-title: "Entraînements colibri"
+title: Entraînements des colibris
 date: "2018-09-10"
+description: >
+  Proposition du calendrier d’activité pour les colibris (2010–2011).
 ---
 
-Proposition du calendrier d’activité pour les colibris (2010–2011).
+## Entraîneurs responsables
+
+* Christophe Miglierina (entraîneur responsable)
+* Samuel Gougeon
+* Alexandre Lafleur
+
+## Programme
 
 Les 10 entraînements ont lieux à la polyvalente Sainte-Thérèse, du **samedi 13 octobre** au **samedi 15 décembre 2018**. 
 

@@ -7,7 +7,7 @@
       <a href="{{ .URL }}">{{ .Title }}</a>
       {{ if .HasChildren }}
       <ul class="nav nav-side nav-side-sub">
-        {{ range .Children }}
+        {{ range .Children.ByWeight }}
         <li {{ if .HasChildren }}class="dropdown"{{end}}>
           <a href="{{ .URL }}">{{ .Title }}</a>
         </li>{{ end }}

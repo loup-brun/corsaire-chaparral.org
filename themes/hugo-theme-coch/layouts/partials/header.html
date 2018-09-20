@@ -1,10 +1,12 @@
 <header class="header-page">
   <span class="icon icon-{{ .Params.Icon }} icon-lg icon-header"></span>
-  <div class="row row-sm">
-    <div class="container meta-header">
-      {{ with .Params.subtitle }}
-      <small class="uppercase">{{ . }}</small>
-      {{ end }}
+  <div class="container">
+    <div class="row row-sm">
+      <div class="meta-header">
+        {{ with .Params.subtitle }}
+        <small class="uppercase">{{ . }}</small>
+        {{ end }}
+      </div>
     </div>
   </div>
   <div class="row no-padding">
@@ -33,9 +35,11 @@
     </div>
   </div>
   
-  {{ with .Params.image }}
+  {{ with .Params.images }}
+  {{ range first 1 . }}
   <figure class="header-banner">
     <img src="{{ . }}" class="img-responsive" />
   </figure>
+  {{ end }}
   {{ end }}
 </header>

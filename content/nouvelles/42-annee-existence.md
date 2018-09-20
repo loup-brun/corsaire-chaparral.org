@@ -6,7 +6,8 @@ date: "2017-11-28"
 categories: nouvelles
 author: Carolle Libersan
 description: Compte-rendu de l'Assemblée générale annuelle 2017 du Corsaire-Chaparral.
-image: salle.jpg
+images:
+- /img/salle.jpg
 ---
 
 Le club d’athlétisme Corsaire-Chaparral a tenu son assemblée générale annuelle le 6 novembre dernier. M. Louis Lauzon, président, a fait le bilan de l’année teinté par le point de vue de l’entraîneur-chef Marc-Olivier Guindon-Gibeault.

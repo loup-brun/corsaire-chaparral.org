@@ -1,0 +1,112 @@
+<div>
+<script type="text/javascript">
+    /** This section is only needed once per page if manually copying **/
+    if (typeof MauticSDKLoaded == 'undefined') {
+        var MauticSDKLoaded = true;
+        var headElem        = document.getElementsByTagName('head')[0];
+        var script          = document.createElement('script');
+        script.type         = 'text/javascript';
+        script.src          = 'https://campagnes.corsaire-chaparral.org/media/js/mautic-form.js';
+        script.onload       = function() {
+            MauticSDK.onLoad();
+        };
+        headElem.appendChild(script);
+        var MauticDomain = 'https://campagnes.corsaire-chaparral.org';
+        var MauticLang   = {
+            'submittingMessage': "Merci de patienter..."
+        }
+    }
+</script>
+
+<style type="text/css" scoped>
+/*    .mauticform_wrapper { max-width: 600px; margin: 10px auto; font-family: Helvetica, Arial, sans-serif; color: #676767;}*/
+    .mauticform-innerform {}
+    .mauticform-post-success {}
+    .mauticform-name { font-weight: bold; font-size: 1.5em; margin-bottom: 3px; }
+    .mauticform-description { margin-top: 2px; margin-bottom: 10px; }
+    .mauticform-error { margin-bottom: 10px; color: red; }
+    .mauticform-message { margin-bottom: 10px;color: green; }
+    .mauticform-row { display: block; margin-bottom: 20px; }
+    .mauticform-label { font-size: 1.1em; display: block; font-weight: bold; margin-bottom: 5px; }
+    .mauticform-row.mauticform-required .mauticform-label:after { color: #e32; content: " *"; display: inline; }
+    .mauticform-helpmessage { display: block; font-size: 0.9em; margin-bottom: 3px; }
+    .mauticform-errormsg { display: block; color: red; margin-top: 2px; }
+    .mauticform-selectbox, .mauticform-input, .mauticform-textarea { width: 100%; padding: 0.5em 0.5em; border: 1px solid #CCC; background: #fff; box-shadow: 0px 0px 0px #fff inset; border-radius: 4px; box-sizing: border-box; }
+    .mauticform-checkboxgrp-row {}
+    .mauticform-checkboxgrp-label { font-weight: normal; }
+    .mauticform-checkboxgrp-checkbox {}
+    .mauticform-radiogrp-row {}
+    .mauticform-radiogrp-label { font-weight: normal; }
+    .mauticform-radiogrp-radio {}
+    .mauticform-button-wrapper .mauticform-button.btn-default { color: #5d6c7c;background-color: #ffffff;border-color: #dddddd;}
+    .mauticform-button-wrapper .mauticform-button { display: inline-block;margin-bottom: 0;font-weight: 600;text-align: center;vertical-align: middle;cursor: pointer;background-image: none;border: 1px solid transparent;white-space: nowrap;padding: 6px 12px;font-size: 13px;line-height: 1.3856;border-radius: 3px;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+    .mauticform-button-wrapper .mauticform-button.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd;}
+</style>
+
+<div id="mauticform_wrapper_inscription20182019" class="mauticform_wrapper">
+    <form autocomplete="false" role="form" method="post" action="https://campagnes.corsaire-chaparral.org/form/submit?formId=1" id="mauticform_inscription20182019"  data-mautic-form="inscription20182019" enctype="multipart/form-data">
+        <div class="mauticform-error" id="mauticform_inscription20182019_error"></div>
+        <div class="mauticform-message" id="mauticform_inscription20182019_message"></div>
+        <div class="mauticform-innerform">
+
+            
+          <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+
+            <div id="mauticform_inscription20182019_prenom"  data-validate="prenom" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
+                <label id="mauticform_label_inscription20182019_prenom" for="mauticform_input_inscription20182019_prenom" class="mauticform-label">Prénom</label>
+                <span class="mauticform-helpmessage">Prénom de l’ATHLÈTE</span>
+                <input id="mauticform_input_inscription20182019_prenom" name="mauticform[prenom]" value="" class="mauticform-input" type="text" />
+                <span class="mauticform-errormsg" style="display: none;">Ce champ est obligatoire.</span>
+            </div>
+
+            <div id="mauticform_inscription20182019_nom_de_famille"  data-validate="nom_de_famille" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
+                <label id="mauticform_label_inscription20182019_nom_de_famille" for="mauticform_input_inscription20182019_nom_de_famille" class="mauticform-label">Nom de famille</label>
+                <span class="mauticform-helpmessage">Nom de famille de l’ATHLÈTE</span>
+                <input id="mauticform_input_inscription20182019_nom_de_famille" name="mauticform[nom_de_famille]" value="" class="mauticform-input" type="text" />
+                <span class="mauticform-errormsg" style="display: none;">Ce champ est obligatoire.</span>
+            </div>
+
+            <div id="mauticform_inscription20182019_courriel"  data-validate="courriel" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-3 mauticform-required">
+                <label id="mauticform_label_inscription20182019_courriel" for="mauticform_input_inscription20182019_courriel" class="mauticform-label">Courriel</label>
+                <span class="mauticform-helpmessage">Le courriel est nécessaire pour les communications.</span>
+                <input id="mauticform_input_inscription20182019_courriel" name="mauticform[courriel]" value="" class="mauticform-input" type="email" />
+                <span class="mauticform-errormsg" style="display: none;">Votre courriel est requis.</span>
+            </div>
+
+            <div id="mauticform_inscription20182019_sexe"  data-validate="sexe" data-validation-type="radiogrp" class="mauticform-row mauticform-radiogrp mauticform-field-4 mauticform-required">
+                <label  class="mauticform-label" for="mauticform_radiogrp_radio_sexe_Feminin1">Sexe</label>
+                <div class="mauticform-radiogrp-row">
+                    <label id="mauticform_radiogrp_label_sexe_F0" for="mauticform_radiogrp_radio_sexe_F0"  class="mauticform-radiogrp-label">
+                        <input  name="mauticform[sexe]" class="mauticform-radiogrp-radio" name="mauticform[sexe]" id="mauticform_radiogrp_radio_sexe_F0" type="radio" value="F" />
+                        Féminin
+                    </label>
+                </div>
+                <div class="mauticform-radiogrp-row">
+                    <label id="mauticform_radiogrp_label_sexe_M1" for="mauticform_radiogrp_radio_sexe_M1"  class="mauticform-radiogrp-label">
+                        <input  name="mauticform[sexe]" class="mauticform-radiogrp-radio" name="mauticform[sexe]" id="mauticform_radiogrp_radio_sexe_M1" type="radio" value="M" />
+                        Masculin
+                    </label>
+                </div>
+                <span class="mauticform-errormsg" style="display: none;">Ce champ est obligatoire.</span>
+            </div>
+
+            <div id="mauticform_inscription20182019_date_de_naissance"  data-validate="date_de_naissance" data-validation-type="date" class="mauticform-row mauticform-date mauticform-field-5 mauticform-required">
+                <label id="mauticform_label_inscription20182019_date_de_naissance" for="mauticform_input_inscription20182019_date_de_naissance" class="mauticform-label">Date de naissance</label>
+                <span class="mauticform-helpmessage">Date de naissance de l’ATHLÈTE.</span>
+                <input id="mauticform_input_inscription20182019_date_de_naissance" name="mauticform[date_de_naissance]" value="" placeholder="Naissance de l’athlète (assurez-vous de bien vérifier l’ANNÉE!)" class="mauticform-input" type="date" />
+                <span class="mauticform-errormsg" style="display: none;">Ce champ est obligatoire.</span>
+            </div>
+
+            <div id="mauticform_inscription20182019_submit"  class="mauticform-row mauticform-button-wrapper mauticform-field-6">
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_inscription20182019_submit" name="mauticform[submit]" value="" class="btn btn-primary" value="1">Soumettre</button>
+            </div>
+            </div>
+        </div>
+
+        <input type="hidden" name="mauticform[formId]" id="mauticform_inscription20182019_id" value="1"/>
+        <input type="hidden" name="mauticform[return]" id="mauticform_inscription20182019_return" value=""/>
+        <input type="hidden" name="mauticform[formName]" id="mauticform_inscription20182019_name" value="inscription20182019"/>
+
+        </form>
+</div>
+</div>

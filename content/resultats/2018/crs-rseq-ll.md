@@ -5,7 +5,7 @@ date: "2018-05-29"
 icon: assignment
 ---
 
-[Bannières](#banni-res)
+[Bannières](#bannières)
 
 ## Résultats compilés (Laurentides, Lanaudière, Laval)
 

@@ -3,6 +3,19 @@
   {{ partial "header.html" . }}
   <article class="container">
     {{ .Content }}
+    
+    {{ range .Sections }}
+    <h2>{{ .Title }}</h2>
+    
+    <ul>
+      {{ range .Pages.ByWeight }}
+      <li>
+        <a href="{{ .URL }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    
+    {{ end }}
 
     <ul>
       {{ range .Pages.ByWeight }}
