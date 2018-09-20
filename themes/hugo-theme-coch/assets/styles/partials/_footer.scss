@@ -9,6 +9,9 @@
   font-size: $font-size-sm;
 }
 
+.footer__heading {
+  margin-bottom: 0;
+}
 
 .list-footer {
   @include list-reset;

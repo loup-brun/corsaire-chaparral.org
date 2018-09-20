@@ -2,11 +2,11 @@
   <div class="container">
     <div class="row">
       <div class="col col-6 phone-col-12">
-        <h5>{{ .Site.Title }}</h5>
+        <div class="h5 footer__heading">{{ .Site.Title }}</div>
         <p class="text-footer">{{ $.Site.Params.description }}</p>
       </div>
       <div class="col col-3 phone-col-6">
-        <h5>Navigation</h5>
+        <div class="h5 footer__heading">Navigation</div>
         <ul class="list-footer">
           {{ $currentPage := . }}
           {{ range .Site.Menus.main.ByWeight }}
@@ -17,7 +17,7 @@
         </ul>
       </div>
       <div class="col col-3 phone-col-6">
-        <h5>Réseaux sociaux</h5>
+        <div class="h5 footer-heading">Réseaux sociaux</div>
         <ul class="list-footer list-footer-social">
           <li><a href="https://facebook.com/{{ .Site.Params.facebook }}" target="_blank"><span class="icon icon-facebook"></span> Facebook</a></li>
           <li><a href="https://twitter.com/{{ .Site.Params.twitter }}" target="_blank"><span class="icon icon-twitter"></span> Twitter</a></li>

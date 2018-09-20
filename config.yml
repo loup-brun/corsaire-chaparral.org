@@ -108,12 +108,12 @@ menu:
 #    url: '/photos/'
 #    weight: 80
   
-  - identifier: partenaires
-    title: Partenaires
-    url: '/partenaires/'
-    weight: 90
-  
-  - identifier: contact
-    title: Contact
-    url: '/contact/'
-    weight: 110
+#  - identifier: partenaires
+#    title: Partenaires
+#    url: '/partenaires/'
+#    weight: 90
+
+#  - identifier: contact
+#    title: Contact
+#    url: '/contact/'
+#    weight: 110

@@ -16,63 +16,318 @@
 //
 //}
 
+//@font-face {
+//  font-family: 'Grota Sans Alt';
+//  src: url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.eot');
+//  src: url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.eot?#iefix') format('embedded-opentype'),
+//    url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.woff2') format('woff2'),
+//    url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.woff') format('woff'),
+//    url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.ttf') format('truetype'),
+//    url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.svg#grota_sans_alt_boldbold') format('svg');
+//  font-weight: bold;
+//  font-style: normal;
+//
+//}
+//
+///* Webfont: Lato-Regular */@font-face {
+//    font-family: 'Lato';
+//    src: url('#{$assets-url}fonts/lato/Lato-Regular.eot'); /* IE9 Compat Modes */
+//    src: url('#{$assets-url}fonts/lato/Lato-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+//         url('#{$assets-url}fonts/lato/Lato-Regular.woff2') format('woff2'), /* Modern Browsers */
+//         url('#{$assets-url}fonts/lato/Lato-Regular.woff') format('woff'), /* Modern Browsers */
+//         url('#{$assets-url}fonts/lato/Lato-Regular.ttf') format('truetype');
+//    font-style: normal;
+//    font-weight: normal;
+//    text-rendering: optimizeLegibility;
+//}
+//
+///* Webfont: Lato-Italic */@font-face {
+//    font-family: 'Lato';
+//    src: url('#{$assets-url}fonts/lato/Lato-Italic.eot'); /* IE9 Compat Modes */
+//    src: url('#{$assets-url}fonts/lato/Lato-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+//         url('#{$assets-url}fonts/lato/Lato-Italic.woff2') format('woff2'), /* Modern Browsers */
+//         url('#{$assets-url}fonts/lato/Lato-Italic.woff') format('woff'), /* Modern Browsers */
+//         url('#{$assets-url}fonts/lato/Lato-Italic.ttf') format('truetype');
+//    font-style: italic;
+//    font-weight: normal;
+//    text-rendering: optimizeLegibility;
+//}
+//
+///* Webfont: Lato-Bold */@font-face {
+//    font-family: 'Lato';
+//    src: url('#{$assets-url}fonts/lato/Lato-Bold.eot'); /* IE9 Compat Modes */
+//    src: url('#{$assets-url}fonts/lato/Lato-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+//         url('#{$assets-url}fonts/lato/Lato-Bold.woff2') format('woff2'), /* Modern Browsers */
+//         url('#{$assets-url}fonts/lato/Lato-Bold.woff') format('woff'), /* Modern Browsers */
+//         url('#{$assets-url}fonts/lato/Lato-Bold.ttf') format('truetype');
+//    font-style: normal;
+//    font-weight: bold;
+//    text-rendering: optimizeLegibility;
+//}
+//
+///* Webfont: Lato-BoldItalic */@font-face {
+//    font-family: 'Lato';
+//    src: url('#{$assets-url}fonts/lato/Lato-BoldItalic.eot'); /* IE9 Compat Modes */
+//    src: url('#{$assets-url}fonts/lato/Lato-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+//         url('#{$assets-url}fonts/lato/Lato-BoldItalic.woff2') format('woff2'), /* Modern Browsers */
+//         url('#{$assets-url}fonts/lato/Lato-BoldItalic.woff') format('woff'), /* Modern Browsers */
+//         url('#{$assets-url}fonts/lato/Lato-BoldItalic.ttf') format('truetype');
+//    font-style: italic;
+//    font-weight: bold;
+//    text-rendering: optimizeLegibility;
+//}
+
+/*
+
 @font-face {
-  font-family: 'Grota Sans Alt';
-  src: url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.eot');
-  src: url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.eot?#iefix') format('embedded-opentype'),
-    url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.woff2') format('woff2'),
-    url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.woff') format('woff'),
-    url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.ttf') format('truetype'),
-    url('#{$assets-url}fonts/grota-sans-alt-bold/grotasansaltbold-webfont.svg#grota_sans_alt_boldbold') format('svg');
-  font-weight: bold;
-  font-style: normal;
-
-}
-
-/* Webfont: Lato-Regular */@font-face {
-    font-family: 'Lato';
-    src: url('#{$assets-url}fonts/lato/Lato-Regular.eot'); /* IE9 Compat Modes */
-    src: url('#{$assets-url}fonts/lato/Lato-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('#{$assets-url}fonts/lato/Lato-Regular.woff2') format('woff2'), /* Modern Browsers */
-         url('#{$assets-url}fonts/lato/Lato-Regular.woff') format('woff'), /* Modern Browsers */
-         url('#{$assets-url}fonts/lato/Lato-Regular.ttf') format('truetype');
-    font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-}
-
-/* Webfont: Lato-Italic */@font-face {
-    font-family: 'Lato';
-    src: url('#{$assets-url}fonts/lato/Lato-Italic.eot'); /* IE9 Compat Modes */
-    src: url('#{$assets-url}fonts/lato/Lato-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('#{$assets-url}fonts/lato/Lato-Italic.woff2') format('woff2'), /* Modern Browsers */
-         url('#{$assets-url}fonts/lato/Lato-Italic.woff') format('woff'), /* Modern Browsers */
-         url('#{$assets-url}fonts/lato/Lato-Italic.ttf') format('truetype');
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-thinitalic-webfont.eot');
+    src: url('/fonts/averta/averta-thinitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-thinitalic-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-thinitalic-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-thinitalic-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-thinitalic-webfont.svg#avertathin_italic') format('svg');
+    font-weight: 100;
     font-style: italic;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
+
 }
 
-/* Webfont: Lato-Bold */@font-face {
-    font-family: 'Lato';
-    src: url('#{$assets-url}fonts/lato/Lato-Bold.eot'); /* IE9 Compat Modes */
-    src: url('#{$assets-url}fonts/lato/Lato-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('#{$assets-url}fonts/lato/Lato-Bold.woff2') format('woff2'), /* Modern Browsers */
-         url('#{$assets-url}fonts/lato/Lato-Bold.woff') format('woff'), /* Modern Browsers */
-         url('#{$assets-url}fonts/lato/Lato-Bold.ttf') format('truetype');
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-thin-webfont.eot');
+    src: url('/fonts/averta/averta-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-thin-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-thin-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-thin-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-thin-webfont.svg#avertathin') format('svg');
+    font-weight: 100;
     font-style: normal;
-    font-weight: bold;
-    text-rendering: optimizeLegibility;
+
 }
 
-/* Webfont: Lato-BoldItalic */@font-face {
-    font-family: 'Lato';
-    src: url('#{$assets-url}fonts/lato/Lato-BoldItalic.eot'); /* IE9 Compat Modes */
-    src: url('#{$assets-url}fonts/lato/Lato-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('#{$assets-url}fonts/lato/Lato-BoldItalic.woff2') format('woff2'), /* Modern Browsers */
-         url('#{$assets-url}fonts/lato/Lato-BoldItalic.woff') format('woff'), /* Modern Browsers */
-         url('#{$assets-url}fonts/lato/Lato-BoldItalic.ttf') format('truetype');
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-extrathinitalic-webfont.eot');
+    src: url('/fonts/averta/averta-extrathinitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-extrathinitalic-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-extrathinitalic-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-extrathinitalic-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-extrathinitalic-webfont.svg#avertaextrathin_italic') format('svg');
+    font-weight: 200;
     font-style: italic;
-    font-weight: bold;
-    text-rendering: optimizeLegibility;
+
 }
+
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-extrathin-webfont.eot');
+    src: url('/fonts/averta/averta-extrathin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-extrathin-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-extrathin-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-extrathin-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-extrathin-webfont.svg#avertaextrathin') format('svg');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-lightitalic-webfont.eot');
+    src: url('/fonts/averta/averta-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-lightitalic-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-lightitalic-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-lightitalic-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-lightitalic-webfont.svg#avertalight_italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-light-webfont.eot');
+    src: url('/fonts/averta/averta-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-light-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-light-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-light-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-light-webfont.svg#avertalight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+
+
+}*/
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-regularitalic-webfont.eot');
+    src: url('/fonts/averta/averta-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-regularitalic-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-regularitalic-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-regularitalic-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-regularitalic-webfont.svg#avertaregular_italic') format('svg');
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-regular-webfont.eot');
+    src: url('/fonts/averta/averta-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-regular-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-regular-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-regular-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-regular-webfont.svg#averta_regularregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+
+/*
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-semibolditalic-webfont.eot');
+    src: url('/fonts/averta/averta-semibolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-semibolditalic-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-semibolditalic-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-semibolditalic-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-semibolditalic-webfont.svg#avertasemibold_italic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-semibold-webfont.eot');
+    src: url('/fonts/averta/averta-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-semibold-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-semibold-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-semibold-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-semibold-webfont.svg#avertasemibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+
+}*/
+
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-bolditalic-webfont.eot');
+    src: url('/fonts/averta/averta-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-bolditalic-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-bolditalic-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-bolditalic-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-bolditalic-webfont.svg#avertabold_italic') format('svg');
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-bold-webfont.eot');
+    src: url('/fonts/averta/averta-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-bold-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-bold-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-bold-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-bold-webfont.svg#avertabold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-extrabolditalic-webfont.eot');
+    src: url('/fonts/averta/averta-extrabolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-extrabolditalic-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-extrabolditalic-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-extrabolditalic-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-extrabolditalic-webfont.svg#avertaextrabold_italic') format('svg');
+    font-weight: 800;
+    font-style: italic;
+
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-extrabold-webfont.eot');
+    src: url('/fonts/averta/averta-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-extrabold-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-extrabold-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-extrabold-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-extrabold-webfont.svg#avertaextrabold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+/*
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-blackitalic-webfont.eot');
+    src: url('/fonts/averta/averta-blackitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-blackitalic-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-blackitalic-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-blackitalic-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-blackitalic-webfont.svg#avertablack_italic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Averta';
+    src: url('/fonts/averta/averta-black-webfont.eot');
+    src: url('/fonts/averta/averta-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/averta/averta-black-webfont.woff2') format('woff2'),
+         url('/fonts/averta/averta-black-webfont.woff') format('woff'),
+         url('/fonts/averta/averta-black-webfont.ttf') format('truetype'),
+         url('/fonts/averta/averta-black-webfont.svg#avertablack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+
+}
+*/

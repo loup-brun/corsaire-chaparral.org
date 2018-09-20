@@ -26,8 +26,6 @@ Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un ath
 
 ### Catégories d'âge et tarifs d'inscription
 
-_Les tarifs pour le club satellite de Lachute sont à venir._
-
 | Catégorie               | Du 1<sup>er</sup> sept au 31 août | Du 1<sup>er</sup> mars au 31 août |
 | ----------------------- | --------------------------------- | --------------------------------  |
 | Colibri (2010-2011)     | 84 $ par session                  |
