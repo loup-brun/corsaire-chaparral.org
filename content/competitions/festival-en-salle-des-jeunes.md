@@ -15,6 +15,8 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 ## Informations générales
 
+[Document technique](https://campagnes.corsaire-chaparral.org/asset/1:doc-technique-festival-jeunes-2018) _(en date du 23 septembre 2018)_
+
 Responsable : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
 
