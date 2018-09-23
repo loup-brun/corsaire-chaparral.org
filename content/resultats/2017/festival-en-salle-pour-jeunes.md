@@ -3,6 +3,7 @@ title: Résultats - Festival en salle pour jeunes Corsaire-Chaparral 2017
 date: "2017-12-16"
 categories: Résultats
 icon: assignment
+layout: single
 ---
 
 Téléchargez les résultats individuels en [format PDF](/medias/competitions/2017/resultats-festival-en-salle-pour-jeunes-2017.pdf).
