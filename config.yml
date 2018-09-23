@@ -11,6 +11,8 @@ publishDir: dist
 permalinks:
   nouvelles: nouvelles/:year/:month/:day/:slug
 
+hrefTargetBlank: true
+
 # Build pages with 'future' date
 buildFuture: true
 
