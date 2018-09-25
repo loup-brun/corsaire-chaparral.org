@@ -49,7 +49,9 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
-_Pour le club satellite de Lachute, voir [plus bas](#horaire-d-entraînement-lachute)._
+{{% div class="alert -primary" %}}
+**Club satellite de Lachute** : les résidents de la région de Lachute qui souhaitent faire de l’athlétisme pendant les mois d’octobre, novembre, décembre, janvier, février, mars devront s’incrire au club régulier et pourront prendre part aux entrainements à Sainte-Thérèse. À partir d’**avril 2019**, les activités à la polyvalente Lavigne reprendront.
+{{% /div %}}
 
 ### Colibri (2010-2011)
 
@@ -104,7 +106,6 @@ Horaire à confirmer lors de l'inscription.
 
 ### Horaire d’entraînement – Lachute
 
-Pour le groupe de Lachute, l’horaire d’entraînement est le même pour toutes les catégories :
-
-- Mardi 18 h à 19 h 30
-- Vendredi 18 h à 19 h 30
+{{% div class="alert -primary" %}}
+**Club satellite de Lachute** : les résidents de la région de Lachute qui souhaitent faire de l’athlétisme pendant les mois d’octobre, novembre, décembre, janvier, février, mars devront s’incrire au club régulier et pourront prendre part aux entrainements à Sainte-Thérèse. À partir d’**avril 2019**, les activités à la polyvalente Lavigne reprendront.
+{{% /div %}}

@@ -11,7 +11,11 @@ menu:
     weight: 40
 ---
 
-_L'inscription en ligne sera ouverte sous peu. Merci de votre compréhension!_
+{{% div class="alert -primary" %}}
+
+<span class="icon icon-stopwatch"></span> L'inscription en ligne sera ouverte sous peu. Présentez-vous à [l’entraînement](/club/entrainements) selon l’horaire de votre catégorie. Merci de votre compréhension!
+{{% /div %}}
+
 
 {{% div class="well" %}}
 **Note** : il n’est pas nécessaire d’être inscrit dès le premier entraînement. Présentez-vous selon [l’horaire](/club/entrainements) de votre catégorie et bénéficiez d’une période d’essai sans frais!
@@ -23,7 +27,7 @@ Le coût d’inscription est établi selon l’année de naissance de l’athlè
 
 Les montants d’inscription 2018-2019 sont établis selon les **catégories d'âge** (voir tableau ci-dessous).
 
-Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un athlète inscrit au club; assurez=vous de bien indiquer cette information lors de votre inscription.
+Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un athlète inscrit au club; assurez-vous de bien indiquer cette information lors de votre inscription.
 
 ### Catégories d'âge et tarifs d'inscription
 

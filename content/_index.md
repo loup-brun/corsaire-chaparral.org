@@ -43,6 +43,8 @@ announcement:
     Les mois de septembre et octobre sont consacrés à la **remise en forme** en vue de l’année à venir. Bienvenue à tous!
 ---
 
+[![Affiche Gala Corsaire-Chaparral 2018](https://campagnes.corsaire-chaparral.org/asset/3:affiche-gala-2018)](/club/gala-annuel/)
+
 ## Reprise des entraînements – saison 2018-2019
 
 Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
