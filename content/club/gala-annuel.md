@@ -13,6 +13,8 @@ menu:
     weight: 50
 ---
 
+![Affiche Gala Corsaire-Chaparral 2018](https://campagnes.corsaire-chaparral.org/asset/3:affiche-gala-2018)
+
 ## Billets
 
 Vous devez vous procurer vos [billets](https://events.eventzilla.net/e/gala-annuel-coch-2018-2138715025) en ligne jusqu'au **8 octobre 2018**. Aucun billet ne sera vendu à la porte.
