@@ -1,0 +1,7 @@
+{
+  "title": "Code source du site web du Corsaire-Chaparral.",
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "postcss-cli": "^6.0.0"
+  }
+}

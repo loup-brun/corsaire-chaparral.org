@@ -5,6 +5,8 @@
 {{ "<!--[if gt IE 8]><!-->" | safeHTML }}<html class="no-js" lang="fr"> {{ "<!--<![endif]-->" | safeHTML }}
   {{ partial "head.html" . }}
   <body>
+    {{- partial "header.html" . -}}
+    
     {{- partial "navbar.html" . -}}
 
     {{- block "main" . }}{{- end }}

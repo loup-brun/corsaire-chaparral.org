@@ -54,13 +54,12 @@ $easeInOutCubic: cubic-bezier(0.645, 0.045, 0.355, 1);
 // Layout
 
 // Resonsive Design Break Points
-$phone-breakpoint:	      520px;
-$tablet-breakpoint:	      760px;
+$phone-breakpoint:	      600px;
+$tablet-breakpoint:	      768px;
 $lg-breakpoint:		      1400px;
 
 // Container
-$desktop-container:       760px;
-$container-lg:            760px;
+$desktop-container:       $tablet-breakpoint * .96;
 
 // Grid
 $columns:			      12;
@@ -75,7 +74,7 @@ $spacing-xl:		      4em;
 $border-radius:           0.33em;
 
 // Navbar
-$font-size-navbar:        0.85em;
+$font-size-navbar:        0.8em;
 $spacing-navbar:          1.2em;
 $height-navbar:           $font-size-navbar * $line-height + 2 * $spacing-navbar;
 $color-navbar:            $gray-darker;

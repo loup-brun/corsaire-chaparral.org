@@ -104,6 +104,21 @@ Entraîneur responsable : Samuel Grondin-Bernier.
 
 Horaire à confirmer lors de l'inscription.
 
+### Demi-fond (cadet, juvénile et plus vieux)
+
+Les athlètes de catégorie **cadette** et **juvénile** peuvent suivre la planification spécialisée pour le demi-fond.
+
+- Lundi 18 h à 19 h 30
+- Mercredi 18 h à 19 h 30
+- Samedi 10 h 30 à 12 h
+
+Consultez le [calendrier](demi-fond) pour les entraînements de demi-fond.
+
+Entraîneurs responsables :
+
+- [Sabrina Lavigne](/club/entraineurs/sabrina-lavigne/)
+- Simon Prince-Desjardins
+
 ### Horaire d’entraînement – Lachute
 
 {{% div class="alert -primary" %}}
