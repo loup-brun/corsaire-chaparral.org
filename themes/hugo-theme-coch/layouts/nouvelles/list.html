@@ -1,14 +1,7 @@
-{{ define "main" }}
-<main class="container container-main" role="main">
+{{ define "article" }}
+  {{ range .Pages }}
+  {{ partial "nouvelle-apercu.html" . }}
+  {{ end }}
 
-  {{- partial "header-page.html" . -}}
-
-  <article class="container">
-    {{ range .Pages }}
-    {{ partial "nouvelle-apercu.html" . }}
-    {{ end }}
-
-    {{ .Content }}
-  </article>
-</main>
+  {{ .Content }}
 {{ end }}

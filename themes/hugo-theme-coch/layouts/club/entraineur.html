@@ -1,11 +1,5 @@
-{{ define "main" }}
-<main class="container container-main" role="main">
-
-  {{- partial "header-page.html" . -}}
-
-  <article class="container">
+{{ define "article" }}
     {{ partial "bio.html" . }}
+
     {{ .Content }}
-  </article>
-</main>
 {{ end }}

@@ -1,11 +1,6 @@
-{{ define "main" }}
-<main class="container container-main" role="main">
-  {{ partial "header-page.html" . }}
-  <article class="container">
-    {{ .Content }}
-    {{ range .Site.Data.partenaires }}
-    {{ partial "partenaire.html" . }}
-    {{ end }}
-  </article>
-</main>
+{{ define "article" }}
+  {{ .Content }}
+  {{ range .Site.Data.partenaires }}
+  {{ partial "partenaire.html" . }}
+  {{ end }}
 {{ end }}

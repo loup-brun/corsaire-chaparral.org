@@ -1,32 +1,25 @@
-{{ define "main" }}
-<main class="container container-main" role="main">
+{{ define "article" }}
+  {{ .Content }}
 
-  {{- partial "header-page.html" . -}}
-
-  <article class="container">
-    {{ .Content }}
-    
-    <ul>
-      {{ range .Pages.ByWeight }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
-        
-    {{ range .Sections.ByWeight }}
-    <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
-    
-    <ul>
-      {{ range .Pages.ByWeight }}
-      <li>
-        <a href="{{ .URL }}">{{ .Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
-    
+  <ul>
+    {{ range .Pages.ByWeight }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
     {{ end }}
+  </ul>
 
-  </article>
-</main>
+  {{ range .Sections.ByWeight }}
+  <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
+
+  <ul>
+    {{ range .Pages.ByWeight }}
+    <li>
+      <a href="{{ .URL }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+
+  {{ end }}
+
 {{ end }}

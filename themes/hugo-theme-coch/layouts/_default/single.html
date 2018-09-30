@@ -1,10 +1,13 @@
 {{ define "main" }}
 <main class="container container-main" role="main">
 
+  {{ block "header" . }}
   {{- partial "header-page.html" . -}}
+  {{ end }}
 
   <article class="container article-container">
 
+    {{ block "article" . }}
     {{ with .Params.description }}
     <p class="article-lead">
       {{ . }}
@@ -12,6 +15,7 @@
     {{ end }}
 
     {{ .Content }}
+    {{ end }}
   </article>
 </main>
 {{ end }}

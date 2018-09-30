@@ -9,7 +9,27 @@
     
     {{- partial "navbar.html" . -}}
 
-    {{- block "main" . }}{{- end }}
+    {{- block "main" . }}
+    <main class="container container-main" role="main">
+
+      {{ block "header-page" . }}
+      {{- partial "header-page.html" . -}}
+      {{ end }}
+
+      <article class="container article-container">
+
+        {{ block "article" . }}
+        {{ with .Params.description }}
+        <p class="article-lead">
+          {{ . }}
+        </p>
+        {{ end }}
+
+        {{ .Content }}
+        {{ end }}
+      </article>
+    </main>
+    {{- end }}
 
     {{- partial "footer.html" . -}}
 

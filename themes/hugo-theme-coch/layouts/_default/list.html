@@ -1,31 +1,24 @@
-{{ define "main" }}
-<main class="container container-main" role="main">
+{{ define "article" }}
+  {{ .Content }}
 
-  {{- partial "header.html" . -}}
+  {{ range .Sections }}
+  <h2>{{ .Title }}</h2>
 
-  <article class="container">
-    {{ .Content }}
-    
-    {{ range .Sections }}
-    <h2>{{ .Title }}</h2>
-    
-    <ul>
-      {{ range .Pages.ByWeight }}
-      <li>
-        <a href="{{ .URL }}">{{ .Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
-    
+  <ul>
+    {{ range .Pages.ByWeight }}
+    <li>
+      <a href="{{ .URL }}">{{ .Title }}</a>
+    </li>
     {{ end }}
+  </ul>
 
-    <ul>
-      {{ range .Pages.ByWeight }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
-  </article>
-</main>
+  {{ end }}
+
+  <ul>
+    {{ range .Pages.ByWeight }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
 {{ end }}

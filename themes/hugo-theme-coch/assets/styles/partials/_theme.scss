@@ -66,6 +66,10 @@ p a { // inline text links
     @include vertical-padding(0);
   }
   
+  &.-wide {
+    max-width: 96%;
+  }
+  
   img {
 	max-width: 100%;
   }

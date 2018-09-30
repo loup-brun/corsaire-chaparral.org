@@ -1,10 +1,58 @@
 {{ define "main" }}
-<main class="container container-full" role="main">
+<main class="container container-main -wide" role="main">
 
-  <h1>{{ .Title }}</h1>
+  {{ block "header" . }}
+  <header class="header-page">
+    <span class="icon icon-lg icon-header icon-stopwatch"></span>
+    <div class="container container-full">
+      <div class="row row-sm">
+        <div class="meta-header">
+          {{ with .Params.subtitle }}
+          <small class="uppercase">{{ . }}</small>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    <div class="row no-padding">
+      <div class="col col-10 tablet-col-10 phone-col-12">
+        <div class="title-header container container-full">
+          <h1>{{ .Title }}</h1>
+        </div>
+      </div>
+    </div>
+    <div class="row row-sm">
+      <div class="col col-12">
+        <div class="container container-full meta-header">
+          {{ with .Params.date }}
+          <div>
+            <small>
+              <span class="icon icon-calendar"></span> {{ partial "date.html" . }}
+            </small>
+          </div>
+          {{ end }}
+          {{with .Params.author }}
+          <div>
+            <small><em>{{ . }}</em></small>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    
+  </header>
+  {{ end }}
 
-  <article>
+  <article class="container container-full container-full">
+
+    {{ block "article" . }}
+    {{ with .Params.description }}
+    <p class="article-lead">
+      {{ . }}
+    </p>
+    {{ end }}
+
     {{ .Content }}
+    {{ end }}
   </article>
 </main>
 {{ end }}
