@@ -1,7 +1,5 @@
 .PHONY: build
 
-HUGO := hugo
-
 help:
 	@echo "Usage: make <command>"
 	@echo "  all     Builds the blog and minifies it"
@@ -16,7 +14,10 @@ help:
 	@echo "  open "
 
 build:
-	${HUGO} '--minify'
+	hugo '--minify'
 
 build-staging:
-	${HUGO} --config=config.yml,config.staging.yml --minify
+	hugo --config=config.yml,config.staging.yml --minify
+
+all:
+	make build && ./deploy-production
