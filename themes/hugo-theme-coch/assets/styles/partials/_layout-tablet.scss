@@ -3,7 +3,7 @@
 @include mquery($tablet-breakpoint) {
 
   .container {
-    @include horizontal-padding($spacing);
+    @include horizontal-padding($spacing-lg);
       //&:first-child { margin-left: auto; }
   }
 

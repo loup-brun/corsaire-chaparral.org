@@ -9,8 +9,24 @@
   font-size: $font-size-sm;
 }
 
+.footer__logo > svg {
+  height: 100%;
+  width: 100%;
+  padding: 0 $spacing-lg 0 0;
+  
+  @include mquery ($tablet-breakpoint) {
+    padding: $spacing 0 0 0;
+  }
+  
+  @include mquery ($phone-breakpoint) {
+    padding: $spacing 0 0 0;
+    max-height: 250px;
+    max-width: 250px;
+  }
+}
+
 .footer__heading {
-  margin-bottom: 0;
+//  margin-bottom: 0;
 }
 
 .list-footer {
@@ -27,6 +43,7 @@
       display: block;
       color: $gray;
       border-bottom: 0;
+      transition: color .3s;
 
       &:hover, &:focus {
         color: $color-link;

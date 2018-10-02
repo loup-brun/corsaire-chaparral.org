@@ -11,13 +11,13 @@
     {{ $sass | safeCSS }}
   </style>
 <!--  <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" />-->
-  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link rel="icon" type="image/png" href="/img/favicon-64x64.png" sizes="64">
   <link rel="canonical" href="{{ .Site.BaseURL }}">
   <script>
     {{- $headJS := resources.Get "scripts/head.min.js" -}}
     {{ $headJS.Content | safeJS }}
   </script>
-  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png"/>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
   <meta name="msapplication-TileColor" content="{{ $.Site.Params.ThemeColor | default "#f26e21" }}">
   
   {{ template "_internal/opengraph.html" . }}
