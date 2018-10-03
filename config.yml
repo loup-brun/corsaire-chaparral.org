@@ -126,7 +126,7 @@ menu:
       url: http://portail.corsaire-chaparral.org/
       weight: 10
     - identifier: campagnes
-      title: Info-formulaires
+      title: Communications
       url: http://campagnes.corsaire-chaparral.org/
       weight: 20
     - identifier: courriels

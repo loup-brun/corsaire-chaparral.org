@@ -72,6 +72,8 @@ Le club déduira **13,33 $** de la contribution initiale pour chaque heure non a
 
 Au-delà de 15 heures de bénévolat, l'athlète est acquitté de ses devoirs et ses heures ne sont plus comptabilisées pour l'année en cours.
 
+Consultez les [activités de bénévolat](/club/benevolat/).
+
 <!-- TODO: Refaire document bénévolat à jour -->
 <!--Pour tous les détails, consultez le [document](https://corsaire-chaparral.org/assets/docs/systeme-contribution-benevolat.pdf) concernant le système de contribution de bénévolat.-->
 
