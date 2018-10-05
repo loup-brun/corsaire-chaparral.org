@@ -30,9 +30,9 @@
                   {{ range .buttons }}
                   <a href="{{ .url }}" class="btn {{ .class }}"
                      {{ if .external }} target="_blank"{{ end }}>
-                    {{- with .pre -}}{{ . | safeHTML }}{{ end }}
+                    {{- with .pre }} {{ . | safeHTML }}{{ end }}
                     {{ .title }}
-                    {{- with .post -}}{{ . | safeHTML }}{{ end }}
+                    {{- with .post }} {{ . | safeHTML }}{{ end }}
                   </a>
                   {{ end }}
                 </div>
