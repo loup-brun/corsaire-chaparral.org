@@ -1,7 +1,7 @@
 // Forms
 // -----------------------------------
 
-fieldset {
+fieldset, .mauticform-radiogrp {
   border: 1px solid $gray-lighter;
   padding: $spacing-sm;
   margin: $spacing 0;
@@ -17,6 +17,10 @@ fieldset {
   }
 }
 
+.mauticform-radiogrp > label {
+  margin-top: 0;
+}
+
 legend {
   border: 0;
   padding: $spacing-xs;
@@ -27,9 +31,11 @@ legend {
 }
 
 label {
-  margin: 0;
-  font-size: $font-size-sm;
-  color: $gray-dark;
+  display: block;
+  margin: $spacing 0 0;
+  font-size: $h6;
+  color: $gray-darker;
+  font-weight: bold;
   cursor: pointer;
 }
 
@@ -44,6 +50,8 @@ input[type=password],
 input[type=email], 
 input[type=search], 
 input[type=tel],
+input[type=number],
+input[type=date],
 textarea,
 select {
   padding: $spacing-sm;
@@ -134,11 +142,36 @@ input::-moz-focus-inner {
   padding: 0;
 }
 
-.form-group {
+.form-group,
+.mauticform-row
+{
   position: relative;
-  margin-bottom: $spacing-sm;
+  margin-bottom: $spacing;
 }
-.form-warning {
-  line-height: 1.1;
+.mauticform-errormsg {
+  display: inline-block;
+  border: 2px dashed $color-danger;
+  background-color: lighten($color-danger, 40%);
+  color: $color-danger;
+  padding: $spacing-xs;
+  margin: $spacing-xs 0;
+  @extend .font-bold;
+  @extend .em;
+  border-radius: $border-radius;
+}
+
+.mauticform-helpmessage {
   font-size: $font-size-sm;
+  font-style: italic;
+  color: $gray-dark;
 }
+
+.mauticform-required {
+  > label:after {
+    content: '*';
+    color: $color-danger;
+    display: inline-block;
+    margin: 0 0.15em;
+  }
+}
+
