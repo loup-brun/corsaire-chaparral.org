@@ -13,9 +13,11 @@ menu:
 
 {{% div class="alert -primary" %}}
 
-<span class="icon icon-stopwatch"></span> L'inscription en ligne sera ouverte sous peu. Présentez-vous à [l’entraînement](/club/entrainements) selon l’horaire de votre catégorie. Merci de votre compréhension!
-{{% /div %}}
+L'inscription est maintenant ouverte! Remplissez le [formulaire d'inscription](https://campagnes.corsaire-chaparral.org/page/preview/11) en ligne. Vous recevrez par la suite une facture par courriel en fonction de votre catégorie, du nombre d’athlètes par famille, de votre ville de résidence et de du nombre d’heures de bénévolat déjà accomplies.
 
+Assurez-vous de lire toutes les informations relatives à l'inscription sur cette page (politique d’inscription, catégorie d’âge et bénévolat).
+
+{{% /div %}}
 
 {{% div class="well" %}}
 **Note** : il n’est pas nécessaire d’être inscrit dès le premier entraînement. Présentez-vous selon [l’horaire](/club/entrainements) de votre catégorie et bénéficiez d’une période d’essai sans frais!
@@ -80,3 +82,5 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 ### Paiement et inscription
 
 Le paiement doit être fait en intégralité au moment de l'inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
+
+<a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/page/preview/11">Formulaire d'inscription</a>

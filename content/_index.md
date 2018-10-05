@@ -11,6 +11,10 @@ slides:
       url: /club/entrainements/
       post: <span class="icon icon-angle-right"></span>
       class: btn-default
+    - title: Inscription
+      url: /club/entrainements/
+      post: <span class="icon icon-pencil"></span>
+      class: btn-secondary
   - heading: Gala Corsaire-Chaparral 2018
     body: >
       Le club est heureux d'annoncer la tenue de son premier **gala annuel** le 20 octobre prochain. Soyez des nôtres!
@@ -37,11 +41,22 @@ slides:
       Le Corsaire-Chaparral fait peau neuve et procèdera bientôt au lancement de sa nouvelle identité visuelle. Restez à l'affût!
 announcement:
   title: Inscription 2018-2019
-  icon: icon-pencil
+  icon: icon-star
   body: >
-    L’inscription en ligne sera ouverte bientôt, mais la saison est bel et bien recommencée! Présentez-vous simplement à l'entraînement selon l'[horaire](/club/entrainements/) des catégories! <br><br>
-    Les mois de septembre et octobre sont consacrés à la **remise en forme** en vue de l’année à venir. Bienvenue à tous!
+    L'inscription est maintenant ouverte! Consultez les détails relativement à l'[inscription](/club/inscription), puis remplissez le [formulaire d'inscription](https://campagnes.corsaire-chaparral.org/page/preview/11) en ligne. Vous recevrez par la suite une facture par courriel en fonction de votre catégorie, du nombre d’athlètes par famille, de votre ville de résidence et de du nombre d’heures de bénévolat déjà accomplies.
 ---
+
+
+<a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/page/preview/11">
+Inscription <span class="icon icon-pencil"></span>
+</a>
+<a class="btn btn-default" href="/club/inscription">
+</span>Informations <span class="icon icon-assignment">
+</a>
+
+## Gala annuel 2018
+
+Le premier [gala annuel](/club/gala-annuel) du club Corsaire-Chaparral se tiendra le samedi 20 octobre 2018 au Centre culturel et communautaire Thérèse-de-Blainville. Procurez-vous vos billets jusqu'au 8 octobre!
 
 [![Affiche Gala Corsaire-Chaparral 2018](https://campagnes.corsaire-chaparral.org/asset/3:affiche-gala-2018)](/club/gala-annuel/)
 
