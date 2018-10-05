@@ -2,16 +2,12 @@
 
 help:
 	@echo "Usage: make <command>"
-	@echo "  all     Builds the blog and minifies it"
-	@echo "  clean   Cleans all build files"
-	@echo "  server  Runs a webserver on port 1313 to test the final minified result"
-	@echo "  watch   Runs hugo in watch mode, waiting for changes"
-	@echo ""
-	@echo "New article:"
-	@echo "  hugo new post/the_title"
-	@echo "  $$EDITOR content/post/the_title.md"
-	@echo "  make watch"
-	@echo "  open "
+	@echo "  serve  Runs a development webserver on port 1313"
+	@echo "  build   Build the site with minification"
+	@echo "  build-staging   Build the site with *staging* configuration"
+
+serve:
+	hugo serve --disableFastRender
 
 build:
 	hugo '--minify'
