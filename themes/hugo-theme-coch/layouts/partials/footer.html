@@ -1,39 +1,5 @@
 <footer class="footer-main">
   <div class="container">
-    <div class="row">
-      <div class="col col-4 phone-col-6">
-        <div class="h5 footer__heading">Navigation</div>
-        <ul class="list-footer">
-          {{ $currentPage := . }}
-          {{ range .Site.Menus.main.ByWeight }}
-          <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}">
-            <a href="{{ .URL }}">{{ .Title }}</a>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-      <div class="col col-4 phone-col-6">
-        <div class="h5 footer__heading">Réseaux sociaux</div>
-        <ul class="list-footer list-footer-social">
-          <li><a href="https://facebook.com/{{ .Site.Params.facebook }}" target="_blank"><span class="icon icon-facebook"></span> Facebook</a></li>
-          <li><a href="https://twitter.com/{{ .Site.Params.twitter }}" target="_blank"><span class="icon icon-twitter"></span> Twitter</a></li>
-          <li><a href="mailto:{{ .Site.Params.email }}" target="_blank"><span class="icon icon-mail"></span> Courriel</a></li>
-        </ul>
-      </div>
-      
-      <div class="col col-4 phone-col-6">
-        <div class="h5 footer__heading">Espace membres</div>
-        <ul class="list-footer">
-          {{ $currentPage := . }}
-          {{ range .Site.Menus.membres.ByWeight }}
-          <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}">
-            <a href="{{ .URL }}" target="_blank">{{ .Title }}</a>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-    </div>
-    
     <div class="row phone-text-center">
       <div class="col col-4 phone-col-12">
         <div class="footer__logo">
@@ -66,6 +32,40 @@
       <div class="col col-8 phone-col-12">
         <div class="h5 footer__heading">{{ .Site.Title }}</div>
         <p class="text-footer">{{ $.Site.Params.description }}</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col col-4 phone-col-6">
+        <div class="h5 footer__heading">Navigation</div>
+        <ul class="list-footer">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.main.ByWeight }}
+          <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}">
+            <a href="{{ .URL }}">{{ .Title }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col col-4 phone-col-6">
+        <div class="h5 footer__heading">Réseaux sociaux</div>
+        <ul class="list-footer list-footer-social">
+          <li><a href="https://facebook.com/{{ .Site.Params.facebook }}" target="_blank"><span class="icon icon-facebook"></span> Facebook</a></li>
+          <li><a href="https://twitter.com/{{ .Site.Params.twitter }}" target="_blank"><span class="icon icon-twitter"></span> Twitter</a></li>
+          <li><a href="mailto:{{ .Site.Params.email }}" target="_blank"><span class="icon icon-mail"></span> Courriel</a></li>
+        </ul>
+      </div>
+      
+      <div class="col col-4 phone-col-6">
+        <div class="h5 footer__heading">Espace membres</div>
+        <ul class="list-footer">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.membres.ByWeight }}
+          <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}">
+            <a href="{{ .URL }}" target="_blank">{{ .Title }}</a>
+          </li>
+          {{ end }}
+        </ul>
       </div>
     </div>
 
