@@ -1,11 +1,12 @@
 .alert {
   padding: $spacing;
   border-radius: $border-radius;
-  border-width: $border-radius;
+  border-width: 2px;
   border-style: dashed;
+  font-size: $font-size * 1.2;
 
   &.-primary {
-    background-color: lighten($color-primary, 35%);
+    //background-color: lighten($color-primary, 35%);
     color: $font-color;
     border-color: $color-primary;
   }

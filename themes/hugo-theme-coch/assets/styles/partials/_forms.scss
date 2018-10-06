@@ -175,3 +175,14 @@ input::-moz-focus-inner {
   }
 }
 
+.mauticform-post-success {
+
+  .mauticform-message {
+    color: green;
+  }
+
+  .mauticform-innerform {
+    display: none;
+  }
+}
+

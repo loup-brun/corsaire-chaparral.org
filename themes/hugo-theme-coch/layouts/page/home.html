@@ -11,7 +11,7 @@
 
               <p class="lead">{{ .Site.Params.description }}</p>
                 <a href="/club/histoire-mission/" class="btn btn-default">En savoir plus <span class="icon icon-angle-right"></span></a>
-              <a href="/club/entrainements/" class="btn btn-secondary">Entraînements <span class="icon icon-stopwatch"></span></a>
+              <a href="/club/inscription/" class="btn btn-secondary">Inscription <span class="icon icon-pencil"></span></a>
             </div>
           </div>
         </section>
@@ -53,24 +53,17 @@
   
   <article class="row-lg">
     <div class="container container-full">
-      {{ with .Params.announcement }}
-      <div class="alert -primary phone-text-center">
-        <div class="row">
-          <div class="col col-1 tablet-col-2 phone-col-12">
-            <span class="icon {{ .icon }} icon--alert"></span>
-          </div>
-          <div class="col col-10 tablet-col-10 phone-col-12">
-            <span class="h1 alert__heading">{{ .title }}</span>
-            <p>
-              {{ .body | markdownify }}
-            </p>
-          </div>
-        </div>
-      </div>
-      {{ end }}
       <div class="row">
         <article class="col col-8 tablet-col-12">
-            {{ .Content }}
+          {{ with .Params.announcement }}
+            <div class="alert -primary phone-text-center">
+                <span class="h1 alert__heading">{{ .title }} <span class="icon icon-pencil"></span></span>
+                <p>
+                  {{ .body | markdownify }}
+                </p>
+              </div>
+          {{ end }}
+        {{ .Content }}
         </article>
         <aside class="col col-4 tablet-col-12 home-sidebar-container">
           <section>
@@ -109,5 +102,55 @@
       </div>
     </div>
   </article>
+  <div class="row row-primary row-lg">
+    <div class="container">
+        <h2>Infolettre <span class="icon icon-mail"></span></h2>
+      
+      <p>Parents et athlètes, ajoutez votre adresse courriel pour recevoir toutes les informations. Si vous vous êtes inscrit(e) au club pour la saison 2018–2019, vous avez déjà été ajouté(e) à l’infolettre!</p>
+
+        <div id="mauticform_wrapper_testinfolettreajout" class="mauticform_wrapper">
+            <form autocomplete="false" role="form" method="post" action="https://campagnes.corsaire-chaparral.org/form/submit?formId=14" id="mauticform_testinfolettreajout"  data-mautic-form="testinfolettreajout" enctype="multipart/form-data">
+                <div class="mauticform-error" id="mauticform_testinfolettreajout_error"></div>
+                <div class="mauticform-message" id="mauticform_testinfolettreajout_message"></div>
+                <div class="mauticform-innerform">
+
+
+                  <div class="mauticform-page-wrapper mauticform-page-1 row" data-mautic-form-page="1">
+
+                    <div id="mauticform_testinfolettreajout_prenom col col-4 col-sm-12"  class="mauticform-row mauticform-text mauticform-field-1">
+<!--                        <label id="mauticform_label_testinfolettreajout_prenom" for="mauticform_input_testinfolettreajout_prenom" class="mauticform-label">Prénom</label>-->
+                        <input id="mauticform_input_testinfolettreajout_prenom" name="mauticform[prenom]" value="" placeholder="Prénom" class="mauticform-input" type="text" />
+                        <span class="mauticform-errormsg" style="display: none;"></span>
+                    </div>
+
+                    <div id="mauticform_testinfolettreajout_nom_de_famille col col-4 col-sm-12"  class="mauticform-row mauticform-text mauticform-field-2">
+<!--                        <label id="mauticform_label_testinfolettreajout_nom_de_famille" for="mauticform_input_testinfolettreajout_nom_de_famille" class="mauticform-label">Nom de famille</label>-->
+                        <input id="mauticform_input_testinfolettreajout_nom_de_famille" name="mauticform[nom_de_famille]" value="" placeholder="Nom de famille" class="mauticform-input" type="text" />
+                        <span class="mauticform-errormsg" style="display: none;"></span>
+                    </div>
+
+                    <div id="mauticform_testinfolettreajout_courriel col col-4 col-sm-12"  data-validate="courriel" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-3 mauticform-required">
+<!--                        <label id="mauticform_label_testinfolettreajout_courriel" for="mauticform_input_testinfolettreajout_courriel" class="mauticform-label">Courriel</label>-->
+                        <input id="mauticform_input_testinfolettreajout_courriel" name="mauticform[courriel]" value="" placeholder="info@example.com" class="mauticform-input" type="email" />
+                        <span class="mauticform-errormsg" style="display: none;">Veuillez entrer votre adresse courriel.</span>
+                    </div>
+
+                    <div id="mauticform_testinfolettreajout_je_minscris"  class="mauticform-row mauticform-button-wrapper mauticform-field-4">
+                        <button type="submit" name="mauticform[je_minscris]" id="mauticform_input_testinfolettreajout_je_minscris" name="mauticform[je_minscris]" value="" class="mauticform-button btn btn-secondary" value="1">Je m’inscris!</button>
+                    </div>
+                    </div>
+                </div>
+
+                <input type="hidden" name="mauticform[formId]" id="mauticform_testinfolettreajout_id" value="14"/>
+                <input type="hidden" name="mauticform[return]" id="mauticform_testinfolettreajout_return" value=""/>
+                <input type="hidden" name="mauticform[formName]" id="mauticform_testinfolettreajout_name" value="testinfolettreajout"/>
+
+                </form>
+          </div>
+        </div>
+
+      </div>
 </main>
+
+{{ partial "mautic-script.html" . }}
 {{ end }}

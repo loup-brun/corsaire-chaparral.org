@@ -7,14 +7,14 @@ menu:
     weight: 60
 ---
 
-Il est attendu que chaque athlète (et sa famille) accomplisse 15 heures de bénévolat chaque année. Voici une liste d'activités de bénévolat à venir.
+Il est attendu que chaque athlète (et sa famille) accomplisse **15 heures** de bénévolat chaque année. Voici une liste d'activités de bénévolat à venir.
 
 ## Événements à venir
 
 | Date                      | Événement                                                                          |
 |---------------------------|------------------------------------------------------------------------------------|
 | Vendredi 5 octobre 2018   | Cross-country École en forme et en santé / Parc équestre de Blainville / 8h–14h    |
-| Dimanche 28 octobre 2018  | Demi-marathon Oasis de Blainville / Parc équestre de Blainville / 6h–13h           |
+| Dimanche 28 octobre 2018  | [Demi-marathon Oasis de Blainville](1) / Parc équestre de Blainville / 6h–13h           |
 | Vendredi 14 décembre 2018 | Montage des équipements et préparation des gymnases pour le Festival des jeunes / Polyvalente Sainte-Thérèse / 18h–22h  |
 | Samedi 15 décembre 2018   | Festival des jeunes Corsaire-Chaparral / Polyvalente Sainte-Thérèse / 8h–15h30     |
 | Samedi 2 février 2019     | Le Challenge André-Harel / Complexe sportif Claude-Robillard / 8h–17h              |
@@ -27,3 +27,5 @@ Il est attendu que chaque athlète (et sa famille) accomplisse 15 heures de bén
 | Mercredi,19 juin 2019     |                                                                                    |
 | Samedi,29 juin,2019       |                                                                                    |
 | Mercredi 31 juillet 2019  |                                                                                    |-->
+
+[1]: https://www.lacoursedeblainville.com/fr/Benevoles/

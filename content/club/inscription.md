@@ -13,17 +13,27 @@ menu:
 
 {{% div class="alert -primary" %}}
 
-L'inscription est maintenant ouverte! Remplissez le [formulaire d'inscription](https://campagnes.corsaire-chaparral.org/page/preview/11) en ligne. Vous recevrez par la suite une facture par courriel en fonction de votre catégorie, du nombre d’athlètes par famille, de votre ville de résidence et de du nombre d’heures de bénévolat déjà accomplies.
+**L'inscription est maintenant ouverte!** Lisez d’abord les détails sur cette page, puis remplissez le [formulaire d'inscription](https://campagnes.corsaire-chaparral.org/inscription-2018-2019) en ligne.
 
-Assurez-vous de lire toutes les informations relatives à l'inscription sur cette page (politique d’inscription, catégorie d’âge et bénévolat).
-
+<a class="btn btn-default" href="#comment-s-inscrire">
+</span>En savoir plus <span class="icon icon-angle-down">
+</a>
+<a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">
+Formulaire en ligne <span class="icon icon-pencil"></span>
+</a>
 {{% /div %}}
 
 {{% div class="well" %}}
 **Note** : il n’est pas nécessaire d’être inscrit dès le premier entraînement. Présentez-vous selon [l’horaire](/club/entrainements) de votre catégorie et bénéficiez d’une période d’essai sans frais!
 {{% /div %}}
 
-### Informations générales et politiques d'inscription
+## Comment s’inscrire?
+
+1. Remplissez le [formulaire d’inscription](https://campagnes.corsaire-chaparral.org/inscription-2018-2019) pour chaque athlète.
+2. Patientez; un courriel vous sera envoyé quelques jours plus tard lorsque votre facture sera prête. 
+3. Payez votre facture en ligne.
+
+## Informations générales et politiques d'inscription
 
 Le coût d’inscription est établi selon l’année de naissance de l’athlète. La cotisation comprend les frais d’entraînement, l’affiliation à la Fédération québécoise d'athlétisme et, les frais de piste et les frais de compétition.
 
@@ -31,7 +41,7 @@ Les montants d’inscription 2018-2019 sont établis selon les **catégories d'�
 
 Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un athlète inscrit au club; assurez-vous de bien indiquer cette information lors de votre inscription.
 
-### Catégories d'âge et tarifs d'inscription
+## Catégories d'âge et tarifs d'inscription
 
 | Catégorie               | Du 1<sup>er</sup> sept au 31 août | Du 1<sup>er</sup> mars au 31 août |
 | ----------------------- | --------------------------------- | --------------------------------  |
@@ -62,7 +72,7 @@ Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un ath
 | Juvénile (2001-2002)    | 110 $        |
 -->
 
-### Bénévolat et activités de financement
+## Bénévolat et activités de financement
 
 Afin d'assurer le bon déroulement des événements organisés par le club, un système est mis en place pour favoriser la participation des membres du club.
 
@@ -79,8 +89,8 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 <!-- TODO: Refaire document bénévolat à jour -->
 <!--Pour tous les détails, consultez le [document](https://corsaire-chaparral.org/assets/docs/systeme-contribution-benevolat.pdf) concernant le système de contribution de bénévolat.-->
 
-### Paiement et inscription
+## Paiement et inscription
 
 Le paiement doit être fait en intégralité au moment de l'inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
-<a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/page/preview/11">Formulaire d'inscription</a>
+<a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">Formulaire en ligne <span class="icon icon-pencil"></a>

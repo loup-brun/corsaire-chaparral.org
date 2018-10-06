@@ -1,0 +1,18 @@
+<script type="text/javascript">
+    /** This section is only needed once per page if manually copying **/
+    if (typeof MauticSDKLoaded == 'undefined') {
+        var MauticSDKLoaded = true;
+        var headDOM         = document.getElementsByTagName('head')[0];
+        var script          = document.createElement('script');
+        script.type         = 'text/javascript';
+        script.src          = 'https://campagnes.corsaire-chaparral.org/media/js/mautic-form.js';
+        script.onload       = function() {
+            MauticSDK.onLoad();
+        };
+        headDOM.appendChild(script);
+        var MauticDomain = 'https://campagnes.corsaire-chaparral.org';
+        var MauticLang   = {
+            'submittingMessage': "Merci de patienter..."
+        }
+    }
+</script>
