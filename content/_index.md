@@ -70,6 +70,14 @@ Pour toutes les infos, consultez la section [entraînements](/club/entrainements
 
 ## Photos
 
-_+ de photos à venir!_
+### [Cross-country collégial 6 octobre 2018 – Parc équestre de Blainville (400+ photos)](https://photos.corsaire-chaparral.org/a/qmT/?sort=date_asc&page=1)
 
-[![SOTx.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SOTx.th.jpg)](https://photos.corsaire-chaparral.org/i/SOTx) [![SUHk.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SUHk.th.jpg)](https://photos.corsaire-chaparral.org/i/SUHk) [![SHyQ.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SHyQ.th.jpg)](https://photos.corsaire-chaparral.org/i/SHyQ) [![Sw7o.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/Sw7o.th.jpg)](https://photos.corsaire-chaparral.org/i/Sw7o) [![SqCB.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SqCB.th.jpg)](https://photos.corsaire-chaparral.org/i/SqCB)
+[![Mariane Gagnon](https://photos.corsaire-chaparral.org/images/2018/10/06/SieD.th.jpg)](https://photos.corsaire-chaparral.org/i/SieD)
+[![Peloton](https://photos.corsaire-chaparral.org/images/2018/10/06/3Hfw.th.jpg)](https://photos.corsaire-chaparral.org/i/3Hfw)
+[![Alexis Deslauriers](https://photos.corsaire-chaparral.org/images/2018/10/06/Fl7w.th.jpg)](https://photos.corsaire-chaparral.org/i/Fl7w)
+
+### [Été 2018 (18 photos)](https://photos.corsaire-chaparral.org/i/3Hfw)
+
+[![SOTx.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SOTx.th.jpg)](https://photos.corsaire-chaparral.org/i/SOTx)
+[![SUHk.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SUHk.th.jpg)](https://photos.corsaire-chaparral.org/i/SUHk)
+[![SHyQ.th.jpg](https://photos.corsaire-chaparral.org/images/2018/09/13/SHyQ.th.jpg)](https://photos.corsaire-chaparral.org/i/SHyQ)
