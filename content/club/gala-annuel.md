@@ -17,7 +17,7 @@ menu:
 
 ## Billets
 
-Vous devez vous procurer vos [billets](https://events.eventzilla.net/e/gala-annuel-coch-2018-2138715025) en ligne jusqu'au **8 octobre 2018**. Aucun billet ne sera vendu à la porte.
+Vous devez vous procurer vos [billets](https://events.eventzilla.net/e/gala-annuel-coch-2018-2138715025) en ligne jusqu'au **9 octobre 2018**. Aucun billet ne sera vendu à la porte.
 
 * Athlètes et membres : **20 $**
 * Non membres (parents et amis) : **40 $**
