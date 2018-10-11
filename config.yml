@@ -121,10 +121,10 @@ menu:
 #    url: '/contact/'
 #    weight: 110
   membres:
-    - identifier: portail
-      title: Portail
-      url: http://portail.corsaire-chaparral.org/
-      weight: 10
+#    - identifier: portail
+#      title: Portail
+#      url: http://portail.corsaire-chaparral.org/
+#      weight: 10
     - identifier: campagnes
       title: Communications
       url: http://campagnes.corsaire-chaparral.org/

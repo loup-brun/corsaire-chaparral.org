@@ -94,7 +94,7 @@ p a { // inline text links
 }
 
 .badge {
-  @include horizontal-margin(.5em);
+  @include horizontal-margin(.15em);
   border-radius: 1em;
   display: inline-block;
   padding: .15em .85em 0.12em;

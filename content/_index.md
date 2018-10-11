@@ -56,7 +56,9 @@ announcement:
 
 ## Gala annuel 2018
 
-Le premier [gala annuel](/club/gala-annuel) du club Corsaire-Chaparral se tiendra le samedi 20 octobre 2018 au Centre culturel et communautaire Thérèse-de-Blainville. Procurez-vous vos billets jusqu'au 9 octobre!
+<em class="badge badge-primary">Prolongation! <span class="icon icon-stopwatch"></span></em> Procurez-vous vos billets jusqu'au ~~9 octobre~~ **14 octobre 2018, 23h59**!
+
+Le premier [gala annuel](/club/gala-annuel) du club Corsaire-Chaparral se tiendra le samedi 20 octobre 2018 au Centre culturel et communautaire Thérèse-de-Blainville. 
 
 [![Affiche Gala Corsaire-Chaparral 2018](https://campagnes.corsaire-chaparral.org/asset/3:affiche-gala-2018)](/club/gala-annuel/)
 
