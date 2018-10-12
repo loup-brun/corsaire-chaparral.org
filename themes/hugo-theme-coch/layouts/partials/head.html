@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ with .Title }}{{ . }} | {{ end }}{{ $.Site.Title }}</title>
   <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-  <meta name="description" content="{{ if .Description }}{{ .Description }}{{else}}{{ $.Site.Params.description |  }}{{end}}">
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{else}}{{ $.Site.Params.description  }}{{end}}">
   
   <style>
     {{- $style := resources.Get "styles/main.scss" | resources.ToCSS | resources.PostCSS | resources.Minify -}}
@@ -18,7 +18,7 @@
     {{ $headJS.Content | safeJS }}
   </script>
   <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
-  <meta name="msapplication-TileColor" content="{{ $.Site.Params.ThemeColor | default "#f26e21" }}">
+  <meta name="msapplication-TileColor" content="{{ $.Site.Params.themeColor | default "#f26e21" }}">
   
   {{ template "_internal/opengraph.html" . }}
   {{ "<!--[if lt IE 9]>" | safeHTML }}

@@ -25,8 +25,11 @@ params:
   email: corsairechaparal@hotmail.com
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
+  annonce: >
+    <span class="icon icon-star"></span>Inscription 2018–2019 en cours <a class="btn btn-primary -sm" href="/club/inscription">Je m’inscris!</a>
 
 sectionPagesMenu: main
+
 
 menu:
   main:
@@ -125,11 +128,15 @@ menu:
 #      title: Portail
 #      url: http://portail.corsaire-chaparral.org/
 #      weight: 10
+    - identifier: formulaires
+      title: Formulaires
+      url: /club/liens-ressources/formulaires/
+      weight: 10
     - identifier: campagnes
       title: Communications
-      url: http://campagnes.corsaire-chaparral.org/
+      url: https://campagnes.corsaire-chaparral.org/
       weight: 20
     - identifier: courriels
       title: Courriel web
-      url: http://mail.corsaire-chaparral.org/
+      url: https://mail.corsaire-chaparral.org/
       weight: 30

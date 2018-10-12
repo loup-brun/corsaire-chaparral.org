@@ -126,6 +126,20 @@ p a { // inline text links
 .text--secondary { color: $color-secondary; }
 .text--danger { color: $color-danger; }
 
+.banner {
+  position: fixed;
+  z-index: $z-index-modal + 10;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: $spacing;
+}
+
+.banner-primary {
+  background-color: $gray-darker;
+  color: check-background($gray-darker);
+}
+
 @import '_theme/partenaires';
 @import '_theme/rows';
 
