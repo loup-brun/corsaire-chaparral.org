@@ -18,6 +18,7 @@ formation:
   - Entraîneure de niveau provincial par excellence 2009 au Mérite Sportif des Laurentides, Loisirs Laurentides (prix Daniel Ratthé, député de Blainville)
   - Officiel en concours niveau 2 depuis septembre 2011
 
+courriel: nathalie.prince1@videotron.ca
 ---
 
 Résidente de Mirabel, Nathalie a travaillé 25 ans à temps plein pour la commission scolaire de la Seigneurie-des-Mille-Îles comme enseignante en éducation physique. 

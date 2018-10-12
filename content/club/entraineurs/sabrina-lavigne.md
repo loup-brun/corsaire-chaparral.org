@@ -7,15 +7,17 @@ menu:
     parent: entraineurs
 
 photo:
-  src: "/img/entraineurs/sabrina-lavigne.jpg"
-  caption: "Sabrina aux championnats canadiens de cross-country collégial, à Blainville. (Photo : Marc Quévillon)"
+  src: /img/entraineurs/sabrina-lavigne2.jpg
+  caption: "Sabrina aux championnats régionaux de cross-country collégial, à Blainville en 2018. (Photo : Marc Quévillon)"
 
 formation:
   - Nageuse de compétition pendant 8 ans
-  - Entraîneure en athlétisme depuis 2 ans
-  - Athlète au club depuis 2 ans.
+  - Entraîneure en athlétisme depuis 2015
+  - Athlète au club depuis 2015.
 
-courriel: sabrina@corsaire-chaparral.org
+courriel: sab.gamin@hotmail.ca
 ---
 
-Participation au Jeux du Québec en 2016. Membre de l'équipe championne canadienne de cross country collégial en novembre 2017 avec les Nordiques de Lionel-Groulx.
+Participation au Jeux du Québec en 2016. Membre de l'équipe championne canadienne de cross country collégial en novembre 2017 avec les Nordiques du Collège Lionel-Groulx. 
+
+Médaillée de bronze au 800 mètres junior du championnat provincial.
