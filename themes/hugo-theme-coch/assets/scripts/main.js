@@ -222,5 +222,26 @@
     }
     //}
 
+    // Banner announcements
+    var announcementBanner = document.getElementById('fixed-banner');
+    var closeBannerBtn = announcementBanner.querySelector('.banner__close');
+
+    bean.on(closeBannerBtn, 'click', function (ev) {
+      classie.add(announcementBanner, 'none');
+
+      if (win.localStorage) {
+        win.localStorage.setItem('hideBanniereInscription', true);
+      }
+    });
+
+    // Run on page load - has the user seen the banner?
+    if (win.localStorage) {
+      if (win.localStorage.getItem('hideBanniereInscription')) {
+        classie.add(announcementBanner, 'none');
+      } else {
+        classie.remove(announcementBanner, 'none');
+      }
+    }
+
   });
 })(window, document);

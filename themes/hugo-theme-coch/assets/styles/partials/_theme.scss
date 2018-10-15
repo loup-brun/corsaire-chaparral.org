@@ -136,8 +136,16 @@ p a { // inline text links
 }
 
 .banner-primary {
-  background-color: $gray-darker;
+  background-color: rgba($gray-darker, 0.85);
   color: check-background($gray-darker);
+}
+
+.banner__close {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  padding: $spacing-xs;
+  cursor: pointer;
 }
 
 @import '_theme/partenaires';
