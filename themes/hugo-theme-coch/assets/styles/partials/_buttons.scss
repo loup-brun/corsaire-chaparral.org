@@ -31,6 +31,12 @@
   }
 }
 
+.btn--block {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
 .btn-default { @include btn-style($gray-lighter) }
 .btn-primary { @include btn-style($color-primary) }
 .btn-secondary { @include btn-style($color-secondary) }

@@ -22,31 +22,42 @@
 .well {
   @include vertical-margin($spacing);
   padding: $spacing;
+  border-radius: 5px;
+
+  // Default color
   background-color: $gray-lighter;
   color: $gray-dark;
-  border-radius: 5px;
 }
 
 .well-primary {
   background-color: $color-primary;
   color: check-background($color-primary);
-  
+
   &.feedback-box {
     .icon--feedback.icon-thumb_up {
       display: block;
     }
   }
 }
-
+  
 .well-secondary {
   background-color: $color-secondary;
   color: check-background($color-secondary);
-  
+
   &.feedback-box {
     .icon--feedback.icon-warning {
       display: block;
     }
   }
+}
+
+.well-success {
+  background-color: $green;
+  color: check-background($green);
+}
+.well-danger {
+  background-color: $color-danger;
+  color: check-background($color-danger);
 }
 
 // Showcase

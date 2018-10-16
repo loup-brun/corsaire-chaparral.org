@@ -1,0 +1,55 @@
+---
+layout: baseof
+title: Payer
+---
+<script src="https://checkout.stripe.com/checkout.js"></script>
+
+<button id="customButton" class="btn btn-primary">Payer</button>
+
+<script>
+var handler = StripeCheckout.configure({
+  key: 'pk_test_QfKSmWhXOWW9ZCkGdKtkL9p6',
+  description: 'Paiement d’inscription au club d’athlétisme Corsaire-Chaparral.',
+  image: '/img/apple-touch-icon.png',
+  locale: 'auto',
+  email: 'louis+test@corsaire-chaparral.org',
+  token: function(token) {
+    // You can access the token ID with `token.id`.
+    // Get the token ID to your server-side code for use.
+    console.log('stripe token', token);
+    nanoajax.ajax({
+      url: 'https://api.corsaire-chaparral.org/v1/payment/new',
+      method: 'POST',
+      headers: {
+        'x-requested-with': 'XMlHttpRequest'
+      },
+      cors: true,
+      body: 'stripeToken=' + token.id + '&amount=' + '2000' + '&userId=' + 'userId'
+    }, function (code) {
+      if (code === 200) {
+        alert('Paiement réussi!');
+      } else {
+        alert('La transaction a échoué. Veuillez réessayer plus tard.')
+      }
+      
+    });
+  }
+});
+
+document.getElementById('customButton').addEventListener('click', function(e) {
+  // Open Checkout with further options:
+  handler.open({
+    name: 'Corsaire-Chaparral Inc.',
+    description: 'Paiement d’inscription',
+    currency: 'cad',
+    amount: 2000,
+    panelLabel: 'Payer {{amount}}'
+  });
+  e.preventDefault();
+});
+
+// Close Checkout on page navigation:
+window.addEventListener('popstate', function() {
+  handler.close();
+});
+</script>

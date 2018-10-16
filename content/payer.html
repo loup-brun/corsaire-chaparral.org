@@ -1,0 +1,86 @@
+---
+layout: baseof
+title: Payer
+scripts:
+- https://js.stripe.com/v3/
+- /scripts/paiement.js
+---
+<p>Vos informations bancaires sont traitées de façon sécuritaire par <a href="https://stripe.com/" target="_blank">Stripe</a>.</p>
+
+<p>En aucun temps le Corsaire-Chaparral n’enregistre ni ne gère vos informations de carte de crédit.</p>
+
+<div class="paiement-inscription">
+  <form>
+    <fieldset id="fieldset-step-1">
+      <legend>Identification de l’athlète</legend>
+      <div class="form-group -required">
+        <label for="paiement-inscription-firstname" data-tid="elements_payment.form.firstname_label">Prénom de l’athlète</label>
+        <input id="paiement-inscription-firstname" data-tid="elements_payment.form.firstname_placeholder" type="text" placeholder="Jeanne" required>
+      </div>
+      <div class="form-group -required">
+        <label for="paiement-inscription-lastname" data-tid="elements_payment.form.lastname_label">Nom de famille de l’athlète</label>
+        <input id="paiement-inscription-lastname" data-tid="elements_payment.form.lastname_placeholder" type="text" placeholder="Tremblay" required>
+      </div>
+      <div class="form-group -required">
+        <label for="paiement-inscription-email" data-tid="elements_payment.form.email_label">Courriel</label>
+        <input id="paiement-inscription-email" data-tid="elements_payment.form.email_placeholder" type="email" placeholder="Ex. info@exemple.com" required>
+      </div>
+      <div class="form-group -required">
+        <label for="paiement-inscription-amount">Solde à payer</label>
+        <input id="paiement-inscription-amount" type="text" placeholder="Ex. 595,50" required>
+      </div>
+
+      <div class="form-group">
+        <button class="btn btn-default" id="btn-step-1">Continuer <span class="icon icon-angle-right"></span></button>
+      </div>
+    </fieldset>
+
+    <fieldset id="fieldset-step-2" class="none">
+      <legend>Paiement</legend>
+
+      <div class="row">
+        <div class="form-group -required col col-12">
+          <label for="card-number" data-tid="elements_payment.form.card_number_label">Carte de crédit</label>
+          <div id="card" class="input empty"></div>
+        </div>
+      </div>
+  <!--
+      <div class="row">
+        <div class="form-group -required col col-6">
+          <label for="card-expiry" data-tid="elements_payment.form.card_expiry_label">Expiration</label>
+          <div id="card-expiry" class="input empty"></div>
+        </div>
+        <div class="form-group -required col col-6">
+          <label for="card-cvc" data-tid="elements_payment.form.card_cvc_label">CVC</label>
+          <div id="card-cvc" class="input empty"></div>
+          <div class="mauticform-helpmessage">Le code de vérification à 3 chiffres se situe au dos de votre carte de crédit.</div>
+        </div>
+      </div>
+  -->
+
+      <button type="submit" id="submit-btn" data-tid="elements_payment.form.pay_button" class="btn btn-primary btn--block">
+          <span class="text">Payer <span class="amount"></span></span>
+          <span class="icon icon-stopwatch none"></span>
+        </button>
+      <br>
+      <a href="#" class="btn btn-default btn--block reset-btn" id="reset-btn">Revenir <span class="icon icon-angle-up"></span></a>
+    </fieldset>
+    <div class="form-success well well-primary none">
+      <span class="message">
+        Merci! Le paiement a été effectué avec succès. <span class="icon icon-thumb_up"></span>
+      </span>
+    </div>
+
+    <div class="form-pending well well-secondary none -show-submitting">
+      <span class="message">
+        En cours de traitement, veuillez patienter…
+      </span>
+    </div>
+
+    <div class="form-error well well-danger none">
+      <span class="message">
+        Une erreur est survenue. Veuillez réessayer plus tard.
+      </span>
+    </div>
+  </form>
+</div>

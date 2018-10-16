@@ -7,9 +7,11 @@ fieldset, .mauticform-radiogrp {
   margin: $spacing 0;
   border-radius: $border-radius;
   
-  &.fieldset-disabled {
+  &[disabled="true"],.fieldset-disabled {
     opacity: 0.5;
     cursor: not-allowed;
+    
+    input, button, .btn { cursor: not-allowed; }
   }
   
   .row {
@@ -53,7 +55,8 @@ input[type=tel],
 input[type=number],
 input[type=date],
 textarea,
-select {
+select,
+.StripeElement {
   padding: $spacing-sm;
   -webkit-appearance: none; // Remove Default Browser Behaviour for Safari
   -moz-appearance: none; // Remove Default Browser Behaviour for Firefox
@@ -125,7 +128,7 @@ input[type="submit"] {
 }
 
 button[disabled], 
-html input[disabled] { cursor: default; }
+html input[disabled] { cursor: not-allowed; }
 
 input[type="search"] {
   -webkit-appearance: textfield;
@@ -166,7 +169,8 @@ input::-moz-focus-inner {
   color: $gray-dark;
 }
 
-.mauticform-required {
+.mauticform-required,
+.form-group.-required {
   > label:after {
     content: '*';
     color: $color-danger;
@@ -211,5 +215,15 @@ input::-moz-focus-inner {
 
 .StripeElement--webkit-autofill {
   background-color: $gray-lighter !important;
+}
+
+.form-error {
+  color: $color-danger;
+}
+
+.submitting {
+  .-show-submitting {
+    display: block;
+  }
 }
 
