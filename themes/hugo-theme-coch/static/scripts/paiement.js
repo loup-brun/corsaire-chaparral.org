@@ -218,12 +218,18 @@
             // Otherwise, un-disable inputs.
             enableInputs(paymentForm);
             
-            fieldsetStep2.removeAttribute('disabled');
-            console.error('Error retrieving a Stripe token.');
+            // Stop loading
+            paymentContainer.classList.remove('submitting');
             paymentContainer.querySelector('.form-error').classList.remove('none');
             paymentContainer.querySelector('.form-success').classList.add('none');
+
+            fieldsetStep2.removeAttribute('disabled');
+            console.error('Error retrieving a Stripe token.');
           }
         }, function (err) {
+          
+          // Stop loading
+          paymentContainer.classList.remove('submitting');
           console.error('Error creating a Stripe token.', err);
         });
       });

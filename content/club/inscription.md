@@ -31,7 +31,7 @@ Formulaire en ligne <span class="icon icon-pencil"></span>
 
 1. Remplissez le [formulaire d’inscription](https://campagnes.corsaire-chaparral.org/inscription-2018-2019) pour chaque athlète.
 2. Patientez; un courriel vous sera envoyé quelques jours plus tard lorsque votre facture sera prête. 
-3. Payez votre facture en ligne.
+3. [Payez](/payer) votre facture en ligne.
 
 ## Informations générales et politiques d'inscription
 
