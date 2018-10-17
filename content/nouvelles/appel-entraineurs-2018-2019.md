@@ -14,6 +14,6 @@ Les entraîneurs de la **saison 2017–2018** doivent également s’enregistrer
 
 Le club défraie les coûts d’affiliation à la Fédération québécoise d’athlétisme, ainsi que les coûts liés à la formation.
 
-Pour toute question, écrivez à l’entraîneur-chef [Marc-Olivier Guindon](/club/entraineurs/marc-olivier-guindon) .
+Pour toute question, écrivez à l’entraîneur-chef [Marc-Olivier Guindon-Gibeault](/club/entraineurs/marc-olivier-guindon-gibeault) .
 
 <a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/enregistrement-entraineur-2018-2019">S’enregistrer</a>

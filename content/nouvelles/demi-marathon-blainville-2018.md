@@ -3,7 +3,7 @@ title: Invitation au Demi-marathon Oasis de Blainville
 subtitle: Course sur route
 date: 2018-10-08
 author: Club d’athlétisme Corsaire-Chaparral
-description: Le Demi-marathon Oasis se tiendra le 28 octobre 2018 au Parc équestre de Blainville. Les athlètes du club sont invités à participer au 2 km. C’est aussi l’occasion de s’impliquer et de faire son bénévolat!
+description: Le Demi-marathon Oasis se tiendra le 28 octobre 2018 au Parc équestre de Blainville. Les athlètes du club sont invités à participer au 1 km et au 2 km. C’est aussi l’occasion de s’impliquer et de faire son bénévolat!
 images:
 - /img/course-de-blainville.jpg
 ---
@@ -12,9 +12,9 @@ Athlètes, parents et amis sont invités à participer au [Demi-marathon Oasis d
 
 ## Participer
 
-**Les athlètes inscrits au club sont invités à participer au 2 km.**
+**Les athlètes inscrits au club sont invités à participer au 1 km et au 2 km.**
 
-Pour ce faire, remplissez le [formulaire en ligne](https://campagnes.corsaire-chaparral.org/inscription-course-oasis-blainville-2018) **_jusqu’au 23 octobre 2018_**. Le club assume les frais d'inscription, comme pour les autres compétitions prévues au calendrier annuel.
+Pour ce faire, remplissez le formulaire en ligne pour le [1 km](https://campagnes.corsaire-chaparral.org/inscription-1km-oasis-blainville-2018) ou le [2 km](https://campagnes.corsaire-chaparral.org/inscription-course-oasis-blainville-2018) **_jusqu’au 23 octobre 2018_**. Le club assume les frais d'inscription, comme pour les autres compétitions prévues au calendrier annuel.
 
 Attention, il n'y aura pas d'inscriptions sur place le jour même de l'événement!
 
