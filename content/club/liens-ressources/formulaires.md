@@ -7,10 +7,12 @@ icon: assignment
 ## Inscription 2018–2019
 
 * [Formulaire d'inscription 2018–2019](https://campagnes.corsaire-chaparral.org/inscription-2018-2019)
+* [Paiement d’inscription](https://corsaire-chaparral.org/payer)
 
 ## Compétitions
 
-* [2km Demi-Marathon Oasis de Blainville 2018](https://campagnes.corsaire-chaparral.org/inscription-course-oasis-blainville-2018)
+* [1 km Demi-Marathon Oasis de Blainville 2018](https://campagnes.corsaire-chaparral.org/inscription-1km-oasis-blainville-2018)
+* [2 km Demi-Marathon Oasis de Blainville 2018](https://campagnes.corsaire-chaparral.org/inscription-course-oasis-blainville-2018)
 
 ## Entraineurs et athlètes
 
