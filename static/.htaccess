@@ -53,3 +53,7 @@ RewriteRule ^competitions\/rencontre-hivernale-andre-harel\/?$ /competitions/cha
 
 # Rewrite old URL to new (new name) for Corsaire-Chaparral Invitation
 RewriteRule ^competitions\/corsaire-chaparal-invitation\/?$ /competitions/corsaire-chaparral-invitation/ [R,L]
+
+
+# Update Marc-Olivier Guindon-Gibeault
+RewriteRule ^club\/entraineurs\/marc-olivier-guindon\/?$ /club/entraineurs/marc-olivier-guindon-gibeault/ [R,L]
