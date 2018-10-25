@@ -42,6 +42,16 @@ menu:
     title: Club
     url: '/club/'
     weight: 10
+  - identifier: inscription
+    parent: club
+    title: Inscription
+    url: '/inscription/'
+    weight: 30
+  - identifier: inscription-formulaire
+    parent: inscription
+    title: Formulaire
+    url: 'https://campagnes.corsaire-chaparral.org/inscription-2018-2019'
+    weight: 20
 #  - identifier: entrainements
 #    url: '/club/entrainements/'
 #    title: Entraînements

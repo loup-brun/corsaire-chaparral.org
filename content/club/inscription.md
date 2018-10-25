@@ -4,11 +4,11 @@ categories: Club
 icon: pencil
 menu:
   main:
-    identifier: inscription
+    identifier: inscription-info
     url: '/club/inscription/'
-    title: Inscription
-    parent: club
-    weight: 40
+    title: Infos inscription
+    parent: inscription
+    weight: 10
 ---
 
 {{% div class="alert -primary" %}}
@@ -91,6 +91,7 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 ## Paiement et inscription
 
-Le paiement doit être fait en intégralité au moment de l'inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
+Le paiement doit être fait en **intégralité** à la réception de votre facture. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
 <a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">Formulaire en ligne <span class="icon icon-pencil"></a>
+<a class="btn btn-secondary" href="/payer">Payer <span class="icon icon-angle-right"></a>
