@@ -63,9 +63,9 @@ Consultez le [calendrier](colibris) de la session automnale.
 
 Entraîneurs responsables :
 
-* Christophe Miglierina (entraîneur responsable)
-* Samuel Gougeon
-* Alexandre Lafleur
+* [Christophe Miglierina](/club/entraineurs/christophe-miglierina/) (entraîneur responsable)
+* [Samuel Gougeon](/club/entraineurs/samuel-gougeon)
+* [Alexandre Lafleur](/club/entraineurs/alexandre-lafleur)
 
 ### Minime (2008-2009)
 
@@ -73,7 +73,7 @@ Entraîneurs responsables :
 
 Consultez le [calendrier](minimes) pour les minimes.
 
-Entraîneur responsable : Charles-Olivier Roy.
+Entraîneur responsable : [Charles-Olivier Roy](/club/entraineurs/charles-olivier-roy/).
 
 ### Benjamin (2006-2007)
 
