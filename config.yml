@@ -45,7 +45,7 @@ menu:
   - identifier: inscription
     parent: club
     title: Inscription
-    url: '/inscription/'
+    url: '/club/inscription/'
     weight: 30
   - identifier: inscription-formulaire
     parent: inscription
