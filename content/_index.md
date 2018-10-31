@@ -43,7 +43,7 @@ announcement:
   title: Inscription 2018-2019
   icon: icon-star
   body: >
-    L'inscription est maintenant ouverte! Consultez les détails relativement à l'[inscription](/club/inscription), puis remplissez le [formulaire](https://campagnes.corsaire-chaparral.org/inscription-2018-2019) en ligne.
+    L'inscription est en cours! Consultez les détails relativement à l'[inscription](/club/inscription), puis remplissez le [formulaire](https://campagnes.corsaire-chaparral.org/inscription-2018-2019) en ligne.
     <br><br>
     <a class="btn btn-default" href="/club/inscription">
     </span>Informations <span class="icon icon-assignment">
@@ -54,20 +54,12 @@ announcement:
 
 ---
 
-## Reprise des entraînements – saison 2018-2019
-
-Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
-
-Les athlètes de catégorie [colibri](/club/entrainements/#colibri-2010-2011) reprendront le **samedi 13 octobre 2018**.
-
-Pour toutes les infos, consultez la section [entraînements](/club/entrainements).
-
 ## Photos
 
-### [Gala annuel 2018 (17 photos)](https://photos.corsaire-chaparral.org/a/3Up)
+### [Gala annuel 2018 (19 photos)](https://photos.corsaire-chaparral.org/a/3Up)
 
-[![Louis Lauzon](https://photos.corsaire-chaparral.org/images/2018/10/30/P3x7.th.jpg)](https://photos.corsaire-chaparral.org/i/P3x7)
 [![Denis Riopel](https://photos.corsaire-chaparral.org/images/2018/10/30/PK9p.th.jpg)](https://photos.corsaire-chaparral.org/i/PK9p)
+[![Jeunes athlètes de demi-fond](https://photos.corsaire-chaparral.org/images/2018/10/31/PZPr.th.jpg)](https://photos.corsaire-chaparral.org/i/PZPr)
 [![Alexanne et Nathalie Prince](https://photos.corsaire-chaparral.org/images/2018/10/30/PvBw.th.jpg)](https://photos.corsaire-chaparral.org/i/PvBw)
 
 ### [Cross-country collégial 6 octobre 2018 – Parc équestre de Blainville (400+ photos)](https://photos.corsaire-chaparral.org/a/qmT/?sort=date_asc&page=1)

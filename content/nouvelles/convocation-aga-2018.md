@@ -4,7 +4,7 @@ subtitle: Assemblée générale annuelle
 slug: convocation-aga-2018
 date: 2018-10-31
 author: Les membres du conseil d’administration
-description: Tous les membres du Corsaire-Chaparral sont conviés à la tenue de l’Assemblée générale annuelle (AGA) ce samedi 3 novembre à 10 h.
+description: Tous les membres du Corsaire-Chaparral sont conviés à l’Assemblée générale annuelle (AGA) ce samedi 3 novembre à 10 h.
 images:
 - /img/chaises-noires.jpg
 ---
