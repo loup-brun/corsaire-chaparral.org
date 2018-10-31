@@ -54,14 +54,6 @@ announcement:
 
 ---
 
-## Gala annuel 2018
-
-<em class="badge badge-primary">Prolongation! <span class="icon icon-stopwatch"></span></em> Procurez-vous vos billets jusqu'au ~~9 octobre~~ **14 octobre 2018, 23h59**!
-
-Le premier [gala annuel](/club/gala-annuel) du club Corsaire-Chaparral se tiendra le samedi 20 octobre 2018 au Centre culturel et communautaire Thérèse-de-Blainville. 
-
-[![Affiche Gala Corsaire-Chaparral 2018](https://campagnes.corsaire-chaparral.org/asset/3:affiche-gala-2018)](/club/gala-annuel/)
-
 ## Reprise des entraînements – saison 2018-2019
 
 Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
