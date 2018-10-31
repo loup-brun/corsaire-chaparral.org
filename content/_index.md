@@ -72,6 +72,12 @@ Pour toutes les infos, consultez la section [entraînements](/club/entrainements
 
 ## Photos
 
+### [Gala annuel 2018 (17 photos)](https://photos.corsaire-chaparral.org/a/3Up)
+
+[![Louis Lauzon](https://photos.corsaire-chaparral.org/images/2018/10/30/P3x7.th.jpg)](https://photos.corsaire-chaparral.org/i/P3x7)
+[![Denis Riopel](https://photos.corsaire-chaparral.org/images/2018/10/30/PK9p.th.jpg)](https://photos.corsaire-chaparral.org/i/PK9p)
+[![Alexanne et Nathalie Prince](https://photos.corsaire-chaparral.org/images/2018/10/30/PvBw.th.jpg)](https://photos.corsaire-chaparral.org/i/PvBw)
+
 ### [Cross-country collégial 6 octobre 2018 – Parc équestre de Blainville (400+ photos)](https://photos.corsaire-chaparral.org/a/qmT/?sort=date_asc&page=1)
 
 [![Mariane Gagnon](https://photos.corsaire-chaparral.org/images/2018/10/06/SieD.th.jpg)](https://photos.corsaire-chaparral.org/i/SieD)
