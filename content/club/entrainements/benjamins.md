@@ -34,19 +34,19 @@ menu:
 
 **Dimanche 18 novembre** : Premières Foulées Bruny Surin à Montréal [Olympiades du collège Regina Assumpta](https://campagnes.corsaire-chaparral.org/inscription-olympiades-regina-assumpta) (compétition en gymnase).
 
-<span class="badge badge-danger">annulation</span> **Jeudi 22 novembre 2018** (non-disponibitité des plateaux d’entraînement).
+<span class="badge badge-danger">annulation</span> **Jeudi 22 novembre 2018** (non-disponibilité des plateaux d’entraînement).
 
-<span class="badge badge-danger">annulation</span> **Samedi 24 novembre 2018** (non-disponibitité des plateaux d’entraînement).
+<span class="badge badge-danger">annulation</span> **Samedi 24 novembre 2018** (non-disponibilité des plateaux d’entraînement).
 
-<span class="badge badge-danger">annulation</span> **Jeudi 6 décembre 2018** (non-disponibitité des plateaux d’entraînement).
+<span class="badge badge-danger">annulation</span> **Jeudi 6 décembre 2018** (non-disponibilité des plateaux d’entraînement).
 
 **Samedi 15 décembre 2018** : Premières Foulées Bruny Surin, [Festival en salle des jeunes](/competitions/festival-en-salle-des-jeunes/) à Sainte Thérèse (compétition en gymnase).
 
 ### Du samedi 19 janvier au 31 juillet 2019
 
-<span class="badge badge-danger">annulation</span> **Samedi 12 janvier 2019** (non-disponibitité des plateaux d’entraînement).
+<span class="badge badge-danger">annulation</span> **Samedi 12 janvier 2019** (non-disponibilité des plateaux d’entraînement).
 
-<span class="badge badge-danger">annulation</span> **Samedi 19 janvier 2019** (non-disponibitité des plateaux d’entraînement).
+<span class="badge badge-danger">annulation</span> **Samedi 19 janvier 2019** (non-disponibilité des plateaux d’entraînement).
 
 **Samedi 19 janvier** : Premières Foulées Bruny Surin, Les Relais Vaudreuil-Dorion, (compétition en stade).
 
@@ -58,15 +58,15 @@ menu:
 
 **2 et 3 mars** : Le Championnat provincial benjamin-cadet à Québec .
 
-<span class="badge badge-danger">annulation</span> **Samedi 16 mars 2019** (non-disponibitité des plateaux d’entraînement).
+<span class="badge badge-danger">annulation</span> **Samedi 16 mars 2019** (non-disponibilité des plateaux d’entraînement).
 
-<span class="badge badge-danger">annulation</span> **Samedi 23 mars 2019** (non-disponibitité des plateaux d’entraînement).
+<span class="badge badge-danger">annulation</span> **Samedi 23 mars 2019** (non-disponibilité des plateaux d’entraînement).
 
 **Dimanche 28 avril**: Premières Foulées Bruny Surin à Repentigny (compétition en gymnase).
 
 **Dimanche 5 mai** : [Défi Marche-Course Desjardins](https://www.circuitendurance.ca/defi-course-et-marche-desjardins/) à Sainte-Thérèse Course du 1 km et course du 2 km.
 
-<span class="badge badge-danger">annulation</span> **Samedi 23 mai 2019** (non-disponibitité des plateaux d’entraînement).
+<span class="badge badge-danger">annulation</span> **Samedi 23 mai 2019** (non-disponibilité des plateaux d’entraînement).
 
 **Dimanche 16 juin** : compétition amicale pour les jeunes colibris, minimes et benjamins au stade Richard-Garneau, Sainte-Thérèse.
 
