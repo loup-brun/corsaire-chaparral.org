@@ -13,11 +13,10 @@ photo:
 courriel: casolud5@gmail.com
 
 formation:
-- Toujours souriante
-- Énergique et très enjouée
-- À l’écoute
-- Ouverte d’esprit 
+- Athlete au club en lancers depuis 2015
+- Triple medaillé des jeux de la francophonie canadienne
+- Médaillé aux 2 dernières éditions des Jeux du Québec 
 
 ---
 
-Toute ma vie j’ai fait du sport! J’ai fait de la natation, du soccer, de la nage synchronisée, du ski, du tennis et j’en passe! Mais je ne me suis jamais spécialisé en un sport en particulier. Par contre j’ai appris énormément par toutes ces expériences!! En ce moment les études prennent beaucoup de place mais, il m’est impossible de ne faire d’activité durant ma semaine. Je me suis découvert une autre étincelle, le coaching! Je me suis beaucoup attachée à ces jeunes et chaque entraînement me réjouit (c’est un peu un mensonge ne reste que j’ai énormément de plaisir la majorité du temps).
+J'ai commencé l'athlétisme en 2015, après avoir terminé troisième au lancer du javelot aux championnats provinciaux scolaires. J'ai débuté l'athlétisme en m'entrainant au javelot et un peu au poids, maintenant je fais uniquement du disque et du marteau et qui sait ce que je ferai demain !?!
