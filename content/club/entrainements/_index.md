@@ -5,9 +5,9 @@ categories: Club
 icon: stopwatch
 menu:
   main:
-    identifier: entrainements
-    parent: club
-    weight: 30
+    identifier: entrainements-info
+    parent: entrainements
+    weight: 1
 layout: single
 ---
 

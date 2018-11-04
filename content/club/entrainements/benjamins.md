@@ -1,47 +1,81 @@
 ---
 title: Entraînements des benjamins
 description: Proposition du calendrier d’activité pour les benjamins (2006–2007).
+menu:
+  main:
+    parent: entrainements
+    identifier: entrainements-benjamins
+    title: Benjamins
+    weight: 30
 ---
 
-Du samedi 15 septembre 2018 au jeudi 20 décembre 2018
+## Horaire d’entraînement
 
-Deux entraînements par semaine : jeudi et samedi 
-samedi matin 9h à 10h30 : les entraîneurs sont : Léa, Nathalie, Simon Léveillé
-et jeudi soir 18h à 19h30 : les entraîneurs sont : Nathalie Giguère, Nathalie P. Chloé Robitaille
+- Jeudi 18 h à 19 h 30
+- Samedi 9 h à 10 h 30
 
-Responsable du groupe des benjamins : Nathalie Prince nathalie.prince1@videotron.ca
+## Entraîneurs
 
-Dimanche 7 octobre : Le Cross des couleurs, Les Cèdres, course du 2 km
+- [Nathalie Prince](/club/entraineurs/nathalie-prince/) (entraîneure responsable)
+- Léa L’Archevêque
+- Simon Léveillé
+- Nathalie Giguère
+- Chloé Robitaille
 
-Samedi 20 octobre: Le premier Gala Méritas du Corsaire – Chaparral 
-Au Centre culturel Thérèse-de-Blainville, 120 Boulevard du Séminaire, Sainte-Thérèse, QC, J7E 1Z2
- Le cocktail d’accueil est à 18h et le souper est à 19h 
+## Calendrier
 
-Dimanche 28 octobre: La course « Oasis au parc Équestre de Blainville  » 
- course du 2 km à 11h10 , course du 1 km à 11h40 pour les 11 ans et moins
+### Du samedi 15 septembre 2018 au jeudi 20 décembre 2018
 
-Dimanche 18 novembre: Foulées de Bruny Surin à Montréal 
- Olympiades du collège Regina Assumpta, compétition en gymnase m
+**Dimanche 7 octobre** : [Le Cross des couleurs](https://www.circuitendurance.ca/cross-des-couleurs/), Les Cèdres, course du 2 km.
 
-Samedi 15 décembre 2018 : Foulées de Bruny Surin à Sainte Thérèse
- La compétition en gymnase est organisée par le club Corsaire - Chaparral
- horaire de la rencontre : 8h30 à 15h30, horaire des benjamins : 14h20 à 15h30
- 
-Les entraînements 2019 : du samedi 5 janvier au mercredi 31 juillet 2019
+**Samedi 20 octobre 2018** : le [Gala Annuel du Corsaire–Chaparral](/club/gala-annuel/) Le cocktail d’accueil est à 18h et le souper est à 19h.
 
-Samedi 19 janvier : Relais Vaudreuil – Dorion, compétition en stade 
+**Dimanche 28 octobre** : [Demi-marathon Oasis de Blainville](https://www.lacoursedeblainville.com/fr/). Course du 2 km à 11h10, course du 1 km à 11h40 pour les 11 ans et moins.
 
-Dimanche 27 janvier: Foulées de Bruny Surin  à Lachine, compétition en gymnase 
+**Dimanche 18 novembre** : Premières Foulées Bruny Surin à Montréal [Olympiades du collège Regina Assumpta](https://campagnes.corsaire-chaparral.org/inscription-olympiades-regina-assumpta) (compétition en gymnase).
 
-Samedi 2 février: Challenge André Harel, Centre Claude–Robillard à Montréal
+<span class="badge badge-danger">annulation</span> **Jeudi 22 novembre 2018** (non-disponibitité des plateaux d’entraînement).
 
-16 et 17 février: Championnat provincial pentathlon benjamin-cadet à Sherbrooke
+<span class="badge badge-danger">annulation</span> **Samedi 24 novembre 2018** (non-disponibitité des plateaux d’entraînement).
 
-2 et 3 Mars : Le Championnat provincial benjamin - cadet à Québec 
+<span class="badge badge-danger">annulation</span> **Jeudi 6 décembre 2018** (non-disponibitité des plateaux d’entraînement).
 
-Dimanche 28 avril: Foulées de Bruny Surin  à Repentigny, compétition en gymnase
+**Samedi 15 décembre 2018** : Premières Foulées Bruny Surin, [Festival en salle des jeunes](/competitions/festival-en-salle-des-jeunes/) à Sainte Thérèse (compétition en gymnase).
 
-Dimanche 5 mai: Défi Marche - Course Desjardins à Sainte - Thérèse 
- course du 2 km 
-Dimanche 16 juin: compétition amicale pour les jeunes colibris, minimes et
- benjamins au stade Richard – Garneau, à Sainte –Thérèse
+### Du samedi 19 janvier au 31 juillet 2019
+
+<span class="badge badge-danger">annulation</span> **Samedi 12 janvier 2019** (non-disponibitité des plateaux d’entraînement).
+
+<span class="badge badge-danger">annulation</span> **Samedi 19 janvier 2019** (non-disponibitité des plateaux d’entraînement).
+
+**Samedi 19 janvier** : Premières Foulées Bruny Surin, Les Relais Vaudreuil-Dorion, (compétition en stade).
+
+**Dimanche 27 janvier** : Premières Foulées Bruny Surin à Lachine (compétition en gymnase).
+
+**Samedi 2 février** : Challenge André Harel, Complexe sportif Claude–Robillard à Montréal.
+
+**16 et 17 février** : Championnat provincial pentathlon benjamin-cadet à Sherbrooke
+
+**2 et 3 mars** : Le Championnat provincial benjamin-cadet à Québec .
+
+<span class="badge badge-danger">annulation</span> **Samedi 16 mars 2019** (non-disponibitité des plateaux d’entraînement).
+
+<span class="badge badge-danger">annulation</span> **Samedi 23 mars 2019** (non-disponibitité des plateaux d’entraînement).
+
+**Dimanche 28 avril**: Premières Foulées Bruny Surin à Repentigny (compétition en gymnase).
+
+**Dimanche 5 mai** : [Défi Marche-Course Desjardins](https://www.circuitendurance.ca/defi-course-et-marche-desjardins/) à Sainte-Thérèse Course du 1 km et course du 2 km.
+
+<span class="badge badge-danger">annulation</span> **Samedi 23 mai 2019** (non-disponibitité des plateaux d’entraînement).
+
+**Dimanche 16 juin** : compétition amicale pour les jeunes colibris, minimes et benjamins au stade Richard-Garneau, Sainte-Thérèse.
+
+**Mercredi 22 mai 2019** : crépuscule Corsaire-Chaparral, au stade Richard-Garneau à Sainte-Thérèse.
+
+**Mercredi 5 juin 2019** : crépuscule Corsaire-Chaparral, au stade Richard-Garneau à Sainte-Thérèse.
+
+**Mercredi 19 juin 2019** : crépuscule Corsaire-Chaparral, au stade Richard-Garneau à Sainte-Thérèse.
+
+**Samedi 29 juin 2019** : la [Corsaire-Chaparral Invitation](/competitions/corsaire-chaparral-invitation/), au stade Richard-Garneau à Sainte-Thérèse.
+
+**Mercredi 31 juillet 2019** : crépuscule Corsaire-Chaparral, au stade Richard-Garneau à Sainte-Thérèse.
