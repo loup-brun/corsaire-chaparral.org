@@ -11,8 +11,8 @@ icon: assignment
 
 ## Compétitions
 
-* [1 km Demi-Marathon Oasis de Blainville 2018](https://campagnes.corsaire-chaparral.org/inscription-1km-oasis-blainville-2018)
-* [2 km Demi-Marathon Oasis de Blainville 2018](https://campagnes.corsaire-chaparral.org/inscription-course-oasis-blainville-2018)
+* [Olympiades Regina Assumpta](https://campagnes.corsaire-chaparral.org/inscription-olympiades-regina-assumpta) (athlètes inscrits au Corsaire-Chaparral seulement)
+* (Festival en salle COCH 2018) _à venir!_
 
 ## Entraineurs et athlètes
 

@@ -19,12 +19,15 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 Responsable : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
-
 ### Lieu
 
 Polyvalente Sainte-Thérèse
 
 401 boulevard du Domaine, Sainte-Thérèse J7E 4S4
+
+## Bénévolat
+
+Vous souhaitez faire du bénévolat lors de cet événement? [Inscrivez-vous ici!](https://campagnes.corsaire-chaparral.org/benevolat-festival-en-salle-coch-2018)
 
 ## Résultats antérieurs
 
