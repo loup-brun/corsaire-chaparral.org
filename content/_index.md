@@ -56,7 +56,7 @@ announcement:
 
 ## Photos
 
-### [AGA 2018 (19 photos)](https://photos.corsaire-chaparral.org/a/F2y)
+### [AGA 2018 (22 photos)](https://photos.corsaire-chaparral.org/a/F2y)
 
 [![Le nouveau CA](https://photos.corsaire-chaparral.org/images/2018/11/03/RqK0.th.jpg)](https://photos.corsaire-chaparral.org/i/RqK0)
 [![Maman salle](https://photos.corsaire-chaparral.org/images/2018/11/03/PcEb.th.jpg)](https://photos.corsaire-chaparral.org/i/PcEb)
