@@ -1,3 +1,4 @@
+
 ---
 title: Entraînements des cadets
 description: Proposition du calendrier d’activité pour les cadets (2004–2005).
@@ -36,9 +37,7 @@ menu:
 
 ### Du samedi 19 janvier au 31 juillet 2019
 
-<span class="badge badge-danger">annulation</span> **Samedi 12 janvier 2019** (non-disponibilité des plateaux d’entraînement)
-
-<span class="badge badge-danger">annulation</span> **Samedi 19 janvier 2019** (non-disponibilité des plateaux d’entraînement)
+<span class="badge badge-danger">annulation</span> **Samedi 19 janvier 2019** (non-disponibilité des plateaux d’entraînement).
 
 **Samedi 19 janvier** : Les Relais Vaudreuil–Dorion, compétition en stade. On formera des équipes de relais 4x200m!
 

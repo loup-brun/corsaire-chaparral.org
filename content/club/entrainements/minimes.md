@@ -33,8 +33,6 @@ menu:
 
 **Samedi 5 janvier 2019** : reprise des entraînements du samedi matin de 9h à 10h30 au samedi 15 juin 2019.
 
-<span class="badge badge-danger">annulation</span> **Samedi 12 janvier 2019** (non-disponibilité des plateaux d’entraînement)
-
 <span class="badge badge-danger">annulation</span> **Samedi 19 janvier 2019** (non-disponibilité des plateaux d’entraînement)
 
 **Dimanche 27 janvier 2019** : Premières Foulées Bruny Surin à Lachine (compétition en gymnase).

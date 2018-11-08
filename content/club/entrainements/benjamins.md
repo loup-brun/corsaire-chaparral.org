@@ -44,8 +44,6 @@ menu:
 
 ### Du samedi 19 janvier au 31 juillet 2019
 
-<span class="badge badge-danger">annulation</span> **Samedi 12 janvier 2019** (non-disponibilité des plateaux d’entraînement).
-
 <span class="badge badge-danger">annulation</span> **Samedi 19 janvier 2019** (non-disponibilité des plateaux d’entraînement).
 
 **Samedi 19 janvier** : Premières Foulées Bruny Surin, Les Relais Vaudreuil-Dorion, (compétition en stade).
