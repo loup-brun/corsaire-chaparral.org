@@ -1,5 +1,6 @@
 ---
 title: Appel d’entraîneurs 2018–2019
+slug: appel-entraineur-2018-2019
 subtitle: Saison 2018–2019
 date: 2018-10-11
 author: Club d’athlétisme Corsaire-Chaparral
