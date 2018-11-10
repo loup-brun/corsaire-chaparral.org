@@ -43,16 +43,16 @@ Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un ath
 
 ## Catégories d'âge et tarifs d'inscription
 
-| Catégorie               | Du 1<sup>er</sup> sept au 31 août | Du 1<sup>er</sup> mars au 31 août |
-| ----------------------- | --------------------------------- | --------------------------------  |
-| Colibri (2010-2011)     | 84 $ par session                  |
-| Minime (2008-2009)      | 272 $                             | 180 $
-| Benjamine (2006-2007)   | 442 $                             | 292 $
-| Cadettte (2004-2005)    | 480 $                             | 317 $
-| Juvénile (2002-2003)    | 518 $                             | 342 $
-| Junior (2000-2001)      | 595 $                             | 393 $
-| Senior (1985-1999)      | 637 $                             | 420 $
-| Vétéran (1984 et avant) | 532 $                             | 351 $
+| Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> mars au 31 août |
+| ----------------------- | ---------------------------------- | --------------------------------- |
+| Colibri (2010-2011)     | 84 $ par session                   |                                   |
+| Minime (2008-2009)      | 272 $                              | 180 $                             |
+| Benjamine (2006-2007)   | 442 $                              | 292 $                             |
+| Cadettte (2004-2005)    | 480 $                              | 317 $                             |
+| Juvénile (2002-2003)    | 518 $                              | 342 $                             |
+| Junior (2000-2001)      | 595 $                              | 393 $                             |
+| Senior (1985-1999)      | 637 $                              | 420 $                             |
+| Vétéran (1984 et avant) | 532 $                              | 351 $                             |
 
 {{< note >}}
 **Frais de piste** : notez que les résidents de la ville de **Blainville** sont exemptés des frais d'infrastructure (**30 $**).
