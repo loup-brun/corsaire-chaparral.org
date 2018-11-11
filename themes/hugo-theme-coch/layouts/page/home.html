@@ -55,19 +55,8 @@
     <div class="container container-full">
       <div class="row">
         <article class="col col-8 tablet-col-12">
-          {{ with .Params.announcement }}
-            <div class="alert -primary phone-text-center">
-                <span class="h1 alert__heading">{{ .title }} <span class="icon icon-pencil"></span></span>
-                <p>
-                  {{ .body | markdownify }}
-                </p>
-              </div>
-          {{ end }}
-        {{ .Content }}
-        </article>
-        <aside class="col col-4 tablet-col-12 home-sidebar-container">
           <section>
-            <h3>Dernières nouvelles</h3>
+            <h2>Dernières nouvelles</h2>
 
             {{ with .Site.GetPage "section" "nouvelles" }}
             {{ range first 4 .Pages }}
@@ -76,8 +65,36 @@
             {{ end }}
           </section>
 
+          {{ with .Params.announcement }}
+            <div class="alert -primary phone-text-center">
+                <span class="h1 alert__heading">{{ .title }} <span class="icon icon-pencil"></span></span>
+                <p>
+                  {{ .body | markdownify }}
+                </p>
+              </div>
+          {{ end }}
+
+          {{ .Content }}
+        </article>
+        <aside class="col col-4 tablet-col-12 home-sidebar-container">
+          <h2>Photos</h2>
+          {{ range .Params.featuredPhotos }}
+          <h3 class="h6"><a href="{{ .url }}">{{ .title }}</a></h3>
+          
+          <div class="row">
+          {{ range .photos }}
+            <div class="col col-4">
+              <a href=".url">
+                <img class="img-responsive" src="{{ .thumb }}" alt="{{ .title }}" />
+              </a>
+            </div>
+          {{ end }}
+          </div>
+          {{ end}}
+
+<!--
           <section>
-            <h3>Prochaines compétitions</h3>
+            <h2>Prochaines compétitions</h2>
             
             {{ with .Site.GetPage "section" "competitions" }}
             <div>
@@ -97,6 +114,7 @@
               </ol>
             </div>
             {{ end }}
+-->
           </section>
         </aside>
       </div>

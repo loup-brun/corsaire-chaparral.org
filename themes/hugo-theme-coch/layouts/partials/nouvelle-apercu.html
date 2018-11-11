@@ -1,13 +1,25 @@
-<div class="row">
-  <small class="title-meta"><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-2" }}</small>
-  <h4 class="no-margin"><a href="{{ .URL }}">{{ .Title }}</a></h4>
-  
-  {{- with .Params.description -}}
-    <article>
-    {{ . }}
-    </article>
-  {{- end -}}
-  <footer>
-    <a class="btn btn-primary" href="{{ .URL }}">Lire la suite <span class="icon icon-angle-right"></span></a>
-  </footer>
+<div class="row row-feature">
+  <figure class="col col-3 tablet-col-4 phone-col-12 text-center">
+    {{ if .Params.images }}
+    {{ range first 1 .Params.images }}
+    <a href="{{ $.URL }}">
+      <img class="img-responsive" src="{{ . }}" alt="{{ $.Title }}" />
+    </a>
+    {{ end }}
+    {{ else }}
+    &nbsp;
+    {{ end }}
+  </figure>
+  <div class="col col-9 tablet-col-8 phone-col-12">
+    {{ with .Params.subtitle }}
+    <small class="title-meta">{{ . }}</small>
+    {{ end }}
+    <h4 class="no-margin"><a href="{{ .URL }}">{{ .Title }}</a></h4>
+
+    {{- with .Params.description -}}
+      <article class="row-sm">
+      {{ . | markdownify }}
+      </article>
+    {{- end -}}
+  </div>
 </div>

@@ -1,5 +1,6 @@
 ---
 title: Invitation au Gala annuel 2018
+subtitle: Gala annuel 2018
 date: 2018-09-16
 description: >
   Le Corsaire-Chaparral tiendra son premier gala annuel le 20 octobre prochain. Au menu : remise de prix, bourses et distinctions!

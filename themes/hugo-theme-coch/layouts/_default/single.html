@@ -10,7 +10,7 @@
     {{ block "article" . }}
     {{ with .Params.description }}
     <p class="article-lead">
-      {{ . }}
+      {{ . | markdownify }}
     </p>
     {{ end }}
 
