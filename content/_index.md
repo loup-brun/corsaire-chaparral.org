@@ -65,7 +65,7 @@ featuredPhotos:
   - title: Alexanne et Nathalie Prince
     thumb: "https://photos.corsaire-chaparral.org/images/2018/10/30/PvBw.th.jpg"
     url: "https://photos.corsaire-chaparral.org/i/PvBw"
-- title: Cross-country collégial 6 octobre 2018 – Parc équestre de Blainville (400+ photos
+- title: Cross-country collégial 6 octobre 2018 – Parc équestre de Blainville (400+ photos)
   url: https://photos.corsaire-chaparral.org/a/qmT/?sort=date_asc&page=1
   photos: 
   - title: Mariane Gagnon
