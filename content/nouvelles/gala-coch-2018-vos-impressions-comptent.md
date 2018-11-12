@@ -1,6 +1,6 @@
 ---
 title: "Gala COCH 2018 : vos impressions comptent!"
-subtitle: Gala annuel
+subtitle: Gala annuel 2018
 date: 2018-10-23
 author: Club d’athlétisme Corsaire-Chaparral
 description: Le premier Gala annuel du Corsaire-Chaparral a eu lieu le samedi 20 octobre, et nous voulons vos impressions!

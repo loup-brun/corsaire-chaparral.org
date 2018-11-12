@@ -63,6 +63,13 @@
             {{ partial "nouvelle-apercu.html" . }}
             {{ end }}
             {{ end }}
+            
+            <div class="row row-sm">
+              <a href="/nouvelles/" class="btn btn-secondary -sm">
+                Toutes les nouvelles
+                <span class="icon icon-hamburger"></span>
+              </a>
+            </div>
           </section>
 
           {{ with .Params.announcement }}
@@ -152,6 +159,14 @@
                         <input id="mauticform_input_testinfolettreajout_courriel" name="mauticform[courriel]" value="" placeholder="info@example.com" class="mauticform-input" type="email" />
                         <span class="mauticform-errormsg" style="display: none;">Veuillez entrer votre adresse courriel.</span>
                     </div>
+                    
+                    <!-- -->
+                    <div id="mauticform_infolettreajout_email2" style="display:none" class="mauticform-row mauticform-email mauticform-field-4">
+                        <label id="mauticform_label_infolettreajout_email2" for="mauticform_input_infolettreajout_email2" class="mauticform-label">Email2</label>
+                        <input id="mauticform_input_infolettreajout_email2" name="mauticform[email2]" value="" class="mauticform-input" type="email" />
+                        <span class="mauticform-errormsg" style="display: none;"></span>
+                    </div>
+                    <!-- -->
 
                     <div id="mauticform_testinfolettreajout_je_minscris"  class="mauticform-row mauticform-button-wrapper mauticform-field-4">
                         <button type="submit" name="mauticform[je_minscris]" id="mauticform_input_testinfolettreajout_je_minscris" name="mauticform[je_minscris]" value="" class="mauticform-button btn btn-secondary" value="1">Je m’inscris!</button>
