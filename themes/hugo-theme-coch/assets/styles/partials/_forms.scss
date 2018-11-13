@@ -182,7 +182,8 @@ input::-moz-focus-inner {
 .mauticform-post-success {
 
   .mauticform-message {
-    color: green;
+    @extend .well;
+    @extend .well-success;
   }
 
   .mauticform-innerform {
@@ -215,6 +216,14 @@ input::-moz-focus-inner {
 
 .StripeElement--webkit-autofill {
   background-color: $gray-lighter !important;
+}
+
+
+.mauticform-post-error {
+  .mauticform-message {
+    @extend .well;
+    @extend .well-danger;
+  }
 }
 
 .form-error {

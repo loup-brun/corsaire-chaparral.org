@@ -59,7 +59,14 @@
             <h2>Dernières nouvelles</h2>
 
             {{ with .Site.GetPage "section" "nouvelles" }}
-            {{ range first 4 .Pages }}
+
+            <!-- First article -->
+            {{ range first 1 .Pages }}
+            {{ partial "nouvelle-apercu-featured.html" . }}
+            {{ end }}
+
+            <!-- Other articles -->
+            {{ range first 4 (after 1 .Pages) }}
             {{ partial "nouvelle-apercu.html" . }}
             {{ end }}
             {{ end }}
@@ -91,7 +98,7 @@
           <div class="row">
           {{ range .photos }}
             <div class="col col-4">
-              <a href=".url">
+              <a href="{{ .url }}">
                 <img class="img-responsive" src="{{ .thumb }}" alt="{{ .title }}" />
               </a>
             </div>
@@ -129,60 +136,58 @@
   </article>
   <div class="row row-primary row-lg">
     <div class="container">
-        <h2>Infolettre <span class="icon icon-mail"></span></h2>
+      <h2>Infolettre <span class="icon icon-mail"></span></h2>
       
       <p>Parents et athlètes, ajoutez votre adresse courriel pour recevoir toutes les informations. Si vous vous êtes inscrit(e) au club pour la saison 2018–2019, vous avez déjà été ajouté(e) à l’infolettre!</p>
 
-        <div id="mauticform_wrapper_testinfolettreajout" class="mauticform_wrapper">
-            <form autocomplete="false" role="form" method="post" action="https://campagnes.corsaire-chaparral.org/form/submit?formId=14" id="mauticform_testinfolettreajout"  data-mautic-form="testinfolettreajout" enctype="multipart/form-data">
-                <div class="mauticform-error" id="mauticform_testinfolettreajout_error"></div>
-                <div class="mauticform-message" id="mauticform_testinfolettreajout_message"></div>
-                <div class="mauticform-innerform">
-
-
-                  <div class="mauticform-page-wrapper mauticform-page-1 row" data-mautic-form-page="1">
-
-                    <div id="mauticform_testinfolettreajout_prenom col col-4 col-sm-12"  class="mauticform-row mauticform-text mauticform-field-1">
-<!--                        <label id="mauticform_label_testinfolettreajout_prenom" for="mauticform_input_testinfolettreajout_prenom" class="mauticform-label">Prénom</label>-->
-                        <input id="mauticform_input_testinfolettreajout_prenom" name="mauticform[prenom]" value="" placeholder="Prénom" class="mauticform-input" type="text" />
-                        <span class="mauticform-errormsg" style="display: none;"></span>
-                    </div>
-
-                    <div id="mauticform_testinfolettreajout_nom_de_famille col col-4 col-sm-12"  class="mauticform-row mauticform-text mauticform-field-2">
-<!--                        <label id="mauticform_label_testinfolettreajout_nom_de_famille" for="mauticform_input_testinfolettreajout_nom_de_famille" class="mauticform-label">Nom de famille</label>-->
-                        <input id="mauticform_input_testinfolettreajout_nom_de_famille" name="mauticform[nom_de_famille]" value="" placeholder="Nom de famille" class="mauticform-input" type="text" />
-                        <span class="mauticform-errormsg" style="display: none;"></span>
-                    </div>
-
-                    <div id="mauticform_testinfolettreajout_courriel col col-4 col-sm-12"  data-validate="courriel" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-3 mauticform-required">
-<!--                        <label id="mauticform_label_testinfolettreajout_courriel" for="mauticform_input_testinfolettreajout_courriel" class="mauticform-label">Courriel</label>-->
-                        <input id="mauticform_input_testinfolettreajout_courriel" name="mauticform[courriel]" value="" placeholder="info@example.com" class="mauticform-input" type="email" />
-                        <span class="mauticform-errormsg" style="display: none;">Veuillez entrer votre adresse courriel.</span>
-                    </div>
-                    
-                    <!-- -->
-                    <div id="mauticform_infolettreajout_email2" style="display:none" class="mauticform-row mauticform-email mauticform-field-4">
-                        <label id="mauticform_label_infolettreajout_email2" for="mauticform_input_infolettreajout_email2" class="mauticform-label">Email2</label>
-                        <input id="mauticform_input_infolettreajout_email2" name="mauticform[email2]" value="" class="mauticform-input" type="email" />
-                        <span class="mauticform-errormsg" style="display: none;"></span>
-                    </div>
-                    <!-- -->
-
-                    <div id="mauticform_testinfolettreajout_je_minscris"  class="mauticform-row mauticform-button-wrapper mauticform-field-4">
-                        <button type="submit" name="mauticform[je_minscris]" id="mauticform_input_testinfolettreajout_je_minscris" name="mauticform[je_minscris]" value="" class="mauticform-button btn btn-secondary" value="1">Je m’inscris!</button>
-                    </div>
-                    </div>
-                </div>
-
-                <input type="hidden" name="mauticform[formId]" id="mauticform_testinfolettreajout_id" value="14"/>
-                <input type="hidden" name="mauticform[return]" id="mauticform_testinfolettreajout_return" value=""/>
-                <input type="hidden" name="mauticform[formName]" id="mauticform_testinfolettreajout_name" value="testinfolettreajout"/>
-
-                </form>
+        
+      <div id="mauticform_wrapper_infolettreajout" class="mauticform_wrapper">
+        <form autocomplete="false" role="form" method="post" action="https://campagnes.corsaire-chaparral.org/form/submit?formId=25" id="mauticform_infolettreajout"  data-mautic-form="infolettreajout" enctype="multipart/form-data">
+          <div class="mauticform-error" id="mauticform_infolettreajout_error"></div>
+          <div class="mauticform-message" id="mauticform_infolettreajout_message">
           </div>
-        </div>
+          <div class="mauticform-innerform">
 
+            <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+
+              <div id="mauticform_infolettreajout_prenom"  class="mauticform-row mauticform-text mauticform-field-1">
+<!--                <label id="mauticform_label_infolettreajout_prenom" for="mauticform_input_infolettreajout_prenom" class="mauticform-label">Prénom</label>-->
+                <input id="mauticform_input_infolettreajout_prenom" name="mauticform[prenom]" value="" placeholder="Prénom" class="mauticform-input" type="text" />
+                <span class="mauticform-errormsg" style="display: none;"></span>
+              </div>
+
+              <div id="mauticform_infolettreajout_nom_de_famille"  class="mauticform-row mauticform-text mauticform-field-2">
+<!--                <label id="mauticform_label_infolettreajout_nom_de_famille" for="mauticform_input_infolettreajout_nom_de_famille" class="mauticform-label">Nom de famille</label>-->
+                <input id="mauticform_input_infolettreajout_nom_de_famille" name="mauticform[nom_de_famille]" value="" placeholder="Nom de famille" class="mauticform-input" type="text" />
+                <span class="mauticform-errormsg" style="display: none;"></span>
+              </div>
+
+              <div id="mauticform_infolettreajout_courriel"  data-validate="courriel" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-3 mauticform-required">
+<!--                <label id="mauticform_label_infolettreajout_courriel" for="mauticform_input_infolettreajout_courriel" class="mauticform-label">Courriel</label>-->
+                <input id="mauticform_input_infolettreajout_courriel" name="mauticform[courriel]" value="" placeholder="info@example.com" class="mauticform-input" type="email" />
+                <span class="mauticform-errormsg" style="display: none;">Veuillez entrer votre adresse courriel.</span>
+              </div>
+
+              <div id="mauticform_infolettreajout_email2" style="display:none" class="mauticform-row mauticform-email mauticform-field-4">
+<!--                <label id="mauticform_label_infolettreajout_email2" for="mauticform_input_infolettreajout_email2" class="mauticform-label">Email2</label>-->
+                <input id="mauticform_input_infolettreajout_email2" name="mauticform[email2]" value="" class="mauticform-input" type="email" />
+                <span class="mauticform-errormsg" style="display: none;"></span>
+              </div>
+
+            <div id="mauticform_infolettreajout_je_minscris"  class="mauticform-row mauticform-button-wrapper mauticform-field-5">
+              <button type="submit" name="mauticform[je_minscris]" id="mauticform_input_infolettreajout_je_minscris" name="mauticform[je_minscris]" value="" class="mauticform-button btn btn-secondary" value="1">Je m’inscris</button>
+            </div>
+            </div>
+          </div>
+
+          <input type="hidden" name="mauticform[formId]" id="mauticform_infolettreajout_id" value="25"/>
+          <input type="hidden" name="mauticform[return]" id="mauticform_infolettreajout_return" value=""/>
+          <input type="hidden" name="mauticform[formName]" id="mauticform_infolettreajout_name" value="infolettreajout"/>
+
+        </form>
       </div>
+    </div>
+  </div>
 </main>
 
 {{ partial "mautic-script.html" . }}

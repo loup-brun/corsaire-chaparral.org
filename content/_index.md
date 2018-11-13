@@ -15,18 +15,6 @@ slides:
       url: /club/inscription/
       post: <span class="icon icon-pencil"></span>
       class: btn-secondary
-  - heading: Gala Corsaire-Chaparral 2018
-    body: >
-      Le club est heureux d'annoncer la tenue de son premier **gala annuel** le 20 octobre prochain. Soyez des nôtres!
-    buttons:
-    - title: Informations
-      url: /club/gala-annuel/
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-default
-    - title: Billets
-      url: https://events.eventzilla.net/e/gala-annuel-coch-2018-2138715025
-      post: <span class="icon icon-star"></span>
-      class: btn-secondary
   - heading: Club satellite – Lachute
     body: >
       Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
