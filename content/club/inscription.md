@@ -62,6 +62,10 @@ Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un ath
 **Chandail ou camisole :** l'achat de la nouvelle camisole du club (ou chandail de sport technique) est désormais obligatoire lors de l'inscription des nouveaux athlètes.
 {{< /note >}}
 
+{{< note >}}
+**Athlète collégial ou universitaire :** l’athlète de niveau collégial ou universitaire bénéficie d’un **rabais de 50 %** à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement.
+{{< /note >}}
+
 <!--
 ### Catégories d'âge et tarifs d'inscription (club Lachute)
 
