@@ -42,12 +42,12 @@
     <script>
       (function(head) {
         head.load([
-          {{ $vendorJS := resources.Get "scripts/vendor.js" }}
+          {{ $vendorJS := resources.Get "scripts/vendor.js" | resources.Minify }}
           "{{ $vendorJS.Permalink }}",
-          {{ $mainJS := resources.Get "scripts/main.js" }}
+          {{ $mainJS := resources.Get "scripts/main.js" | resources.Minify }}
           "{{ $mainJS.Permalink }}"
           {{ range .Params.scripts }}
-          ,"{{ . }}"
+          ,"{{ .}}"
           {{- end -}}
         ], function() {
           console.log("loaded scripts");
