@@ -1,13 +1,13 @@
 <div class="row row-feature">
-  <figure class="col col-3 tablet-col-4 figure-thumb text-center">
+  <figure class="col col-3 tablet-col-4 phone-col-10 phone-push-1 figure-thumb text-center">
     {{ if .image }}
     <a {{ if .url }}href="{{ .url }}" target="_blank"{{end}}><img src="{{ .image }}" alt="{{ .name }}" /></a>
     {{ else }}
     <span class="icon icon-star icon-partenaire-default"></span>
     {{ end }}
   </figure>
-  <div class="col col-9 tablet-col-8">
-    <h5>{{ .name }}</h5>
+  <div class="col col-9 tablet-col-8 phone-col-12">
+    <span class="h5">{{ .name }}</span>
     {{ with .url }}
     <p>
       <span class="icon icon-chain"></span> <a href="{{ . }}" target="_blank">{{ . }}</a>
