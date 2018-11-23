@@ -22,4 +22,8 @@ On rappelait d’ailleurs la chance de ces athlètes de pouvoir se compter parmi
 
 Décrit comme un homme terre-à-terre, de peu de mots, Jean-Guy Lauzon est impliqué à titre de trésorier du Club Corsaire-Chaparral dès 1986. _« Nous rendons hommage à un grand homme, considéré comme honnête, loyal et dévoué. Un grand merci pour ton implication, pour toutes ces années que tu as dédié au club et à ses membres! »_ déclare la dame, sous les applaudissements d’une salle comble, invitant M. Lauzon à monter sur scène afin de recevoir cette ovation bien méritée.
 
+## Votre équipe de la semaine
+
+Vous êtes entraineur, gérant, partisan, bénévole ou parent d’un jeune faisant partie d’une équipe sportive de la région, qui se démarque? Vous pouvez me contacter sans problème par courriel au [nparent@groupejcl.ca](mailto:nparent@groupejcl.ca), ou au 450 472-3440, poste 261. À noter que je suis disponible du jeudi au lundi pour discuter de votre « Équipe de la semaine ».
+
 _Cet article est initialement paru dans le [Nord Info](http://www.nordinfo.com/sports/un-premier-gala-soulignant-lapport-de-la-jeunesse-et-de-batisseurs/) le 5 novembre 2018._
