@@ -27,9 +27,8 @@ slides:
   - heading: Une nouvelle identité
     body: >
       Le Corsaire-Chaparral fait peau neuve et procèdera bientôt au lancement de sa nouvelle identité visuelle. Restez à l'affût!
-
 featuredPhotos:
-- title: Olympiades Regina Assumpta 18 novembre 2018 (18 photos)
+- title: Olympiades Regina Assumpta 2018 (18 photos)
   url: https://photos.corsaire-chaparral.org/a/Gsj
   photos:
   - title: 
@@ -41,6 +40,18 @@ featuredPhotos:
   - title: 
     thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/RNpc.th.jpg
     url: https://photos.corsaire-chaparral.org/i/RNpc
+- title: Cross des couleurs 2018 (53 photos)
+  url: https://photos.corsaire-chaparral.org/a/JFI
+  photos:
+  - title: 
+    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/y8Uc.th.jpg
+    url: https://photos.corsaire-chaparral.org/i/y8Uc
+  - title: 
+    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/yaFo.th.jpg
+    url: https://photos.corsaire-chaparral.org/i/yaFo
+  - title: 
+    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/yc6x.th.jpg
+    url: https://photos.corsaire-chaparral.org/i/yc6x
 - title: AGA 2018 (22 photos)
   url: https://photos.corsaire-chaparral.org/a/F2y
   photos:
