@@ -61,10 +61,11 @@ menu:
 #    url: '/club/inscription/'
 #    title: Inscription
 #    parent: club
-#  - identifier: entraineurs
-#    url: '/club/entraineurs/'
-#    title: Entraîneurs
-#    parent: club
+  - identifier: entraineurs
+    url: '/club/entraineurs/'
+    title: Entraîneurs
+    parent: club
+    weight: 40
 #  - identifier: liens-ressources
 #    url: '/club/liens-ressources/'
 #    title: Liens et ressources
