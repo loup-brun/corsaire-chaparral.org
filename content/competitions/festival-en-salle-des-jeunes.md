@@ -17,13 +17,16 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 [Document technique](https://campagnes.corsaire-chaparral.org/asset/1:doc-technique-festival-jeunes-2018) _(en date du 23 novembre 2018)_
 
-Responsable : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
+[Inscription](https://avs-sport.com/main.php) _(date limite : vendredi 7 décembre 23h59)_
+
+Responsable de la rencontre : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
 ### Lieu
 
-Polyvalente Sainte-Thérèse
-
-401 boulevard du Domaine, Sainte-Thérèse J7E 4S4
+**Polyvalente Sainte-Thérèse**  
+401 boulevard du Domaine  
+Sainte-Thérèse QC  
+J7E 4S4
 
 ## Bénévolat
 
