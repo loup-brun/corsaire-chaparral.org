@@ -7,9 +7,28 @@ menu:
     weight: 60
 ---
 
-Il est attendu que chaque athlète (et sa famille) accomplisse **15 heures** de bénévolat chaque année. Voici une liste d'activités de bénévolat à venir.
+Il est attendu que chaque athlète (et sa famille) accomplisse **15 heures** de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
 
-## Événements à venir
+Pour plus d’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chaparral.org), responsable des bénévoles.
+
+## Tâches régulières
+
+Il y a toujours des choses à faire! Venez donner un coup de main le samedi matin pour placer du matériel ou faire du ménage dans l'entrepôt.
+
+## Officiel de compétition
+
+**Devenir officiel lors, c'est possible!** _(Et nous en avons besoin lors de nos propres compétitions!)_ Il ne vous faut qu'une petite formation lors d'une [compétition d'athlétisme](athletisme-quebec.ca/calendrier-et-resultats.php) sanctionnée.
+
+![Officiels](/img/officiels.jpg)
+
+## Communications et réseaux sociaux
+
+Tu aimes gérer des médias sociaux? Tu voudrais prendre les commandes ou en apprendre plus dans le domaine? Écrire des articles? Faire des photos? Contribuer aux infolettres? **L'équipe des communications du COCH recrute!** Envoyez un courriel à admin@corsaire-chaparral.org
+
+![Médias sociaux](/img/medias-sociaux.jpg)
+
+## Événements
+
 | Date       | Événement                  |
 |------------|----------------------------|
 | 2018-10-05 | Cross-country École en forme et en santé |
