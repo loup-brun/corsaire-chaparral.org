@@ -7,9 +7,9 @@ menu:
     weight: 60
 ---
 
-Il est attendu que chaque athlète (et sa famille) accomplisse **15 heures** de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
+Il est attendu que chaque athlète (et sa famille) accomplisse [**15 heures**](/club/inscription/#b%C3%A9n%C3%A9volat-et-activit%C3%A9s-de-financement) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
 
-Pour plus d’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chaparral.org), responsable des bénévoles.
+Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chaparral.org), responsable des bénévoles.
 
 ## Tâches régulières
 
@@ -23,7 +23,9 @@ Il y a toujours des choses à faire! Venez donner un coup de main le samedi mati
 
 ## Communications et réseaux sociaux
 
-Tu aimes gérer des médias sociaux? Tu voudrais prendre les commandes ou en apprendre plus dans le domaine? Écrire des articles? Faire des photos? Contribuer aux infolettres? **L'équipe des communications du COCH recrute!** Envoyez un courriel à admin@corsaire-chaparral.org
+Tu aimes gérer des médias sociaux? Tu voudrais prendre les commandes ou en apprendre plus dans le domaine? Écrire des articles? Faire des photos? Contribuer aux infolettres? **L'équipe des communications du COCH recrute!**
+
+Pour faire partie de l’équipe, envoie un courriel à [admin@corsaire-chaparral.org](mailto:admin@corsaire-chaparral.org)! _(Psst, nous sommes aussi sur [Facebook](https://www.facebook.com/CorsaireChaparral/), [Twitter](https://twitter.com/CorsaireC) et [Instagram](https://www.instagram.com/corsairechaparral/).)_
 
 ![Médias sociaux](/img/medias-sociaux.jpg)
 
