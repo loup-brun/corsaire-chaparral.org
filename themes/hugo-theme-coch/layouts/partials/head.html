@@ -6,7 +6,7 @@
   <meta name="description" content="{{ if .Description }}{{ .Description }}{{else}}{{ $.Site.Params.description  }}{{end}}">
   
   <style>
-    {{- $style := resources.Get "styles/main.scss" | resources.ToCSS | resources.PostCSS | resources.Minify -}}
+    {{- $style := resources.Get "styles/main.scss" | resources.ToCSS | resources.PostCSS -}}
     {{- $sass := $style.Content -}}
     {{ $sass | safeCSS }}
   </style>

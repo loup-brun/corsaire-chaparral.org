@@ -2,6 +2,11 @@ module.exports = {
 //  parser: 'sugarss',
   map: false,
   plugins: [
-    require('autoprefixer')()
+    require('autoprefixer')({
+      stats: [
+        '>1%',
+        'IE 9'
+      ]
+    })
   ]
 }
