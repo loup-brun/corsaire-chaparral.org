@@ -17,7 +17,7 @@ Il y a toujours des choses à faire! Venez donner un coup de main le samedi mati
 
 ## Officiel de compétition
 
-**Devenir officiel lors, c'est possible!** _(Et nous en avons besoin lors de nos propres compétitions!)_ Il ne vous faut qu'une petite formation lors d'une [compétition d'athlétisme](athletisme-quebec.ca/calendrier-et-resultats.php) sanctionnée.
+**Devenir officiel, c'est possible!** _(Et nous en avons besoin lors de nos propres compétitions!)_ Il ne vous faut qu'une petite formation lors d'une [compétition d'athlétisme](athletisme-quebec.ca/calendrier-et-resultats.php) sanctionnée.
 
 ![Officiels](/img/officiels.jpg)
 

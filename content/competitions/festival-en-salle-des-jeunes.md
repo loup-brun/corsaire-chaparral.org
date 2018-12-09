@@ -15,9 +15,13 @@ Cette rencontre en gymnase s'inscrit dans le circuit [Les Premières Foulées Br
 
 ## Informations générales
 
-[Document technique](https://campagnes.corsaire-chaparral.org/asset/1:doc-technique-festival-jeunes-2018) _(en date du 23 novembre 2018)_
+[Document technique](https://campagnes.corsaire-chaparral.org/asset/1:doc-technique-festival-jeunes-2018)  
+_(en date du 9 décembre 2018)_
 
-[Inscription](https://avs-sport.com/main.php) _(date limite : vendredi 7 décembre 23h59)_
+[Horaire final](https://campagnes.corsaire-chaparral.org/asset/217:horaire-final-festival-jeunes-coch-2018)  
+_(en date du 9 décembre 2018)_
+
+[Inscriptions](https://avs-sport.com/main.php) **(FERMÉES)** _(date limite : vendredi 7 décembre 23h59)_
 
 Responsable de la rencontre : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 
@@ -30,7 +34,9 @@ J7E 4S4
 
 ## Bénévolat
 
-Vous souhaitez faire du bénévolat lors de cet événement? [Inscrivez-vous ici!](https://campagnes.corsaire-chaparral.org/benevolat-festival-en-salle-coch-2018)
+~~Vous souhaitez faire du bénévolat lors de cet événement? [Inscrivez-vous ici!](https://campagnes.corsaire-chaparral.org/benevolat-festival-en-salle-coch-2018)~~
+
+Merci, nous avons déjà suffisamment de bénévoles. Faites votre bénévolat lors d’une [occasion ultérieure](/club/benevolat)!
 
 ## Résultats antérieurs
 
