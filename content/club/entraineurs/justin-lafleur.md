@@ -2,9 +2,9 @@
 title: Justin Lafleur
 icon: assignment_ind
 layout: entraineur
-menu:
-  main:
-    parent: entraineurs
+#menu:
+#  main:
+#    parent: entraineurs
 
 courriel: justin.lafleur8274@gmail.com
 

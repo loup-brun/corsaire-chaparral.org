@@ -2,9 +2,9 @@
 title: Nicolas Riopel
 icon: assignment_ind
 layout: entraineur
-menu:
-  main:
-    parent: entraineurs
+#menu:
+#  main:
+#    parent: entraineurs
 
 courriel: nicolas@corsaire-chaparral.org
 

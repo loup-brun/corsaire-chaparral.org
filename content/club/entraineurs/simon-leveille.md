@@ -2,9 +2,9 @@
 title: Simon Léveillé
 icon: assignment_ind
 layout: entraineur
-menu:
-  main:
-    parent: entraineurs
+#menu:
+#  main:
+#    parent: entraineurs
 
 courriel: simonleveille@icloud.com
 mobile: 4384958077

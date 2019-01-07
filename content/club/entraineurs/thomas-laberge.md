@@ -2,9 +2,9 @@
 title: Thomas Laberge
 icon: assignment_ind
 layout: entraineur
-menu:
-  main:
-    parent: entraineurs
+#menu:
+#  main:
+#    parent: entraineurs
 
 courriel: thomaslaberge7@gmail.com
 photo:

@@ -2,9 +2,9 @@
 title: David Montreuil-Jean-Pois
 icon: assignment_ind
 layout: entraineur
-menu:
-  main:
-    parent: entraineurs
+#menu:
+#  main:
+#    parent: entraineurs
 
 photo:
   src: "/img/entraineurs/david-montreuil-jean-pois.jpg"

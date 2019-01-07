@@ -2,9 +2,9 @@
 title: Alexanne Prince-Pelletier
 icon: assignment_ind
 layout: entraineur
-menu:
-  main:
-    parent: entraineurs
+#menu:
+#  main:
+#    parent: entraineurs
 
 photo:
   src: "/img/entraineurs/alexanne-prince-pelletier.jpg"

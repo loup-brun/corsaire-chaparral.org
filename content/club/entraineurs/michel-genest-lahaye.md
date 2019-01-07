@@ -2,9 +2,9 @@
 title: Michel Genest-Lahaye
 icon: assignment_ind
 layout: entraineur
-menu:
-  main:
-    parent: entraineurs
+#menu:
+#  main:
+#    parent: entraineurs
 
 photo:
   src: "/img/entraineurs/michel-genest-lahaye.jpg"

@@ -2,9 +2,6 @@
 title: Geneviève Tremblay-Lucier
 icon: assignment_ind
 layout: entraineur
-menu:
-  main:
-    parent: entraineurs
 published: false
 
 photo:

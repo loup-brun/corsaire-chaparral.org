@@ -2,9 +2,6 @@
 title: Marjolaine Lalande
 icon: assignment_ind
 layout: entraineur
-menu:
-  main:
-    parent: entraineurs
 published: false
 
 photo:
