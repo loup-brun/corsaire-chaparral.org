@@ -40,10 +40,16 @@ Merci, nous avons déjà suffisamment de bénévoles. Faites votre bénévolat l
 
 ### Horaire des bénévoles :
 
+_(mis à jour le 14 décembre)_
+
 * [Bloc #1 : MONTAGE vendredi 14 décembre 18h–21h](https://assets.corsaire-chaparral.org/competitions/2018/benevolat-festiva1-bloc1.docx)
 * [Bloc #2 : samedi 15 décembre 8h30–11h30](https://assets.corsaire-chaparral.org/competitions/2018/benevolat-festival-bloc2.docx)
 * [Bloc #3 : samedi 15 décembre 11h00–13h30](https://assets.corsaire-chaparral.org/competitions/2018/benevolat-festival-bloc3.docx)
 * [Bloc #4 : samedi 15 décembre 13h00–15h30](https://assets.corsaire-chaparral.org/competitions/2018/benevolat-festival-bloc4.docx)
+
+## Résultats en direct
+
+[AVS-Sport](https://avs-sport.com/comp_main.php?comp=331)
 
 ## Résultats antérieurs
 

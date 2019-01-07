@@ -15,15 +15,11 @@ Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fond
 
 ## Informations générales
 
-<!--
-Téléchargez le [document technique](https://corsasire-chaparral.org/medias/competitions/2018/doc-technique-rencontre-hivernale-andre-harel-2018.pdf).
+Téléchargez le [document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019)
 
-Liste des [participants](https://corsasire-chaparral.org/medias/competitions/2018/challenge-andre-harel-participants-attendus.pdf) *(mise à jour le 2018-02-02)*
+Responsable de compétition : [Samuel Grondin-Bernier](mailto:grondin750@hotmail.com)
 
-Horaire définitif (*dernière mise à jour le 2018-02-01 à 21 h 50*) [piste](https://corsasire-chaparral.org/medias/competitions/2018/challenge-andre-harel-2018.piste.pdf) | [pelouse](https://corsasire-chaparral.org/medias/competitions/2018/challenge-andre-harel-2018.pelouse.pdf)
--->
-
-Responsable de compétition : [Robert Lavoie](mailto:robertlecoach@gmail.com).
+Chronométrage par l’équipe [COCH Chrono](mailto:chronometrage@corsaire-chaparral.org)
 
 ### Pour se rendre
 

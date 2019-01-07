@@ -3,6 +3,18 @@ title: Accueil
 layout: home
 backgroundImg: /img/coch-dos.jpg
 slides:
+  - heading: "Prochaine compétition : le Challenge André-Harel"
+    body: >
+      Le Challenge André-Harel (anciennement la Classique hivernale) aura lieu le 2 février 2019 au Complexe sportif Claude-Robillard.
+    buttons:
+    - title: Infos
+      url: /competitions/challenge-andre-harel/
+      post: <span class="icon icon-angle-right"></span>
+      class: btn-default
+#    - title: Résultats
+#      url: https://avs-sport.com/comp_main.php?comp=331
+#      post: <span class="icon icon-stopwatch"></span>
+#      class: btn-secondary
   - heading: Saison 2018-2019
     body: >
       C’est reparti pour la saison 2018-2019. Les entraînements ont désormais lieu selon l’horaire des catégories.
