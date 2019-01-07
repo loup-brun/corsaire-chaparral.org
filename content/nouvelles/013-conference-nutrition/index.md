@@ -1,6 +1,6 @@
 ---
 title: Conférence nutrition
-subtitle: "Entraînements"
+subtitle: "Complément d’entraînement"
 slug: conference-nutrition
 date: 2019-01-07
 author: Club d’athlétisme Corsaire-Chaparral
