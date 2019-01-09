@@ -1,7 +1,7 @@
 ---
 title: "Réunion d’informations : programme de sport-études"
 date: 2019-01-08
-subtitle: "reunion-information-sport-etudes"
+subtitle: "Projet de sport-études"
 slug: reunion-information-sport-etudes
 author: Club d’athlétisme Corsaire-Chaparral
 description: Une réunion d’information pour le programme de sport-études aura lieu le mercredi 16 janvier à 19 h.
