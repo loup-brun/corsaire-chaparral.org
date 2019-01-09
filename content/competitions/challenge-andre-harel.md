@@ -15,7 +15,7 @@ Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fond
 
 ## Informations générales
 
-Téléchargez le [document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019)
+Téléchargez le [document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019) _(mis à jour le 9 janvier 2019)_
 
 Responsable de compétition : [Samuel Grondin-Bernier](mailto:grondin750@hotmail.com)
 
