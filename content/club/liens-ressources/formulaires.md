@@ -11,8 +11,7 @@ icon: assignment
 
 ## Compétitions
 
-* [**INSCRIPTION ATHLÈTES** Festival en salle COCH 2018](https://campagnes.corsaire-chaparral.org/inscription-festival-en-salle-coch-2018)
-* [**BÉNÉVOLAT** festival en salle COCH 2018](https://campagnes.corsaire-chaparral.org/benevolat-festival-en-salle-coch-2018)
+* [**INSCRIPTION ATHLÈTES** Les Relais Vaudreuil-Dorion 19 janvier 2019](https://campagnes.corsaire-chaparral.org/inscription-festival-en-salle-coch-2018)
 
 ## Entraineurs et athlètes
 
