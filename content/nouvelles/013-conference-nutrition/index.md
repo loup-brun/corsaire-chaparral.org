@@ -11,7 +11,7 @@ images:
 
 La conférence s’adresse aux athlètes de catégorie cadette et plus vieux.
 
-RAPPEL : **le jeudi 10 est un congé d’entraînement pour tous**, incluant les benjamins, car nous n’avons pas les gymnases. Profitez de la neige fraîche!
+RAPPEL : **le jeudi 10 janvier est un congé d’entraînement pour tous**, incluant les benjamins, car nous n’avons pas les gymnases. Profitez de la neige fraîche!
 
 Lieu de la conférence :
 
