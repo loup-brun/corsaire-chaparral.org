@@ -40,6 +40,18 @@ slides:
     body: >
       Le Corsaire-Chaparral fait peau neuve et procèdera bientôt au lancement de sa nouvelle identité visuelle. Restez à l'affût!
 featuredPhotos:
+- title: Festival des jeunes COCH 2018 (300+ photos)
+  url: https://photos.corsaire-chaparral.org/a/PNP
+  photos:
+  - title: 
+    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/Evte.th.jpg
+    url: https://photos.corsaire-chaparral.org/i/Evte
+  - title: 
+    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/Bhpp.th.jpg
+    url: https://photos.corsaire-chaparral.org/i/Bhpp
+  - title: 
+    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/vaeD.th.jpg
+    url: https://photos.corsaire-chaparral.org/i/vaeD
 - title: Olympiades Regina Assumpta 2018 (18 photos)
   url: https://photos.corsaire-chaparral.org/a/Gsj
   photos:
@@ -76,18 +88,6 @@ featuredPhotos:
   - title: Robert Lavoie
     thumb: "https://photos.corsaire-chaparral.org/images/2018/11/03/PmwQ.th.jpg"
     url: "https://photos.corsaire-chaparral.org/i/PmwQ"
-- title: Gala annuel 2018 (19 photos)
-  url: "https://photos.corsaire-chaparral.org/a/3Up"
-  photos:
-  - title: Denis Riopel
-    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/30/PK9p.th.jpg"
-    url: "https://photos.corsaire-chaparral.org/i/PK9p"
-  - title: Jeunes athlètes de demi-fond
-    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/31/PZPr.th.jpg"
-    url: "https://photos.corsaire-chaparral.org/i/PZPr"
-  - title: Alexanne et Nathalie Prince
-    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/30/PvBw.th.jpg"
-    url: "https://photos.corsaire-chaparral.org/i/PvBw"
 - title: Cross-country collégial 6 octobre 2018 – Parc équestre de Blainville (400+ photos)
   url: https://photos.corsaire-chaparral.org/a/qmT/?sort=date_asc&page=1
   photos: 
