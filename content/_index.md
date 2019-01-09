@@ -44,13 +44,13 @@ featuredPhotos:
   url: https://photos.corsaire-chaparral.org/a/PNP
   photos:
   - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/Evte.th.jpg
+    thumb: https://photos.corsaire-chaparral.org/images/2019/01/09/Evte.th.jpg
     url: https://photos.corsaire-chaparral.org/i/Evte
   - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/Bhpp.th.jpg
+    thumb: https://photos.corsaire-chaparral.org/images/2019/01/09/Bhpp.th.jpg
     url: https://photos.corsaire-chaparral.org/i/Bhpp
   - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/vaeD.th.jpg
+    thumb: https://photos.corsaire-chaparral.org/images/2019/01/09/vaeD.th.jpg
     url: https://photos.corsaire-chaparral.org/i/vaeD
 - title: Olympiades Regina Assumpta 2018 (18 photos)
   url: https://photos.corsaire-chaparral.org/a/Gsj
