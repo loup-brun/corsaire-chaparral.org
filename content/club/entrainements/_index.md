@@ -17,8 +17,6 @@ Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp
 
 Les entraînements reprendront par la suite selon l’horaire des catégories (voir plus bas).
 
-Les athlètes de catégorie **colibri** reprendront à l'automne le **13 octobre 2018**.
-
 _Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuelle de l’automne!_
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
@@ -55,11 +53,9 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2010-2011)
 
- - Samedi 9 h à 10 h 30
- 
-Une session de 10 semaines pour les colibris débutera à nouveau le **13 octobre 2018** et se conclura **samedi 15 décembre** avec le [Festival en salle des jeunes](/competitions/festival-en-salle-des-jeunes). Une autre session sera offerte à nouveau au printemps 2019.
+_Une session de 10 semaines pour les colibris débutera à nouveau au printemps 2019. Surveillez notre site web pour connaître la date exacte (avril)._
 
-Consultez le [calendrier](colibris) de la session automnale.
+ - Samedi 9 h à 10 h 30
 
 Entraîneurs responsables :
 
