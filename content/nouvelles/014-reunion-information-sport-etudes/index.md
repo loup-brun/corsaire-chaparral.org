@@ -1,5 +1,5 @@
 ---
-title: "Réunion d’informations : programme de sport-études"
+title: "Réunion d’information : programme de sport-études"
 date: 2019-01-08
 subtitle: "Projet de sport-études"
 slug: reunion-information-sport-etudes

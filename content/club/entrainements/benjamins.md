@@ -46,15 +46,13 @@ menu:
 
 <span class="badge badge-danger">annulation</span> **Samedi 19 janvier 2019** (non-disponibilité des plateaux d’entraînement).
 
-**Samedi 19 janvier** : Premières Foulées Bruny Surin, Les Relais Vaudreuil-Dorion, (compétition en stade).
-
 **Dimanche 27 janvier** : Premières Foulées Bruny Surin à Lachine (compétition en gymnase).
 
 **Samedi 2 février** : Challenge André Harel, Complexe sportif Claude–Robillard à Montréal.
 
 **16 et 17 février** : Championnat provincial pentathlon benjamin-cadet à Sherbrooke
 
-**2 et 3 mars** : Le Championnat provincial benjamin-cadet à Québec .
+**2 et 3 mars** : Le Championnat provincial benjamin-cadet à Québec.
 
 <span class="badge badge-danger">annulation</span> **Samedi 16 mars 2019** (non-disponibilité des plateaux d’entraînement).
 

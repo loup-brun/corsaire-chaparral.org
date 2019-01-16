@@ -11,7 +11,9 @@ icon: assignment
 
 ## Compétitions
 
-* [**INSCRIPTION ATHLÈTES** Les Relais Vaudreuil-Dorion 19 janvier 2019](https://campagnes.corsaire-chaparral.org/inscription-relais-vaudreuil-2019)
+* [**INSCRIPTION ATHLÈTES** Les Jeux de Lachine (27 janvier – date limite 19 janvier 2019)](http://campagnes.corsaire-chaparral.org/inscription-jeux-lachine-2019)
+* [**INSCRIPTION ATHLÈTES** Challenge André-Harel (2 février – date limite 29 janvier 2019)](https://campagnes.corsaire-chaparral.org/challenge-andre-harel-2019)
+* [**Bénévolat** Challenge André-Harel (2 février – date limite 29 janvier 2019)](https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2019)
 
 ## Entraineurs et athlètes
 

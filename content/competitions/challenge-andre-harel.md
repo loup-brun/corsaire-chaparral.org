@@ -29,6 +29,10 @@ L'adresse du Complexe sportif Claude-Robillard est la suivante :
 1000 Avenue Émile-Journault, Montréal, QC H2M 2E7
 ```
 
+## Bénévolat
+
+Vous souhaitez faire vos 15 heures de bénévolat annuelles? [Inscrivez-vous](https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2019) jusqu’au 29 janvier 2019. 
+
 ## Résultats antérieurs
 
 * [Résultats 2018](/resultats/2018/challenge-andre-harel/)
