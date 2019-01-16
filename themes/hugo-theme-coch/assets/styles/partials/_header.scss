@@ -41,7 +41,11 @@
 }
 
 .title-meta {
-  color: $gray
+  color: $gray;
+  &.uppercase {
+    font-size: .68em;
+    letter-spacing: 0.02em;
+  }
 }
 
 .meta-header {

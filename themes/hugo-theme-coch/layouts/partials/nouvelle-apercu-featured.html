@@ -11,9 +11,12 @@
     {{ end }}
   </figure>
   <div class="col col-8 tablet-col-12 phone-col-12">
-    {{ with .Params.subtitle }}
-    <small class="title-meta">{{ . }}</small>
-    {{ end }}
+   <small class="title-meta uppercase">
+      {{ with .Params.subtitle }}
+      {{ . }}
+      {{ end }}
+    </small>
+
     <h4 class="h3 no-margin"><a href="{{ .URL }}">{{ .Title }}</a></h4>
 
     {{- with .Params.description -}}
@@ -21,5 +24,12 @@
       {{ . | markdownify }}
       </article>
     {{- end -}}
+
+    <small class="title-meta">
+      <span class="icon icon-calendar"></span>
+      {{ with .Date }}
+      {{ .Format "2 janvier 2006" }}
+      {{ end }}
+    </small>
   </div>
 </div>
