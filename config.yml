@@ -26,7 +26,7 @@ params:
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
 #  annonce: >
-#    <span class="icon icon-star"></span>Inscription 2018–2019 en cours <a class="btn btn-primary -sm" href="/club/inscription">Je m’inscris!</a>
+#    <span class="badge badge-danger"><span class="icon icon-warning"></span>DERNIÈRE HEURE</span> Annulation de l’entraînement du jeudi 24 janvier</a>
 
 sectionPagesMenu: main
 
