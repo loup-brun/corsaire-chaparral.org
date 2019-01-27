@@ -13,9 +13,15 @@ Le club d'athlétisme Corsaire-Chaparral organise annuellement sa compétition h
 
 Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fondatrices du club, la traditionnelle _Classique hivernale_ a été rebaptisée sous le titre éponyme de **Challenge André-Harel**.
 
+![Challenge André-Harel 2019](../promo-challenge-andre-harel-2019.jpg)
+
 ## Informations générales
 
 Téléchargez le [document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019) _(mis à jour le 9 janvier 2019)_
+
+Inscriptions en ligne sur [AVS-Sport](https://avs-sport.com/main.php)
+
+<mark>Athlètes COCH seulement</mark> : [https://campagnes.corsaire-chaparral.org/challenge-andre-harel-2019](https://campagnes.corsaire-chaparral.org/challenge-andre-harel-2019)
 
 Responsable de compétition : [Samuel Grondin-Bernier](mailto:grondin750@hotmail.com)
 
