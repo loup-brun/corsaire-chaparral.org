@@ -11,10 +11,11 @@ slides:
       url: /competitions/challenge-andre-harel/
       post: <span class="icon icon-angle-right"></span>
       class: btn-default
-#    - title: Résultats
-#      url: https://avs-sport.com/comp_main.php?comp=331
-#      post: <span class="icon icon-stopwatch"></span>
-#      class: btn-secondary
+    - title: Devenir bénévole
+      url: https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2019
+      pre: <span class="icon icon-star"></span>
+      post: <span class="icon icon-star"></span>
+      class: btn-primary
   - heading: Saison 2018-2019
     body: >
       C’est reparti pour la saison 2018-2019. Les entraînements ont désormais lieu selon l’horaire des catégories.
@@ -113,5 +114,6 @@ featuredPhotos:
 #    <a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">
 #    Inscription <span class="icon icon-pencil"></span>
 #    </a>
-
+images:
+- /img/coch-dos.jpg
 ---
