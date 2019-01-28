@@ -20,7 +20,16 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
   <meta name="msapplication-TileColor" content="{{ $.Site.Params.themeColor | default "#f26e21" }}">
   
-  {{ template "_internal/opengraph.html" . }}
+  <!-- Opengraph -->
+  {{ template "_internal/opengraph.html" . }}  
+  
+  <!-- Twitter Cards -->
+  {{ template "_internal/twitter_cards.html" . }}
+  
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+
   {{ "<!--[if lt IE 9]>" | safeHTML }}
   {{ $ieStyle := resources.Get "styles/ie.scss" | resources.ToCSS }}
   <link rel="stylesheet" type="text/css" href="{{ $ieStyle.Permalink }}" />
