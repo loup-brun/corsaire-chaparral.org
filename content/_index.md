@@ -7,14 +7,13 @@ slides:
     body: >
       Le Challenge André-Harel (anciennement la Classique hivernale) aura lieu le 2 février 2019 au Complexe sportif Claude-Robillard.
     buttons:
-    - title: Infos
+    - title: Informations
       url: /competitions/challenge-andre-harel/
       post: <span class="icon icon-angle-right"></span>
       class: btn-default
-    - title: Devenir bénévole
-      url: https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2019
-      pre: <span class="icon icon-star"></span>
-      post: <span class="icon icon-star"></span>
+    - title: Horaire final
+      url: https://campagnes.corsaire-chaparral.org/asset/235:horaire-final-challenge-andre-harel
+      post: <span class="icon icon-stopwatch"></span>
       class: btn-primary
   - heading: Saison 2018-2019
     body: >

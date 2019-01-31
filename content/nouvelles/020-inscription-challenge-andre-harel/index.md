@@ -1,6 +1,6 @@
 ---
 title: "Challenge André-Harel samedi 2 février 2019"
-subtitle: Vêtements
+subtitle: Compétitions
 slug: inscription-challenge-andre-harel
 date: 2019-01-27
 author: Club d’athlétisme Corsaire-Chaparral

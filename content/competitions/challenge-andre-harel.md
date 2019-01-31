@@ -9,23 +9,18 @@ menu:
     parent: competitions
 ---
 
-Le club d'athlétisme Corsaire-Chaparral organise annuellement sa compétition hivernale avec, au programme, un ensemble d'épreuves pour les athlètes de catégorie benjamine à senior. La rencontre se tiendra au **Complexe sportif Claude-Robillard**, à Montréal.
-
-Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fondatrices du club, la traditionnelle _Classique hivernale_ a été rebaptisée sous le titre éponyme de **Challenge André-Harel**.
-
-![Challenge André-Harel 2019](../promo-challenge-andre-harel-2019.jpg)
 
 ## Informations générales
 
-Téléchargez le [document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019) _(mis à jour le 9 janvier 2019)_
+[Horaire final](https://campagnes.corsaire-chaparral.org/asset/235:horaire-final-challenge-andre-harel) _(version finale mise à jour le 30 janvier 2019)_
 
-Inscriptions en ligne sur [AVS-Sport](https://avs-sport.com/main.php)
-
-<mark>Athlètes COCH seulement</mark> : [https://campagnes.corsaire-chaparral.org/challenge-andre-harel-2019](https://campagnes.corsaire-chaparral.org/challenge-andre-harel-2019)
+[Document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019) _(version finale mise à jour le 30 janvier 2019)_
 
 Responsable de compétition : [Samuel Grondin-Bernier](mailto:grondin750@hotmail.com)
 
 Chronométrage par l’équipe [COCH Chrono](mailto:chronometrage@corsaire-chaparral.org)
+
+![Challenge André-Harel 2019](../promo-challenge-andre-harel-2019.jpg)
 
 ### Pour se rendre
 
@@ -37,7 +32,13 @@ L'adresse du Complexe sportif Claude-Robillard est la suivante :
 
 ## Bénévolat
 
-Vous souhaitez faire vos 15 heures de bénévolat annuelles? [Inscrivez-vous](https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2019) jusqu’au 29 janvier 2019. 
+Vous souhaitez faire vos 15 heures de bénévolat annuelles? [Inscrivez-vous](https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2019) jusqu’au 29 janvier 2019.
+
+## À propos de cette compétition
+
+Le club d'athlétisme Corsaire-Chaparral organise annuellement sa compétition hivernale avec, au programme, un ensemble d'épreuves pour les athlètes de catégorie benjamine à senior. La rencontre se tiendra au **Complexe sportif Claude-Robillard**, à Montréal.
+
+Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fondatrices du club, la traditionnelle _Classique hivernale_ a été rebaptisée sous le titre éponyme de **Challenge André-Harel**.
 
 ## Résultats antérieurs
 
