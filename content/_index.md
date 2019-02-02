@@ -15,18 +15,19 @@ slides:
       url: https://campagnes.corsaire-chaparral.org/asset/235:horaire-final-challenge-andre-harel
       post: <span class="icon icon-stopwatch"></span>
       class: btn-primary
-  - heading: Saison 2018-2019
+  - heading: "Challenge André-Harel : besoin de bénévoles!"
     body: >
-      C’est reparti pour la saison 2018-2019. Les entraînements ont désormais lieu selon l’horaire des catégories.
+      **Nous avons encore besoin de bénévoles en après-midi!** Si jamais vous êtes disponible, veuillez faire parvenir un courriel à Nadine Lauzon [corsairechaparal@hotmail.com](mailto:corsairechaparal@hotmail.com)
     buttons:
-    - title: Entraînements
-      url: /club/entrainements/
+    - title: Informations
+      url: /competitions/challenge-andre-harel/
       post: <span class="icon icon-angle-right"></span>
       class: btn-default
-    - title: Inscription
-      url: /club/inscription/
-      post: <span class="icon icon-pencil"></span>
-      class: btn-secondary
+    - title: Devenir bénévole
+      url: "mailto:corsairechaparal@hotmail.com"
+      pre: <span class="icon icon-star"></span>
+      post: <span class="icon icon-star"></span>
+      class: btn-primary
   - heading: Club satellite – Lachute
     body: >
       Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.

@@ -11,9 +11,8 @@ icon: assignment
 
 ## Compétitions
 
-* [**INSCRIPTION ATHLÈTES** Les Jeux de Lachine (27 janvier – date limite 19 janvier 2019)](http://campagnes.corsaire-chaparral.org/inscription-jeux-lachine-2019)
-* [**INSCRIPTION ATHLÈTES** Challenge André-Harel (2 février – date limite 29 janvier 2019)](https://campagnes.corsaire-chaparral.org/challenge-andre-harel-2019)
-* [**Bénévolat** Challenge André-Harel (2 février – date limite 29 janvier 2019)](https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2019)
+* [Formulaire d'équipe de relais](https://assets.corsaire-chaparral.org/formulaires/coch-formulaire-equipes-relais.pdf)
+* [Formulaire de demande de révision de résultat](https://assets.corsaire-chaparral.org/formulaires/coch-formulaire-equipes-relais.pdf)
 
 ## Entraineurs et athlètes
 

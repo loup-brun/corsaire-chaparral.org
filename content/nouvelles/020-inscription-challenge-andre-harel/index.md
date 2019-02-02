@@ -9,6 +9,13 @@ images:
 - /nouvelles/2019/01/27/inscription-challenge-andre-harel/promo-challenge-andre-harel-2019.jpg
 ---
 
+
+[Horaire final](https://campagnes.corsaire-chaparral.org/asset/235:horaire-final-challenge-andre-harel) _(version finale mise à jour le 31 janvier 2019)_
+
+[Document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019) _(version finale mise à jour le 31 janvier 2019)_
+
+---
+
 La date limite pour s’inscrire est aujourd’hui, mais nous accepterons les inscriptions jusqu’au **mardi 29 janvier**. Faites vite!
 
 [![Challenge André-Harel 2 février](promo-challenge-andre-harel-2019.jpg)](/competitions/challenge-andre-harel/)
