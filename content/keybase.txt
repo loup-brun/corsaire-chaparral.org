@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/loupbrun
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://corsaire-chaparral.org
+  * I am loupbrun (https://keybase.io/loupbrun) on keybase.
+  * I have a public key ASCdnQjyWU_d8hf7wuSOLdufMueBUoJO2dGIvEGJMANIzQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208e83e9863e81a24fba8a239ff3a983e695959b26742ffd5aa3596a2f92a490190a",
+      "host": "keybase.io",
+      "kid": "01209d9d08f2594fddf217fbc2e48e2ddb9f32e78152824ed9d188bc4189300348cd0a",
+      "uid": "eeb608119359f6ed52dc2af31b9f6419",
+      "username": "loupbrun"
+    },
+    "merkle_root": {
+      "ctime": 1551111005,
+      "hash": "e03ae147a9f8e9c55f01ca4b88b4fbc765fdef1f4419ce99252e6cb3916d30a8d352511f320c014dd5d56efe03103406abf9f0d28e257fa3bfc8c36cf2a1c046",
+      "hash_meta": "4aafca09b0bb920b3fef225a111c9a80f9ae1e23487fd4fe5dacfc7d85b4d8f3",
+      "seqno": 4826705
+    },
+    "service": {
+      "entropy": "ifeZ8cvKcr9MV0Uf2YNCVDy5",
+      "hostname": "corsaire-chaparral.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551111019,
+  "expire_in": 504576000,
+  "prev": "66194c659fd00396ec0e28252fba060a2b081da684a7668d9497a2469af980f9",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnZ0I8llP3fIX+8Lkji3bnzLngVKCTtnRiLxBiTADSM0Kp3BheWxvYWTESpcCHMQgZhlMZZ/QA5bsDiglL7oGCisIHaaEp2aNlJeiRpr5gPnEICfnvLnNfXqQLCxzZqLxbWkzzq2TBjTHCh/VeHPHe7JZAgHCo3NpZ8RAxvEY7wHIZaHKPaU8+tpjyEVPauosRxaX+GsBSchLxb/N1IiaFbMtf4NYohVrR+eg2IbjMkdkT+7bzp8F4DQuCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGpHMRU9kTmHuJIaIzBZgdk5jtFKY9YV55YDZM1OFC7Fo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/loupbrun
+
+==================================================================
