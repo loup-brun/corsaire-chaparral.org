@@ -3,31 +3,6 @@ title: Accueil
 layout: home
 backgroundImg: /img/coch-dos.jpg
 slides:
-  - heading: "Prochaine compétition : le Challenge André-Harel"
-    body: >
-      Le Challenge André-Harel (anciennement la Classique hivernale) aura lieu le 2 février 2019 au Complexe sportif Claude-Robillard.
-    buttons:
-    - title: Informations
-      url: /competitions/challenge-andre-harel/
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-default
-    - title: Horaire final
-      url: https://campagnes.corsaire-chaparral.org/asset/235:horaire-final-challenge-andre-harel
-      post: <span class="icon icon-stopwatch"></span>
-      class: btn-primary
-  - heading: "Challenge André-Harel : besoin de bénévoles!"
-    body: >
-      **Nous avons encore besoin de bénévoles en après-midi!** Si jamais vous êtes disponible, veuillez faire parvenir un courriel à Nadine Lauzon [corsairechaparal@hotmail.com](mailto:corsairechaparal@hotmail.com)
-    buttons:
-    - title: Informations
-      url: /competitions/challenge-andre-harel/
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-default
-    - title: Devenir bénévole
-      url: "mailto:corsairechaparal@hotmail.com"
-      pre: <span class="icon icon-star"></span>
-      post: <span class="icon icon-star"></span>
-      class: btn-primary
   - heading: Club satellite – Lachute
     body: >
       Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
@@ -41,6 +16,18 @@ slides:
     body: >
       Le Corsaire-Chaparral fait peau neuve et procèdera bientôt au lancement de sa nouvelle identité visuelle. Restez à l'affût!
 featuredPhotos:
+- title: Challenge André-Harel (180+ photos)
+  url: https://photos.corsaire-chaparral.org/a/u0r
+  photos:
+  - title: 
+    thumb: https://photos.corsaire-chaparral.org/images/2019/02/10/vTeQ.th.jpg
+    url: https://photos.corsaire-chaparral.org/i/vTeQ
+  - title: 
+    thumb: https://photos.corsaire-chaparral.org/images/2019/02/10/Nsme.th.jpg
+    url: https://photos.corsaire-chaparral.org/i/Nsme
+  - title: 
+    thumb: https://photos.corsaire-chaparral.org/images/2019/02/10/NgLB.th.jpg
+    url: https://photos.corsaire-chaparral.org/i/NgLB
 - title: Festival des jeunes COCH 2018 (300+ photos)
   url: https://photos.corsaire-chaparral.org/a/PNP
   photos:

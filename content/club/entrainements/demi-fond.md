@@ -14,7 +14,7 @@ Les athlètes de catégorie **cadette** et **juvénile** peuvent suivre la plani
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
-- Samedi 10 h 30 à 12 h
+- Samedi 9 h à 10 h 30
 
 ## Entraîneurs
 

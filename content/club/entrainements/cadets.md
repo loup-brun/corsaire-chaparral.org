@@ -45,7 +45,9 @@ menu:
 
 **16 et 17 février** : championnat provincial de pentathlon benjamin–cadet à Sherbrooke.
 
-**2 et 3 mars** : championnat provincial benjamin-cadet à Québec.
+<span class="badge badge-danger">ANNULATION</span> **Jeudi 21 février 2019** (non disponibilité des plateaux d'entraînement).
+
+**2 et 3 mars** : championnat provincial benjamin-cadet à Québec (entraînement du samedi 2 mars _maintenu_).
 
 <span class="badge badge-danger">annulation</span> **Samedi 16 mars 2019** (non-disponibilité des plateaux d’entraînement).
 

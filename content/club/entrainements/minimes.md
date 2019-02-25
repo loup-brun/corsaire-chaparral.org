@@ -37,12 +37,17 @@ menu:
 
 **Dimanche 27 janvier 2019** : Premières Foulées Bruny Surin à Lachine (compétition en gymnase).
 
+<span class="badge badge-danger">ANNULATION</span> **Jeudi 21 février 2019** (non disponibilité des plateaux d'entraînement).
+
+<span class="badge badge-danger">annulation</span> **Samedi 16 mars 2019** (non-disponibilité des plateaux d’entraînement)
+
+<span class="badge badge-danger">annulation</span> **Samedi 23 mars 2019** (non-disponibilité des plateaux d’entraînement)
+
 **Dimanche 28 avril 2019**: Premières Foulées Bruny Surin à Repentigny (compétition en gymnase).
 
 <span class="badge badge-danger">annulation</span> **Samedi 16 mars 2019** (non-disponibilité des plateaux d’entraînement)
 
 **Dimanche 5 mai 2019** : [Défi Marche-Course Desjardins](https://www.circuitendurance.ca/defi-course-et-marche-desjardins/) à Sainte-Thérèse Course du 1 km et course du 2 km
 
-<span class="badge badge-danger">annulation</span> **Samedi 23 mai 2019** (non-disponibilité des plateaux d’entraînement)
 
 **Dimanche 16 juin 2019** : compétition amicale pour les jeunes colibris, minimes et benjamins au stade Richard-Garneau, Sainte-Thérèse.

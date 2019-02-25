@@ -25,8 +25,8 @@ params:
   email: corsairechaparal@hotmail.com
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
-#  annonce: >
-#    <span class="badge badge-danger"><span class="icon icon-warning"></span>DERNIÈRE HEURE</span> Annulation de l’entraînement du jeudi 24 janvier</a>
+  #annonce: >
+  #  <span class="badge badge-danger"><span class="icon icon-stopwatch"></span>CHALLENGE ANDRÉ-HALEL</span> <a style="color:#fff" href="https://avs-sport.com/comp_main.php?comp=336&user=None&key=">Résultats en direct<span class="icon icon-angle-right"></span></a>
 
 sectionPagesMenu: main
 
