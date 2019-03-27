@@ -1,10 +1,18 @@
 ---
 name: Club
-about: Un ajout, modification ou suppression concernant le club.
+about: Un ajout, modification ou suppression concernant la section du club.
 title: 'Club: [type] [ajout]'
 labels: "\U0001F9E1club"
 assignees: loup-brun
 
 ---
 
-Page(s) concernée(s) par ce changement : [page]
+## Pages
+
+Page(s) concernée(s) par ce changement :
+
+- [page]/
+
+## Contenu concerné
+
+[description]

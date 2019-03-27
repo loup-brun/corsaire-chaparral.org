@@ -7,7 +7,7 @@ assignees: loup-brun
 
 ---
 
-Voir le document des faits saillants produit par Nathalie Prince.
+## Liste à cocher
 
 * [ ] Créer le répertoire (`content/nouvelles/000-titre-de-larticle`)
 * [ ] Ajouter le fichier `index.md`
@@ -16,5 +16,5 @@ Voir le document des faits saillants produit par Nathalie Prince.
 * [ ] Ajouter l'image de couverture
 * [ ] Rédiger l'article avec des niveaux d'en-tête 2 (`h2`)
 * [ ] Ajouter d'autres images à l'article (au besoin)
-* [ ] Visualiser
-* [ ] Publier
+* [ ] Visualiser (`make serve`)
+* [ ] Faire une [demande de fusion _(Pull Request)_](https://github.com/corsaire-chaparral/corsaire-chaparral.org/compare) pour intégrer dans `master`
