@@ -11,21 +11,6 @@ menu:
 layout: single
 ---
 
-{{% div class="well well-primary text-center" %}}
-
-<span class="h2">Nouvelle session pour les colibris!</span>
-
-<span class="icon icon-star"></span>
-<span class="icon icon-star"></span>
-<span class="icon icon-star"></span>
-
-
-Une nouvelle sssion de 10 semaines débutera le **samedi 10 avril 2019** et se terminera le **samedi 15 juin 2019**.
-
-<small>_Voir infos plus bas &darr;_</small>
-
-{{% /div %}}
-
 ## Reprise de la saison 2018-2019
 
 Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
@@ -62,9 +47,13 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
-### Colibri (2010-2011-2012)
+{{% div class="alert -primary" %}}
+**Club satellite de Lachute** : les résidents de la région de Lachute qui souhaitent faire de l’athlétisme pendant les mois d’octobre, novembre, décembre, janvier, février, mars devront s’incrire au club régulier et pourront prendre part aux entrainements à Sainte-Thérèse. À partir d’**avril 2019**, les activités à la polyvalente Lavigne reprendront.
+{{% /div %}}
 
-<em class="badge badge-primary">Nouveau!</em> Une nouvelle session pour les colibris de 10 semaines recommencera à partir du **samedi 15 avril 2019** et se concluera le **samedi 15 juin 2019** avec une mini-compétition amicale!
+### Colibri (2010-2011)
+
+_Une session de 10 semaines pour les colibris débutera à nouveau au printemps 2019. Surveillez notre site web pour connaître la date exacte (avril)._
 
  - Samedi 9 h à 10 h 30
 
