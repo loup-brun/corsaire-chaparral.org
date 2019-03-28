@@ -3,18 +3,6 @@ title: Accueil
 layout: home
 backgroundImg: /img/coch-dos.jpg
 slides:
-  - heading: Nouvelle session pour les colibris
-    body: >
-      Une nouvelle session pour les colibris de 10 semaines débutera le **15 avril 2019**
-    buttons:
-    - title: Entraînements
-      url: /club/entrainements/#colibri-2010-2011-2012
-      post: <span class="icon icon-calendar"></span>
-      class: btn-default
-    - title: Inscription
-      url: /club/inscription/
-      post: <span class="icon icon-pencil"></span>
-      class: btn-secondary
   - heading: Club satellite – Lachute
     body: >
       Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
@@ -116,18 +104,3 @@ featuredPhotos:
 images:
 - /img/coch-dos.jpg
 ---
-
-
-{{% div class="well well-primary text-center" %}}
-
-<span class="h2">Nouvelle session pour les colibris!</span>
-
-<span class="icon icon-star"></span>
-<span class="icon icon-star"></span>
-<span class="icon icon-star"></span>
-
-
-Une nouvelle sssion de 10 semaines débutera le **samedi 10 avril 2019** et se terminera le **samedi 15 juin 2019**.
-
-<a href="/club/entrainements/#colibri-2010-2011-2012" class="btn btn-default">En savoir plus <span class="icon icon-angle-right"></span></a>
-{{% /div %}}
