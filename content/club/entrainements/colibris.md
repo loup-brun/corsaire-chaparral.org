@@ -14,7 +14,7 @@ menu:
 
 ## Colibris (2010-2011-2012)
 
-<em class="badge badge-primary">Nouveau!</em> Une nouvelle session pour les colibris de 10 semaines recommencera à partir du **samedi 15 avril 2019** et se concluera le **samedi 15 juin 2019** avec une mini-compétition amicale!
+<em class="badge badge-primary">Nouveau!</em> Une nouvelle session pour les colibris de 10 semaines recommencera à partir du **samedi 13 avril 2019** et se concluera le **samedi 15 juin 2019** avec une mini-compétition amicale!
 
 ## Horaire d’entraînement
 

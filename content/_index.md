@@ -5,7 +5,7 @@ backgroundImg: /img/coch-dos.jpg
 slides:
   - heading: Nouvelle session pour les colibris
     body: >
-      Une nouvelle session pour les colibris de 10 semaines débutera le **15 avril 2019**
+      Une nouvelle session pour les colibris de 10 semaines débutera le **13 avril 2019**
     buttons:
     - title: Entraînements
       url: /club/entrainements/#colibri-2010-2011-2012
