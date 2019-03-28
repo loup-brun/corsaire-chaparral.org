@@ -51,7 +51,7 @@ Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un ath
 
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> mars au 31 août |
 | ----------------------- | ---------------------------------- | --------------------------------- |
-| Colibri (2010-2011)     | 84 $ par session                   |                                   |
+| Colibri (2010-2011-2012)| 84 $ par session                   |                                   |
 | Minime (2008-2009)      | 272 $                              | 180 $                             |
 | Benjamine (2006-2007)   | 442 $                              | 292 $                             |
 | Cadettte (2004-2005)    | 480 $                              | 317 $                             |
