@@ -53,7 +53,7 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2010-2011)
 
-_Une session de 10 semaines pour les colibris débutera à nouveau au printemps 2019. Surveillez notre site web pour connaître la date exacte (avril)._
+<em class="badge badge-primary">Nouveau!</em> Une nouvelle session pour les colibris de 10 semaines recommencera à partir du **samedi 13 avril 2019** et se concluera le **samedi 15 juin 2019** avec une mini-compétition amicale!
 
  - Samedi 9 h à 10 h 30
 
