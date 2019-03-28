@@ -20,7 +20,7 @@ layout: single
 <span class="icon icon-star"></span> 
 <span class="icon icon-star"></span> 
 
-Une nouvelle sssion de 10 semaines débutera le **samedi 10 avril 2019** et se terminera le **samedi 15 juin 2019**. 
+Une nouvelle sssion de 10 semaines débutera le **samedi 13 avril 2019** et se terminera le **samedi 15 juin 2019**. 
 
 <small>_Voir informations plus bas &darr;_</small>
 {{% /div %}}

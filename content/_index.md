@@ -125,7 +125,7 @@ images:
 <span class="icon icon-star"></span> 
 <span class="icon icon-star"></span> 
 
-Une nouvelle sssion de 10 semaines débutera le **samedi 10 avril 2019** et se terminera le **samedi 15 juin 2019**. 
+Une nouvelle sssion de 10 semaines débutera le **samedi 13 avril 2019** et se terminera le **samedi 15 juin 2019**. 
 
 <a href="/club/entrainements/#colibri-2010-2011-2012" class="btn btn-default">En savoir plus <span class="icon icon-angle-right"></span></a> 
 
