@@ -1,6 +1,6 @@
 ---
 name: Signaler un problème
-about: Signalez-nous un problème avec le site web.
+about: "⚠️ Signalez-nous un problème avec le site web."
 title: 'Problème: [Titre du problème]'
 labels: "\U0001F41B bug"
 assignees: loup-brun

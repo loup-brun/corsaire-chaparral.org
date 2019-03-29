@@ -1,6 +1,6 @@
 ---
 name: Nouvelles
-about: Gabarit pour les nouvelles.
+about: "✏️ Gabarit pour les nouvelles."
 title: 'Nouvelle: [Titre]'
 labels: "\U0001F5C4\U0001F4F0 section/nouvelles"
 assignees: loup-brun
