@@ -11,13 +11,14 @@ assignees: loup-brun
 
 Une description claire du problème que vous avez rencontré.
 
+## Comportement attendu
+
+Ce que vous vous attendriez d'un comportement normal.
+
 ## Page(s) concernée(s) par ce problème
 - /page1
 - /page2
 - /page3
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
 ## Captures d'écran
 
