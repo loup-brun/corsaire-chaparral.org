@@ -78,6 +78,9 @@ L’équipe du Corsaire-Chaparral était composé des quatre athlètes suivantes
 
 *Les relayeuses du Corsaire-Chaparral, avec, à l'avant-plan, Amanda Faraux. (Photo : Louis-Olivier Brassard)*
 
+![Ève Finnerty en action lors du 60 mètres féminin. (Photo : Louis-Olivier Brassard)](eve-finnerty-60-metres-brassard.jpg)
+
+*Ève Finnerty en action lors du 60 mètres féminin. (Photo : Louis-Olivier Brassard)*
 
 On notera que l’ancre de ce relais Julia Vallée, née en 2004, était surclassée dans la catégorie juvénile (U18).
 
