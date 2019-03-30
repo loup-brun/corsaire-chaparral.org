@@ -2,7 +2,7 @@
 name: Ajout
 about: "➕ Pour ajouter du contenu sur le site web."
 title: 'Ajout / [Section]: [Titre de l''ajout]'
-labels: "\U0001F64B‍♀️\U0001F64B‍♂️➕ requête/ajout, \U0001F4D3 contenu"
+labels: "\U0001F4D3 contenu, \U0001F64B‍♀️\U0001F64B‍♂️➕ requête/ajout"
 assignees: loup-brun
 
 ---

@@ -2,7 +2,7 @@
 name: Retrait
 about: "➖ Pour retirer du contenu du site web."
 title: 'Retrait / [Section] : [Titre du retrait]'
-labels: "\U0001F64B‍♀️\U0001F64B‍♂️➖ requête/retrait, \U0001F4D3 contenu"
+labels: "\U0001F4D3 contenu, \U0001F64B‍♀️\U0001F64B‍♂️➖ requête/retrait"
 assignees: loup-brun
 
 ---
