@@ -10,7 +10,7 @@ assignees: loup-brun
 **Est-ce lié à un problème?**
 Description sommaire du problème ou de votre frustration.
 
-**Décrivez une solution que vous aimeriez**
+**Décrivez une solution que vous aimeriez voir**
 Une description claire et sommaire de ce que vous aimeriez voir.
 
 **Solutions que vous avez déjà envisagées**
