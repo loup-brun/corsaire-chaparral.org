@@ -39,10 +39,12 @@ Pour faire partie de l’équipe, envoie un courriel à [admin@corsaire-chaparra
 | 2018-12-15 | Festival des jeunes Corsaire-Chaparral – [Infos](/competitions/festival-en-salle-des-jeunes) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-festival-en-salle-coch-2018) |
 | 2019-02-02 | Challenge André-Harel – [Infos](/competitions/challenge-andre-harel/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2019) |
 | 2019-05-05 | Défi course et marche Desjardins de Ste-Thérèse – [Infos](http://www.circuitendurance.ca/defi-course-et-marche-desjardins/) |
-| 2019-05-22 | Crépuscule COCH (à confirmer) |
+| 2019-05-22 | ~~Crépuscule COCH (à confirmer)~~ |
 | 2019-05-28 | Championnat régional scolaire d’athlétisme RSEQ-LL |
-| 2019-06-05 | Crépuscule COCH (à confirmer) |
+| 2019-06-05 | ~~Crépuscule COCH (à confirmer)~~ |
 | 2019-06-16 | Mini-compétition colibri-minime au stade Richard-Garneau |
-| 2019-06-19 | Crépuscule COCH (à confirmer) |
-| 2019-06-29 | Corsaire-Chaparral Invitation 2019 |
-| 2019-07-31 | Crépuscule COCH (à confirmer) |
+| 2019-06-19 | ~~Crépuscule COCH (à confirmer)~~ |
+| 2019-06-29 | Corsaire-Chaparral Invitation 2019 – [Infos](/competitions/corsaire-chaparral-invitation) |
+| 2019-07-31 | ~~Crépuscule COCH (à confirmer)~~ |
+| 2019-07-05 | Championnats canadiens vétéran 2019 – [Infos](/competitions/championnats-canadiens-veteran-2019/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019) |
+| 2019-07-06 | Championnats québécois 2019 – [Infos](/competitions/championnats-quebecois-junior-senior-para-2019) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019/) |

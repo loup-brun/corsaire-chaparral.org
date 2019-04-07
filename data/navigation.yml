@@ -12,8 +12,8 @@
   url: "/competitions/"
   subnav: "Compétitions"
 
-- name: "Résultats"
-  url: "/resultats/"
+#- name: "Résultats"
+#  url: "/resultats/"
   
 #- name: "Photos"
 #  url: "/photos/"

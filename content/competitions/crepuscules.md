@@ -1,12 +1,13 @@
 ---
 title: "Crépuscules estivaux"
-date: "2018"
+date: "2019"
 icon: calendar
 menu:
   main:
     identifier: crepuscules
     weight: 0
     parent: competitions
+published: false
 ---
 
 ## Informations générales

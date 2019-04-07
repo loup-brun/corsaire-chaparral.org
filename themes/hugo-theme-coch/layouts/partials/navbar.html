@@ -9,7 +9,8 @@
     <ul class="nav nav-break">
       {{ $currentPage := . }}
       {{ range .Site.Menus.main.ByWeight }}
-      <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}{{ if .HasChildren }} dropdown{{ end }}">
+      <li class="{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}{{ if .HasChildren }} dropdown{{ end }}
+        {{ if findRE "highlight" .Identifier }} highlight{{ end }}">
         <a href="{{ .URL }}">{{ .Title }}{{ if .HasChildren }} <span class="icon icon-angle-down"></span>{{ end }}</a>
         {{ if .HasChildren }}
         <ul class="dropdown-list">
