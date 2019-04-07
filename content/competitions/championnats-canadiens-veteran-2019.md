@@ -35,4 +35,9 @@ J7E 4S4
 
 Pour cet événement d’envergure, nous aurons grandement besoin de bénévoles!
 
-Inscrivez-vous via notre formulaire en ligne _(à venir sous peu)_.
+Inscrivez-vous via notre formulaire en ligne :
+
+<a href="https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019" target="_blank" class="btn btn-primary">
+<span class="icon icon-assignment"></span>
+Formulaire de bénévolat
+</a>
