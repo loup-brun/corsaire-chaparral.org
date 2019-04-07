@@ -51,6 +51,11 @@
           color: check-background($color-primary);
         }
       }
+      
+      &.highlight {
+        background-color: $color-primary;
+        color: check-background($color-primary);
+      }
 
       &.active {
         > a {

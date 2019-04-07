@@ -1,6 +1,6 @@
 ---
 title: "Finale régionale des Jeux du Québec"
-date: "2018-06-30"
+date: "2019-08-03"
 icon: calendar
 menu:
   main:
@@ -10,6 +10,14 @@ menu:
 ---
 
 _Répondant régional pour l'équipe des Laurentides en athlétisme : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)_
+
+{{% div class="well well-danger" %}}
+<span class="h2 no-margin"><span class="icon icon-warning"></span> Note</span>
+
+**L’information contenue sur cette page n’est plus à jour**; elle sera éditée sous peu pour l’année 2019.
+
+Un match inter-régions provincial pour les **cadets** se tiendra à Québec le 3 août 2019. 
+{{% /div %}}
 
 En vue de la [53<sup>e</sup> finale provinciale des Jeux du Québec 2018](http://www.jeuxduquebec.com/) à Thetford, le club d'athlétisme Corsaire-Chaparral organisera la finale régionale des Laurentides pour les épreuves d'athlétisme. Cette épreuve servira de qualification pour les athlètes désirant faire partie de la délégation laurentienne à la grande finale provinciale des Jeux.
 

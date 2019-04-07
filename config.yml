@@ -116,10 +116,16 @@ menu:
 #    weight: 0
 #    parent: competitions
 
-  - identifier: resultats
-    title: Résultats
-    url: '/resultats/'
-    weight: 70
+  - identifier: camp-de-jour-highlight
+    title: Camp de jour
+    url: '/camp-de-jour/'
+    weight: 5
+    active: true
+
+#  - identifier: resultats
+#    title: Résultats
+#    url: '/resultats/'
+#    weight: 70
   
 #  - identifier: photos
 #    title: Photos

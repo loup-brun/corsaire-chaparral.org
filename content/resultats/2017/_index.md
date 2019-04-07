@@ -1,10 +1,10 @@
 ---
 title: Résultats 2017
 icon: assignment
-menu:
-  main:
-    parent: resultats
-    title: 2017
-    weight: -17
+#menu:
+#  main:
+#    parent: resultats
+#    title: 2017
+#    weight: -17
 ---
 
