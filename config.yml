@@ -117,7 +117,7 @@ menu:
 #    parent: competitions
 
   - identifier: camp-de-jour-highlight
-    title: Camp de jour
+    title: Camp de jour 2019
     url: '/camp-de-jour/'
     weight: 5
     active: true
