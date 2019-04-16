@@ -25,9 +25,8 @@ params:
   email: corsairechaparal@hotmail.com
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
-  #annonce: >
-  #  <span class="badge badge-danger"><span class="icon icon-stopwatch"></span>CHALLENGE ANDRÉ-HALEL</span> <a style="color:#fff" href="https://avs-sport.com/comp_main.php?comp=336&user=None&key=">Résultats en direct<span class="icon icon-angle-right"></span></a>
-
+#  annonce: >
+#    ANNULATION D'ENTRAÎNEMENT LUNDI 8 AVRIL – En raison d'une panne d'électricité, l’entraînement à la Polyvente Ste-Thérèse est annulé.
 sectionPagesMenu: main
 
 
@@ -117,7 +116,7 @@ menu:
 #    parent: competitions
 
   - identifier: camp-de-jour-highlight
-    title: Camp de jour
+    title: Camp de jour 2019
     url: '/camp-de-jour/'
     weight: 5
     active: true

@@ -2,11 +2,26 @@
 title: "Camp de jour 2019"
 date: 2019-04-07T13:25:59-04:00
 description: >
-  Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme à l’été 2019.
+  Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme à l’été 2019, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
 ---
 
-Les villes de Blainville et de Sainte-Thérèse camps de jour spécialisé en athlétisme.
-Initiation aux diverses disciplines de l’athlétisme.
+{{% div class="well well-primary text-center" %}}
+
+<span class="icon icon-star"></span>
+**Inscriptions bientôt en cours!**
+<span class="icon icon-star"></span>
+
+Merci de patienter d’ici à ce que le système d’inscription soit prêt :)
+
+En attendant, il ne sert à rien d’envoyer de courriel pour vous inscrire.
+
+<small>_Les administrateurs du Corsaire-Chaparral_</small>
+
+{{% /div %}}
+
+## Informations 
+
+Vocation du camp de jour: initiation aux diverses disciplines de l’athlétisme.
 
 **Coût**  
 - 120 $ / semaine pour les résidents des villes de **Blainville** et de **Sainte-Thérèse**  
@@ -34,6 +49,7 @@ Le port de vêtements appropriés selon la température est recommandé.
 
 **Semaines**  
 8 camps d’une semaine d’activités, soit :
+
 - Du 24 juin au 28 juin
 - Du 1 au 5 juillet
 - Du 8 au 12 juillet

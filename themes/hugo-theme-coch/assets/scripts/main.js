@@ -224,22 +224,24 @@
 
     // Banner announcements
     var announcementBanner = document.getElementById('fixed-banner');
-    var closeBannerBtn = announcementBanner.querySelector('.banner__close');
 
-    bean.on(closeBannerBtn, 'click', function (ev) {
-      classie.add(announcementBanner, 'none');
-
-      if (win.localStorage) {
-        win.localStorage.setItem('hideBanniereAlerte20190124', true);
-      }
-    });
-
-    // Run on page load - has the user seen the banner?
-    if (win.localStorage) {
-      if (win.localStorage.getItem('hideBanniereAlerte20190124')) {
+    if (announcementBanner) {
+      var closeBannerBtn = announcementBanner.querySelector('.banner__close');
+      bean.on(closeBannerBtn, 'click', function (ev) {
         classie.add(announcementBanner, 'none');
-      } else {
-        classie.remove(announcementBanner, 'none');
+
+        if (win.localStorage) {
+          win.localStorage.setItem('hideBanniereAlerte20190308', true);
+        }
+      });
+
+      // Run on page load - has the user seen the banner?
+      if (win.localStorage) {
+        if (win.localStorage.getItem('hideBanniereAlerte20190308')) {
+          classie.add(announcementBanner, 'none');
+        } else {
+          classie.remove(announcementBanner, 'none');
+        }
       }
     }
 

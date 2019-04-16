@@ -11,9 +11,11 @@ menu:
     weight: 10
 ---
 
+_Vous cherchez le camp de jour? Veuillez consulter la [page dédiée](/camp-de-jour/)._
+
 {{% div class="alert -primary" %}}
 
-**L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis remplissez le [formulaire d'inscription](https://campagnes.corsaire-chaparral.org/inscription-2018-2019) en ligne.
+**L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis remplissez le formulaire d'inscription en ligne.
 
 <a class="btn btn-default" href="#comment-s-inscrire">
 </span>En savoir plus <span class="icon icon-angle-down">
@@ -21,7 +23,9 @@ menu:
 <a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">
 Formulaire en ligne <span class="icon icon-pencil"></span>
 </a>
+
 {{% /div %}}
+
 
 ## Comment s’inscrire?
 

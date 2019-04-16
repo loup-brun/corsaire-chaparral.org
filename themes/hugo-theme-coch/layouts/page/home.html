@@ -84,9 +84,9 @@
             </div>
           </section>
 
-          {{ with .Params.announcement }}
+          {{ if isset .Params "announcement" }}
             <div class="alert -primary phone-text-center">
-                <span class="h1 alert__heading">{{ .title }} <span class="icon icon-pencil"></span></span>
+                <span class="h1 alert__heading">{{ .Params.announcement.title }} <span class="icon icon-pencil"></span></span>
                 <p>
                   {{ .body | markdownify }}
                 </p>

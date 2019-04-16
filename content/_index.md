@@ -15,6 +15,14 @@ slides:
       url: /club/inscription/
       post: <span class="icon icon-pencil"></span>
       class: btn-secondary
+  - heading: Camp de jour en athlétisme
+    body: >
+      Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme cet été.
+    buttons:
+    - title: En savoir plus
+      url: /camp-de-jour/
+      post: <span class="icon icon-angle-right"></span>
+      class: btn-default
   - heading: Club satellite – Lachute
     body: >
       Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
@@ -116,6 +124,16 @@ featuredPhotos:
 images:
 - /img/coch-dos.jpg
 ---
+
+{{% div class="well well-primary text-center" %}} 
+ 
+<span class="h2">Camp de jour 2019</span> 
+
+Vous cherchez l’information pour le camp de jour? Visitez la page dédiée!
+
+<a href="/camp-de-jour/" class="btn btn-default">Camp de jour <span class="icon icon-angle-right"></span></a> 
+
+{{% /div %}}
 
 {{% div class="well well-primary text-center" %}} 
  
