@@ -3,24 +3,32 @@ title: Accueil
 layout: home
 backgroundImg: /img/coch-dos.jpg
 slides:
-  - heading: Nouvelle session pour les colibris
-    body: >
-      Une nouvelle session pour les colibris de 10 semaines débutera le **13 avril 2019**
-    buttons:
-    - title: Entraînements
-      url: /club/entrainements/#colibri-2010-2011-2012
-      post: <span class="icon icon-calendar"></span>
-      class: btn-default
-    - title: Inscription
-      url: /club/inscription/
-      post: <span class="icon icon-pencil"></span>
-      class: btn-secondary
+#  - heading: Nouvelle session pour les colibris
+#    body: >
+#      Une nouvelle session pour les colibris de 10 semaines débutera le **13 avril 2019**
+#    buttons:
+#    - title: Entraînements
+#      url: /club/entrainements/#colibri-2010-2011-2012
+#      post: <span class="icon icon-calendar"></span>
+#      class: btn-default
+#    - title: Inscription
+#      url: /club/inscription/
+#      post: <span class="icon icon-pencil"></span>
+#      class: btn-secondary
   - heading: Camp de jour en athlétisme
     body: >
       Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme cet été.
     buttons:
     - title: En savoir plus
       url: /camp-de-jour/
+      post: <span class="icon icon-angle-right"></span>
+      class: btn-default
+  - heading: Clinique de course à pied
+    body: >
+      Le Corsaire-Chaparral offrira une clinique de course à pied et de mise en forme cet été au stade Richard-Garneau.
+    buttons:
+    - title: En savoir plus
+      url: /initiation-course-mise-en-forme/
       post: <span class="icon icon-angle-right"></span>
       class: btn-default
   - heading: Club satellite – Lachute
