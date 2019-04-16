@@ -6,6 +6,10 @@
   max-width: $desktop-container;
   margin-left: auto;
   margin-right: auto;
+  
+  &--wider {
+    max-width: $container-wider;
+  }
 }
 
 .container-full { max-width: none !important; }

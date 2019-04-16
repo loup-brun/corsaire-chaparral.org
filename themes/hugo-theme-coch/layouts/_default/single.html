@@ -1,21 +1,38 @@
 {{ define "main" }}
-<main class="container container-main" role="main">
 
-  {{ block "header" . }}
-  {{- partial "header-page.html" . -}}
-  {{ end }}
+<div class="container container--wider phone-no-padding">
 
-  <article class="container article-container">
+  <div class="row no-padding">
+    <div class="col col-2 tablet-col-12">
+      <div style="width: 100%;min-height:1px">
+        &nbsp;
+      </div>
+    </div>
+    
+    <div class="col col-8 tablet-col-12">
+      <main class="container container-main" role="main">
 
-    {{ block "article" . }}
-    {{ with .Params.description }}
-    <p class="article-lead">
-      {{ . | markdownify }}
-    </p>
-    {{ end }}
+        {{ block "header" . }}
+        {{- partial "header-page.html" . -}}
+        {{ end }}
 
-    {{ .Content }}
-    {{ end }}
-  </article>
-</main>
+        <article class="container article-container">
+
+          {{ block "article" . }}
+          {{ with .Params.description }}
+          <p class="article-lead">
+            {{ . | markdownify }}
+          </p>
+          {{ end }}
+
+          {{ .Content }}
+          {{ end }}
+        </article>
+      </main>
+    </div>
+  
+    
+    <div class="col col-2 tablet-col-12"></div>
+  </div>
+</div>
 {{ end }}

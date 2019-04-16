@@ -20,7 +20,7 @@
 .row-danger { background-color: $color-danger; color: check-background($color-danger); }
 
 .well {
-  @include vertical-margin($spacing);
+  margin-bottom: $spacing-lg;
   padding: $spacing;
   border-radius: 5px;
 
