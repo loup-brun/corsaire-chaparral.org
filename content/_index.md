@@ -143,16 +143,5 @@ Vous cherchez l’information pour le camp de jour? Visitez la page dédiée!
 
 {{% /div %}}
 
-{{% div class="well well-primary text-center" %}} 
- 
-<span class="h2">Nouvelle session pour les colibris!</span> 
-
-<span class="icon icon-star"></span> 
-<span class="icon icon-star"></span> 
-<span class="icon icon-star"></span> 
-
-Une nouvelle sssion de 10 semaines débutera le **samedi 13 avril 2019** et se terminera le **samedi 15 juin 2019**. 
-
-<a href="/club/entrainements/#colibri-2010-2011-2012" class="btn btn-default">En savoir plus <span class="icon icon-angle-right"></span></a> 
-
-{{% /div %}} 
+{{< decompte time="2019-04-23 12:00:00"
+             title="Inscription au camp de jour dans" >}}
