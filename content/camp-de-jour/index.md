@@ -6,7 +6,7 @@ description: >
 
 ---
 
-{{< decompte time="2019-04-23 12:00:00"
+{{< decompte time="2019-04-23 16:00:00"
              title="Inscription au camp de jour dans" >}}
 
 {{% div class="well well-primary text-center" %}}
