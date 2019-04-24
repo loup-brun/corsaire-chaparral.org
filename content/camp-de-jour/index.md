@@ -6,22 +6,22 @@ description: >
 
 ---
 
-{{< decompte time="2019-04-23 12:00:00"
-             title="Inscription au camp de jour dans" >}}
-
 {{% div class="well well-primary text-center" %}}
 
 <span class="icon icon-star"></span>
 **Inscriptions bientôt en cours!**
 <span class="icon icon-star"></span>
 
-Merci de patienter d’ici à ce que le système d’inscription soit prêt :)
+Veuillez noter que pour des raisons techniques, nous avons dû repousser la date d'inscription du camp de jour au **vendredi 26 avril** 2019. Merci de votre patience :)
 
-En attendant, il ne sert à rien d’envoyer de courriel pour vous inscrire.
+Veuillez noter que nous n'acceptons pas les inscriptions par courriel.
 
 <small>_Les administrateurs du Corsaire-Chaparral_</small>
 
 {{% /div %}}
+
+{{< decompte time="2019-04-26 16:00:00"
+             title="Inscription au camp de jour dans" >}}
 
 ## Informations 
 
