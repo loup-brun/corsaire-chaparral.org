@@ -6,22 +6,19 @@ description: >
 
 ---
 
-{{% div class="well well-primary text-center" %}}
+## Inscription
 
-<span class="icon icon-star"></span>
-**Inscriptions bientôt en cours!**
-<span class="icon icon-star"></span>
+Veuillez vous inscrire en fonction de votre municipalité de résidence :
 
-Veuillez noter que pour des raisons techniques, nous avons dû repousser la date d'inscription du camp de jour au **vendredi 26 avril** 2019. Merci de votre patience :)
+<a href="https://campdejour2019.corsaire-chaparral.org/e/1/camp-de-jour-blainvilleste-therese" class="btn btn-primary">
+Citoyens de Blainville/Ste-Thérèse
+<span class="icon icon-angle-right"></span>
+</a>
 
-Veuillez noter que nous n'acceptons pas les inscriptions par courriel.
-
-<small>_Les administrateurs du Corsaire-Chaparral_</small>
-
-{{% /div %}}
-
-{{< decompte time="2019-04-26 16:00:00"
-             title="Inscription au camp de jour dans" >}}
+<a href="https://campdejour2019.corsaire-chaparral.org/e/2/camp-de-jour-villes-exterieures" class="btn btn-secondary">
+Citoyens des **villes extérieures**
+<span class="icon icon-angle-right"></span>
+</a>
 
 ## Informations 
 
@@ -62,3 +59,4 @@ Le port de vêtements appropriés selon la température est recommandé.
 - Du 29 juillet au 2 aout
 - Du 5 au 9 aout
 - Du 12 au 16 aout
+
