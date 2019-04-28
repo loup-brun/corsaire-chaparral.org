@@ -10,6 +10,10 @@
   url: "http://www.ville.blainville.qc.ca/"
   image: "/img/partenaires/ville-blainville.png"
 
+- name: "Club Lions Sainte-Thérèse"
+  url: "http://www.lionst.org/"
+  image: "/img/partenaires/club-lions-ste-therese.png"
+
 - name: "Club Optimiste de Sainte-Thérèse"
   image: "/img/partenaires/club-optimiste-ste-therese.gif"
 
