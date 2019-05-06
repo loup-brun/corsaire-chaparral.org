@@ -66,6 +66,16 @@ menu:
     title: Entraîneurs
     parent: club
     weight: 40
+  - identifier: initiation
+    url: '/initiation-course-mise-en-forme/'
+    title: Clinique de course
+    parent: club
+    weight: 60
+  - identifier: cdj2019
+    url: '/camp-de-jour/'
+    title: Camp de jour
+    parent: club
+    weight: 70
 #  - identifier: liens-ressources
 #    url: '/club/liens-ressources/'
 #    title: Liens et ressources
