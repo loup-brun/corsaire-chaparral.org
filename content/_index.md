@@ -15,22 +15,22 @@ slides:
 #      url: /club/inscription/
 #      post: <span class="icon icon-pencil"></span>
 #      class: btn-secondary
+  - heading: Clinique de course à pied
+    body: >
+      Du 8 mai au 5 août, le Corsaire-Chaparral offrira une clinique de course à pied et de mise en forme cet été au stade Richard-Garneau.
+    buttons:
+    - title: Infos et inscription
+      url: /initiation-course-mise-en-forme/
+      post: <span class="icon icon-pencil"></span>
+      class: btn-secondary
   - heading: Camp de jour en athlétisme
     body: >
       Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme cet été.
     buttons:
-    - title: En savoir plus
+    - title: Infos et inscription
       url: /camp-de-jour/
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-default
-  - heading: Clinique de course à pied
-    body: >
-      Le Corsaire-Chaparral offrira une clinique de course à pied et de mise en forme cet été au stade Richard-Garneau.
-    buttons:
-    - title: En savoir plus
-      url: /initiation-course-mise-en-forme/
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-default
+      post: <span class="icon icon-pencil"></span>
+      class: btn-secondary
   - heading: Club satellite – Lachute
     body: >
       Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
@@ -132,6 +132,14 @@ featuredPhotos:
 images:
 - /img/coch-dos.jpg
 ---
+
+{{% div class="well well-primary text-center" %}} 
+ 
+<span class="h2">NOUVEAU! Initiation à la course à pied et mise en forme</span> 
+
+<a href="/camp-de-jour/" class="btn btn-secondary">Je m’inscris! <span class="icon icon-angle-right"></span></a> 
+
+{{% /div %}}
 
 {{% div class="well well-primary text-center" %}} 
  

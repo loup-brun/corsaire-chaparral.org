@@ -11,13 +11,8 @@ images:
 
 **ÂGE** : 16 ans et plus
 
-**DATE** **DE DÉBUT :** Du 6 mai au 5 août (14 semaines d’activités)
+**DATE** : Du 8 mai au 5 août (14 semaines d’activités)
 
-**JOUR- HEURE** : Mercredi de 18h30 à 19h30 et samedi de 10h30 à 11h30
+**JOUR/HEURE** : Mercredi de 18h30 à 19h30 et samedi de 10h30 à 11h30
 
-**Min-Max** : 10/20 + liste d’attente
-
-{{% div class="well" %}}
-<span class="icon icon-warning"></span>
-_Inscription à venir sous peu._
-{{% /div %}}
+<a href="https://activites.corsaire-chaparral.org/e/1/initiation-a-la-course-a-pied-et-mise-en-forme" class="btn btn-primary">Inscription <span class="icon icon-angle-right"></span></a>
