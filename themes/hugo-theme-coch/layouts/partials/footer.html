@@ -52,6 +52,9 @@
         <ul class="list-footer list-footer-social">
           <li><a href="https://facebook.com/{{ .Site.Params.facebook }}" target="_blank"><span class="icon icon-facebook"></span> Facebook</a></li>
           <li><a href="https://twitter.com/{{ .Site.Params.twitter }}" target="_blank"><span class="icon icon-twitter"></span> Twitter</a></li>
+          {{ if .Site.Params.instagram }}
+          <li><a href="https://instagram.com/{{ .Site.Params.instagram }}" target="_blank"><span class="icon icon-star"></span> Instagram</a></li>
+          {{ end }}
           <li><a href="mailto:{{ .Site.Params.email }}" target="_blank"><span class="icon icon-mail"></span> Courriel</a></li>
         </ul>
       </div>

@@ -21,7 +21,8 @@ params:
   description: >
     Situé dans les Basses-Laurentides, le club d’athlétisme Corsaire-Chaparral est un organisme sans but lucratif dont la mission est de promouvoir l’athlétisme auprès des jeunes.
   facebook: "CorsaireChaparral"
-  twitter: "CorsaireC"  
+  twitter: "CorsaireC"
+  instagram: "corsairechaparral"
   email: corsairechaparal@hotmail.com
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
