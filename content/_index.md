@@ -133,20 +133,12 @@ images:
 - /img/coch-dos.jpg
 ---
 
-{{% div class="well well-primary text-center" %}} 
+
+<a href="/initiation-course-mise-en-forme/" class="btn btn-primary btn--block">
+<img src="/img/promo-clinique-course.jpg" alt="Nouveau! Clinique d’initiation à la course à pied et mise en forme" />
+</a> 
  
-<span class="h2">NOUVEAU! Initiation à la course à pied et mise en forme</span> 
+<a href="/camp-de-jour/" class="btn btn-default">
+<img src="/img/camp-jour-athletisme.jpg" alt="Camp de jour 2019" />
+</a> 
 
-<a href="/camp-de-jour/" class="btn btn-secondary">Je m’inscris! <span class="icon icon-angle-right"></span></a> 
-
-{{% /div %}}
-
-{{% div class="well well-primary text-center" %}} 
- 
-<span class="h2">Camp de jour 2019</span> 
-
-Vous cherchez l’information pour le camp de jour? Visitez la page dédiée!
-
-<a href="/camp-de-jour/" class="btn btn-default">Camp de jour <span class="icon icon-angle-right"></span></a> 
-
-{{% /div %}}

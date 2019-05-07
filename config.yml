@@ -172,11 +172,15 @@ menu:
       title: Discussions de groupe
       url: https://framateam.org/coch/
       weight: 40
+    - identifier: admin-cdj
+      title: Gestion du camp de jour
+      url: https://campdejour2019.corsaire-chaparral.org/
+      weight: 50
     - identifier: activites
       title: Gestion des activités
       url: https://activites.corsaire-chaparral.org/
-      weight: 50
+      weight: 60
     - identifier: courriels
       title: Courriel web
       url: https://mail.corsaire-chaparral.org/
-      weight: 60
+      weight: 70
