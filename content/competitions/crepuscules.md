@@ -7,47 +7,61 @@ menu:
     identifier: crepuscules
     weight: 0
     parent: competitions
-published: false
 ---
+
+{{% div class="well well-primary" %}}
+Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle série de **3 crépuscules** pour la saison estivale 2019!
+{{% /div %}}
+## Programmation
+
+- **Crépuscule #1** : mercredi 22 mai 2019  
+  200m, 800m, longueur, marteau, disque, poids
+  <!--| [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-1.pdf)-->
+- **Crépuscule #2** : mercredi 5 juin 2019  
+  *Épreuves à venir!*
+- **Crépuscule #3** : mercredi 19 juin 2019  
+  *Épreuves à venir!*
+
+## Inscriptions
+
+- En ligne sur [avs-sport.com](http://avs-sport.com/main.php) (date limite lundi 20 mai 23 h 59) :  
+  **15,00 $** par épreuve individuelle.
+- Sur place jusqu’à 18 h 00 (paiement sur place, argent comptant seulement) :  
+  **20,00 $** 	par épreuve individuelle.
 
 ## Informations générales
 
-Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle série de crépuscules pour la saison estivale 2018. Une variété d'épreuves (piste et concours) est proposée au travers de plusieurs rencontres en soirée.
+### Installations
 
-Tout le matériel est fourni par les organisateurs.
-
-Les athlètes de toutes catégories peuvent participer dans les épreuves _ouvertes_, selon les normes de leur propre catégorie.
-
-### Inscription
-
-* Par courriel (jusqu’à 3 jours avant l’événement) à [chronometrage@corsaire-chaparral.org](mailto:chronometrage@corsaire-chaparral.org)
-* Sur place, le jour même de l’événement.
-
-### Paiement
-
-Les frais doivent être acquittés le jour même de l’événement. _Aucune inscription sans paiement._
-
-* Pré-inscription : **15 $** par épreuve
-* Sur place (jusqu’à 18 h) : **20 $** par épreuve
-
-
-Modes de paiement acceptés (sur place, le jour de l’événement) :
-
-* Comptant
-* Carte de crédit Visa/Mastercard (pas de débit ni Interac)
-
-### Programmation
-
-* Crépuscule #1 : mercredi 23 mai 2018
-| [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-1.pdf)
-| [Résultats](/resultats/2018/crepuscule-coch-1/)
-* Crépuscule #2 : mercredi 6 juin 2018
-| [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-2.pdf)
-| [Liste des inscriptions](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-2-liste-inscriptions-v2018-06-05.pdf) _(en date du 5 juin)_ | [Résultats](/resultats/2018/crepuscule-coch-2/)
+Piste synthétique de 400 mètres, 8 couloirs au pourtour et 10 en ligne droite.
+Aires d’approche des sauts en synthétique.
 
 ### Emplacement
 
-**Stade Richard-Garneau**  
-401 Boulevard du Domaine  
-Sainte-Thérèse, QC J7E 4S4
+*Stade d’athlétisme Richard-Garneau*
+ 401 boul. du Domaine
+ Sainte-Thérèse, QC J7E 4S4
 
+### Matériel
+
+Tout le matériel sera fourni par les organisateurs.
+Ce matériel sera le **seul** à pouvoir être utilisé (à l’exception des perches et des marteaux).
+
+### Vestiaire
+
+Tout équipé. Apportez vos serviettes et cadenas. Les organisateurs déclinent toute responsabilité pour perte et/ou vol.
+
+## Informations techniques
+
+### Affiliation
+
+Tous les athlètes devront être membres de la FQA ou de leur association provinciale ou nationale respective. L’affiliation doit être de type « compétitif » et enregistrée dans Trackie au minimum quatre (4) jours avant la date limite d’inscription à la compétition.
+
+### Épreuves de pelouse
+
+Les athlètes devront se rapporter à leur site de compétition 30 minutes avant le début de leur épreuve.
+
+## Résultats antérieurs
+
+* [Crépuscule #1 2018](/resultats/2018/crepuscule-coch-1/)
+* [Crépuscule #2 2018](/resultats/2018/crepuscule-coch-2/)
