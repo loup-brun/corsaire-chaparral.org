@@ -15,4 +15,4 @@ images:
 
 **JOUR/HEURE** : Mercredi de 18h30 à 19h30 et samedi de 10h30 à 11h30
 
-<a href="https://activites.corsaire-chaparral.org/e/1/initiation-a-la-course-a-pied-et-mise-en-forme" class="btn btn-primary">Inscription <span class="icon icon-angle-right"></span></a>
+<a href="https://activites.corsaire-chaparral.org/e/2/initiation-a-la-course-a-pied-et-mise-en-forme" class="btn btn-primary">Inscription <span class="icon icon-angle-right"></span></a>
