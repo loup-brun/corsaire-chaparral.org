@@ -30,6 +30,14 @@ slides:
     - title: Infos et inscription
       url: /camp-de-jour/
       post: <span class="icon icon-pencil"></span>
+      class: btn-primary
+  - heading: Crépuscules estivaux
+    body: >
+      Les crépuscules estivaux sont de retour!
+    buttons:
+    - title: Programmation
+      url: /competitions/crepuscules/
+      post: <span class="icon icon-calendar"></span>
       class: btn-secondary
   - heading: Club satellite – Lachute
     body: >
