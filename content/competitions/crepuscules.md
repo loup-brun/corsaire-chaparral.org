@@ -18,9 +18,9 @@ Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle séri
   200m, 800m, longueur, marteau, disque, poids
   <!--| [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-1.pdf)-->
 - **Crépuscule #2** : mercredi 5 juin 2019  
-  *Épreuves à venir!*
+  80m, 100m, 400m, 2000m, 5000m, hauteur, triple-saut, poids, disque, marteau 
 - **Crépuscule #3** : mercredi 19 juin 2019  
-  *Épreuves à venir!*
+  80m, 100m, 1500m, 3000m marche, disque, marteau, javelot, perche, longueur 
 
 ## Inscriptions
 
