@@ -84,16 +84,22 @@ menu:
 #    url: '/club/records-statistiques/'
 #    title: Records et statistiques
 #    parent: club
-    
-  - identifier: nouvelles
-    url: '/nouvelles/'
-    title: Nouvelles
-    weight: 20
 
   - identifier: competitions
     title: Compétitions
     url: '/competitions/'
-    weight: 60
+    weight: 20
+
+  - identifier: nouvelles
+    url: '/nouvelles/'
+    title: Nouvelles
+    weight: 30
+
+#  - identifier: resultats
+#    parent : competitions
+#    title: Résultats
+#    url: '/resultats/'
+#    weight: 10
 
 #  - identifier: coch-invitation
 #    title: Corsaire-Chaparral Invitation
@@ -126,17 +132,12 @@ menu:
 #    weight: 0
 #    parent: competitions
 
-  - identifier: camp-de-jour-highlight
-    title: Camp de jour 2019
-    url: '/camp-de-jour/'
-    weight: 5
-    active: true
-
-#  - identifier: resultats
-#    title: Résultats
-#    url: '/resultats/'
-#    weight: 70
-  
+#  - identifier: camp-de-jour-highlight
+#    title: Camp de jour 2019
+#    url: '/camp-de-jour/'
+#    weight: 5
+#    active: true
+#  
 #  - identifier: photos
 #    title: Photos
 #    url: '/photos/'

@@ -1,13 +1,13 @@
 ---
 title: Résultats
 icon: assignment
-#menu:
-#  main:
-#    identifier: resultats-collection
-#    title: Résultats
-#    parent: competitions
-#    weight: 10
-#    url: '/resultats/'
+menu:
+  main:
+    identifier: resultats-collection
+    title: Résultats
+    parent: competitions
+    weight: 10
+    url: '/resultats/'
 
 ---
 
