@@ -1,4 +1,4 @@
-<div id="clock" class="clock row-danger">
+<div id="clock" class="clock row">
   <header class="clock__title text-center">
     <span class="icon icon-stopwatch"></span>
     <br>
@@ -28,7 +28,7 @@
 <style>
 .clock {
 	font-family: Averta, Verdana, sans-serif;
-  padding: 16px;
+/*  padding: 16px;*/
 }
   .clock__title {
     font-size: 1.35em;
@@ -52,7 +52,7 @@
   .clock__items > div {
     padding: 0.5em;
     border-radius: .15em;
-    background-color: #212721;
+    background-color: #ff6a13;
     font-size: 20px;
     text-align: center;
     color: #fff;
@@ -65,9 +65,10 @@
   }
 
     .clock__items > div > span {
-      padding: 14px;
+      padding: 8px 12px;
       border-radius: 3px;
-      background-color: #555855;
+      background-color: rgba(0, 0, 0, 0.15);
+      background-blend-mode: color-burn;
       display: inline-block;
     }
 
