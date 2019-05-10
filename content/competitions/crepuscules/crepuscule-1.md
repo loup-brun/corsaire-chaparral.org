@@ -21,7 +21,7 @@ icon: calendar
 ## Inscription
 
 - En ligne : **15,00 $** par épreuve individuelle _(date limite lundi 20 mai 23 h 59)_
-- Sur place : **20,00 $** par épreuve individuelle _(jusqu’à 18 h 00 argent comptant seulement)_
+- Sur place : **20,00 $** par épreuve individuelle _(jusqu’à 18h00, argent comptant seulement)_
 
 <a href="https://avs-sport.com/inscriptions.php?comp=388&user=None&key=" class="btn btn-primary" target="_blank">Inscription <span class="icon icon-pencil"></span></a>
 
