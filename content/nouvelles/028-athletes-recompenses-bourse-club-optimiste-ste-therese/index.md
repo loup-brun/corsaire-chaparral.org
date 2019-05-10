@@ -19,3 +19,7 @@ Ces athlètes ont par ailleurs pris part à la Finale provinciale des Jeux du Qu
 Les montants de 500 $ sont remis par le Club optimiste de Sainte-Thérèse à de jeunes étudiants fréquentant des établissements scolaires sur le territoire de la ville de Sainte-Thérèse.
 
 Leurs candidatures ont été proposées par leurs enseignants ou d'autres intervenants en milieu scolaire.
+
+![Mélissa Bitar et Edward Robidoux de l'Académie Sainte-Thérèse](melissa-bitar-edward-robidoux-ste-therese-2019.jpg)
+
+_Mélissa Bitar et Edward Robidoux de l'Académie Sainte-Thérèse._
