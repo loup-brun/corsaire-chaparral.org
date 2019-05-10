@@ -124,7 +124,7 @@ figure {
   width: 100%;
   position: relative;
   overflow: hidden;
-  max-height: 28em;
+  max-height: $desktop-container * 0.75;
   display: flex;
   align-items: center;
   justify-content: center;
