@@ -1,5 +1,5 @@
 ---
-title: "Crépuscules estivaux"
+title: "Crépuscules 2019"
 date: "2019"
 icon: calendar
 menu:
@@ -12,22 +12,30 @@ menu:
 {{% div class="well well-primary" %}}
 Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle série de **3 crépuscules** pour la saison estivale 2019!
 {{% /div %}}
+
 ## Programmation
 
-- **Crépuscule #1** : mercredi 22 mai 2019  
+[**Crépuscule #1 : mercredi 22 mai 2019**](crepuscule-1/) 
+
+- Épreuves :
   200m, 800m, longueur, marteau, disque, poids
-  <!--| [Document technique](https://corsaire-chaparral.org/medias/competitions/2018/crepuscule-coch-1.pdf)-->
-- **Crépuscule #2** : mercredi 5 juin 2019  
+
+**Crépuscule #2 : mercredi 5 juin 2019**
+
+- Épreuves :
   80m, 100m, 400m, 2000m, 5000m, hauteur, triple-saut, poids, disque, marteau 
-- **Crépuscule #3** : mercredi 19 juin 2019  
+
+**Crépuscule #3 : mercredi 19 juin 2019**
+
+- Épreuves :
   80m, 100m, 1500m, 3000m marche, disque, marteau, javelot, perche, longueur 
 
-## Inscriptions
+## Inscription
 
-- En ligne sur [avs-sport.com](http://avs-sport.com/main.php) (date limite lundi 20 mai 23 h 59) :  
-  **15,00 $** par épreuve individuelle.
-- Sur place jusqu’à 18 h 00 (paiement sur place, argent comptant seulement) :  
-  **20,00 $** 	par épreuve individuelle.
+- En ligne : **15,00 $** par épreuve individuelle _(date limite lundi 20 mai 23 h 59)_
+- Sur place : **20,00 $** par épreuve individuelle _(jusqu’à 18 h 00 argent comptant seulement)_
+
+<a href="http://avs-sport.com/main.php" class="btn btn-primary" target="_blank">Inscription <span class="icon icon-angle-right"></span></a>
 
 ## Informations générales
 
