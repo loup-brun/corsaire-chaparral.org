@@ -3,7 +3,7 @@ bower_components
 .DS_Store
 .sass-cache
 .tmp
-dist
+public
 photos-partage
 medias
 deploy*

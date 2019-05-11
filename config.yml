@@ -6,7 +6,7 @@ baseURL: "https://corsaire-chaparral.org" # the base hostname & protocol for you
 theme: hugo-theme-coch
 copyright: Tous droits réservés.
 
-publishDir: dist
+publishDir: public
 
 permalinks:
   nouvelles: nouvelles/:year/:month/:day/:slug

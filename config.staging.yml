@@ -1,2 +1,4 @@
-baseURL: "https://www-test.corsaire-chaparral.org" # the base hostname & protocol for your site
-title: [TEST] Club d’athlétisme Corsaire-Chaparral
+# the base hostname & protocol for your site
+baseURL: "https://www-test.corsaire-chaparral.org"
+
+title: "[TEST] Club d’athlétisme Corsaire-Chaparral"
