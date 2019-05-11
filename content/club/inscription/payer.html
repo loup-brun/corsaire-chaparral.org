@@ -18,7 +18,7 @@ var handler = StripeCheckout.configure({
     // Get the token ID to your server-side code for use.
     console.log('stripe token', token);
     nanoajax.ajax({
-      url: 'https://api.corsaire-chaparral.org/v1/payment/new',
+      url: 'https://api-test.corsaire-chaparral.org/v1/payment/new',
       method: 'POST',
       headers: {
         'x-requested-with': 'XMlHttpRequest'
