@@ -32,4 +32,4 @@ icon: calendar
 - longueur
 - marteau
 - disque
-- poids  
+- javelot  
