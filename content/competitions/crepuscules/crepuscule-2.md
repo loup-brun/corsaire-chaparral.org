@@ -16,7 +16,7 @@ icon: calendar
 - **Date** : mercredi 6 juin 2019
 - **Heure de début** : 18h30
 - **Pré-inscription** : jusqu'au 3 juin 23h59 (en ligne, tarif préférentiel)
-<!--- **Document technique** : [Télécharger le paquet technique](https://assets.corsaire-chaparral.org/competitions/2019/v3-crepuscue-3-document-technique.pdf)-->
+- **Document technique** : [Télécharger le paquet technique](https://assets.corsaire-chaparral.org/competitions/2019/v1-crepuscue-2-document-technique.pdf)
 
 ## Inscription
 
