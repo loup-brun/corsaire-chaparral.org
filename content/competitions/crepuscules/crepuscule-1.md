@@ -25,6 +25,8 @@ icon: calendar
 
 <a href="https://avs-sport.com/inscriptions.php?comp=388&user=None&key=" class="btn btn-primary" target="_blank">Inscription <span class="icon icon-pencil"></span></a>
 
+_\*Athlètes du Corsaire-Chaparral, veuillez vous inscrire via [ce formulaire](https://campagnes.corsaire-chaparral.org/inscription-crepuscule-1-2019)_.
+
 ## Épreuves
 
 - 200m
@@ -36,6 +38,6 @@ icon: calendar
 
 ## Bénévolat
 
-Nous avons besoin de bénévoles! Athlètes, parents et amis, aidez-nous à faire de nos compétition un succès à chaque fois.
+**Pas de bénévoles, pas de compétition!** Athlètes, parents et amis, chaque personne compte.
 
 <a href="https://campagnes.corsaire-chaparral.org/benevolat-crepuscule-1-2019" class="btn btn-primary" target="_blank">Bénévolat <span class="icon icon-angle-right"></span></a>

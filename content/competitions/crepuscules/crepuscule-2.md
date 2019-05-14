@@ -40,6 +40,6 @@ icon: calendar
 
 ## Bénévolat
 
-Nous avons besoin de bénévoles! Athlètes, parents et amis, aidez-nous à faire de nos compétition un succès à chaque fois.
+**Pas de bénévoles, pas de compétition!** Athlètes, parents et amis, chaque personne compte.
 
 <a href="https://campagnes.corsaire-chaparral.org/benevolat-crepuscule-2-2019" class="btn btn-primary" target="_blank">Bénévolat <span class="icon icon-angle-right"></span></a>

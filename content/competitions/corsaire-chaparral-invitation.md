@@ -30,7 +30,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 ## Inscription
 
-_À venir_ – veuillez procéder à l'inscription *via* le site [avs-sport.com](https://www.avs-sport.com/main.php).
+Veuillez procéder à l'inscription via le site [avs-sport.com](https://www.avs-sport.com/main.php).
 
 <!--Tel que spécifié dans le document technique, les **inscriptions tardives** seront acceptées sur AVS-Sport jusqu’au **lundi 25 juin à 16 h** moyennant des frais de 50 $ par épreuve. Aucune inscription après cette date. Aucune inscription sans paiement.-->
 
