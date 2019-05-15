@@ -16,7 +16,7 @@ menu:
 ## Informations générales
 
 - **Date** : samedi 29 juin 2019
-- **Informations** : [paquet technique](https://assets.corsaire-chaparral.org/competitions/2019/v3-document-technique-coch-invitation-2019.pdf)
+- **Informations** : [paquet technique](https://fichiers.corsaire-chaparral.org/s/mbtx58s6biMYAwH)
 - **Responsable de la rencontre** : [Samuel Grondin-Bernier](mailto:samuel@corsaire-chaparral.org).
 - **Responsable de la finale régionale des Jeux du Québec** : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)
 
