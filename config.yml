@@ -161,27 +161,31 @@ menu:
       title: Formulaires
       url: /club/liens-ressources/formulaires/
       weight: 10
-    - identifier: campagnes
-      title: Communications
-      url: https://campagnes.corsaire-chaparral.org/
+    - identifier: photos
+      title: Photos
+      url: https://photos.corsaire-chaparral.org/
       weight: 20
     - identifier: fichiers
-      title: Fichiers Corsaire-Chaparral
+      title: Fichiers
       url: https://fichiers.corsaire-chaparral.org/
       weight: 30
     - identifier: discussions
-      title: Discussions de groupe
+      title: Discussions d’équipe
       url: https://framateam.org/coch/
       weight: 40
+    - identifier: campagnes
+      title: Communications
+      url: https://campagnes.corsaire-chaparral.org/
+      weight: 50
     - identifier: admin-cdj
       title: Gestion du camp de jour
       url: https://campdejour2019.corsaire-chaparral.org/
-      weight: 50
+      weight: 60
     - identifier: activites
       title: Gestion des activités
       url: https://activites.corsaire-chaparral.org/
-      weight: 60
+      weight: 70
     - identifier: courriels
       title: Courriel web
       url: https://mail.corsaire-chaparral.org/
-      weight: 70
+      weight: 80
