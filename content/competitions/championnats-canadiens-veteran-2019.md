@@ -14,10 +14,10 @@ menu:
 
 ## Informations générales
 
-**Dates :**  
+**Dates**  
 Vendredi 5, samedi 6 et dimanche 7 juillet 2019
 
-**Emplacement :**  
+**Emplacement**  
 Stade d’athlétisme Richard-Garneau  
 ```
 401, boul. du Domaine  
@@ -25,7 +25,18 @@ Sainte-Thérèse QC
 J7E 4S4
 ```
 
-**Personnel de contact :**  
+**Documents**
+
+- Paquet technique :
+  [\[FR\]](https://assets.corsaire-chaparral.org/competitions/2019/cma-champs/2019-cma-tf-champs-meet-pkg-fr.pdf)
+  |
+  [\[EN\]](https://assets.corsaire-chaparral.org/competitions/2019/cma-champs/2019-cma-tf-champs-meet-pkg-en.pdf)
+- Hôtels : 
+  [\[FR\]](https://assets.corsaire-chaparral.org/competitions/2019/cma-champs/2019-cma-tf-champs-hotels-fr.pdf)
+  |
+  [\[EN\]](https://assets.corsaire-chaparral.org/competitions/2019/cma-champs/2019-cma-tf-champs-hotels-en.pdf)
+
+**Personnel de contact**  
 
 - [Robert Lavoie](mailto:robertlecoach@gmail.com), _direction technique_
 - [Samuel Grondin-Bernier](mailto:grondin750@hotmail.com), _direction technique_
