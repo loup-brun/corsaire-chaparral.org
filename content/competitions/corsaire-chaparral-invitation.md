@@ -16,9 +16,9 @@ menu:
 ## Informations générales
 
 - **Date** : samedi 29 juin 2019
-- **Informations** : [paquet technique](https://fichiers.corsaire-chaparral.org/s/mbtx58s6biMYAwH)
+- **Informations** : [paquet technique](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/document-technique-coch-invitation-2019.pdf)
 - **Responsable de la rencontre** : [Samuel Grondin-Bernier](mailto:samuel@corsaire-chaparral.org).
-- **Responsable de la finale régionale des Jeux du Québec** : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)
+- **Responsable, finale régionale des Jeux du Québec** : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)
 
 <!--[Résultats en direct](/resultats/direct)-->
 
@@ -30,7 +30,9 @@ Sainte-Thérèse, QC J7E 4S4
 
 ## Inscription
 
-Veuillez procéder à l'inscription via le site [avs-sport.com](https://www.avs-sport.com/main.php).
+Veuillez procéder à l'inscription via le site [avs-sport.com](https://avs-sport.com/main.php).
+
+<a href="https://avs-sport.com/display_inscriptions.php?comp=392&user=None&key=" class="btn btn-primary" target="_blank">Inscription <span class="icon icon-pencil"></span></a>
 
 <!--Tel que spécifié dans le document technique, les **inscriptions tardives** seront acceptées sur AVS-Sport jusqu’au **lundi 25 juin à 16 h** moyennant des frais de 50 $ par épreuve. Aucune inscription après cette date. Aucune inscription sans paiement.-->
 

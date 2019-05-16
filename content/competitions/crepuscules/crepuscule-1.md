@@ -16,7 +16,7 @@ icon: calendar
 - **Date** : mercredi 22 mai 2019
 - **Heure de début** : 18h30
 - **Pré-inscription** : jusqu'au 20 mai 23h59 (en ligne, tarif préférentiel)
-- **Document technique** : [Télécharger le paquet technique](https://fichiers.corsaire-chaparral.org/s/PaHckW89Z4RajCw)
+- **Document technique** : [Télécharger le paquet technique](https://assets.corsaire-chaparral.org/competitions/2019/crepuscules/crepuscule-1-document-technique.pdf)
 
 ## Inscription
 
