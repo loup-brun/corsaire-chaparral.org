@@ -2,6 +2,8 @@
 title: "Crépuscule #1"
 date: "2019-05-22"
 icon: calendar
+images:
+- /competitions/crepuscules/crepuscule1-banner.jpg
 #menu:
 #  main:
 #    identifier: crepuscule-1
