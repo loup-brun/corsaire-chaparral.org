@@ -45,6 +45,7 @@
 .row {
   @include clearfix;
   @include vertical-padding($spacing);
+  @include horizontal-margin(-$gutter)
 }
 
 .clearfix {

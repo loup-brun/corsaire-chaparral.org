@@ -51,79 +51,64 @@ slides:
   - heading: Une nouvelle identité
     body: >
       Le Corsaire-Chaparral fait peau neuve et procèdera bientôt au lancement de sa nouvelle identité visuelle. Restez à l'affût!
+
+featuredPhotosUrl: https://photos.corsaire-chaparral.org
 featuredPhotos:
-- title: Challenge André-Harel (180+ photos)
+- title: "Soirée Sélect #1"
+  url: https://photos.corsaire-chaparral.org/album/BoD/?sort=date_asc
+  img: https://photos.corsaire-chaparral.org/images/2019/05/18/MkP6.md.jpg
+- title: "Clinique de perfectionnement sprint, sauts et haies"
+  url: https://photos.corsaire-chaparral.org/a/yOF
+  img: https://photos.corsaire-chaparral.org/images/2019/05/06/NXsK.md.jpg
+- title: "Corsaire-Chaparral Invitation 2018"
+  url: https://photos.corsaire-chaparral.org/a/zWd
+  img: https://photos.corsaire-chaparral.org/images/2019/05/14/NcL6.md.jpg
+- title: "Challenge André-Harel"
   url: https://photos.corsaire-chaparral.org/a/u0r
-  photos:
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2019/02/10/vTeQ.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/vTeQ
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2019/02/10/Nsme.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/Nsme
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2019/02/10/NgLB.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/NgLB
-- title: Festival des jeunes COCH 2018 (300+ photos)
+  img: https://photos.corsaire-chaparral.org/images/2019/02/10/vTeQ.md.jpg
+- title: Festival des jeunes COCH 2018
   url: https://photos.corsaire-chaparral.org/a/PNP
-  photos:
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2019/01/09/Evte.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/Evte
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2019/01/09/Bhpp.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/Bhpp
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2019/01/09/vaeD.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/vaeD
+  img: https://photos.corsaire-chaparral.org/images/2019/01/09/Evte.md.jpg
 - title: Olympiades Regina Assumpta 2018 (18 photos)
   url: https://photos.corsaire-chaparral.org/a/Gsj
-  photos:
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/RIFU.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/RIFU
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/RbmZ.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/RbmZ
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/RNpc.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/RNpc
-- title: Cross des couleurs 2018 (53 photos)
-  url: https://photos.corsaire-chaparral.org/a/JFI
-  photos:
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/y8Uc.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/y8Uc
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/yaFo.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/yaFo
-  - title: 
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/yc6x.th.jpg
-    url: https://photos.corsaire-chaparral.org/i/yc6x
-- title: AGA 2018 (22 photos)
-  url: https://photos.corsaire-chaparral.org/a/F2y
-  photos:
-  - title: Le nouveau CA
-    url: https://photos.corsaire-chaparral.org/i/RqK0
-    thumb: https://photos.corsaire-chaparral.org/images/2018/11/03/RqK0.th.jpg
-  - title: Maman salle
-    thumb: "https://photos.corsaire-chaparral.org/images/2018/11/03/PcEb.th.jpg"
-    url: "https://photos.corsaire-chaparral.org/i/PcEb"
-  - title: Robert Lavoie
-    thumb: "https://photos.corsaire-chaparral.org/images/2018/11/03/PmwQ.th.jpg"
-    url: "https://photos.corsaire-chaparral.org/i/PmwQ"
-- title: Cross-country collégial 6 octobre 2018 – Parc équestre de Blainville (400+ photos)
-  url: https://photos.corsaire-chaparral.org/a/qmT/?sort=date_asc&page=1
-  photos: 
-  - title: Mariane Gagnon
-    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/06/SieD.th.jpg"
-    url: "https://photos.corsaire-chaparral.org/i/SieD"
-  - title: Peloton
-    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/06/3Hfw.th.jpg"
-    url: "https://photos.corsaire-chaparral.org/i/3Hfw"
-  - title: Alexis Deslauriers
-    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/06/Fl7w.th.jpg"
-    url: "https://photos.corsaire-chaparral.org/i/Fl7w"
+  img: https://photos.corsaire-chaparral.org/images/2018/11/23/RIFU.md.jpg
+  url: https://photos.corsaire-chaparral.org/i/RIFU
+#- title: Cross des couleurs 2018 (53 photos)
+#  url: https://photos.corsaire-chaparral.org/a/JFI
+#  photos:
+#  - title: 
+#    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/y8Uc.th.jpg
+#    url: https://photos.corsaire-chaparral.org/i/y8Uc
+#  - title: 
+#    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/yaFo.th.jpg
+#    url: https://photos.corsaire-chaparral.org/i/yaFo
+#  - title: 
+#    thumb: https://photos.corsaire-chaparral.org/images/2018/11/23/yc6x.th.jpg
+#    url: https://photos.corsaire-chaparral.org/i/yc6x
+#- title: AGA 2018 (22 photos)
+#  url: https://photos.corsaire-chaparral.org/a/F2y
+#  photos:
+#  - title: Le nouveau CA
+#    url: https://photos.corsaire-chaparral.org/i/RqK0
+#    thumb: https://photos.corsaire-chaparral.org/images/2018/11/03/RqK0.th.jpg
+#  - title: Maman salle
+#    thumb: "https://photos.corsaire-chaparral.org/images/2018/11/03/PcEb.th.jpg"
+#    url: "https://photos.corsaire-chaparral.org/i/PcEb"
+#  - title: Robert Lavoie
+#    thumb: "https://photos.corsaire-chaparral.org/images/2018/11/03/PmwQ.th.jpg"
+#    url: "https://photos.corsaire-chaparral.org/i/PmwQ"
+#- title: Cross-country collégial 6 octobre 2018 – Parc équestre de Blainville (400+ photos)
+#  url: https://photos.corsaire-chaparral.org/a/qmT/?sort=date_asc&page=1
+#  photos: 
+#  - title: Mariane Gagnon
+#    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/06/SieD.th.jpg"
+#    url: "https://photos.corsaire-chaparral.org/i/SieD"
+#  - title: Peloton
+#    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/06/3Hfw.th.jpg"
+#    url: "https://photos.corsaire-chaparral.org/i/3Hfw"
+#  - title: Alexis Deslauriers
+#    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/06/Fl7w.th.jpg"
+#    url: "https://photos.corsaire-chaparral.org/i/Fl7w"
 
 #announcement:
 #  title: Inscription 2018-2019
@@ -141,6 +126,9 @@ images:
 - /img/coch-dos.jpg
 ---
 
+<a href="/competitoins/crepuscules/crepuscule-1/" class="link-unstyled">
+![Crépuscule COCH #1](/competitions/crepuscules/crepuscule1-banner.jpg)
+</a>
 
 <a href="/initiation-course-mise-en-forme/" class="btn btn-primary btn--block">
 <img src="/img/promo-clinique-course.jpg" alt="Nouveau! Clinique d’initiation à la course à pied et mise en forme" />

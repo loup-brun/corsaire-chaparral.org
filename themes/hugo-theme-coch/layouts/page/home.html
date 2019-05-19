@@ -51,99 +51,70 @@
     </div>
   </header>
   
-  <article class="row-lg">
-    <div class="container container-full">
-      
-      <div class="row">
-        <article class="col col-8 tablet-col-12">
+  <div class="container container-full">
 
-          <!-- Page markdown content is rendered here -->
-          {{ .Content }}
+    <h2>Quoi de neuf</h2>
 
-          <section>
-            <h2>Dernières nouvelles</h2>
+    <div class="row">
+      <article class="col col-8 tablet-col-12">
+        <section>
 
-            {{ with .Site.GetPage "section" "nouvelles" }}
+          {{ with .Site.GetPage "section" "nouvelles" }}
 
-            <!-- First article -->
-            {{ range first 1 .Pages }}
-            {{ partial "nouvelle-apercu-featured.html" . }}
-            {{ end }}
-
-            <!-- Other articles -->
-            {{ range first 4 (after 1 .Pages) }}
-            {{ partial "nouvelle-apercu.html" . }}
-            {{ end }}
-            {{ end }}
-            
-            <div class="row row-sm">
-              <a href="/nouvelles/" class="btn btn-secondary -sm">
-                Toutes les nouvelles
-                <span class="icon icon-hamburger"></span>
-              </a>
-            </div>
-          </section>
-
-          {{ if isset .Params "announcement" }}
-            <div class="alert -primary phone-text-center">
-                <span class="h1 alert__heading">{{ .Params.announcement.title }} <span class="icon icon-pencil"></span></span>
-                <p>
-                  {{ .body | markdownify }}
-                </p>
-              </div>
+          <!-- Other articles -->
+          {{ range first 3 .Pages }}
+          {{ partial "nouvelle-apercu.html" . }}
+          {{ end }}
           {{ end }}
 
-        </article>
-        <aside class="col col-4 tablet-col-12 home-sidebar-container">
-          <h2>Photos</h2>
-          {{ range .Params.featuredPhotos }}
-          <h3 class="h6"><a href="{{ .url }}">{{ .title }}</a></h3>
-          
-          <div class="row">
-          {{ range .photos }}
-            <div class="col col-4">
-              <a href="{{ .url }}">
-                <img class="img-responsive" src="{{ .thumb }}" alt="{{ .title }}" />
-              </a>
-            </div>
-          {{ end }}
-          </div>
-          {{ end}}
-          
           <div class="row row-sm">
-            <a href="https://photos.corsaire-chaparral.org">
-              Plus de photos <span class="icon icon-angle-right"></span>
+            <a href="/nouvelles/" class="btn btn-secondary -sm">
+              Toutes les nouvelles
+              <span class="icon icon-hamburger"></span>
             </a>
           </div>
+        </section>
 
-<!--
-          <section>
-            <h2>Prochaines compétitions</h2>
-            
-            {{ with .Site.GetPage "section" "competitions" }}
-            <div>
-              <ol class="list-unstyled">
-                {{ range first 3 (where .Pages.ByDate "Date" ">" now) }}
-                <li class="mar-b">
-                  <div class="row">
-                    <small class="title-meta"><i class="icon icon-calendar"></i> {{ partial "date.html" .Date }}</small>
-                    <h4 class="no-margin">
-                      <a href="{{ .URL }}">
-                        {{ .Title }}
-                      </a>
-                    </h4>
-                  </div>
-                </li>
-                {{ end }}
-              </ol>
+        {{ if isset .Params "announcement" }}
+          <div class="alert -primary phone-text-center">
+              <span class="h1 alert__heading">{{ .Params.announcement.title }} <span class="icon icon-pencil"></span></span>
+              <p>
+                {{ .body | markdownify }}
+              </p>
             </div>
-            {{ end }}
-          </section>
--->
-        </aside>
-      </div>
+        {{ end }}
+
+      </article>
+      <aside class="col col-4 tablet-col-12">
+        <!-- Page markdown content is rendered here -->
+        {{ .Content }}
+      </aside>
     </div>
-  </article>
+  </div>
+  
+  <section class="row-lg" id="photos">
+    <div class="container container-full">
+      <h2>Dernières photos</h2>
+      <div class="row">
+        {{ range first 3 .Params.featuredPhotos }}
+        <div class="col col-4 tablet-col-12">
+          <a href="{{ .url}}">
+            <figure class="featured-photo-figure"
+                    style="background-image: url({{ .img }})">
+              <img src="{{ .img }}" alt="{{ .title }}" />
+              <figcaption class="featured-photo-figure__caption">
+                <h3>{{ .title }}</h3>
+              </figcaption>
+            </figure>
+          </a>
+        </div>
+        {{ end }}
+      </div>
+      
+      <a href="{{ .Params.featuredPhotosUrl }}" class="btn btn-primary">Voir plus de photos <span class="icon icon-angle-right"></span></a>
+    </div>
+  </section>
+  
   <section class="row-lg" id="infolettre">
     <div class="container container-full">
       <div class="row">

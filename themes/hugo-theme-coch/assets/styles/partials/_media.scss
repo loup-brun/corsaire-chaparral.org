@@ -50,6 +50,59 @@ figure {
   }
 }
 
+.featured-photo-figure {
+  position: relative;
+  padding-bottom: 75%; /* 4:3 */
+  height: 0;
+  overflow: hidden;
+  margin-bottom: $spacing-lg;
+  
+  // background image
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.25);
+    transition: background-color .3s;
+    z-index: 2;
+  }
+  
+  &:hover {
+    &::after {
+      background-color: rgba(0,0,0,0.5);
+    }
+    
+    .featured-photo-figure__caption {
+      transform: translateY(-6px);
+    }
+  }
+  
+  img {
+    position: absolute;
+    width: 100%;
+    // hide visibility, keep for semantics & screen readers
+    visibility: hidden;
+    z-index: 1;
+  }
+}
+
+.featured-photo-figure__caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 3;
+  padding: $spacing;
+  color: #fff;
+  transition: transform .3s;
+}
+
 .fluid-16-9 {
   position: relative;
   padding-bottom: 56.25%;
