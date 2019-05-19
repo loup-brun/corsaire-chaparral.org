@@ -126,15 +126,15 @@ images:
 - /img/coch-dos.jpg
 ---
 
-<a href="/competitoins/crepuscules/crepuscule-1/" class="link-unstyled">
+<a href="/competitions/crepuscules/crepuscule-1/" class="link-unstyled">
 ![Crépuscule COCH #1](/competitions/crepuscules/crepuscule1-banner.jpg)
 </a>
 
-<a href="/initiation-course-mise-en-forme/" class="btn btn-primary btn--block">
+<a href="/initiation-course-mise-en-forme/" class="link-unstyled">
 <img src="/img/promo-clinique-course.jpg" alt="Nouveau! Clinique d’initiation à la course à pied et mise en forme" />
 </a> 
  
-<a href="/camp-de-jour/" class="btn btn-default">
+<a href="/camp-de-jour/" class="link-unstyled">
 <img src="/img/camp-jour-athletisme.jpg" alt="Camp de jour 2019" />
 </a> 
 

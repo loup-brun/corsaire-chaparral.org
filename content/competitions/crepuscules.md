@@ -46,9 +46,10 @@ Aires d’approche des sauts en synthétique.
 
 ### Emplacement
 
-*Stade d’athlétisme Richard-Garneau*
- 401 boul. du Domaine
- Sainte-Thérèse, QC J7E 4S4
+**Stade d’athlétisme Richard-Garneau**  
+401 boul. du Domaine  
+Sainte-Thérèse, QC  
+J7E 4S4
 
 ### Matériel
 
