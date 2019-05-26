@@ -210,8 +210,6 @@
         stripe.createToken(elements[0], additionalData).then(function (result) {
 
           if (result.token) {
-            console.log('Stripe token retrieved', result.token);
-
             // The crucial step: make the payment
             submitToken(result.token);
           } else {
@@ -369,9 +367,6 @@
     nanoajax.ajax({
       url: 'https://api.corsaire-chaparral.org/v1/payment/new',
       method: 'POST',
-      headers: {
-        'x-requested-with': 'XMlHttpRequest'
-      },
       cors: true,
       body: 'stripeToken=' + token.id +
         '&amount=' + submitAmount +
