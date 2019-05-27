@@ -126,8 +126,8 @@ images:
 - /img/coch-dos.jpg
 ---
 
-<a href="/competitions/crepuscules/crepuscule-1/" class="link-unstyled">
-![Crépuscule COCH #1](/competitions/crepuscules/crepuscule1-banner.jpg)
+<a href="/competitions/crepuscules/crepuscule-2/" class="link-unstyled">
+![Crépuscule COCH #2](/competitions/crepuscules/crepuscule2-carre-sm.png)
 </a>
 
 <a href="/initiation-course-mise-en-forme/" class="link-unstyled">
