@@ -56,6 +56,11 @@
     <h2>Quoi de neuf</h2>
 
     <div class="row">
+      <aside class="col col-4 tablet-col-12 right">
+        <!-- Page markdown content is rendered here -->
+        {{ .Content }}
+      </aside>
+
       <article class="col col-8 tablet-col-12">
         <section>
 
@@ -85,10 +90,6 @@
         {{ end }}
 
       </article>
-      <aside class="col col-4 tablet-col-12">
-        <!-- Page markdown content is rendered here -->
-        {{ .Content }}
-      </aside>
     </div>
   </div>
   

@@ -2,11 +2,11 @@
 title: "Championnats nationaux pour jeunes"
 date: "2016-08-05"
 icon: calendar
-menu:
-  main:
-    identifier: championnats-nationaux-pour-jeunes
-    weight: 0
-    parent: competitions
+#menu:
+#  main:
+#    identifier: championnats-nationaux-pour-jeunes
+#    weight: 0
+#    parent: competitions
 published: false
 ---
 

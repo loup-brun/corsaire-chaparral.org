@@ -2,11 +2,11 @@
 title: "Festival en salle des jeunes"
 date: "2018-12-15"
 icon: calendar
-menu:
-  main:
-    identifier: festival-jeunes
-    weight: 0
-    parent: competitions
+#menu:
+#  main:
+#    identifier: festival-jeunes
+#    weight: 0
+#    parent: competitions
 ---
 
 ![Les Premières Foulées Bruny Surin](/img/logo-premieres-foulees-bruny-surin.jpg)

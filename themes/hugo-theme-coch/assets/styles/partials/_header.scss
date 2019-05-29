@@ -19,7 +19,7 @@
   color: check-background($color-primary);
   word-wrap: break-word;
   position: relative;
-  left: -$header-fold-size;
+  left: -11px;
   box-shadow: 0 5px 6px rgba(0,0,0,0.2);
 
   &:after {

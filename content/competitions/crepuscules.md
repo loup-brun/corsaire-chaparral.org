@@ -2,11 +2,11 @@
 title: "Crépuscules 2019"
 date: "2019"
 icon: calendar
-menu:
-  main:
-    identifier: crepuscules
-    weight: 0
-    parent: competitions
+#menu:
+#  main:
+#    identifier: crepuscules
+#    weight: 0
+#    parent: competitions
 ---
 
 {{% div class="well well-primary" %}}

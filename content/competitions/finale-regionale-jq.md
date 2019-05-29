@@ -2,11 +2,11 @@
 title: "Finale régionale des Jeux du Québec"
 date: "2019-08-03"
 icon: calendar
-menu:
-  main:
-    identifier: finale-regionale
-    weight: 0
-    parent: competitions
+#menu:
+#  main:
+#    identifier: finale-regionale
+#    weight: 0
+#    parent: competitions
 ---
 
 _Répondant régional pour l'équipe des Laurentides en athlétisme : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)_

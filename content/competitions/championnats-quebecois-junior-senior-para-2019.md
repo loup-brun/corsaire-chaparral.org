@@ -5,11 +5,11 @@ date: 2019-07-06
 icon: calendar
 description: >
   Les championnats québécois junior, senior et para se tiendront à Sainte-Thérèse du 6 aut 7 juillet 2019, ainsi que les [championnats canadiens vétéran](/competitions/championnats-canadiens-veteran-2019) du 5 au 7 juillet 2019.
-menu:
-  main:
-    identifier: championnats-provinciaux
-    weight: 0
-    parent: competitions
+#menu:
+#  main:
+#    identifier: championnats-provinciaux
+#    weight: 0
+#    parent: competitions
 ---
 
 ## Informations générales

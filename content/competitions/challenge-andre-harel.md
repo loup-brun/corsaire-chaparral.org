@@ -2,11 +2,11 @@
 title: "Challenge André-Harel"
 date: "2019-02-02"
 icon: calendar
-menu:
-  main:
-    identifier: challenge-andre-harel
-    weight: 0
-    parent: competitions
+#menu:
+#  main:
+#    identifier: challenge-andre-harel
+#    weight: 0
+#    parent: competitions
 ---
 
 

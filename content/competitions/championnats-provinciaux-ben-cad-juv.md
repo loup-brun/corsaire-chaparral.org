@@ -2,11 +2,11 @@
 title: "Championnats provinciaux benjamins-cadets-juvéniles"
 date: "2017-07-15"
 icon: calendar
-menu:
-  main:
-    identifier: championnats-provinciaux
-    weight: 0
-    parent: competitions
+#menu:
+#  main:
+#    identifier: championnats-provinciaux
+#    weight: 0
+#    parent: competitions
 published: false
 ---
 

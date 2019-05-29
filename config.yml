@@ -95,12 +95,6 @@ menu:
     title: Nouvelles
     weight: 30
 
-#  - identifier: resultats
-#    parent : competitions
-#    title: Résultats
-#    url: '/resultats/'
-#    weight: 10
-
 #  - identifier: coch-invitation
 #    title: Corsaire-Chaparral Invitation
 #    url: '/competitions/corsaire-chaparral-invitation/'

@@ -4,11 +4,11 @@ date: "2019-06-29"
 icon: calendar
 description : >
   Le club d'athlétisme Corsaire-Chaparral organise annuellement sa compétition estivale avec, au programme, un ensemble d'épreuves pour les athlètes de catégories benjamine à senior.
-menu:
-  main:
-    identifier: coch-invitation
-    weight: 0
-    parent: competitions
+#menu:
+#  main:
+#    identifier: coch-invitation
+#    weight: 0
+#    parent: competitions
 ---
 
 {{% decompte title="Fin des inscriptions en ligne dans" time="2019-06-17 23:59:59" %}}
