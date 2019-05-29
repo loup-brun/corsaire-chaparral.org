@@ -26,6 +26,8 @@ params:
   email: corsairechaparal@hotmail.com
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
+  stripePublicKey: pk_live_ccR6ujsv04d7TjBjRvVBgFvn
+  apiUrl: https://api.corsaire-chaparral.org/v1/payment/new
 #  annonce: >
 #    ANNULATION D'ENTRAÎNEMENT LUNDI 8 AVRIL – En raison d'une panne d'électricité, l’entraînement à la Polyvente Ste-Thérèse est annulé.
 sectionPagesMenu: main

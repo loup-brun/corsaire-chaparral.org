@@ -88,7 +88,7 @@
   function setupStripeElements() {
 
     // Create a new stripe instance with the publishable key
-    var stripe = Stripe('pk_live_ccR6ujsv04d7TjBjRvVBgFvn');
+    var stripe = Stripe(window.STRIPE_PK);
 
     var elements = stripe.elements({
       // Stripe's examples are localized to specific languages, but if
@@ -365,7 +365,7 @@
     var submitEmail = fieldsetStep1.querySelector('#paiement-inscription-email').value;
 
     nanoajax.ajax({
-      url: 'https://api.corsaire-chaparral.org/v1/payment/new',
+      url: window.COCH_API_URL,
       method: 'POST',
       cors: true,
       body: 'stripeToken=' + token.id +

@@ -40,6 +40,10 @@
     {{ end }}
 
     <script>
+      // Globals
+      window.STRIPE_PK = {{ $.Site.Params.stripePublicKey }};
+      window.COCH_API_URL = {{ $.Site.Params.apiUrl }};
+
       (function(head) {
         head.load([
           {{ $vendorJS := resources.Get "scripts/vendor.js" | resources.Minify }}
