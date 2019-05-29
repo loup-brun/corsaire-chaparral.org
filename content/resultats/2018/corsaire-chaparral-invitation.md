@@ -1,6 +1,5 @@
 ---
 title: "Corsaire-Chaparral Invitation 2018"
-categories: Résultats
 date: "2018-06-30"
 icon: assignment
 ---

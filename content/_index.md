@@ -126,15 +126,19 @@ images:
 - /img/coch-dos.jpg
 ---
 
+<a href="/resultats/direct/" class="btn btn-secondary text-center">
+![Logo RSEQ](/resultats/logo-rseq.jpg)  
+<span class="h1 no-margin">🔥 Résultats en direct</span>
+</a>
+
 <a href="/competitions/crepuscules/crepuscule-2/" class="link-unstyled">
 ![Crépuscule COCH #2](/competitions/crepuscules/crepuscule2-carre-sm.png)
 </a>
 
-<a href="/initiation-course-mise-en-forme/" class="link-unstyled">
-<img src="/img/promo-clinique-course.jpg" alt="Nouveau! Clinique d’initiation à la course à pied et mise en forme" />
-</a> 
- 
 <a href="/camp-de-jour/" class="link-unstyled">
 <img src="/img/camp-jour-athletisme.jpg" alt="Camp de jour 2019" />
 </a> 
 
+<a href="/initiation-course-mise-en-forme/" class="link-unstyled">
+<img src="/img/promo-clinique-course.jpg" alt="Nouveau! Clinique d’initiation à la course à pied et mise en forme" />
+</a> 

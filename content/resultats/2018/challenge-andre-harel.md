@@ -1,6 +1,5 @@
 ---
 title: Challenge André-Harel 2018
-categories: Résultats
 date: "2018-02-03"
 icon: assignment
 ---

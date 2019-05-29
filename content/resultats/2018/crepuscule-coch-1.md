@@ -1,6 +1,5 @@
 ---
 title: "Crépuscule COCH #1 2018"
-categories: Résultats
 date: "2018-05-23"
 icon: assignment
 ---

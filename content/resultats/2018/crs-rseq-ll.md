@@ -1,6 +1,5 @@
 ---
 title: "CRS athlétisme RSEQ-LL 2018"
-categories: Résultats
 date: "2018-05-29"
 icon: assignment
 ---

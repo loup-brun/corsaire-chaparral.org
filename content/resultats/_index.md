@@ -1,14 +1,14 @@
 ---
-title: Résultats
+title: "Résultats"
 icon: assignment
 menu:
   main:
-    identifier: resultats-collection
-    title: Résultats
+    identifier: resultats-all
     parent: competitions
-    weight: 10
-    url: '/resultats/'
-
+    title: "Résultats"
 ---
 
-<!--[Résultats en direct](direct) _(dernière compétition : Corsaire-Chaparral Invitation)_-->
+<a href="/resultats/direct/" class="btn btn-secondary text-center">
+![Logo RSEQ](logo-rseq.jpg)  
+<span class="h1 no-margin">🔥 Résultats en direct</span>
+</a>
