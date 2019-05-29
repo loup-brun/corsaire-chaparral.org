@@ -7,7 +7,7 @@ help:
 	@echo "  build-staging   Build the site with *staging* configuration"
 
 serve:
-	hugo serve --disableFastRender
+	hugo serve --disableFastRender --config=config.yml,config.staging.yml
 
 build:
 	hugo '--minify'
