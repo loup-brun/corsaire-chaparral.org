@@ -1,10 +1,10 @@
 ---
-title: "Championnats québécois junior-senior-para 2019"
-slug: championnats-quebecois-junior-senior-para-2019
+title: "Championnats québécois de pentathlon benjamin-cadet 2019"
+slug: championnats-quebecois-pentathlon-2019
 date: 2019-07-06
 icon: calendar
 description: >
-  Les championnats québécois junior, senior et para se tiendront à Sainte-Thérèse du 6 au 7 juillet 2019, ainsi que les [Championnats canadiens vétéran](/competitions/championnats-canadiens-veteran-2019) du 5 au 7 juillet 2019 et les [Championnats québécois de pentathlon benjamin-cadet](/competitions/championnats-quebecois-pentathlon-2019/).
+  Les championnats québécois de pentathlon pour les benjamins et cadets se tiendront à Sainte-Thérèse le 6 juillet 2019, en même temps que les [Championnats québécois junior-senior-para](/competitions/championnats-quebecois-junior-senior-para-2019/) du 6 au 7 juillet 2019.
 #menu:
 #  main:
 #    identifier: championnats-provinciaux
@@ -14,8 +14,8 @@ description: >
 
 ## Informations générales
 
-**Dates :**  
-Samedi 6 et dimanche 7 juillet 2019
+**Date :**  
+Samedi 6 juillet 2019
 
 **Emplacement :**  
 Stade d’athlétisme Richard-Garneau  
@@ -25,7 +25,7 @@ Sainte-Thérèse QC
 J7E 4S4
 ```
 
-Téléchargez le [paquet technique](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/document-technique-championnats-quebecois-jun-sen-para-2019.pdf) et la [liste des hôtels à tarif préférentiel](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/hotels-championnats-qc-2019.pdf).
+Téléchargez le [paquet technique](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/document-technique-championnats-quebecois-pentathlon-ben-cad-2019.pdf) et la [liste des hôtels à tarif préférentiel](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/hotels-championnats-qc-2019.pdf).
 
 **Personnel de contact :**  
 
