@@ -23,14 +23,14 @@ icon: calendar
 - En ligne : **15,00 $** par épreuve individuelle _(date limite lundi 17 juin 23 h 59)_
 - Sur place : **20,00 $** par épreuve individuelle _(jusqu’à 18 h 00, argent comptant seulement)_
 
-<a class="btn btn-default disabled" target="_blank">Inscription *(à venir!)* <span class="icon icon-pencil"></span></a>
+<a class="btn btn-primary" target="_blank" href="https://avs-sport.com/inscriptions.php?comp=391&user=None&key=">Inscription <span class="icon icon-pencil"></span></a>
 
 ## Épreuves
 
 - 80m
 - 100m
 - 1500m
-- 3000m marche
+- 1500+3000m marche
 - disque
 - marteau
 - javelot

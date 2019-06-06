@@ -126,11 +126,6 @@ images:
 - /img/coch-dos.jpg
 ---
 
-<a href="/resultats/direct/" class="btn btn-secondary text-center">
-![Logo RSEQ](/resultats/logo-rseq.jpg)  
-<span class="h1 no-margin">🔥 Résultats en direct</span>
-</a>
-
 <a href="/competitions/crepuscules/crepuscule-2/" class="link-unstyled">
 ![Crépuscule COCH #2](/competitions/crepuscules/crepuscule2-carre-sm.png)
 </a>
