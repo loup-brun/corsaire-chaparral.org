@@ -11,8 +11,6 @@ images:
 #    weight: 0
 ---
 
-{{% decompte title="Fin des inscriptions en ligne dans" time="2019-06-03 23:59:59" %}}
-
 ## Informations générales
 
 - **Date** : mercredi 5 juin 2019
