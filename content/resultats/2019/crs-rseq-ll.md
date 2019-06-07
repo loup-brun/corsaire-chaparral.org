@@ -167,13 +167,14 @@ Epreuve 8  Hommes 110 Metres Haies 36po Juvénile
   5 Désilets, Emanuel            HJ                       17.85   NWI  2 
   6 Ben Hadj Salah, Mohamed      CLA                      18.45   NWI  2 
   7 Daunais, Benjamin            CLA                      18.80   NWI  2 
-  8 Riopel, Emeric               CEB                      18.80   NWI  2 
+  8 Riopel, Emeric               CEB                      18.80   NWI  2
   9 Guegano, Christophe          ETS                      19.15   NWI  1 
  10 Achille, Kenley              AMI                      19.92   NWI  1 
- 11 Esquivel-Fortin, Matthew     AMI                      21.37   NWI  1 
- 12 Edmond, Terry                CIT                      22.45   NWI  1 
- 13 Turcot, Jérémie              DLR                      22.67   NWI  1 
- 14 Bériau, Benjamin             CIT                      27.12   NWI  1 
+ 11 Tanguay, Mathieu             ETS                      20.10   NWI  2
+ 12 Esquivel-Fortin, Matthew     AMI                      21.37   NWI  1 
+ 13 Edmond, Terry                CIT                      22.45   NWI  1 
+ 14 Turcot, Jérémie              DLR                      22.67   NWI  1 
+ 15 Bériau, Benjamin             CIT                      27.12   NWI  1 
  
 Epreuve 9  Femmes 2000 Metres Demi-fond Cadette
 ===================================================================
@@ -1154,19 +1155,20 @@ Epreuve 40  Hommes 4x100 Metres Relais Cadette
      1) Reboredo, Nathan                2) Trudel, Zachary                
      3) Marcotte, Raphaël               4) Fortuné, Shunley Ralph Andrew  
   3 Esc  'A'                                              52.41   1 
-  4 Pst  'A'                                              54.51   1 
+  4 Gab  'A'                                              53.34   1 
+  5 Pst  'A'                                              54.51   1 
      1) Polverari, Mathéo               2) Benoit, Jean-Christophe        
      3)                                 4) Gervais-Ethier, Brian          
-  5 Prel  'A'                                             54.80   1 
+  6 Prel  'A'                                             54.80   1 
      1) Lachance, Rafael                2) Boisvert, Mathis               
      3) Santos, Samuel                  4) Mérette, Jacob                 
-  6 Jbm  'A'                                              55.41   2 
+  7 Jbm  'A'                                              55.41   2 
      1) Dionne, Louis-Marc              2) Badibanga Brian, Divin         
      3) Casu, Thomas                    4) Diop, El Hadj Saliou           
-  7 Hor  'A'                                              55.44   2 
+  8 Hor  'A'                                              55.44   2 
      1) Lambert, Hugo                   2) Couture, Joseph                
      3) Gagnon, Thomas                  4) Germain, Alec                  
-  8 Eshm  'A'                                             57.71   2 
+  9 Eshm  'A'                                             57.71   2 
      1) Jérémy-Jefferson, Étienne       2) Mauvais, Belucci               
      3) Gakwerere, Trevy                4) Eveillard, Jean-Alvin          
  -- Css  'A'                                                 DQ   2 
