@@ -125,10 +125,12 @@ featuredPhotos:
 images:
 - /img/coch-dos.jpg
 ---
+<!--
 
 <a href="/competitions/crepuscules/crepuscule-2/" class="link-unstyled">
 ![Crépuscule COCH #2](/competitions/crepuscules/crepuscule2-carre-sm.png)
 </a>
+-->
 
 <a href="/camp-de-jour/" class="link-unstyled">
 <img src="/img/camp-jour-athletisme.jpg" alt="Camp de jour 2019" />

@@ -1,19 +1,19 @@
 ---
-title: "CRS athlétisme RSEQ-LL 2019"
+title: "Résultats complets - CRS athlétisme secondaire RSEQ-LL 2019"
 date: "2019-05-28"
 icon: assignment
+weight: 100
 ---
 
+[Retour au sommaire](../)
 
-## Résultats compilés (Laurentides, Lanaudière, Laval)
-
-[Bannières](https://assets.corsaire-chaparral.org/competitions/2019/rseq-ll-bannieres.pdf)
+## Résultats complets (Laurentides, Lanaudière, Laval)
 
 ```
 
 
 Licensed to Club D'Athletisme Corsaire - Chaparal
-                                       HY-TEK's Meet Manager 5/28/2019 09:30 PM
+                                        HY-TEK's Meet Manager 6/8/2019 12:47 PM
                CRS athlétisme extérieur RSEQ LL 2019 - 5/28/2019               
                       Stade d'athlétisme Richard-Garneau                       
                                    Resultats                                   
@@ -73,17 +73,17 @@ Epreuve 3  Femmes 80 Metres Haies 30po Benjamine
   5 Ménard, Justine              EPJ                      15.22   NWI  2 
   6 Gervais, Audrey              ESC                      16.13  +0.0  3 
   7 Beauséjour, Maeva            ESC                      16.17  +0.0  3 
-  8 Duguay, Marianne             GAB                      16.52   NWI  1 
+  8 Duguay, Marianne             GAB                      16.52  +0.0  1 
   9 Joyal, Justine               ETS                      17.25  +0.0  3 
- 10 Lamy, Annie-Pier             GV                       17.27   NWI  1 
- 11 Gignac, Léanika              FL                       17.46   NWI  1 
+ 10 Lamy, Annie-Pier             GV                       17.27  +0.0  1 
+ 11 Gignac, Léanika              FL                       17.46  +0.0  1 
  12 Plouffe, Béatrice            FL                       17.65  +0.0  3 
  13 Bourque, Léanne              CL                       18.07  +0.0  3 
  14 Garnenkov, Annie             CL                       18.38  +0.0  3 
  15 Karch, Constance             CIT                      19.07   NWI  2 
  16 Atehortua, Villada  Vale     ODJ                      19.13   NWI  2 
  17 Ladouceur, Noémie            EPJ                      21.86   NWI  2 
- 18 Bernier, Laurence            CIT                      22.94   NWI  1 
+ 18 Bernier, Laurence            CIT                      22.94  +0.0  1 
  
 Epreuve 4  Hommes 80 Metres Haies 30po Benjamine
 ========================================================================
@@ -95,66 +95,66 @@ Epreuve 4  Hommes 80 Metres Haies 30po Benjamine
   4 Lesieur-Martel, Maxime       CL                       16.11   NWI  2 
   5 Jabrane, Yassine             CLA                      16.24   NWI  2 
   6 Major, Félix                 ESC                      16.37   NWI  2 
-  7 Boutin, Zack                 AMI                      16.88   NWI  1 
+  7 Boutin, Zack                 AMI                      16.88  +0.0  1 
   8 Lemieux, Elliot              PST                      16.97   NWI  2 
-  9 Rousseau, Andy               CIT                      17.04   NWI  1 
- 10 Sivananthasothy, Yathaar     CIT                      17.18   NWI  1 
- 11 Trudel, Alexis               EPJ                      17.44   NWI  1 
- 12 Boisclair, Thomas            AMI                      18.41   NWI  1 
+  9 Rousseau, Andy               CIT                      17.04  +0.0  1 
+ 10 Sivananthasothy, Yathaar     CIT                      17.18  +0.0  1 
+ 11 Trudel, Alexis               EPJ                      17.44  +0.0  1 
+ 12 Boisclair, Thomas            AMI                      18.41  +0.0  1 
  13 Fiola, Justin                GAB                      19.38   NWI  2 
  
 Epreuve 5  Femmes 80 Metres Haies 30po Cadette
 ========================================================================
     Nom                    Annee Club                   Finales  Vent H#
 ========================================================================
-  1 Gervais, Laurie              ESC                      13.34   NWI  3 
-  2 Longin, Ashley               ETS                      15.23   NWI  3 
-  3 Jacques, Alexiane            CLA                      15.29   NWI  2 
-  4 Moubayed, Léa                CL                       15.77   NWI  1 
-  5 Rouleau, Ophélie             ESHM                     15.84   NWI  2 
-  6 Duchaine, Mia                EPJ                      15.92   NWI  2 
-  7 Ndong, Orianne Mako          JBM                      16.42   NWI  3 
-  8 Beauchemin, Rosalie          FL                       16.57   NWI  3 
-  9 H Sane, Hiba                 SMAR                     16.67   NWI  2 
- 10 St-Georges, Ève              ESC                      16.86   NWI  3 
- 11 Maddi, Lyna                  CSS                      17.47   NWI  3 
- 12 Barrette, Rosie              FL                       17.49   NWI  3 
- 13 Boulé, Émmy                  HOR                      17.58   NWI  2 
- 14 Sanogo, Kaëlie Beha Inès     GV                       19.48   NWI  1 
- 15 Chaabane, Aïsha              CL                       20.20   NWI  1 
+  1 Gervais, Laurie              ESC                      13.34  +0.0  3 
+  2 Longin, Ashley               ETS                      15.23  +0.0  3 
+  3 Jacques, Alexiane            CLA                      15.29  +0.0  2 
+  4 Moubayed, Léa                CL                       15.77  +0.0  1 
+  5 Rouleau, Ophélie             ESHM                     15.84  +0.0  2 
+  6 Duchaine, Mia                EPJ                      15.92  +0.0  2 
+  7 Ndong, Orianne Mako          JBM                      16.42  +0.0  3 
+  8 Beauchemin, Rosalie          FL                       16.57  +0.0  3 
+  9 H Sane, Hiba                 SMAR                     16.67  +0.0  2 
+ 10 St-Georges, Ève              ESC                      16.86  +0.0  3 
+ 11 Maddi, Lyna                  CSS                      17.47  +0.0  3 
+ 12 Barrette, Rosie              FL                       17.49  +0.0  3 
+ 13 Boulé, Émmy                  HOR                      17.58  +0.0  2 
+ 14 Sanogo, Kaëlie Beha Inès     GV                       19.48  +0.0  1 
+ 15 Chaabane, Aïsha              CL                       20.20  +0.0  1 
  
 Epreuve 6  Femmes 100 Metres Haies 30po Juvénile
 ========================================================================
     Nom                    Annee Club                   Finales  Vent H#
 ========================================================================
-  1 St-Germain, Maoly            PREL                     14.88   NWI  1 
-  2 Gauthier, Alexe              ESC                      15.91   NWI  2 
-  3 Trudel, Meagan               JBM                      16.63   NWI  1 
-  4 Roberge, Alyssa              CEB                      19.17   NWI  1 
-  5 Boucher, Érianne             CLA                      19.56   NWI  2 
-  6 Ndong, Patience-Michelle     JBM                      21.01   NWI  2 
-  7 Charron, Magalie             ESC                      21.50   NWI  2 
+  1 St-Germain, Maoly            PREL                     14.88  +0.0  1 
+  2 Gauthier, Alexe              ESC                      15.91  +0.0  2 
+  3 Trudel, Meagan               JBM                      16.63  +0.0  1 
+  4 Roberge, Alyssa              CEB                      19.17  +0.0  1 
+  5 Boucher, Érianne             CLA                      19.56  +0.0  2 
+  6 Ndong, Patience-Michelle     JBM                      21.01  +0.0  2 
+  7 Charron, Magalie             ESC                      21.50  +0.0  2 
  
 Epreuve 7  Hommes 100 Metres Haies 33po Cadette
 ========================================================================
     Nom                    Annee Club                   Finales  Vent H#
 ========================================================================
-  1 Bayard-Fournier, Émerick     GV                       14.38   NWI  3 
-  2 Dimopoulos, Manoli           CLA                      15.87   NWI  3 
-  3 Matos Espiritusanto, Car     PDM                      16.74   NWI  3 
-  4 Diop, El Hadj Saliou         JBM                      17.34   NWI  3 
-  5 Ashton, Shawn                ETS                      17.50   NWI  2 
-  6 Catellier, François          CL                       17.63   NWI  2 
-  7 Piccione, Estéban            CL                       18.34   NWI  2 
-  8 Hartley, Matt                ESC                      18.54   NWI  3 
-  9 Valcin, Adam                 CLA                      19.02   NWI  3 
- 10 Couture, Joseph              HOR                      19.09   NWI  1 
- 11 Tremblay, Rémi               ESC                      19.98   NWI  3 
- 11 Santos, Samuel               PREL                     19.98   NWI  1 
- 13 Loumany, Jad                 SMAR                     21.37   NWI  1 
- 14 Waite, Jordan                GAB                      21.72   NWI  2 
- 15 Mouhajer, Khaled             SMAR                     22.98   NWI  1 
- -- Corbeil, Lucas               PREL                       DNF   NWI  2 
+  1 Bayard-Fournier, Émerick     GV                       14.38  +0.0  3 
+  2 Dimopoulos, Manoli           CLA                      15.87  +0.0  3 
+  3 Matos Espiritusanto, Car     PDM                      16.74  +0.0  3 
+  4 Diop, El Hadj Saliou         JBM                      17.34  +0.0  3 
+  5 Ashton, Shawn                ETS                      17.50  +0.0  2 
+  6 Catellier, François          CL                       17.63  +0.0  2 
+  7 Piccione, Estéban            CL                       18.34  +0.0  2 
+  8 Hartley, Matt                ESC                      18.54  +0.0  3 
+  9 Valcin, Adam                 CLA                      19.02  +0.0  3 
+ 10 Couture, Joseph              HOR                      19.09  +0.0  1 
+ 11 Tremblay, Rémi               ESC                      19.98  +0.0  3 
+ 11 Santos, Samuel               PREL                     19.98  +0.0  1 
+ 13 Loumany, Jad                 SMAR                     21.37  +0.0  1 
+ 14 Waite, Jordan                GAB                      21.72  +0.0  2 
+ 15 Mouhajer, Khaled             SMAR                     22.98  +0.0  1 
+ -- Corbeil, Lucas               PREL                       DNF  +0.0  2 
  
 Epreuve 8  Hommes 110 Metres Haies 36po Juvénile
 ========================================================================
@@ -162,19 +162,19 @@ Epreuve 8  Hommes 110 Metres Haies 36po Juvénile
 ========================================================================
   1 Ceant, Jordy Cruff Fredl     JBM                      15.87   NWI  2 
   2 Di Genova, David             ESC                      17.25   NWI  2 
-  3 Sillon, Jacob                CSS                      17.79   NWI  1 
+  3 Sillon, Jacob                CSS                      17.79  +0.0  1 
   4 Lallier, Nicolas             ESC                      17.80   NWI  2 
   5 Désilets, Emanuel            HJ                       17.85   NWI  2 
   6 Ben Hadj Salah, Mohamed      CLA                      18.45   NWI  2 
   7 Daunais, Benjamin            CLA                      18.80   NWI  2 
-  8 Riopel, Emeric               CEB                      18.80   NWI  2
-  9 Guegano, Christophe          ETS                      19.15   NWI  1 
- 10 Achille, Kenley              AMI                      19.92   NWI  1 
- 11 Tanguay, Mathieu             ETS                      20.10   NWI  2
- 12 Esquivel-Fortin, Matthew     AMI                      21.37   NWI  1 
- 13 Edmond, Terry                CIT                      22.45   NWI  1 
- 14 Turcot, Jérémie              DLR                      22.67   NWI  1 
- 15 Bériau, Benjamin             CIT                      27.12   NWI  1 
+  8 Riopel, Emeric               CEB                      18.80   NWI  2 
+  9 Guegano, Christophe          ETS                      19.15  +0.0  1 
+ 10 Achille, Kenley              AMI                      19.92  +0.0  1 
+ 11 Tanguay, Mathieu             ETS                      20.10   NWI  2 
+ 12 Esquivel-Fortin, Matthew     AMI                      21.37  +0.0  1 
+ 13 Edmond, Terry                CIT                      22.45  +0.0  1 
+ 14 Turcot, Jérémie              DLR                      22.67  +0.0  1 
+ 15 Bériau, Benjamin             CIT                      27.12  +0.0  1 
  
 Epreuve 9  Femmes 2000 Metres Demi-fond Cadette
 ===================================================================
@@ -1052,160 +1052,77 @@ Epreuve 37  Femmes 4x100 Metres Relais Benjamine
     Club                                                Finales  H#
 ===================================================================
   1 Ast  'A'                                              58.31   1 
-     1) Dubé, Carol-Ann                 2) Patry-Ménard, Jade             
-     3)                                 4) Mentor, Anaël                  
   2 CL  'A'                                               59.31   2 
-     1) Raileanu, Daniela               2) Villeneuve, Mia                
-     3) Fillion, Florence               4) Fortier, Béatrice              
   3 Ets  'A'                                              59.88   2 
-     1) Ghobris, Nisrine                2) Joyal, Justine                 
-     3) Baillargeon, Josiane            4) Beauvais, Lily-Morgane         
   4 FL  'A'                                             1:00.76   2 
-     1) Normand, Abygaelle              2) Fortin, Rosemarie              
-     3) Plouffe, Béatrice               4) Sami, Maya                     
   5 Esm  'A'                                            1:01.49   1 
-     1) Alvaro, Eliane                  2) Bélanger, Mathilde             
-     3) Fortin, Rosalie                 4) Goulet, Maxim                  
   6 Esc  'A'                                            1:01.53   1 
-     1) Beauséjour, Maeva               2) Gervais, Audrey                
-     3) Progakis, Orthodoxia            4) Fraygui, Safia                 
   7 Cla  'A'                                            1:03.51   1 
-     1) Yimga Tchouya, Ilse Dulcie      2) Dénommé, Frédérique            
-     3) Vaes, Magali                    4) Marin, Justine                 
   8 Css  'A'                                            1:04.26   2 
-     1) Rannou, Isabella                2) Laroche, Élisabeth             
-     3) Proulx, Justine                 4) Garant, Arielle                
   9 Gab  'A'                                            1:07.66   1 
-     1) Coolidge, Arielle               2) Tessier, Florence              
-     3) Gagnon, Eve                     4) Duguay, Marianne               
  10 Jbm  'A'                                            1:09.87   2 
-     1) Bénédict, Ruth                  2) Gervais, Laurie                
-     3)                                 4) Alaoui Azizi, Aya              
  
 Epreuve 38  Hommes 4x100 Metres Relais Benjamine
 ================================================================
     Club                                                Finales 
 ================================================================
   1 Ast  'A'                                              58.24  
-     1) Clouâtre, Mathieu               2) Boulanger Rezende, Philippe    
-     3) Poulin, William                 4) Bessette, Maïk                 
   2 Cla  'A'                                              58.67  
   3 Hor  'A'                                              59.63  
-     1) Cossette, Xavier                2) Pinet-Cayer, Thomas            
-     3) Thérien, Zack                   4) Corriveau-Koud, Noah           
   4 Css  'A'                                            1:00.83  
-     1) Wilson, Shawn                   2) Denoyer, Jhoris                
-     3) Renaud, Émile                   4) Skoulakis, Johnny              
   5 Gab  'A'                                            1:01.94  
-     1) Fiola, Justin                   2) Villeneuve, Nicolas            
-     3) Boulanger-Trottier, Justin      4) Langlais, Thomas               
  -- Ami  'A'                                                 DQ  
-     1) Bissonnette, Antoine            2) Martin-Rodrigues, Raphaël      
-     3) Noel, Léo-Pierre                4) Aubut, Tommy                   
  -- Esc  'A'                                                 DQ  
-     1) Pitre, Félix                    2) Pierre, Christian-Fritz        
-     3) Jutras, Éloi                    4) Saintilus, Vyncekarl-Fenley    
  
 Epreuve 39  Femmes 4x100 Metres Relais Cadette
 ===================================================================
     Club                                                Finales  H#
 ===================================================================
   1 Cla  'A'                                              54.97   2 
-     1) Jacques, Alexiane               2) Rivest, Léanne                 
-     3) Gauthier, Érika                 4) Girard, Yasmine                
   2 FL  'A'                                               57.80   2 
-     1) Boucher, Kelly-Anne             2) Coutu, Sarah                   
-     3) Joly, Maïka                     4) Bordeleau, Jade                
   3 Jbm  'A'                                              58.90   1 
-     1) Simba, Noella Lumeta            2) Ndong, Orianne Mako            
-     3) Tejada-Hammer, Mélanie          4) Millien-Amazan, Jodie          
   4 Esc  'A'                                              59.50   2 
-     1) Roy, Maélie                     2) Dionne, Emy                    
-     3) Doucet, Justine                 4) Gervais, Laurie                
   5 Hor  'A'                                            1:00.16   2 
-     1) Soufiane, Aya                   2) Caron, Lya M.                  
-     3) Boulé, Émmy                     4) Bougie, Gabrielle              
   6 Odj  'A'                                            1:01.79   1 
-     1) Simard, Alexiane                2) Atehortua, Villada  Valentina  
-     3) Sebti, Anaïs                    4) Pierre, Mary Rosina            
   7 Pst  'A'                                            1:02.23   1 
-     1) Bertoli, Marie-Anne             2) Costa, Annabelle               
-     3) Giba, Vanessa                   4) Joly, Elyka                    
   8 Ceb  'A'                                            1:02.86   1 
-     1) Desjardins-Hill, Arianne        2) Garon, Élodie                  
-     3) Archambault, Romane             4) Haddad, Érika                  
  -- CL  'A'                                                 DNF   2 
-     1) Moubayed, Léa                   2) Péladeau-Desjardins, Juliette  
-     3) Caron, Pénélope                 4) Ulysse, Maria Thérésa          
  -- Css  'A'                                                 DQ   2 
-     1) Corbeil, Chloé                  2) Monier, Jeannine Anabella      
-     3) Maddi, Lyna                     4) Jacques, Alexa                 
  -- Ets  'A'                                                 DQ   1 
-     1) Longin, Ashley                  2) Lefebvre, Mélodie              
-     3) Chauvette, Léanne               4) Vincent, Delphine              
  
 Epreuve 40  Hommes 4x100 Metres Relais Cadette
 ===================================================================
     Club                                                Finales  H#
 ===================================================================
   1 Cla  'A'                                              50.33   2 
-     1) Dimopoulos, Manoli              2) François, Cory                 
-     3) Lauzon, Vincent                 4) Lafayette Pierre, Jesse        
   2 FL  'A'                                               51.12   1 
-     1) Reboredo, Nathan                2) Trudel, Zachary                
-     3) Marcotte, Raphaël               4) Fortuné, Shunley Ralph Andrew  
   3 Esc  'A'                                              52.41   1 
-  4 Gab  'A'                                              53.34   1 
+  4 Gab  'A'                                              53.34   2 
   5 Pst  'A'                                              54.51   1 
-     1) Polverari, Mathéo               2) Benoit, Jean-Christophe        
-     3)                                 4) Gervais-Ethier, Brian          
   6 Prel  'A'                                             54.80   1 
-     1) Lachance, Rafael                2) Boisvert, Mathis               
-     3) Santos, Samuel                  4) Mérette, Jacob                 
   7 Jbm  'A'                                              55.41   2 
-     1) Dionne, Louis-Marc              2) Badibanga Brian, Divin         
-     3) Casu, Thomas                    4) Diop, El Hadj Saliou           
   8 Hor  'A'                                              55.44   2 
-     1) Lambert, Hugo                   2) Couture, Joseph                
-     3) Gagnon, Thomas                  4) Germain, Alec                  
-  9 Eshm  'A'                                             57.71   2 
-     1) Jérémy-Jefferson, Étienne       2) Mauvais, Belucci               
-     3) Gakwerere, Trevy                4) Eveillard, Jean-Alvin          
- -- Css  'A'                                                 DQ   2 
-     1) Schindler-Bêty, Antoine         2) D'Amour, Alexis                
-     3) Hogue, Nicolas                  4) Hedidor, Bessil                
+  9 Css  'A'                                              55.55   2 
+ 10 CL  'A'                                               55.99   2 
+ 11 Eshm  'A'                                             57.71   2 
  
 Epreuve 41  Femmes 4x100 Metres Relais Juvénile
 ================================================================
     Club                                                Finales 
 ================================================================
   1 Ast  'A'                                              52.59  
-     1) Finnerty, Ève                   2) Racine-Prud'Homme, André-Anne  
-     3) Quiniou, Emma                   4) Bitar, Melissa                 
   2 Esc  'A'                                              54.08  
-     1) Lambert, Justine                2) Bellerose, Laurence            
-     3) Simon-Desloges, Mylaa           4) Gauthier, Alexe                
   3 Jbm  'A'                                              55.38  
-     1) Quidoz, Audrey                  2) Ndong, Patience-Michelle       
-     3) Edstrom, Léanne                 4) Peterson, Marilou              
   4 Ceb  'A'                                              59.04  
-     1) Mayer, Maïka                    2) Morissette, Catherine          
-     3) Pouliot, Maelle                 4) Roberge, Alyssa                
   5 FL  'A'                                               59.96  
-     1) Paré, Savannah                  2) Bellemare, Alicia              
-     3) Fortin, Julianne                4) Legault, Alyssa                
  
 Epreuve 42  Hommes 4x100 Metres Relais Juvénile
 ================================================================
     Club                                                Finales 
 ================================================================
   1 Ami  'A'                                              49.05  
-     1) Grenon, Mikaël                  2) Mazerolle, Justin              
-     3) Nyateu, Kemil Georges           4) Régimbald, Marc-Antoine        
   2 Esc  'A'                                              49.30  
   3 Cla  'A'                                              49.91  
-     1) Alcide, Shawn Gabriel           2) Pyrus, Mcryan Trever           
-     3) Ben Hadj Salah, Mohamed Michaal 4) Normil, Shilder                
  -- Hor  'A'                                                 DQ  
  
 Epreuve 43  Femmes 4x400 Metres Relais Juvénile
@@ -1213,8 +1130,6 @@ Epreuve 43  Femmes 4x400 Metres Relais Juvénile
     Club                                                Finales 
 ================================================================
   1 Esc  'A'                                            4:50.56  
-     1) Monchamp-Siew, Aurélie          2) Cantin, Julia                  
-     3) Morin, Matisse                  4) Rochon, Gabrielle              
   2 Css  'A'                                            5:09.22  
  
 Epreuve 44  Hommes 4x400 Metres Relais Juvénile
@@ -1222,17 +1137,9 @@ Epreuve 44  Hommes 4x400 Metres Relais Juvénile
     Club                                                Finales 
 ================================================================
   1 Ets  'A'                                            3:49.54  
-     1) Guegano, Christophe             2) Tanguay, Mathieu               
-     3) Arcand, Samuel                  4) Lefrançois, Xavier             
   2 Esc  'A'                                            3:55.04  
-     1) Jalbert, Charles-Emile          2) Marescot-Gauthier, Laurent     
-     3) Lallier, Nicolas                4) Courtemanche, Maxime           
   3 Eso  'A'                                            4:08.53  
-     1) Labine, Henri                   2) Morin, Charles-Olivier         
-     3) Paquette, Elliot                4) Nadon, Justin                  
   4 Cla  'A'                                            4:14.29  
-     1) Plouffe, Émile                  2) Bigras, Thierry                
-     3) Faucher, Théo                   4) Baril, Mathis                  
  
 Epreuve 53  Femmes Saut en longueur Benjamine
 =====================================================================
