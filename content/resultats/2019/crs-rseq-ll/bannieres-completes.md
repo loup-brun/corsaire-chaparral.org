@@ -13,7 +13,7 @@ weight: 300
 
 
 Licensed to Club D'Athletisme Corsaire - Chaparal
-                                                 HY-TEK's Meet Manager 6/8/2019
+                                                HY-TEK's Meet Manager 6/10/2019
                CRS athlétisme extérieur RSEQ LL 2019 - 5/28/2019               
                       Stade d'athlétisme Richard-Garneau                       
                        Team Rankings - Through Event 80                        
@@ -65,12 +65,12 @@ Licensed to Club D'Athletisme Corsaire - Chaparal
          Position Club                                            Points
        ===================================================================
                 1 Esc                                ESC              67  
-                2 Cla                                CLA              63.5
+                2 Cla                                CLA              64.5
+                3 Hor                                HOR              54  
                 3 CL                                 CL               54  
-                4 Hor                                HOR              52  
-                5 Ets                                ETS              36.5
-                6 Epj                                EPJ              21  
-                7 FL                                 FL               20  
+                5 Ets                                ETS              37.5
+                6 Epj                                EPJ              22  
+                7 FL                                 FL               21  
                 8 Eso1                               ESO1             18  
                 9 Laf                                LAF              16  
                10 Lav                                LAV              15  
@@ -79,14 +79,13 @@ Licensed to Club D'Athletisme Corsaire - Chaparal
                13 Smax                               SMAX              9  
                14 Odj                                ODJ               8  
                15 GV                                 GV                7.5
-               16 Ast                                AST               7  
-               17 Pst                                PST               6  
+               16 Pst                                PST               7  
                17 Gab                                GAB               6  
-               19 Eshm                               ESHM              4.5
-               20 Fren                               FREN              4  
-               21 Css                                CSS               2  
-               22 Smar                               SMAR              1  
-               22 Ceb                                CEB               1  
+               18 Eshm                               ESHM              4.5
+               19 Fren                               FREN              4  
+               20 Css                                CSS               2  
+               21 Ceb                                CEB               1  
+               21 Smar                               SMAR              1  
  
                     Male Team Scores -  4 Cadette Division                     
          Position Club                                            Points
@@ -105,15 +104,15 @@ Licensed to Club D'Athletisme Corsaire - Chaparal
                12 CL                                 CL               14  
                13 Lav                                LAV              12  
                14 Laf                                LAF              11  
-               15 Epsj                               EPSJ              8  
                15 Jbm                                JBM               8  
-               17 Cap                                CAP               7  
+               15 Epsj                               EPSJ              8  
                17 Prel                               PREL              7  
+               17 Cap                                CAP               7  
                19 Ami                                AMI               6  
                20 Eshm                               ESHM              5.5
                21 HJ                                 HJ                5  
-               21 Pst                                PST               5  
                21 Esdhs                              ESDHS             5  
+               21 Pst                                PST               5  
                24 Epj                                EPJ               4  
                25 Smax                               SMAX              1  
  
@@ -165,5 +164,6 @@ Licensed to Club D'Athletisme Corsaire - Chaparal
                21 Esm                                ESM               5  
                22 Laf                                LAF               3  
                22 Smax                               SMAX              3  
+
 
 ```
