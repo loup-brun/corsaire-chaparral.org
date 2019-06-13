@@ -30,7 +30,7 @@ Le club d'athlétisme Corsaire-Chaparral est heureux d'offrir une nouvelle séri
 [**Crépuscule #3 : mercredi 19 juin 2019**](crepuscule-3/)
 
 - Épreuves :
-  80m, 100m, 1500m, 3000m marche, disque, marteau, javelot, perche, longueur 
+  80m, 100m, 1500m, 1500+3000m marche, relais 4x100m, perche, longueur, javelot, disque, marteau
 
 ## Inscription
 

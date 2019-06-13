@@ -2,7 +2,7 @@
   <figure class="col col-3 tablet-col-4 phone-col-12 text-center">
     {{ if .Params.images }}
     {{ range first 1 .Params.images }}
-    <a href="{{ $.URL }}">
+    <a href="{{ $.Permalink }}">
       <img class="img-responsive" src="{{ . }}" alt="{{ $.Title }}" />
     </a>
     {{ end }}
@@ -16,7 +16,7 @@
       {{ . }}
       {{ end }}
     </small>
-    <h4 class="no-margin"><a href="{{ .URL }}">{{ .Title }}</a></h4>
+    <h4 class="no-margin"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
 
     {{- with .Params.description -}}
       <article class="row-sm">
