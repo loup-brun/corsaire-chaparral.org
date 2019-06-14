@@ -9,6 +9,8 @@ weight: 300
 
 ## Bannières complètes
 
+_Dernière mise à jour : 10 juin 2019_
+
 ```
 
 

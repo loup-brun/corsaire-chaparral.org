@@ -9,6 +9,8 @@ weight: 400
 
 ## Bannières, Laurentides-Lanaudière seulement
 
+_Dernière mise à jour : 8 juin 2019_
+
 ```
 
 
