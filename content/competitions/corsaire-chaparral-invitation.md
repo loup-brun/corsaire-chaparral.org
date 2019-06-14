@@ -11,7 +11,7 @@ description : >
 #    parent: competitions
 ---
 
-{{% decompte title="Fin des inscriptions en ligne dans" time="2019-06-17 23:59:59" %}}
+{{% decompte title="Fin des inscriptions en ligne dans" time="2019-06-24 23:59:59" %}}
 
 ## Informations générales
 
@@ -35,6 +35,12 @@ Veuillez procéder à l'inscription via le site [avs-sport.com](https://avs-spor
 <a href="https://avs-sport.com/display_inscriptions.php?comp=392&user=None&key=" class="btn btn-primary" target="_blank">Inscription <span class="icon icon-pencil"></span></a>
 
 <!--Tel que spécifié dans le document technique, les **inscriptions tardives** seront acceptées sur AVS-Sport jusqu’au **lundi 25 juin à 16 h** moyennant des frais de 50 $ par épreuve. Aucune inscription après cette date. Aucune inscription sans paiement.-->
+
+## Bénévolat
+
+Nous avons besoin de bénévoles! Inscrivez-vous ici :
+
+<a href="https://campagnes.corsaire-chaparral.org/benevolat-coch-invitation-2019" class="btn btn-primary">Formulaire de bénévolat <span class="icon icon-pencil"></span></a>
 
 ## À propos
 

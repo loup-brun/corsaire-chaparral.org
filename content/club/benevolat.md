@@ -26,7 +26,7 @@ Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chap
 | 2019-06-05 | Crépuscule COCH #2 - [Infos](/competitions/crepuscules/crepuscule-2/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-crepuscule-2-2019) |
 | 2019-06-15 | Mini-compétition colibri-minime au stade Richard-Garneau |
 | 2019-06-19 | Crépuscule COCH #3 - [Infos](/competitions/crepuscules/crepuscule-3/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-crepuscule-3-2019) |
-| 2019-06-29 | Corsaire-Chaparral Invitation 2019 – [Infos](/competitions/corsaire-chaparral-invitation) |
+| 2019-06-29 | Corsaire-Chaparral Invitation 2019 – [Infos](/competitions/corsaire-chaparral-invitation) | [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-coch-invitation-2019)
 | 2019-07-05 | Championnats canadiens vétéran 2019 – [Infos](/competitions/championnats-canadiens-veteran-2019/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019) |
 | 2019-07-06 | Championnats québécois 2019 – [Infos](/competitions/championnats-quebecois-junior-senior-para-2019) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019/) |
 
