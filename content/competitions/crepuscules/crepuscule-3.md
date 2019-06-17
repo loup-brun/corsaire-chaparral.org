@@ -11,7 +11,9 @@ images:
 #    weight: 0
 ---
 
-{{% decompte title="Fin des inscriptions en ligne dans" time="2019-06-17 23:59:59" %}}
+[**Voir tous les crépuscules!**](../)
+
+<!--[Résultats](/resultats/2019/crepuscule-coch-3/)-->
 
 ## Informations générales
 
@@ -26,6 +28,8 @@ images:
 - Sur place : **20,00 $** par épreuve individuelle _(jusqu’à 17 h 45, argent comptant seulement)_
 
 <a class="btn btn-primary" target="_blank" href="https://avs-sport.com/inscriptions.php?comp=391">Inscription <span class="icon icon-pencil"></span></a>
+
+_**Athlètes COCH**, inscrivez-vous via notre [formulaire en ligne](https://campagnes.corsaire-chaparral.org/inscription-crepuscule-3-2019)._
 
 ## Épreuves
 
