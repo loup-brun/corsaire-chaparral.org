@@ -9,30 +9,30 @@ weight: 100
 
 ## Résultats complets (Laurentides, Lanaudière, Laval)
 
-_Dernière mise à jour : 13 juin 2019_
+_Dernière mise à jour : 17 juin 2019_
 
 ```
 
 
 Licensed to Club D'Athletisme Corsaire - Chaparal
-                                       HY-TEK's Meet Manager 6/13/2019 05:59 PM
+                                                HY-TEK's Meet Manager 6/17/2019
                CRS athlétisme extérieur RSEQ LL 2019 - 5/28/2019               
                       Stade d'athlétisme Richard-Garneau                       
                                    Resultats                                   
  
 Epreuve 1  Homme 3000 Metres Demi-fond Juvénile
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
 Finales
-  1 Julien, Matisse              AST                    9:27.71   1 
-  2 Graham, Lucas                RHS                    9:31.91   2 
-  3 Rainville, Émile             AAM                    9:53.36   2 
-  4 Marcotte, Antoine            CEB                   10:01.91   2 
-  5 Paquette, Elliot             ESO                   10:20.30   2 
-  6 Poisson, Édouard             AAM                   10:39.58   2 
-  7 Tallard-Lessard, Willian     HJ                    10:41.33   2 
-  8 Palijtchuk, Gaël             ESO                   10:44.20   2 
+  1 Julien, Matisse              AST                    9:27.71   1   9   
+  2 Graham, Lucas                RHS                    9:31.91   2   7   
+  3 Rainville, Émile             AAM                    9:53.36   2   6   
+  4 Marcotte, Antoine            CEB                   10:01.91   2   5   
+  5 Paquette, Elliot             ESO                   10:20.30   2   4   
+  6 Poisson, Édouard             AAM                   10:39.58   2   3   
+  7 Tallard-Lessard, Willian     HJ                    10:41.33   2   2   
+  8 Palijtchuk, Gaël             ESO                   10:44.20   2   1   
   9 Arcand, Samuel               ETS                   10:55.77   2 
  10 Morneau, Guillaume           ETS                   11:15.77   2 
  11 Diwa, Archippe Wasevua       DLR                   11:18.05   1 
@@ -51,31 +51,31 @@ Finales
  23 Auger, William               PREL                  15:16.22   1 
  
 Epreuve 2  Femme 3000 Metres Demi-fond Juvénile
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Boyer, Mérédith              JBM                   10:39.96  
-  2 Dagenais, Emy                ESBJ                  11:39.42  
-  3 Descombes, Catherine         CSS                   11:44.52  
-  4 Cantin, Julia                ESC                   12:01.16  
-  5 Descombes, Sarah             CSS                   12:24.26  
-  6 Clément, Morgane             ESC                   13:11.99  
-  7 Ménard, Gabrielle            LAF                   13:13.79  
-  8 Prémont, Justine             LAF                   13:14.39  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Boyer, Mérédith              JBM                   10:39.96    9   
+  2 Dagenais, Emy                ESBJ                  11:39.42    7   
+  3 Descombes, Catherine         CSS                   11:44.52    6   
+  4 Cantin, Julia                ESC                   12:01.16    5   
+  5 Descombes, Sarah             CSS                   12:24.26    4   
+  6 Clément, Morgane             ESC                   13:11.99    3   
+  7 Ménard, Gabrielle            LAF                   13:13.79    2   
+  8 Prémont, Justine             LAF                   13:14.39    1   
   9 Boisvert, Jade               ETS                   13:33.94  
  
 Epreuve 3  Femmes 80 Metres Haies 30po Benjamine
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Diop, Sofie                  GV                       13.14  +0.0  3 
-  2 Dénommé, Frédérique          CLA                      13.60  +0.0  2 
-  3 Dufour, Meghan               LJA                      13.63  +0.0  2 
-  4 Pierre, Mary Rosina          ODJ                      13.64  +0.0  2 
-  5 Ménard, Justine              EPJ                      15.22  +0.0  2 
-  6 Gervais, Audrey              ESC                      16.13  +0.0  3 
-  7 Beauséjour, Maeva            ESC                      16.17  +0.0  3 
-  8 Duguay, Marianne             GAB                      16.52  +0.0  1 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Diop, Sofie                  GV                       13.14  +0.0  3   9   
+  2 Dénommé, Frédérique          CLA                      13.60  +0.0  2   7   
+  3 Dufour, Meghan               LJA                      13.63  +0.0  2   6   
+  4 Pierre, Mary Rosina          ODJ                      13.64  +0.0  2   5   
+  5 Ménard, Justine              EPJ                      15.22  +0.0  2   4   
+  6 Gervais, Audrey              ESC                      16.13  +0.0  3   3   
+  7 Beauséjour, Maeva            ESC                      16.17  +0.0  3   2   
+  8 Duguay, Marianne             GAB                      16.52  +0.0  1   1   
   9 Joyal, Justine               ETS                      17.25  +0.0  3 
  10 Lamy, Annie-Pier             GV                       17.27  +0.0  1 
  11 Gignac, Léanika              FL                       17.46  +0.0  1 
@@ -88,17 +88,17 @@ Epreuve 3  Femmes 80 Metres Haies 30po Benjamine
  18 Bernier, Laurence            CIT                      22.94  +0.0  1 
  
 Epreuve 4  Hommes 80 Metres Haies 30po Benjamine
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 David, William               CLA                      14.99  +0.0  2 
-  2 Pierre, Christian-Fritz      ESC                      15.49  +0.0  2 
-  3 Trudel, Noah                 PST                      15.52  +0.0  2 
-  4 Lesieur-Martel, Maxime       CL                       16.11  +0.0  2 
-  5 Jabrane, Yassine             CLA                      16.24  +0.0  2 
-  6 Major, Félix                 ESC                      16.37  +0.0  2 
-  7 Boutin, Zack                 AMI                      16.88  +0.0  1 
-  8 Lemieux, Elliot              PST                      16.97  +0.0  2 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 David, William               CLA                      14.99  +0.0  2   9   
+  2 Pierre, Christian-Fritz      ESC                      15.49  +0.0  2   7   
+  3 Trudel, Noah                 PST                      15.52  +0.0  2   6   
+  4 Lesieur-Martel, Maxime       CL                       16.11  +0.0  2   5   
+  5 Jabrane, Yassine             CLA                      16.24  +0.0  2   4   
+  6 Major, Félix                 ESC                      16.37  +0.0  2   3   
+  7 Boutin, Zack                 AMI                      16.88  +0.0  1   2   
+  8 Lemieux, Elliot              PST                      16.97  +0.0  2   1   
   9 Rousseau, Andy               CIT                      17.04  +0.0  1 
  10 Sivananthasothy, Yathaar     CIT                      17.18  +0.0  1 
  11 Trudel, Alexis               EPJ                      17.44  +0.0  1 
@@ -106,17 +106,17 @@ Epreuve 4  Hommes 80 Metres Haies 30po Benjamine
  13 Fiola, Justin                GAB                      19.38  +0.0  2 
  
 Epreuve 5  Femmes 80 Metres Haies 30po Cadette
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Gervais, Laurie              ESC                      13.34  +0.0  3 
-  2 Longin, Ashley               ETS                      15.23  +0.0  3 
-  3 Jacques, Alexiane            CLA                      15.29  +0.0  2 
-  4 Moubayed, Léa                CL                       15.77  +0.0  1 
-  5 Rouleau, Ophélie             ESHM                     15.84  +0.0  2 
-  6 Duchaine, Mia                EPJ                      15.92  +0.0  2 
-  7 Ndong, Orianne Mako          JBM                      16.42  +0.0  3 
-  8 Beauchemin, Rosalie          FL                       16.57  +0.0  3 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Gervais, Laurie              ESC                      13.34  +0.0  3   9   
+  2 Longin, Ashley               ETS                      15.23  +0.0  3   7   
+  3 Jacques, Alexiane            CLA                      15.29  +0.0  2   6   
+  4 Moubayed, Léa                CL                       15.77  +0.0  1   5   
+  5 Rouleau, Ophélie             ESHM                     15.84  +0.0  2   4   
+  6 Duchaine, Mia                EPJ                      15.92  +0.0  2   3   
+  7 Ndong, Orianne Mako          JBM                      16.42  +0.0  3   2   
+  8 Beauchemin, Rosalie          FL                       16.57  +0.0  3   1   
   9 H Sane, Hiba                 SMAR                     16.67  +0.0  2 
  10 St-Georges, Ève              ESC                      16.86  +0.0  3 
  11 Maddi, Lyna                  CSS                      17.47  +0.0  3 
@@ -126,29 +126,29 @@ Epreuve 5  Femmes 80 Metres Haies 30po Cadette
  15 Chaabane, Aïsha              CL                       20.20  +0.0  1 
  
 Epreuve 6  Femmes 100 Metres Haies 30po Juvénile
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 St-Germain, Maoly            PREL                     14.88  +0.0  1 
-  2 Gauthier, Alexe              ESC                      15.91  +0.0  2 
-  3 Trudel, Meagan               JBM                      16.63  +0.0  1 
-  4 Roberge, Alyssa              CEB                      19.17  +0.0  1 
-  5 Boucher, Érianne             CLA                      19.56  +0.0  2 
-  6 Ndong, Patience-Michelle     JBM                      21.01  +0.0  2 
-  7 Charron, Magalie             ESC                      21.50  +0.0  2 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 St-Germain, Maoly            PREL                     14.88  +0.0  1   9   
+  2 Gauthier, Alexe              ESC                      15.91  +0.0  2   7   
+  3 Trudel, Meagan               JBM                      16.63  +0.0  1   6   
+  4 Roberge, Alyssa              CEB                      19.17  +0.0  1   5   
+  5 Boucher, Érianne             CLA                      19.56  +0.0  2   4   
+  6 Ndong, Patience-Michelle     JBM                      21.01  +0.0  2   3   
+  7 Charron, Magalie             ESC                      21.50  +0.0  2   2   
  
 Epreuve 7  Hommes 100 Metres Haies 33po Cadette
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Bayard-Fournier, Émerick     GV                       14.38  +0.0  3 
-  2 Dimopoulos, Manoli           CLA                      15.87  +0.0  3 
-  3 Matos Espiritusanto, Car     PDM                      16.74  +0.0  3 
-  4 Diop, El Hadj Saliou         JBM                      17.34  +0.0  3 
-  5 Ashton, Shawn                ETS                      17.50  +0.0  2 
-  6 Catellier, François          CL                       17.63  +0.0  2 
-  7 Piccione, Estéban            CL                       18.34  +0.0  2 
-  8 Hartley, Matt                ESC                      18.54  +0.0  3 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Bayard-Fournier, Émerick     GV                       14.38  +0.0  3   9   
+  2 Dimopoulos, Manoli           CLA                      15.87  +0.0  3   7   
+  3 Matos Espiritusanto, Car     PDM                      16.74  +0.0  3   6   
+  4 Diop, El Hadj Saliou         JBM                      17.34  +0.0  3   5   
+  5 Ashton, Shawn                ETS                      17.50  +0.0  2   4   
+  6 Catellier, François          CL                       17.63  +0.0  2   3   
+  7 Piccione, Estéban            CL                       18.34  +0.0  2   2   
+  8 Hartley, Matt                ESC                      18.54  +0.0  3   1   
   9 Valcin, Adam                 CLA                      19.02  +0.0  3 
  10 Couture, Joseph              HOR                      19.09  +0.0  1 
  11 Tremblay, Rémi               ESC                      19.98  +0.0  3 
@@ -159,17 +159,17 @@ Epreuve 7  Hommes 100 Metres Haies 33po Cadette
  -- Corbeil, Lucas               PREL                       DNF  +0.0  2 
  
 Epreuve 8  Hommes 110 Metres Haies 36po Juvénile
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Ceant, Jordy Cruff Fredl     JBM                      15.87   NWI  2 
-  2 Di Genova, David             ESC                      17.25   NWI  2 
-  3 Sillon, Jacob                CSS                      17.79  +0.0  1 
-  4 Lallier, Nicolas             ESC                      17.80   NWI  2 
-  5 Désilets, Emanuel            HJ                       17.85   NWI  2 
-  6 Ben Hadj Salah, Mohamed      CLA                      18.45   NWI  2 
-  7 Daunais, Benjamin            CLA                      18.80   NWI  2 
-  8 Riopel, Emeric               CEB                      18.80   NWI  2 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Ceant, Jordy Cruff Fredl     JBM                      15.87   NWI  2   9   
+  2 Di Genova, David             ESC                      17.25   NWI  2   7   
+  3 Sillon, Jacob                CSS                      17.79  +0.0  1   6   
+  4 Lallier, Nicolas             ESC                      17.80   NWI  2   5   
+  5 Désilets, Emanuel            HJ                       17.85   NWI  2   4   
+  6 Ben Hadj Salah, Mohamed      CLA                      18.45   NWI  2   3   
+  7 Daunais, Benjamin            CLA                      18.80   NWI  2   2   
+  8 Riopel, Emeric               CEB                      18.80   NWI  2   1   
   9 Guegano, Christophe          ETS                      19.15  +0.0  1 
  10 Achille, Kenley              AMI                      19.92  +0.0  1 
  11 Tanguay, Mathieu             ETS                      20.10   NWI  2 
@@ -179,17 +179,17 @@ Epreuve 8  Hommes 110 Metres Haies 36po Juvénile
  15 Bériau, Benjamin             CIT                      27.12  +0.0  1 
  
 Epreuve 9  Femmes 2000 Metres Demi-fond Cadette
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Quirion, Camille             HOR                    7:15.19   1 
-  2 Bouchard, Coralie            LAF                    7:19.76   1 
-  3 Galardo-Poitras, Laurenc     HOR                    7:20.95   2 
-  4 Houle, Camélie               ETS                    7:28.27   2 
-  5 Caron, Pénélope              CL                     7:40.90   2 
-  6 Gervais, Kamille             JBM                    7:57.43   2 
-  7 Ethier, Raphaëlle            FL                     7:58.48   2 
-  8 Bergevin, Ariane             SMAR                   7:59.77   1 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Quirion, Camille             HOR                    7:15.19   1   9   
+  2 Bouchard, Coralie            LAF                    7:19.76   1   7   
+  3 Galardo-Poitras, Laurenc     HOR                    7:20.95   2   6   
+  4 Houle, Camélie               ETS                    7:28.27   2   5   
+  5 Caron, Pénélope              CL                     7:40.90   2   4   
+  6 Gervais, Kamille             JBM                    7:57.43   2   3   
+  7 Ethier, Raphaëlle            FL                     7:58.48   2   2   
+  8 Bergevin, Ariane             SMAR                   7:59.77   1   1   
   9 Bergeron, Maude              FL                     8:21.22   2 
  10 Cyr, Mathilde                EPJ                    8:26.90   1 
  11 Rainville, Alex-Ann          JBM                    9:01.07   2 
@@ -199,17 +199,17 @@ Epreuve 9  Femmes 2000 Metres Demi-fond Cadette
  -- Sebag, Sofia                 NSA                        DNF   1 
  
 Epreuve 10  Hommes 2000 Metres Demi-fond Cadette
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Rainville, Étienne           AAM                    6:36.06   2 
-  2 Villeneuve, Cédric           CLA                    6:38.20   2 
-  3 Chartrand, Justin            HOR                    6:39.79   1 
-  4 Cormier, Alexandre           EPSJ                   6:40.98   1 
-  5 Nadeau, Kyle                 ETS                    6:40.99   2 
-  6 Marcotte, Raphaël            FL                     6:43.91   2 
-  7 Fortier, Raphaël             CLA                    6:46.85   2 
-  8 Mailhot, Olivier             SMAX                   6:53.48   1 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Rainville, Étienne           AAM                    6:36.06   2   9   
+  2 Villeneuve, Cédric           CLA                    6:38.20   2   7   
+  3 Chartrand, Justin            HOR                    6:39.79   1   6   
+  4 Cormier, Alexandre           EPSJ                   6:40.98   1   5   
+  5 Nadeau, Kyle                 ETS                    6:40.99   2   4   
+  6 Marcotte, Raphaël            FL                     6:43.91   2   3   
+  7 Fortier, Raphaël             CLA                    6:46.85   2   2   
+  8 Mailhot, Olivier             SMAX                   6:53.48   1   1   
   9 Proulx, Zacharie             LAF                    6:54.39   2 
  10 Dussault, Colin              EPJ                    6:54.78   1 
  11 Perreault, Mathis            ESC                    6:54.85   1 
@@ -265,24 +265,51 @@ Preliminaries
  35 Leblanc, Alexandra           ESHM                     13.94   NWI  2 
  
 Epreuve 11  Femmes 80 Metres Sprint Benjamine
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
 Finales
-  1 Fortier, Béatrice            CL                       10.92  +0.0 
-  2 Beauvais, Lily-Morgane       ETS                      11.05  +0.0 
-  3 Bakayoko Bêh, Zélika         HOR                      11.16  +0.0 
-  4 Normand, Abygaelle           FL                       11.17  +0.0 
-  5 Mentor, Anaël                AST                      11.18  +0.0 
-  6 Dufour, Meghan               LJA                      11.58  +0.0 
-  7 Mailhot, Camille             ESO                      11.61  +0.0 
-  8 Spitzer, Anick               EPJ                      11.77  +0.0 
+  1 Fortier, Béatrice            CL                       10.92  +0.0   9   
+  2 Beauvais, Lily-Morgane       ETS                      11.05  +0.0   7   
+  3 Bakayoko Bêh, Zélika         HOR                      11.16  +0.0   6   
+  4 Normand, Abygaelle           FL                       11.17  +0.0   5   
+  5 Mentor, Anaël                AST                      11.18  +0.0   4   
+  6 Dufour, Meghan               LJA                      11.58  +0.0   3   
+  7 Mailhot, Camille             ESO                      11.61  +0.0   2   
+  8 Spitzer, Anick               EPJ                      11.77  +0.0   1   
+Preliminaries
+  9 Tessier, Florence            GAB                                  
+ 10 Villeneuve, Mia              CL                                   
+ 11 Sami, Maya                   FL                                   
+ 12 Kuete, Herdine               EPJ                                  
+ 13 Ghobris, Nisrine             ETS                                  
+ 14 Goulet, Maxim                ESM                                  
+ 15 Yimga Tchouya, Ilse Dulc     CLA                                  
+ 16 Progakis, Orthodoxia         ESC                                  
+ 17 Bénédict, Ruth               JBM                                  
+ 17 Généreux, Alexandrine        LAV                                  
+ 19 Juteau, Adèle                PST                                  
+ 20 Laroche, Élisabeth           CSS                                  
+ 21 Duchaine, Zoé                CIT                                  
+ 22 Fraygui, Safia               ESC                                  
+ 23 Zitouni, Yasmine             CLA                                  
+ 24 Fortin, Rosalie              ESM                                  
+ 25 Atehortua, Villada  Vale     ODJ                                  
+ 26 Beaulieu, Koralie            HOR                                  
+ 27 Sebti, Anaïs                 ODJ                                  
+ 28 Louissaint, Salandsha Ju     SMAR                                 
+ 28 Rannou, Isabella             CSS                                  
+ 30 Dionne, Chloé                LAV                                  
+ 31 Karch, Constance             CIT                                  
+ 32 Jacob, Frédérique            SMAR                                 
+ 33 Gareau-Cyr, Frédérique       FREN                                 
+ 34 Zouhairi, Rihab              JBM                                  
+ 35 Leblanc, Alexandra           ESHM                                 
  
 Epreuve 12  Hommes 80 Metres Sprint Benjamine
 ========================================================================
     Nom                    Annee Club                   Prelims  Vent H#
 ========================================================================
-Preliminaries
   1 N'Guessan, Kadjo Jean Da     ESDHS                    10.16q  NWI  4 
   2 Milien, Brian-Jefferson      CL                       10.42q  NWI  3 
   3 Aubut, Tommy                 AMI                      10.66q  NWI  4 
@@ -308,24 +335,39 @@ Preliminaries
  23 Bessette, Maïk               AST                      13.33   NWI  2 
  
 Epreuve 12  Hommes 80 Metres Sprint Benjamine
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
 Finales
-  1 N'Guessan, Kadjo Jean Da     ESDHS                    10.13  +0.0 
-  2 Milien, Brian-Jefferson      CL                       10.24  +0.0 
-  3 Aubut, Tommy                 AMI                      10.54  +0.0 
-  4 Skoulakis, Johnny            CSS                      10.67  +0.0 
-  5 Wilson, Shawn                CSS                      10.99  +0.0 
-  6 Saintilus, Vyncekarl-Fen     ESC                      11.16  +0.0 
-  7 Martin-Rodrigues, Raphaë     AMI                      11.25  +0.0 
-  8 Dicaire, Mathis              LAV                      11.33  +0.0 
+  1 N'Guessan, Kadjo Jean Da     ESDHS                    10.13  +0.0   9   
+  2 Milien, Brian-Jefferson      CL                       10.24  +0.0   7   
+  3 Aubut, Tommy                 AMI                      10.54  +0.0   6   
+  4 Skoulakis, Johnny            CSS                      10.67  +0.0   5   
+  5 Wilson, Shawn                CSS                      10.99  +0.0   4   
+  6 Saintilus, Vyncekarl-Fen     ESC                      11.16  +0.0   3   
+  7 Martin-Rodrigues, Raphaë     AMI                      11.25  +0.0   2   
+  8 Dicaire, Mathis              LAV                      11.33  +0.0   1   
+Preliminaries
+  9 Jabrane, Yassine             CLA                                  
+ 10 Badibanga Brian, Divin       JBM                                  
+ 11 David, William               CLA                                  
+ 12 Mercier, Gabriel             CIT                                  
+ 13 Jutras, Éloi                 ESC                                  
+ 14 Salumu, Kami                 ESHM                                 
+ 15 Desmornes, Emmanuel          CIT                                  
+ 16 Clouâtre, Mathieu            AST                                  
+ 17 Boucher, Nicolas             EPJ                                  
+ 18 Corriveau-Koud, Noah         HOR                                  
+ 19 Cossette, Xavier             HOR                                  
+ 20 Nadeau, Félix                ETS                                  
+ 21 Desjardins, Mathieu          ESHM                                 
+ 22 Asselin, Clément             GAB                                  
+ 23 Bessette, Maïk               AST                                  
  
 Epreuve 13  Femmes 100 Metres Sprint Cadette
 ========================================================================
     Nom                    Annee Club                   Prelims  Vent H#
 ========================================================================
-Preliminaries
   1 Vallée, Julia                ESO1                     12.55q  NWI  4 
   2 Ulysse, Maria Thérésa        CL                       12.89q  NWI  5 
   3 Girard, Yasmine              CLA                      13.03q  NWI  1 
@@ -355,24 +397,43 @@ Preliminaries
  27 Coulibaly, Yelli Myriame     CIT                      16.46   NWI  1 
  
 Epreuve 13  Femmes 100 Metres Sprint Cadette
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
 Finales
-  1 Vallée, Julia                ESO1                     12.31  +0.0 
-  2 Ulysse, Maria Thérésa        CL                       12.84  +0.0 
-  3 Girard, Yasmine              CLA                      12.97  +0.0 
-  4 Scott, Dakota                SMAX                     13.51  +0.0 
-  5 Péladeau-Desjardins, Jul     CL                       13.76  +0.0 
-  6 Bilombo, Yohana              LEB                      13.80  +0.0 
-  7 Bougie, Gabrielle            HOR                      13.90  +0.0 
-  8 Coutu, Sarah                 FL                       14.38  +0.0 
+  1 Vallée, Julia                ESO1                     12.31  +0.0   9   
+  2 Ulysse, Maria Thérésa        CL                       12.84  +0.0   7   
+  3 Girard, Yasmine              CLA                      12.97  +0.0   6   
+  4 Scott, Dakota                SMAX                     13.51  +0.0   5   
+  5 Péladeau-Desjardins, Jul     CL                       13.76  +0.0   4   
+  6 Bilombo, Yohana              LEB                      13.80  +0.0   3   
+  7 Bougie, Gabrielle            HOR                      13.90  +0.0   2   
+  8 Coutu, Sarah                 FL                       14.38  +0.0   1   
+Preliminaries
+  9 Roy, Maélie                  ESC                                  
+  9 Forest, Kaéli                AAM                                  
+ 11 Simard, Alexiane             ODJ                                  
+ 12 Langevin, Annabelle          EPJ                                  
+ 13 Millien-Amazan, Jodie        JBM                                  
+ 14 Jacques, Alexa               CSS                                  
+ 15 Joly, Maïka                  FL                                   
+ 16 Ndong, Orianne Mako          JBM                                  
+ 17 Pastina, Stéphanie           EPJ                                  
+ 18 H Sane, Hiba                 SMAR                                 
+ 19 Lefebvre, Mélodie            ETS                                  
+ 20 Bertoli, Marie-Anne          PST                                  
+ 20 Lavigne, Samira              ESHM                                 
+ 22 Dupuis, Laurie               ESDHS                                
+ 23 Bergevin, Ariane             SMAR                                 
+ 24 Garon, Élodie                CEB                                  
+ 25 Zohy, Grace                  CIT                                  
+ 26 Desjardins-Hill, Arianne     CEB                                  
+ 27 Coulibaly, Yelli Myriame     CIT                                  
  
 Epreuve 14  Hommes 100 Metres Sprint Cadette
 ========================================================================
     Nom                    Annee Club                   Prelims  Vent H#
 ========================================================================
-Preliminaries
   1 Picard, Carl                 AST                      11.78q  NWI  6 
   2 Mcmahon, Charles             GAB                      12.52q  NWI  4 
   3 Hedidor, Bessil              CSS                      12.52q  NWI  2 
@@ -414,24 +475,55 @@ Preliminaries
  -- Eveillard, Jean-Alvin        ESHM                        DQ   NWI  5 
  
 Epreuve 14  Hommes 100 Metres Sprint Cadette
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
 Finales
-  1 Picard, Carl                 AST                      11.77  +0.0 
-  2 Hedidor, Bessil              CSS                      12.27  +0.0 
-  3 Mcmahon, Charles             GAB                      12.38  +0.0 
-  4 Atori, King Bryan Efe        PDM                      12.55  +0.0 
-  5 Jérémy-Jefferson, Étienn     ESHM                     12.56  +0.0 
-  6 Sbaygha, Antoine             LAF                      12.69  +0.0 
-  7 Perez Diaz, Felix            ESDHS                    12.72  +0.0 
-  8 Bordes, Lilian André         ETS                      12.94  +0.0 
+  1 Picard, Carl                 AST                      11.77  +0.0   9   
+  2 Hedidor, Bessil              CSS                      12.27  +0.0   7   
+  3 Mcmahon, Charles             GAB                      12.38  +0.0   6   
+  4 Atori, King Bryan Efe        PDM                      12.55  +0.0   5   
+  5 Jérémy-Jefferson, Étienn     ESHM                     12.56  +0.0   4   
+  6 Sbaygha, Antoine             LAF                      12.69  +0.0   3   
+  7 Perez Diaz, Felix            ESDHS                    12.72  +0.0   2   
+  8 Bordes, Lilian André         ETS                      12.94  +0.0   1   
+Preliminaries
+  9 Fortuné, Shunley Ralph A     FL                                   
+ 10 Laperle, Émile               ETS                                  
+ 11 Kouassi, John Christophe     LEB                                  
+ 12 D'Amour, Alexis              CSS                                  
+ 13 Marcoux, Julien              ESC                                  
+ 14 Bisson, Caleb                EPSJ                                 
+ 15 Courtemanche, Mathieu        ESC                                  
+ 15 Galibois, Simon              HJ                                   
+ 17 Lafayette Pierre, Jesse      CLA                                  
+ 17 François, Cory               CLA                                  
+ 19 Reboredo, Nathan             FL                                   
+ 20 De Lasalle, Nathan           AMI                                  
+ 21 Quann-Faubert, Alexis        LAV                                  
+ 22 Gordon, Tishawn              NSA                                  
+ 23 Santos, Samuel               PREL                                 
+ 24 Branchaud-Harbec, Julien     EPJ                                  
+ 25 Barthelémy-Edouard, Terr     LEB                                  
+ 26 Matos Espiritusanto, Car     PDM                                  
+ 27 Corbeil, Félix               PREL                                 
+ 28 Côté, Alexis                 LAV                                  
+ 29 Bruel, Thomas                CEB                                  
+ 30 Gaudette, Zachary            GAB                                  
+ 31 Gervais-Ethier, Brian        PST                                  
+ 32 Lambert, Hugo                HOR                                  
+ 33 Roy, Jérémy                  EPJ                                  
+ 34 Polverari, Mathéo            PST                                  
+ 35 Gagnon, Thomas               HOR                                  
+ 36 Aka, Addi Sem Ouriel Nat     ESDHS                                
+ 37 Cyr-Robert, Xavier           SMAR                                 
+ 38 Rodney Senat, Bervins        NSA                                  
+ -- Eveillard, Jean-Alvin        ESHM                                 
  
 Epreuve 15  Femmes 100 Metres Sprint Juvénile
 ========================================================================
     Nom                    Annee Club                   Prelims  Vent H#
 ========================================================================
-Preliminaries
   1 Gauthier, Alexe              ESC                      12.68q +0.0  3 
   2 Bitar, Melissa               AST                      12.78q +0.0  3 
   3 Peterson, Marilou            JBM                      13.05q  NWI  1 
@@ -455,23 +547,37 @@ Preliminaries
  21 Necolas, Sarah               NSA                      19.18   NWI  2 
  
 Epreuve 15  Femmes 100 Metres Sprint Juvénile
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
 Finales
-  1 Gauthier, Alexe              ESC                      12.62  +0.0 
-  2 Bitar, Melissa               AST                      12.66  +0.0 
-  3 Finnerty, Ève                AST                      12.93  +0.0 
-  4 Bellerose, Laurence          ESC                      13.05  +0.0 
-  5 Peterson, Marilou            JBM                      13.10  +0.0 
-  6 Dabo, Aicha                  CAL                      13.11  +0.0 
-  7 Paradis, Sarah-Eve           LAV                      13.65  +0.0 
+  1 Gauthier, Alexe              ESC                      12.62  +0.0   9   
+  2 Bitar, Melissa               AST                      12.66  +0.0   7   
+  3 Finnerty, Ève                AST                      12.93  +0.0   6   
+  4 Bellerose, Laurence          ESC                      13.05  +0.0   5   
+  5 Peterson, Marilou            JBM                      13.10  +0.0   4   
+  6 Dabo, Aicha                  CAL                      13.11  +0.0   3   
+  7 Paradis, Sarah-Eve           LAV                      13.65  +0.0   2   
+Preliminaries
+  7 Guérin, Audrey               CLA                                  
+  9 Edstrom, Léanne              JBM                                  
+ 10 Dussault, Sarah-Maude        LAF                                  
+ 11 Piché-Lebel, Florence        CL                                   
+ 12 Mayer, Maïka                 CEB                                  
+ 13 Huard, Laurence              LAF                                  
+ 14 Lepage, Rosalie              ERA                                  
+ 15 Étienne, Iris                CSS                                  
+ 16 Paré, Savannah               FL                                   
+ 17 Savard, Camille              CLA                                  
+ 18 Dominique, Mia-Cassandra     CL                                   
+ 19 Taddeo, Mia                  PST                                  
+ 20 Yaqoob, Sama                 CQPEL                                
+ 21 Necolas, Sarah               NSA                                  
  
 Epreuve 16  Hommes 100 Metres Sprint Juvénile
 ========================================================================
     Nom                    Annee Club                   Prelims  Vent H#
 ========================================================================
-Preliminaries
   1 Alcéna, Lutch Jarmannau      FL                       11.16q  NWI  4 
   2 Lefrançois, Xavier           ETS                      11.22q  NWI  1 
   3 Mukendi, Tshibangu           JBM                      11.60q  NWI  4 
@@ -499,31 +605,50 @@ Preliminaries
  -- Forget, Mathys               CEB                        DNF   NWI  4 
  
 Epreuve 16  Hommes 100 Metres Sprint Juvénile
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
 Finales
-  1 Alcéna, Lutch Jarmannau      FL                       11.33  +0.0 
-  2 Lefrançois, Xavier           ETS                      11.38  +0.0 
-  3 Mukendi, Tshibangu           JBM                      11.77  +0.0 
-  4 Bélisle Quevillon, Maxim     ESM                      11.88  +0.0 
-  5 Tano Kouassi, Adjoumani      JBM                      12.06  +0.0 
-  6 Moretti, Alessandro          ESC                      12.06  +0.0 
-  7 Lapierre, Sacha              ESC                      12.21  +0.0 
-  8 Régimbald, Marc-Antoine      AMI                      12.56  +0.0 
+  1 Alcéna, Lutch Jarmannau      FL                       11.33  +0.0   9   
+  2 Lefrançois, Xavier           ETS                      11.38  +0.0   7   
+  3 Mukendi, Tshibangu           JBM                      11.77  +0.0   6   
+  4 Bélisle Quevillon, Maxim     ESM                      11.88  +0.0   5   
+  5 Tano Kouassi, Adjoumani      JBM                      12.06  +0.0   4   
+  6 Moretti, Alessandro          ESC                      12.06  +0.0   3   
+  7 Lapierre, Sacha              ESC                      12.21  +0.0   2   
+  8 Régimbald, Marc-Antoine      AMI                      12.56  +0.0   1   
+Preliminaries
+  9 Mazerolle, Justin            AMI                                  
+  9 Labine, Henri                ESO                                  
+ 11 Dufresne, Etienne            AST                                  
+ 12 Higgins, Loïc                LAF                                  
+ 13 Vaillancourt, Mathieu        LAF                                  
+ 14 Normil, Shilder              CLA                                  
+ 15 Turner, Bradley              EPSJ                                 
+ 16 Beaulne, Alexis              CL                                   
+ 17 Zannou, Akouèmaho O Jéra     PREL                                 
+ 18 Côté, Marc-Olivier           DLR                                  
+ 19 Grégoire, Emrick             PREL                                 
+ 20 Jolicoeur, William           FREN                                 
+ 21 Ovilma, Friendy-Junior       HOR                                  
+ 22 Turcot, Jérémie              DLR                                  
+ 23 Balakrishner, Tharakan       SMAX                                 
+ 24 Tawfik, Karim Nader Gami     CIT                                  
+ -- Forget, Mathys               CEB                                  
  
 Epreuve 17  Femmes 800 Metres Demi-fond Benjamine
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Patry-Ménard, Jade           AST                    2:43.32   1 
-  2 Plourde, Thaly               ETS                    2:43.52   2 
-  3 Gariépy, Erika               FL                     2:44.27   2 
-  4 Fillion, Florence            CL                     2:44.62   2 
-  5 Drainville, Léonie           FL                     2:46.14   2 
-  6 Huberdeau, Mahée             EPSJ                   2:49.33   1 
-  7 Goovaerts, Laetitia          EPJ                    2:50.33   1 
-  8 Paquette, Marianne           ESC                    2:50.87   1 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+Finales
+  1 Patry-Ménard, Jade           AST                    2:43.32   1   9   
+  2 Plourde, Thaly               ETS                    2:43.52   2   7   
+  3 Gariépy, Erika               FL                     2:44.27   2   6   
+  4 Fillion, Florence            CL                     2:44.62   2   5   
+  5 Drainville, Léonie           FL                     2:46.14   2   4   
+  6 Huberdeau, Mahée             EPSJ                   2:49.33   1   3   
+  7 Goovaerts, Laetitia          EPJ                    2:50.33   1   2   
+  8 Paquette, Marianne           ESC                    2:50.87   1   1   
   9 Dupont, Eve                  ESHM                   2:51.05   1 
  10 Baillargeon, Josiane         ETS                    2:51.55   2 
  11 Bélanger, Mathilde           ESM                    2:56.06   1 
@@ -537,17 +662,17 @@ Epreuve 17  Femmes 800 Metres Demi-fond Benjamine
  -- Duchaine, Zoé                CIT                        DNF   1 
  
 Epreuve 18  Hommes 800 Metres Demi-fond Benjamine
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Picard, Samuel               EPSJ                   2:18.19   2 
-  2 Boisvert, Rémi               ODJ                    2:30.81   2 
-  3 Zaghry, Wassim               EPJ                    2:33.73   1 
-  4 Hottin, Félix                HOR                    2:33.76   1 
-  5 Landry, Théo                 ESHM                   2:38.09   2 
-  6 Pitre, Félix                 ESC                    2:38.43   2 
-  7 Gobeil, Tristan              JBM                    2:38.56   2 
-  8 Bessette, Justin             EPJ                    2:39.99   1 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Picard, Samuel               EPSJ                   2:18.19   2   9   
+  2 Boisvert, Rémi               ODJ                    2:30.81   2   7   
+  3 Zaghry, Wassim               EPJ                    2:33.73   1   6   
+  4 Hottin, Félix                HOR                    2:33.76   1   5   
+  5 Landry, Théo                 ESHM                   2:38.09   2   4   
+  6 Pitre, Félix                 ESC                    2:38.43   2   3   
+  7 Gobeil, Tristan              JBM                    2:38.56   2   2   
+  8 Bessette, Justin             EPJ                    2:39.99   1   1   
   9 Gendron, François-Xavier     CLA                    2:40.01   2 
  10 Talom Tchomtchoua, Daryl     PREL                   2:41.55   2 
  11 Gougoux, Alexis              CLA                    2:41.70   2 
@@ -563,17 +688,17 @@ Epreuve 18  Hommes 800 Metres Demi-fond Benjamine
  21 Zelada-Francoeur, Alejan     CIT                    3:19.24   2 
  
 Epreuve 19  Femmes 800 Metres Demi-fond Cadette
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Morin, Alisson               HOR                    2:33.58   1 
-  2 Sanogo, Kaëlie Beha Inès     GV                     2:36.76   1 
-  3 Quirion, Camille             HOR                    2:38.15   2 
-  4 Vincent, Delphine            ETS                    2:42.98   2 
-  5 Jacques, Alexiane            CLA                    2:44.87   2 
-  6 Roy, Lilianne                CLA                    2:47.35   2 
-  7 Joly, Elyka                  PST                    2:48.20   2 
-  8 Chauvette, Léanne            ETS                    2:48.65   2 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Morin, Alisson               HOR                    2:33.58   1   9   
+  2 Sanogo, Kaëlie Beha Inès     GV                     2:36.76   1   7   
+  3 Quirion, Camille             HOR                    2:38.15   2   6   
+  4 Vincent, Delphine            ETS                    2:42.98   2   5   
+  5 Jacques, Alexiane            CLA                    2:44.87   2   4   
+  6 Roy, Lilianne                CLA                    2:47.35   2   3   
+  7 Joly, Elyka                  PST                    2:48.20   2   2   
+  8 Chauvette, Léanne            ETS                    2:48.65   2   1   
   9 Grenier, Shellyan            EPJ                    2:48.85   1 
  10 Dionne, Emy                  ESC                    2:50.79   2 
  11 St-Pierre, Karine            LAF                    2:54.91   1 
@@ -593,17 +718,17 @@ Epreuve 19  Femmes 800 Metres Demi-fond Cadette
  25 Doulatli, Stella Maria       SMAR                   3:59.78   1 
  
 Epreuve 20  Hommes 800 Metres Demi-fond Cadette
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Baril, Mathis                CLA                    2:19.26   3 
-  2 Benmeziane, Juba             ETS                    2:19.66   3 
-  3 Hogue, Nicolas               CSS                    2:19.89   3 
-  4 Emard, Thomas                ESC                    2:20.08   3 
-  5 Grimard, Charles             LAF                    2:21.05   1 
-  6 Bigras, Thierry              CLA                    2:21.73   3 
-  7 Proulx, William              PREL                   2:22.13   1 
-  8 Allard-Vertriest, Thomas     EPSJ                   2:23.73   2 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Baril, Mathis                CLA                    2:19.26   3   9   
+  2 Benmeziane, Juba             ETS                    2:19.66   3   7   
+  3 Hogue, Nicolas               CSS                    2:19.89   3   6   
+  4 Emard, Thomas                ESC                    2:20.08   3   5   
+  5 Grimard, Charles             LAF                    2:21.05   1   4   
+  6 Bigras, Thierry              CLA                    2:21.73   3   3   
+  7 Proulx, William              PREL                   2:22.13   1   2   
+  8 Allard-Vertriest, Thomas     EPSJ                   2:23.73   2   1   
   9 Proulx, Zacharie             LAF                    2:24.64   2 
  10 Gakwerere, Trevy             ESHM                   2:29.59   1 
  11 Gagnon, Thomas               HOR                    2:32.16   1 
@@ -627,17 +752,17 @@ Epreuve 20  Hommes 800 Metres Demi-fond Cadette
  29 Rakan, Riad                  NSA                    3:49.26   2 
  
 Epreuve 21  Femmes 800 Metres Demi-fond Juvénile
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Gallé, Mélina                CL                     2:23.37   2 
-  2 Morissette, Catherine        CEB                    2:24.72   2 
-  3 Lapierre, Sara-Maud          EPSJ                   2:25.31   2 
-  4 Perron, Laurence             CLA                    2:27.66   2 
-  5 Pagé, Florence               CSS                    2:46.97   1 
-  6 Ellis, Amy                   ESDHS                  2:48.88   2 
-  7 Boissonneault, Élodie        ESDHS                  2:48.90   2 
-  8 Charron, Magalie             ESC                    2:52.46   1 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Gallé, Mélina                CL                     2:23.37   2   9   
+  2 Morissette, Catherine        CEB                    2:24.72   2   7   
+  3 Lapierre, Sara-Maud          EPSJ                   2:25.31   2   6   
+  4 Perron, Laurence             CLA                    2:27.66   2   5   
+  5 Pagé, Florence               CSS                    2:46.97   1   4   
+  6 Ellis, Amy                   ESDHS                  2:48.88   2   3   
+  7 Boissonneault, Élodie        ESDHS                  2:48.90   2   2   
+  8 Charron, Magalie             ESC                    2:52.46   1   1   
   9 Racine-Prud'Homme, André     AST                    2:59.18   1 
  10 Langelier, Ophélie           LAF                    3:02.09   1 
  11 Bigras, Sandrine             CLA                    3:02.24   2 
@@ -647,17 +772,17 @@ Epreuve 21  Femmes 800 Metres Demi-fond Juvénile
  15 Blais, Madisson              JBM                    3:19.97   1 
  
 Epreuve 22  Hommes 800 Metres Demi-fond Juvénile
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Fontaine, Justin             HOR                    2:07.45   1 
-  2 Weisthoff-Trépanier, Sam     JBM                    2:08.05   3 
-  3 Michaud, Anaël               ESTM                   2:09.11   3 
-  4 Julien, Matisse              AST                    2:09.19   1 
-  5 Rondeau, Sacha               JBM                    2:14.09   3 
-  6 Sant, Samuel                 CSS                    2:14.37   3 
-  7 Langevin, Mathis             AAM                    2:16.88   3 
-  8 Arbour, Samuel               CEB                    2:18.19   3 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Fontaine, Justin             HOR                    2:07.45   1   9   
+  2 Weisthoff-Trépanier, Sam     JBM                    2:08.05   3   7   
+  3 Michaud, Anaël               ESTM                   2:09.11   3   6   
+  4 Julien, Matisse              AST                    2:09.19   1   5   
+  5 Rondeau, Sacha               JBM                    2:14.09   3   4   
+  6 Sant, Samuel                 CSS                    2:14.37   3   3   
+  7 Langevin, Mathis             AAM                    2:16.88   3   2   
+  8 Arbour, Samuel               CEB                    2:18.19   3   1   
   9 Lemay, Julien                AST                    2:18.24   2 
  10 Patry, Thomas                ETS                    2:18.37   3 
  11 Koncevich, William           ESC                    2:23.01   3 
@@ -677,17 +802,17 @@ Epreuve 22  Hommes 800 Metres Demi-fond Juvénile
  25 Beaulieu, Simon              CQPEL                  3:06.36   2 
  
 Epreuve 23  Femmes 1200 Metres Demi-fond Benjamine
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Plourde, Thaly               ETS                    4:24.50   2 
-  2 Fillion, Florence            CL                     4:28.60   2 
-  3 Plouffe, Béatrice            FL                     4:31.47   1 
-  4 Drainville, Léonie           FL                     4:38.00   1 
-  5 Martin, Zoé                  EPJ                    4:40.71   2 
-  6 Bélanger, Mathilde           ESM                    4:41.99   1 
-  7 Potvin, Miliane              CLA                    4:45.15   2 
-  8 Lafrance-Bolduc, Abigael     ETS                    4:53.81   2 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Plourde, Thaly               ETS                    4:24.50   2   9   
+  2 Fillion, Florence            CL                     4:28.60   2   7   
+  3 Plouffe, Béatrice            FL                     4:31.47   1   6   
+  4 Drainville, Léonie           FL                     4:38.00   1   5   
+  5 Martin, Zoé                  EPJ                    4:40.71   2   4   
+  6 Bélanger, Mathilde           ESM                    4:41.99   1   3   
+  7 Potvin, Miliane              CLA                    4:45.15   2   2   
+  8 Lafrance-Bolduc, Abigael     ETS                    4:53.81   2   1   
   9 Paquette, Marianne           ESC                    4:59.25   1 
  10 Rahmi, Sirine                CLA                    4:59.39   2 
  11 Proulx, Justine              CSS                    5:05.12   2 
@@ -698,17 +823,17 @@ Epreuve 23  Femmes 1200 Metres Demi-fond Benjamine
  16 Thibodeau, Gabrielle         GAB                    5:26.40   1 
  
 Epreuve 24  Hommes 1200 Metres Demi-fond Benjamine
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Picard, Samuel               EPSJ                   3:36.15   1 
-  2 Boisvert, Rémi               ODJ                    4:01.22   2 
-  3 Arseneau, Charles            HOR                    4:07.04   1 
-  4 Thérien, Zack                HOR                    4:14.06   2 
-  5 Zaghry, Wassim               EPJ                    4:15.02   1 
-  6 Gaudreault, Aymeric          EPJ                    4:17.01   1 
-  7 Asselin, Clément             GAB                    4:17.67   2 
-  8 Gougoux, Alexis              CLA                    4:25.78   2 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Picard, Samuel               EPSJ                   3:36.15   1   9   
+  2 Boisvert, Rémi               ODJ                    4:01.22   2   7   
+  3 Arseneau, Charles            HOR                    4:07.04   1   6   
+  4 Thérien, Zack                HOR                    4:14.06   2   5   
+  5 Zaghry, Wassim               EPJ                    4:15.02   1   4   
+  6 Gaudreault, Aymeric          EPJ                    4:17.01   1   3   
+  7 Asselin, Clément             GAB                    4:17.67   2   2   
+  8 Gougoux, Alexis              CLA                    4:25.78   2   1   
   9 Pitre, Félix                 ESC                    4:28.16   1 
  10 Lagacé, Raphaël              CLA                    4:29.03   2 
  11 Grenier, Rémi                ESC                    4:33.20   1 
@@ -722,17 +847,17 @@ Epreuve 24  Hommes 1200 Metres Demi-fond Benjamine
  19 Hamouch, Rayane              JBM                    5:08.35   2 
  
 Epreuve 25  Femmes 1200 Metres Demi-fond Cadette
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Bouchard, Coralie            LAF                    4:09.21   1 
-  2 Galardo-Poitras, Laurenc     HOR                    4:12.10   1 
-  3 Morin, Alisson               HOR                    4:12.88   2 
-  4 Houle, Camélie               ETS                    4:13.60   2 
-  5 Rivest, Léanne               CLA                    4:20.65   2 
-  6 Joly, Elyka                  PST                    4:29.98   2 
-  7 Boucher, Kelly-Anne          FL                     4:34.99   2 
-  8 Langevin, Annabelle          EPJ                    4:36.88   1 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Bouchard, Coralie            LAF                    4:09.21   1   9   
+  2 Galardo-Poitras, Laurenc     HOR                    4:12.10   1   7   
+  3 Morin, Alisson               HOR                    4:12.88   2   6   
+  4 Houle, Camélie               ETS                    4:13.60   2   5   
+  5 Rivest, Léanne               CLA                    4:20.65   2   4   
+  6 Joly, Elyka                  PST                    4:29.98   2   3   
+  7 Boucher, Kelly-Anne          FL                     4:34.99   2   2   
+  8 Langevin, Annabelle          EPJ                    4:36.88   1   1   
   9 Vincent, Delphine            ETS                    4:37.54   2 
  10 Ethier, Raphaëlle            FL                     4:38.48   2 
  11 Gervais, Kamille             JBM                    4:45.85   2 
@@ -752,17 +877,17 @@ Epreuve 25  Femmes 1200 Metres Demi-fond Cadette
  25 Zohy, Grace                  CIT                    5:45.61   1 
  
 Epreuve 26  Hommes 1200 Metres Demi-fond Cadette
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Rainville, Étienne           AAM                    3:36.72   2 
-  2 Villeneuve, Cédric           CLA                    3:41.45   2 
-  3 Chartrand, Justin            HOR                    3:45.86   1 
-  4 Dubé, Félix-Antoine          GAB                    3:49.13   2 
-  5 Nadeau, Kyle                 ETS                    3:49.77   2 
-  6 Grimard, Charles             LAF                    3:49.85   1 
-  7 Proulx, William              PREL                   3:50.13   1 
-  8 D'Amour, Alexis              CSS                    3:50.87   2 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Rainville, Étienne           AAM                    3:36.72   2   9   
+  2 Villeneuve, Cédric           CLA                    3:41.45   2   7   
+  3 Chartrand, Justin            HOR                    3:45.86   1   6   
+  4 Dubé, Félix-Antoine          GAB                    3:49.13   2   5   
+  5 Nadeau, Kyle                 ETS                    3:49.77   2   4   
+  6 Grimard, Charles             LAF                    3:49.85   1   3   
+  7 Proulx, William              PREL                   3:50.13   1   2   
+  8 D'Amour, Alexis              CSS                    3:50.87   2   1   
   9 Fortier, Raphaël             CLA                    3:52.18   2 
  10 Boisvert, Mathis             PREL                   3:54.89   1 
  11 Courtemanche, Mathieu        ESC                    3:55.76   2 
@@ -781,17 +906,17 @@ Epreuve 26  Hommes 1200 Metres Demi-fond Cadette
  24 Berriah, Zakaria             CL                     4:55.75   2 
  
 Epreuve 27  Femmes 400 Metres Sprint Juvénile
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Gallé, Mélina                CL                     1:00.02   3 
-  2 Faraux, Amanda               PST                    1:01.93   3 
-  3 Perron, Laurence             CLA                    1:04.01   3 
-  4 Quidoz, Audrey               JBM                    1:05.24   3 
-  5 Rochon, Gabrielle            ESC                    1:07.14   3 
-  6 Fortin, Julianne             FL                     1:08.05   2 
-  7 Pagé, Florence               CSS                    1:09.37   2 
-  8 Morin, Matisse               ESC                    1:10.93   3 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Gallé, Mélina                CL                     1:00.02   3   9   
+  2 Faraux, Amanda               PST                    1:01.93   3   7   
+  3 Perron, Laurence             CLA                    1:04.01   3   6   
+  4 Quidoz, Audrey               JBM                    1:05.24   3   5   
+  5 Rochon, Gabrielle            ESC                    1:07.14   3   4   
+  6 Fortin, Julianne             FL                     1:08.05   2   3   
+  7 Pagé, Florence               CSS                    1:09.37   2   2   
+  8 Morin, Matisse               ESC                    1:10.93   3   1   
   9 Gagnon, Solédane             HOR                    1:12.32   2 
  10 Bigras, Sandrine             CLA                    1:12.73   2 
  11 Pinnette, Jennifer           LAV                    1:13.58   2 
@@ -801,17 +926,17 @@ Epreuve 27  Femmes 400 Metres Sprint Juvénile
  15 Dieudonné, Monica Christ     CQPEL                  1:39.91   1 
  
 Epreuve 28  Hommes 400 Metres Sprint Juvénile
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Ceant, Jordy Cruff Fredl     JBM                      53.85   4 
-  2 Michaud, Anaël               ESTM                     53.90   4 
-  3 Fontaine, Justin             HOR                      54.42   1 
-  4 Martel, Alexandre            GAB                      56.58   1 
-  5 Rondeau, Sacha               JBM                      57.09   4 
-  6 Langevin, Mathis             AAM                      57.20   3 
-  7 Mathivet, Louis              GAB                      57.46   4 
-  8 Courtemanche, Maxime         ESC                      58.29   3 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Ceant, Jordy Cruff Fredl     JBM                      53.85   4   9   
+  2 Michaud, Anaël               ESTM                     53.90   4   7   
+  3 Fontaine, Justin             HOR                      54.42   1   6   
+  4 Martel, Alexandre            GAB                      56.58   1   5   
+  5 Rondeau, Sacha               JBM                      57.09   4   4   
+  6 Langevin, Mathis             AAM                      57.20   3   3   
+  7 Mathivet, Louis              GAB                      57.46   4   2   
+  8 Courtemanche, Maxime         ESC                      58.29   3   1   
   9 Arbour, Samuel               CEB                      59.93   4 
  10 Marescot-Gauthier, Laure     ESC                    1:00.25   3 
  11 Morin, Charles-Olivier       ESO                    1:01.01   1 
@@ -829,17 +954,17 @@ Epreuve 28  Hommes 400 Metres Sprint Juvénile
  -- Prémont, Louis-David         LAF                         DQ   1 
  
 Epreuve 29  Femmes 1500 Metres Demi-fond Juvénile
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Boyer, Mérédith              JBM                    4:54.10   2 
-  2 Dagenais, Emy                ESBJ                   5:18.22   2 
-  3 Lapierre, Sara-Maud          EPSJ                   5:19.36   2 
-  4 Descombes, Sarah             CSS                    5:38.15   2 
-  5 Descombes, Catherine         CSS                    5:45.30   2 
-  6 Gilbert, Pascale             CL                     6:07.89   2 
-  7 Boissonneault, Élodie        ESDHS                  6:12.82   2 
-  8 Ellis, Amy                   ESDHS                  6:16.63   2 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Boyer, Mérédith              JBM                    4:54.10   2   9   
+  2 Dagenais, Emy                ESBJ                   5:18.22   2   7   
+  3 Lapierre, Sara-Maud          EPSJ                   5:19.36   2   6   
+  4 Descombes, Sarah             CSS                    5:38.15   2   5   
+  5 Descombes, Catherine         CSS                    5:45.30   2   4   
+  6 Gilbert, Pascale             CL                     6:07.89   2   3   
+  7 Boissonneault, Élodie        ESDHS                  6:12.82   2   2   
+  8 Ellis, Amy                   ESDHS                  6:16.63   2   1   
   9 Prémont, Justine             LAF                    6:17.97   2 
  10 Ménard, Gabrielle            LAF                    6:18.03   2 
  11 Hervieux, Catherine          CLA                    6:28.10   2 
@@ -847,17 +972,17 @@ Epreuve 29  Femmes 1500 Metres Demi-fond Juvénile
  -- Yaqoob, Sama                 CQPEL                      DNF   2 
  
 Epreuve 30  Hommes 1500 Metres Demi-fond Juvénile
-===================================================================
-    Nom                    Annee Club                   Finales  H#
-===================================================================
-  1 Graham, Lucas                RHS                    4:29.04   2 
-  2 Rainville, Émile             AAM                    4:33.54   2 
-  3 Marcotte, Antoine            CEB                    4:34.81   2 
-  4 Lallier, Nicolas             ESC                    4:42.67   2 
-  5 Lemay, Julien                AST                    4:43.45   2 
-  6 Sant, Samuel                 CSS                    4:47.32   2 
-  7 Arcand, Samuel               ETS                    4:48.80   2 
-  8 Paquette, Elliot             ESO                    4:55.83   1 
+==========================================================================
+    Nom                    Annee Club                   Finales  H# Points
+==========================================================================
+  1 Graham, Lucas                RHS                    4:29.04   2   9   
+  2 Rainville, Émile             AAM                    4:33.54   2   7   
+  3 Marcotte, Antoine            CEB                    4:34.81   2   6   
+  4 Lallier, Nicolas             ESC                    4:42.67   2   5   
+  5 Lemay, Julien                AST                    4:43.45   2   4   
+  6 Sant, Samuel                 CSS                    4:47.32   2   3   
+  7 Arcand, Samuel               ETS                    4:48.80   2   2   
+  8 Paquette, Elliot             ESO                    4:55.83   1   1   
   9 Poisson, Édouard             AAM                    4:57.49   2 
  10 Palijtchuk, Gaël             ESO                    4:59.44   1 
  11 Jalbert, Charles-Emile       ESC                    4:59.92   2 
@@ -876,17 +1001,17 @@ Epreuve 30  Hommes 1500 Metres Demi-fond Juvénile
  -- Sabourin, Alexis             JBM                        DNF   2 
  
 Epreuve 31  Femmes 150 Metres Sprint Benjamine
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Pierre, Mary Rosina          ODJ                      20.65  +0.0  1 
-  2 Fortier, Béatrice            CL                       20.71  +0.0  4 
-  3 Ménard, Justine              EPJ                      21.21   NWI  2 
-  4 Normand, Abygaelle           FL                       21.22   NWI  2 
-  5 Alvaro, Eliane               ESM                      22.00   NWI  2 
-  6 Baillargeon, Josiane         ETS                      22.13  +0.0  4 
-  7 Zitouni, Yasmine             CLA                      22.47  +0.0  4 
-  8 Ghobris, Nisrine             ETS                      22.88  +0.0  3 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Pierre, Mary Rosina          ODJ                      20.65  +0.0  1   9   
+  2 Fortier, Béatrice            CL                       20.71  +0.0  4   7   
+  3 Ménard, Justine              EPJ                      21.21   NWI  2   6   
+  4 Normand, Abygaelle           FL                       21.22   NWI  2   5   
+  5 Alvaro, Eliane               ESM                      22.00   NWI  2   4   
+  6 Baillargeon, Josiane         ETS                      22.13  +0.0  4   3   
+  7 Zitouni, Yasmine             CLA                      22.47  +0.0  4   2   
+  8 Ghobris, Nisrine             ETS                      22.88  +0.0  3   1   
   9 Gervais, Audrey              ESC                      23.01  +0.0  4 
  10 Juteau, Adèle                PST                      23.22  +0.0  3 
  11 Beauséjour, Maeva            ESC                      23.32  +0.0  4 
@@ -909,17 +1034,17 @@ Epreuve 31  Femmes 150 Metres Sprint Benjamine
  28 Mourouane, Hajar             SMAR                     27.30  +0.0  1 
  
 Epreuve 32  Hommes 150 Metres Sprint Benjamine
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Aubut, Tommy                 AMI                      20.27  +0.0  1 
-  2 N'Guessan, Kadjo Jean Da     ESDHS                    20.35  +0.0  4 
-  3 Skoulakis, Johnny            CSS                      20.42  +0.0  3 
-  4 Milien, Brian-Jefferson      CL                       21.27  +0.0  4 
-  5 Bissonnette, Antoine         AMI                      21.32   NWI  2 
-  6 Dicaire, Mathis              LAV                      21.64  +0.0  1 
-  7 Badibanga Brian, Divin       JBM                      21.77  +0.0  4 
-  8 Landry, Théo                 ESHM                     21.81  +0.0  1 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Aubut, Tommy                 AMI                      20.27  +0.0  1   9   
+  2 N'Guessan, Kadjo Jean Da     ESDHS                    20.35  +0.0  4   7   
+  3 Skoulakis, Johnny            CSS                      20.42  +0.0  3   6   
+  4 Milien, Brian-Jefferson      CL                       21.27  +0.0  4   5   
+  5 Bissonnette, Antoine         AMI                      21.32   NWI  2   4   
+  6 Dicaire, Mathis              LAV                      21.64  +0.0  1   3   
+  7 Badibanga Brian, Divin       JBM                      21.77  +0.0  4   2   
+  8 Landry, Théo                 ESHM                     21.81  +0.0  1   1   
   9 Tremblay, Antoine            CEB                      21.98  +0.0  4 
  10 Blain, Alix                  CLA                      22.14  +0.0  4 
  11 Fiola, Justin                GAB                      22.22   NWI  2 
@@ -935,17 +1060,17 @@ Epreuve 32  Hommes 150 Metres Sprint Benjamine
  21 Boulanger-Trottier, Just     GAB                      27.14   NWI  2 
  
 Epreuve 33  Femmes 200 Metres Sprint Cadette
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Vallée, Julia                ESO1                     25.93  +0.0  1 
-  2 Ulysse, Maria Thérésa        CL                       27.19  +0.0  4 
-  3 Girard, Yasmine              CLA                      27.99  +0.0  4 
-  4 Bougie, Gabrielle            HOR                      28.53  +0.0  3 
-  5 Scott, Dakota                SMAX                     28.58   NWI  2 
-  6 Bilombo, Yohana              LEB                      28.71  +0.0  1 
-  7 Gervais, Laurie              ESC                      29.44  +0.0  4 
-  8 Chauvette, Léanne            ETS                      30.18  +0.0  4 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Vallée, Julia                ESO1                     25.93  +0.0  1   9   
+  2 Ulysse, Maria Thérésa        CL                       27.19  +0.0  4   7   
+  3 Girard, Yasmine              CLA                      27.99  +0.0  4   6   
+  4 Bougie, Gabrielle            HOR                      28.53  +0.0  3   5   
+  5 Scott, Dakota                SMAX                     28.58   NWI  2   4   
+  6 Bilombo, Yohana              LEB                      28.71  +0.0  1   3   
+  7 Gervais, Laurie              ESC                      29.44  +0.0  4   2   
+  8 Chauvette, Léanne            ETS                      30.18  +0.0  4   1   
   9 Julianne, Cousineau          ESHM                     30.62   NWI  2 
  10 Coutu, Sarah                 FL                       30.65  +0.0  1 
  11 Forest, Kaéli                AAM                      30.81  +0.0  4 
@@ -963,17 +1088,17 @@ Epreuve 33  Femmes 200 Metres Sprint Cadette
  23 Bouhlel, Lina                EPJ                      42.32   NWI  2 
  
 Epreuve 34  Hommes 200 Metres Sprint Cadette
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Atori, King Bryan Efe        PDM                      25.77  +0.0  5 
-  2 Lauzon, Vincent              CLA                      25.83  +0.0  5 
-  3 De Lasalle, Nathan           AMI                      25.98  +0.0  3 
-  4 Hedidor, Bessil              CSS                      26.22  +0.0  4 
-  5 Fortuné, Shunley Ralph A     FL                       26.40  +0.0  3 
-  6 Perez Diaz, Felix            ESDHS                    26.53  +0.0  4 
-  7 Allard-Vertriest, Thomas     EPSJ                     26.54  +0.0  2 
-  8 Sbaygha, Antoine             LAF                      26.54  +0.0  3 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Atori, King Bryan Efe        PDM                      25.77  +0.0  5   9   
+  2 Lauzon, Vincent              CLA                      25.83  +0.0  5   7   
+  3 De Lasalle, Nathan           AMI                      25.98  +0.0  3   6   
+  4 Hedidor, Bessil              CSS                      26.22  +0.0  4   5   
+  5 Fortuné, Shunley Ralph A     FL                       26.40  +0.0  3   4   
+  6 Perez Diaz, Felix            ESDHS                    26.53  +0.0  4   3   
+  7 Allard-Vertriest, Thomas     EPSJ                     26.54  +0.0  2   2   
+  8 Sbaygha, Antoine             LAF                      26.54  +0.0  3   1   
   9 Chéry, David                 ETS                      26.67  +0.0  4 
  10 Marcoux, Julien              ESC                      27.02  +0.0  5 
  11 Bisson, Caleb                EPSJ                     27.13  +0.0  1 
@@ -996,17 +1121,17 @@ Epreuve 34  Hommes 200 Metres Sprint Cadette
  28 Acherki, Ilian               SMAR                     33.65  +0.0  2 
  
 Epreuve 35  Femmes 200 Metres Sprint Juvénile
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Bitar, Melissa               AST                      26.25  +0.0  2 
-  2 Faraux, Amanda               PST                      26.69  +0.0  3 
-  3 Peterson, Marilou            JBM                      28.04  +0.0  3 
-  4 Quidoz, Audrey               JBM                      28.26  +0.0  3 
-  5 Bellerose, Laurence          ESC                      28.42  +0.0  3 
-  6 Racine-Prud'Homme, André     AST                      28.50  +0.0  3 
-  7 Rochon, Gabrielle            ESC                      28.99  +0.0  3 
-  8 Dussault, Sarah-Maude        LAF                      29.10  +0.0  1 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Bitar, Melissa               AST                      26.25  +0.0  2   9   
+  2 Faraux, Amanda               PST                      26.69  +0.0  3   7   
+  3 Peterson, Marilou            JBM                      28.04  +0.0  3   6   
+  4 Quidoz, Audrey               JBM                      28.26  +0.0  3   5   
+  5 Bellerose, Laurence          ESC                      28.42  +0.0  3   4   
+  6 Racine-Prud'Homme, André     AST                      28.50  +0.0  3   3   
+  7 Rochon, Gabrielle            ESC                      28.99  +0.0  3   2   
+  8 Dussault, Sarah-Maude        LAF                      29.10  +0.0  1   1   
   9 Mayer, Maïka                 CEB                      29.37  +0.0  2 
  10 Huard, Laurence              LAF                      29.72  +0.0  1 
  11 Lefrançois, Émilie           CL                       29.75  +0.0  2 
@@ -1017,17 +1142,17 @@ Epreuve 35  Femmes 200 Metres Sprint Juvénile
  16 Toure, Aminata Baba          CQPEL                    44.67  +0.0  2 
  
 Epreuve 36  Hommes 200 Metres Sprint Juvénile
-========================================================================
-    Nom                    Annee Club                   Finales  Vent H#
-========================================================================
-  1 Lefrançois, Xavier           ETS                      23.21  +0.0  5 
-  2 Mukendi, Tshibangu           JBM                      23.88  +0.0  5 
-  3 Sillon, Jacob                CSS                      24.60  +0.0  4 
-  4 Lapierre, Sacha              ESC                      24.71  +0.0  4 
-  5 Grenon, Mikaël               AMI                      24.94  +0.0  2 
-  6 Labine, Henri                ESO                      25.00  +0.0  2 
-  7 Higgins, Loïc                LAF                      25.03  +0.0  3 
-  8 Normil, Shilder              CLA                      25.51  +0.0  5 
+===============================================================================
+    Nom                    Annee Club                   Finales  Vent H# Points
+===============================================================================
+  1 Lefrançois, Xavier           ETS                      23.21  +0.0  5   9   
+  2 Mukendi, Tshibangu           JBM                      23.88  +0.0  5   7   
+  3 Sillon, Jacob                CSS                      24.60  +0.0  4   6   
+  4 Lapierre, Sacha              ESC                      24.71  +0.0  4   5   
+  5 Grenon, Mikaël               AMI                      24.94  +0.0  2   4   
+  6 Labine, Henri                ESO                      25.00  +0.0  2   3   
+  7 Higgins, Loïc                LAF                      25.03  +0.0  3   2   
+  8 Normil, Shilder              CLA                      25.51  +0.0  5   1   
   9 Alcide, Shawn Gabriel        CLA                      25.55  +0.0  5 
  10 Panneton, Vincent            GV                       25.58  +0.0  4 
  11 Zannou, Akouèmaho O Jéra     PREL                     25.72  +0.0  1 
@@ -1049,118 +1174,118 @@ Epreuve 36  Hommes 200 Metres Sprint Juvénile
  27 Khlat, Alexis                SMAX                     34.15  +0.0  4 
  
 Epreuve 37  Femmes 4x100 Metres Relais Benjamine
-===================================================================
-    Club                                                Finales  H#
-===================================================================
-  1 Ast  'A'                                              58.31   1 
-  2 CL  'A'                                               59.31   2 
-  3 Ets  'A'                                              59.88   2 
-  4 FL  'A'                                             1:00.76   2 
-  5 Esm  'A'                                            1:01.49   1 
-  6 Esc  'A'                                            1:01.53   1 
-  7 Cla  'A'                                            1:03.51   1 
-  8 Css  'A'                                            1:04.26   2 
+==========================================================================
+    Club                                                Finales  H# Points
+==========================================================================
+  1 Ast  'A'                                              58.31   1   9   
+  2 CL  'A'                                               59.31   2   7   
+  3 Ets  'A'                                              59.88   2   6   
+  4 FL  'A'                                             1:00.76   2   5   
+  5 Esm  'A'                                            1:01.49   1   4   
+  6 Esc  'A'                                            1:01.53   1   3   
+  7 Cla  'A'                                            1:03.51   1   2   
+  8 Css  'A'                                            1:04.26   2   1   
   9 Gab  'A'                                            1:07.66   1 
  10 Jbm  'A'                                            1:09.87   2 
  
 Epreuve 38  Hommes 4x100 Metres Relais Benjamine
-================================================================
-    Club                                                Finales 
-================================================================
-  1 Ast  'A'                                              58.24  
-  2 Cla  'A'                                              58.67  
-  3 Hor  'A'                                              59.63  
-  4 Css  'A'                                            1:00.83  
-  5 Gab  'A'                                            1:01.94  
+=======================================================================
+    Club                                                Finales  Points
+=======================================================================
+  1 Ast  'A'                                              58.24    9   
+  2 Cla  'A'                                              58.67    7   
+  3 Hor  'A'                                              59.63    6   
+  4 Css  'A'                                            1:00.83    5   
+  5 Gab  'A'                                            1:01.94    4   
  -- Ami  'A'                                                 DQ  
  -- Esc  'A'                                                 DQ  
  
 Epreuve 39  Femmes 4x100 Metres Relais Cadette
-===================================================================
-    Club                                                Finales  H#
-===================================================================
-  1 Cla  'A'                                              54.97   2 
-  2 FL  'A'                                               57.80   2 
-  3 Jbm  'A'                                              58.90   1 
-  4 Esc  'A'                                              59.50   2 
-  5 Hor  'A'                                            1:00.16   2 
-  6 Odj  'A'                                            1:01.79   1 
-  7 Pst  'A'                                            1:02.23   1 
-  8 Ceb  'A'                                            1:02.86   1 
+==========================================================================
+    Club                                                Finales  H# Points
+==========================================================================
+  1 Cla  'A'                                              54.97   2   9   
+  2 FL  'A'                                               57.80   2   7   
+  3 Jbm  'A'                                              58.90   1   6   
+  4 Esc  'A'                                              59.50   2   5   
+  5 Hor  'A'                                            1:00.16   2   4   
+  6 Odj  'A'                                            1:01.79   1   3   
+  7 Pst  'A'                                            1:02.23   1   2   
+  8 Ceb  'A'                                            1:02.86   1   1   
  -- CL  'A'                                                 DNF   2 
  -- Css  'A'                                                 DQ   2 
  -- Ets  'A'                                                 DQ   1 
  
 Epreuve 40  Hommes 4x100 Metres Relais Cadette
-===================================================================
-    Club                                                Finales  H#
-===================================================================
-  1 Cla  'A'                                              50.33   2 
-  2 FL  'A'                                               51.12   1 
-  3 Esc  'A'                                              52.41   1 
-  4 Gab  'A'                                              53.34   2 
-  5 Pst  'A'                                              54.51   1 
-  6 Prel  'A'                                             54.80   1 
-  7 Jbm  'A'                                              55.41   2 
-  8 Hor  'A'                                              55.44   2 
+==========================================================================
+    Club                                                Finales  H# Points
+==========================================================================
+  1 Cla  'A'                                              50.33   2   9   
+  2 FL  'A'                                               51.12   1   7   
+  3 Esc  'A'                                              52.41   1   6   
+  4 Gab  'A'                                              53.34   2   5   
+  5 Pst  'A'                                              54.51   1   4   
+  6 Prel  'A'                                             54.80   1   3   
+  7 Jbm  'A'                                              55.41   2   2   
+  8 Hor  'A'                                              55.44   2   1   
   9 Css  'A'                                              55.55   2 
  10 CL  'A'                                               55.99   2 
  11 Eshm  'A'                                             57.71   2 
  
 Epreuve 41  Femmes 4x100 Metres Relais Juvénile
-================================================================
-    Club                                                Finales 
-================================================================
-  1 Ast  'A'                                              52.59  
-  2 Esc  'A'                                              54.08  
-  3 Jbm  'A'                                              55.38  
-  4 Ceb  'A'                                              59.04  
-  5 FL  'A'                                               59.96  
+=======================================================================
+    Club                                                Finales  Points
+=======================================================================
+  1 Ast  'A'                                              52.59    9   
+  2 Esc  'A'                                              54.08    7   
+  3 Jbm  'A'                                              55.38    6   
+  4 Ceb  'A'                                              59.04    5   
+  5 FL  'A'                                               59.96    4   
  
 Epreuve 42  Hommes 4x100 Metres Relais Juvénile
-================================================================
-    Club                                                Finales 
-================================================================
-  1 Ami  'A'                                              49.05  
-  2 Esc  'A'                                              49.30  
-  3 Cla  'A'                                              49.91  
+=======================================================================
+    Club                                                Finales  Points
+=======================================================================
+  1 Ami  'A'                                              49.05    9   
+  2 Esc  'A'                                              49.30    7   
+  3 Cla  'A'                                              49.91    6   
  -- Hor  'A'                                                 DQ  
  
 Epreuve 43  Femmes 4x400 Metres Relais Juvénile
-================================================================
-    Club                                                Finales 
-================================================================
-  1 Esc  'A'                                            4:50.56  
-  2 Css  'A'                                            5:09.22  
+=======================================================================
+    Club                                                Finales  Points
+=======================================================================
+  1 Esc  'A'                                            4:50.56    9   
+  2 Css  'A'                                            5:09.22    7   
  
 Epreuve 44  Hommes 4x400 Metres Relais Juvénile
-================================================================
-    Club                                                Finales 
-================================================================
-  1 Ets  'A'                                            3:49.54  
-  2 Esc  'A'                                            3:55.04  
-  3 Eso  'A'                                            4:08.53  
-  4 Cla  'A'                                            4:14.29  
+=======================================================================
+    Club                                                Finales  Points
+=======================================================================
+  1 Ets  'A'                                            3:49.54    9   
+  2 Esc  'A'                                            3:55.04    7   
+  3 Eso  'A'                                            4:08.53    6   
+  4 Cla  'A'                                            4:14.29    5   
  
 Epreuve 53  Femmes Saut en longueur Benjamine
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 Diop, Sofie                  GV                       4.95m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 Diop, Sofie                  GV                       4.95m   NWI   9   
      FOUL      4.80m(NWI) 4.95m(NWI)           
-  2 Dufour, Meghan               LJA                      4.28m   NWI 
+  2 Dufour, Meghan               LJA                      4.28m   NWI   7   
      4.27m(NWI) 3.93m(NWI) 4.28m(NWI)            
-  3 Dénommé, Frédérique          CLA                      4.26m   NWI 
+  3 Dénommé, Frédérique          CLA                      4.26m   NWI   6   
      FOUL      4.07m(NWI) 4.26m(NWI)            
-  4 Baillargeon, Josiane         ETS                      4.13m   NWI 
+  4 Baillargeon, Josiane         ETS                      4.13m   NWI   5   
      4.13m(NWI) 3.93m(NWI) FOUL                
-  5 Bakayoko Bêh, Zélika         HOR                      4.03m   NWI 
+  5 Bakayoko Bêh, Zélika         HOR                      4.03m   NWI   4   
      4.03m(NWI) 3.81m(NWI) 3.95m(NWI)           
-  6 Beauvais, Lily-Morgane       ETS                      3.95m   NWI 
+  6 Beauvais, Lily-Morgane       ETS                      3.95m   NWI   3   
      3.79m(NWI) 3.95m(NWI) 3.87m(NWI)           
-  7 Gariépy, Erika               FL                       3.93m   NWI 
+  7 Gariépy, Erika               FL                       3.93m   NWI   2   
      3.83m(NWI) 3.60m(NWI) 3.93m(NWI)            
-  8 Mentor, Anaël                AST                      3.91m   NWI 
+  8 Mentor, Anaël                AST                      3.91m   NWI   1   
      3.89m(NWI) 3.49m(NWI) 3.91m(NWI)            
   9 Mailhot, Camille             ESO                      3.80m   NWI 
      FOUL      2.96m(NWI) 3.80m(NWI)            
@@ -1208,24 +1333,24 @@ Epreuve 53  Femmes Saut en longueur Benjamine
      2.58m(NWI) 2.29m(NWI) FOUL                 
  
 Epreuve 54  Hommes Saut en longueur Benjamine
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 N'Guessan, Kadjo Jean Da     ESDHS                    4.28m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 N'Guessan, Kadjo Jean Da     ESDHS                    4.28m   NWI   9   
      4.08m(NWI) 4.28m(NWI) 4.05m(NWI)           
-  2 Bessette, Maïk               AST                      4.22m   NWI 
+  2 Bessette, Maïk               AST                      4.22m   NWI   7   
      3.56m(NWI) 4.03m(NWI) 4.22m(NWI)           
-  3 Blain, Alix                  CLA                      4.15m   NWI 
+  3 Blain, Alix                  CLA                      4.15m   NWI   6   
      4.15m(NWI) 4.03m(NWI) 3.99m(NWI)           
-  4 Nardelli, Mika               ESC                      4.08m   NWI 
+  4 Nardelli, Mika               ESC                      4.08m   NWI   5   
      4.08m(NWI) 3.90m(NWI) 4.05m(NWI)           
-  5 Da Sylva, Jérémy             LAV                      4.04m   NWI 
+  5 Da Sylva, Jérémy             LAV                      4.04m   NWI   4   
      3.81m(NWI) 3.71m(NWI) 4.04m(NWI)           
-  6 Milien, Brian-Jefferson      CL                       4.03m   NWI 
+  6 Milien, Brian-Jefferson      CL                       4.03m   NWI   3   
      3.93m(NWI) 3.87m(NWI) 4.03m(NWI)           
-  7 Desmornes, Emmanuel          CIT                      4.02m   NWI 
+  7 Desmornes, Emmanuel          CIT                      4.02m   NWI   2   
      4.02m(NWI) 3.16m(NWI) 3.45m(NWI)           
-  8 Wilson, Shawn                CSS                      3.97m   NWI 
+  8 Wilson, Shawn                CSS                      3.97m   NWI   1   
      3.97m(NWI) 3.69m(NWI) 3.42m(NWI)           
   9 Drainville, Nathan           HOR                      3.92m   NWI 
      FOUL      3.56m(NWI) 3.92m(NWI)           
@@ -1273,26 +1398,26 @@ Epreuve 54  Hommes Saut en longueur Benjamine
      3.09m(NWI) FOUL      3.00m(NWI)           
  
 Epreuve 55  Femmes Saut en longueur Cadette
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 Gervais, Laurie              ESC                      4.74m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 Gervais, Laurie              ESC                      4.74m   NWI   9   
      4.74m(NWI) 4.45m(NWI) 4.44m(NWI)           
-  2 Jean-Charles, Jazmyn         LEB                      4.73m   NWI 
+  2 Jean-Charles, Jazmyn         LEB                      4.73m   NWI   7   
      FOUL      4.47m(NWI) 4.73m(NWI)           
-  3 Caron, Pénélope              CL                       4.32m   NWI 
+  3 Caron, Pénélope              CL                       4.32m   NWI   6   
      3.67m(NWI) FOUL      4.32m(NWI)           
-  4 Legault, Alyssa              FL                       4.19m   NWI 
+  4 Legault, Alyssa              FL                       4.19m   NWI   5   
      4.19m(NWI) FOUL      4.18m(NWI)           
-  5 Gauthier, Érika              CLA                      4.16m   NWI 
+  5 Gauthier, Érika              CLA                      4.16m   NWI   4   
      4.16m(NWI) 4.12m(NWI) 4.15m(NWI)           
-  6 Demers, Léa                  CLA                      4.09m   NWI 
+  6 Demers, Léa                  CLA                      4.09m   NWI   3   
      3.87m(NWI) 4.09m(NWI) 3.81m(NWI)           
-  7 Lanctôt-Dechamplain, Még     FL                       4.04m   NWI 
+  7 Lanctôt-Dechamplain, Még     FL                       4.04m   NWI   2   
      4.04m(NWI) 3.43m(NWI) 3.86m(NWI)           
-  8 Délicieux, Samina            GV                       4.00m   NWI 
+  8 Délicieux, Samina            GV                       4.00m   NWI   0.50
      4.00m(NWI) 3.65m(NWI) FOUL                
-  8 Rouleau, Ophélie             ESHM                     4.00m   NWI 
+  8 Rouleau, Ophélie             ESHM                     4.00m   NWI   0.50
      4.00m(NWI) 3.87m(NWI) 3.73m(NWI)           
  10 Lapierre, Lauranne           LAV                      3.98m   NWI 
      3.81m(NWI) 3.98m(NWI) 3.27m(NWI)           
@@ -1332,24 +1457,24 @@ Epreuve 55  Femmes Saut en longueur Cadette
      2.31m(NWI) 2.40m(NWI) 2.60m(NWI)           
  
 Epreuve 56  Hommes Saut en longueur Cadette
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 Bayard-Fournier, Émerick     GV                       6.77m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 Bayard-Fournier, Émerick     GV                       6.77m   NWI   9   
      FOUL      6.47m(NWI) 6.77m(NWI)           
-  2 Matos Espiritusanto, Car     PDM                      5.50m   NWI 
+  2 Matos Espiritusanto, Car     PDM                      5.50m   NWI   7   
      5.50m(NWI) 4.95m(NWI) 5.09m(NWI)           
-  3 Lafayette Pierre, Jesse      CLA                      5.27m   NWI 
+  3 Lafayette Pierre, Jesse      CLA                      5.27m   NWI   6   
      5.27m(NWI) FOUL      5.04m(NWI)           
-  4 Galibois, Simon              HJ                       5.25m   NWI 
+  4 Galibois, Simon              HJ                       5.25m   NWI   5   
      5.25m(NWI) 5.20m(NWI) 5.22m(NWI)           
-  5 Labelle, Xavier              AST                      5.11m   NWI 
+  5 Labelle, Xavier              AST                      5.11m   NWI   4   
      5.11m(NWI) 4.90m(NWI) 5.02m(NWI)           
-  6 Romulus, Freud Kersley       ESC                      5.09m   NWI 
+  6 Romulus, Freud Kersley       ESC                      5.09m   NWI   3   
      5.09m(NWI) 4.51m(NWI) FOUL                
-  7 Hedidor, Bessil              CSS                      5.05m   NWI 
+  7 Hedidor, Bessil              CSS                      5.05m   NWI   1.50
      5.05m(NWI) 5.02m(NWI) 2.80m(NWI)           
-  7 Mauvais, Belucci             ESHM                     5.05m   NWI 
+  7 Mauvais, Belucci             ESHM                     5.05m   NWI   1.50
      4.74m(NWI) 5.05m(NWI) FOUL                
   9 Atori, King Bryan Efe        PDM                      5.02m   NWI 
      5.02m(NWI) 4.35m(NWI) FOUL                
@@ -1407,24 +1532,24 @@ Epreuve 56  Hommes Saut en longueur Cadette
      2.90m(NWI)                 
  
 Epreuve 57  Femmes Saut en longueur Juvénile
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 St-Germain, Maoly            PREL                     5.10m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 St-Germain, Maoly            PREL                     5.10m   NWI   9   
      FOUL      5.10m(NWI) 5.05m(NWI)           
-  2 Bitar, Melissa               AST                      4.90m   NWI 
+  2 Bitar, Melissa               AST                      4.90m   NWI   6.50
      4.90m(NWI) 4.60m(NWI) FOUL                
-  2 Finnerty, Ève                AST                      4.90m   NWI 
+  2 Finnerty, Ève                AST                      4.90m   NWI   6.50
      4.90m(NWI) 4.58m(NWI) 4.54m(NWI)           
-  4 Paradis, Sarah-Eve           LAV                      4.51m   NWI 
+  4 Paradis, Sarah-Eve           LAV                      4.51m   NWI   5   
      FOUL      4.23m(NWI) 4.51m(NWI)           
-  5 Quidoz, Audrey               JBM                      4.45m   NWI 
+  5 Quidoz, Audrey               JBM                      4.45m   NWI   4   
      4.45m(NWI) 3.94m(NWI) 4.22m(NWI)           
-  6 Robitaille, Chloé            PST                      4.42m   NWI 
+  6 Robitaille, Chloé            PST                      4.42m   NWI   3   
      4.10m(NWI) 3.89m(NWI) 4.42m(NWI)           
-  7 Lepage, Rosalie              ERA                      4.35m   NWI 
+  7 Lepage, Rosalie              ERA                      4.35m   NWI   2   
      4.35m(NWI) 4.26m(NWI) 4.11m(NWI)           
-  8 Étienne, Iris                CSS                      4.23m   NWI 
+  8 Étienne, Iris                CSS                      4.23m   NWI   1   
      4.15m(NWI) 3.99m(NWI) 4.23m(NWI)           
   9 Savard, Camille              CLA                      4.21m   NWI 
      3.99m(NWI) 4.21m(NWI) FOUL                
@@ -1450,24 +1575,24 @@ Epreuve 57  Femmes Saut en longueur Juvénile
      FOUL      FOUL      FOUL                
  
 Epreuve 58  Hommes Saut en longueur Juvénile
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 Désilets, Emanuel            HJ                       6.50m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 Désilets, Emanuel            HJ                       6.50m   NWI   9   
      4.05m(NWI) 6.40m(NWI) 6.50m(NWI)           
-  2 Alcéna, Lutch Jarmannau      FL                       6.40m   NWI 
+  2 Alcéna, Lutch Jarmannau      FL                       6.40m   NWI   7   
      6.37m(NWI) 6.40m(NWI) 5.17m(NWI)           
-  3 Tano Kouassi, Adjoumani      JBM                      6.03m   NWI 
+  3 Tano Kouassi, Adjoumani      JBM                      6.03m   NWI   6   
      6.03m(NWI) 5.75m(NWI) 6.02m(NWI)           
-  4 Jolicoeur, William           FREN                     5.55m   NWI 
+  4 Jolicoeur, William           FREN                     5.55m   NWI   5   
      5.29m(NWI) 5.47m(NWI) 5.55m(NWI)           
-  5 Lallier, Nicolas             ESC                      5.51m   NWI 
+  5 Lallier, Nicolas             ESC                      5.51m   NWI   4   
      4.76m(NWI) 5.51m(NWI) 5.28m(NWI)           
-  6 Daunais, Benjamin            CLA                      5.45m   NWI 
+  6 Daunais, Benjamin            CLA                      5.45m   NWI   3   
      5.45m(NWI) 4.91m(NWI) 5.39m(NWI)           
-  7 Régimbald, Marc-Antoine      AMI                      5.43m   NWI 
+  7 Régimbald, Marc-Antoine      AMI                      5.43m   NWI   1.50
      5.21m(NWI) 5.33m(NWI) 5.43m(NWI)          
-  7 Lalande, Kevin               LAV                      5.43m   NWI 
+  7 Lalande, Kevin               LAV                      5.43m   NWI   1.50
      5.43m(NWI) 5.26m(NWI) 5.05m(NWI)           
   9 Tremblay, Etienne            ESC                      5.38m   NWI 
      5.35m(NWI) 5.25m(NWI) 5.38m(NWI)           
@@ -1507,24 +1632,24 @@ Epreuve 58  Hommes Saut en longueur Juvénile
      2.45m(NWI) 3.02m(NWI) 3.21m(NWI)           
  
 Epreuve 59  Femmes Lancer du poids 2kg Benjamine
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Leduc, Laurie-Anne           AST                     10.81m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Leduc, Laurie-Anne           AST                     10.81m    9   
       9.72m  9.93m  10.81m           
-  2 Yimga Tchouya, Ilse Dulc     CLA                      9.35m  
+  2 Yimga Tchouya, Ilse Dulc     CLA                      9.35m    7   
       FOUL  FOUL  9.35m           
-  3 Lafrance-Bolduc, Abigael     ETS                      9.24m  
+  3 Lafrance-Bolduc, Abigael     ETS                      9.24m    6   
       9.24m  8.87m  8.05m           
-  4 Feliciello, Elsa             AST                      8.14m  
+  4 Feliciello, Elsa             AST                      8.14m    5   
       8.14m  7.31m  7.86m           
-  5 Goovaerts, Laetitia          EPJ                      8.12m  
+  5 Goovaerts, Laetitia          EPJ                      8.12m    4   
       8.12m  7.90m  7.00m           
-  6 Duguay, Marianne             GAB                      7.99m  
+  6 Duguay, Marianne             GAB                      7.99m    3   
       7.97m  7.99m  7.99m           
-  7 Bigras, Tali                 LAV                      7.87m  
+  7 Bigras, Tali                 LAV                      7.87m    2   
       7.07m  7.87m  7.80m          
-  8 Gagné, Maève                 ESC                      7.75m  
+  8 Gagné, Maève                 ESC                      7.75m    1   
       FOUL  6.93m  7.75m           
   9 Beauvais, Lily-Morgane       ETS                      7.58m  
       FOUL  FOUL  7.58m           
@@ -1564,24 +1689,24 @@ Epreuve 59  Femmes Lancer du poids 2kg Benjamine
       FOUL  FOUL  FOUL           
  
 Epreuve 60  Hommes Lancer du poids 3kg Benjamine
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Gagnon, Xavier               LAV                     11.10m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Gagnon, Xavier               LAV                     11.10m    9   
       10.85m  11.10m  FOUL           
-  2 Brousseau, Julien            CSS                     10.69m  
+  2 Brousseau, Julien            CSS                     10.69m    7   
       FOUL  10.69m  FOUL           
-  3 Langlois, Jérémy             CLA                     10.57m  
+  3 Langlois, Jérémy             CLA                     10.57m    6   
       10.54m  10.57m  9.92m           
-  4 Fortier-Gendron, Adam        FL                       9.58m  
+  4 Fortier-Gendron, Adam        FL                       9.58m    4.50
       8.70m  8.90m  9.58m           
-  4 Dugré, Alexis                ESC                      9.58m  
+  4 Dugré, Alexis                ESC                      9.58m    4.50
       9.16m  9.25m  9.58m           
-  6 Denoyer, Jhoris              CSS                      9.40m  
+  6 Denoyer, Jhoris              CSS                      9.40m    3   
       8.44m  9.40m  8.65m           
-  7 Major, Félix                 ESC                      8.96m  
+  7 Major, Félix                 ESC                      8.96m    2   
       8.96m  FOUL  8.76m           
-  8 Boulanger Rezende, Phili     AST                      8.93m  
+  8 Boulanger Rezende, Phili     AST                      8.93m    1   
       8.93m  8.00m  8.40m           
   9 Badibanga Brian, Divin       JBM                      8.40m  
       FOUL  8.40m  7.90m           
@@ -1613,24 +1738,24 @@ Epreuve 60  Hommes Lancer du poids 3kg Benjamine
       FOUL  FOUL  FOUL           
  
 Epreuve 61  Femmes Lancer du poids 3kg Cadette
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Rizzuto, Isabella            ESC                      9.60m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Rizzuto, Isabella            ESC                      9.60m    9   
       8.95m  9.60m  9.21m           
-  2 Ngono Mvogo, Kate            ESC                      9.39m  
+  2 Ngono Mvogo, Kate            ESC                      9.39m    7   
       8.80m  8.56m  9.39m           
-  3 Modérie, Anabelle            LAV                      9.16m  
+  3 Modérie, Anabelle            LAV                      9.16m    6   
       8.52m  8.92m  9.16m           
-  4 Moubayed, Léa                CL                       8.76m  
+  4 Moubayed, Léa                CL                       8.76m    5   
       8.76m  8.14m  8.02m           
-  5 Longin, Ashley               ETS                      8.67m  
+  5 Longin, Ashley               ETS                      8.67m    4   
       8.67m    x             
-  6 Louissaint, Naïla            CLA                      8.60m  
+  6 Louissaint, Naïla            CLA                      8.60m    3   
       7.73m  8.12m  8.60m           
-  7 Duran Bertran, Maria Vic     EPJ                      8.52m  
+  7 Duran Bertran, Maria Vic     EPJ                      8.52m    2   
       FOUL  7.98m  8.52m           
-  8 Nshimirimana, Malika         JBM                      8.36m  
+  8 Nshimirimana, Malika         JBM                      8.36m    1   
       8.36m  FOUL  8.28m          
   9 Legault, Alyssa              FL                       7.91m  
       6.84m  7.90m  7.91m           
@@ -1648,24 +1773,24 @@ Epreuve 61  Femmes Lancer du poids 3kg Cadette
       5.40m  4.81m  FOUL           
  
 Epreuve 62  Hommes Lancer du poids 4kg Cadette
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Alcide, John Kilyan          CLA                     12.11m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Alcide, John Kilyan          CLA                     12.11m    9   
       11.05m  11.50m  12.11m           
-  2 Quann-Faubert, Alexis        LAV                     11.72m  
+  2 Quann-Faubert, Alexis        LAV                     11.72m    7   
       11.13m  10.55m  11.72m           
-  3 Ouellette, Mikaël            ESC                     11.70m  
+  3 Ouellette, Mikaël            ESC                     11.70m    6   
       11.34m  FOUL  11.70m           
-  4 Marcoux, Julien              ESC                     11.48m  
+  4 Marcoux, Julien              ESC                     11.48m    5   
       11.48m  11.37m  10.85m           
-  5 Lachance, Samuel             GAB                     11.40m  
+  5 Lachance, Samuel             GAB                     11.40m    4   
       10.56m  11.24m  11.40m           
-  6 Gonthier-Gravel, Nicolas     CAP                     11.28m  
+  6 Gonthier-Gravel, Nicolas     CAP                     11.28m    3   
       10.78m  10.92m  11.28m           
-  7 Mignacco, James-William      HOR                     11.18m  
+  7 Mignacco, James-William      HOR                     11.18m    2   
       11.18m  10.89m  FOUL           
-  8 Boilard, Alexandre           AST                     10.30m  
+  8 Boilard, Alexandre           AST                     10.30m    1   
       10.30m  9.17m  9.47m         
   9 Baillargeon, Jérémi          CLA                      9.72m  
       FOUL  9.23m  9.72m           
@@ -1695,24 +1820,24 @@ Epreuve 62  Hommes Lancer du poids 4kg Cadette
       FOUL  8.03m  7.47m           
  
 Epreuve 63  Femmes Lancer du poids 3kg Juvénile
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Kingsbury, Marie-Eve         LAV                      9.93m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Kingsbury, Marie-Eve         LAV                      9.93m    9   
       9.65m  9.32m  9.93m           
-  2 Latreille, Audrey            CAP                      9.67m  
+  2 Latreille, Audrey            CAP                      9.67m    7   
       9.20m  9.67m  9.62m           
-  3 Gagnon, Marianne             CEB                      9.35m  
+  3 Gagnon, Marianne             CEB                      9.35m    6   
       8.76m  9.00m  9.35m           
-  4 Trudel, Meagan               JBM                      9.12m  
+  4 Trudel, Meagan               JBM                      9.12m    5   
       FOUL  9.06m  9.12m           
-  5 Gauthier, Emy                ESC                      9.00m  
+  5 Gauthier, Emy                ESC                      9.00m    4   
       8.70m  9.00m  FOUL           
-  6 Guay, Ann-Sophie             FL                       8.96m  
+  6 Guay, Ann-Sophie             FL                       8.96m    2.50
       7.34m  8.96m  8.73m           
-  6 Dubuc, Alexia                ESC                      8.96m  
+  6 Dubuc, Alexia                ESC                      8.96m    2.50
       8.24m  8.33m  8.96m           
-  8 Lefrançois, Émilie           CL                       8.80m  
+  8 Lefrançois, Émilie           CL                       8.80m    1   
       8.80m  8.33m  7.75m           
   9 Stringer, Maude              CAL                      8.10m  
       8.10m  7.76m  7.80m           
@@ -1732,24 +1857,24 @@ Epreuve 63  Femmes Lancer du poids 3kg Juvénile
       5.74m  5.26m  5.66m           
  
 Epreuve 64  Hommes Lancer du poids 5kg Juvénile
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Jolicoeur, William           FREN                    13.32m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Jolicoeur, William           FREN                    13.32m    9   
       11.63m  12.85m  13.32m           
-  2 Casaubon, Ludwig             CAL                     12.28m  
+  2 Casaubon, Ludwig             CAL                     12.28m    7   
       11.56m  12.28m  11.97m            
-  3 Guegano, Christophe          ETS                     11.08m  
+  3 Guegano, Christophe          ETS                     11.08m    6   
       10.91m  11.08m  10.64m           
-  4 Cliche, Gregory              LAV                     11.07m  
+  4 Cliche, Gregory              LAV                     11.07m    5   
       10.07m  10.40m  11.07m           
-  5 Lapierre, Sacha              ESC                     10.92m  
+  5 Lapierre, Sacha              ESC                     10.92m    4   
       10.52m  10.70m  10.92m            
-  6 Hassan Omar, Benjamin        CLA                     10.48m  
+  6 Hassan Omar, Benjamin        CLA                     10.48m    3   
       FOUL  10.07m  10.48m            
-  7 Dumoulin-Fournier, Louis     ESC                     10.31m  
+  7 Dumoulin-Fournier, Louis     ESC                     10.31m    2   
       9.38m  10.31m  9.76m           
-  8 Cesil, Shayne                JBM                      9.98m  
+  8 Cesil, Shayne                JBM                      9.98m    1   
       7.66m  9.98m  8.15m            
   9 Murray, Victor               AST                      9.80m  
       8.81m  9.36m  9.80m            
@@ -1765,24 +1890,24 @@ Epreuve 64  Hommes Lancer du poids 5kg Juvénile
       6.36m  7.54m  7.86m            
  
 Epreuve 65  Femmes Lancer du disque 600g Benjamine
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Racine, Océane               AST                     20.74m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Racine, Océane               AST                     20.74m    9   
       FOUL  20.74m  18.42m           
-  2 Pouliot, Gabrielle           FL                      20.54m  
+  2 Pouliot, Gabrielle           FL                      20.54m    7   
       18.18m  14.21m  20.54m           
-  3 Spitzer, Anick               EPJ                     20.39m  
+  3 Spitzer, Anick               EPJ                     20.39m    6   
       20.39m  17.43m  FOUL           
-  4 Lafrance-Bolduc, Abigael     ETS                     18.41m  
+  4 Lafrance-Bolduc, Abigael     ETS                     18.41m    5   
       14.35m  17.45m  18.41m           
-  5 Surrett, Victoria            ESC                     18.22m  
+  5 Surrett, Victoria            ESC                     18.22m    4   
       FOUL  FOUL  18.22m           
-  6 Fortin, Rosemarie            FL                      18.08m  
+  6 Fortin, Rosemarie            FL                      18.08m    3   
       15.13m  18.08m  FOUL           
-  7 Galarneau, Alyssa            ESC                     17.84m  
+  7 Galarneau, Alyssa            ESC                     17.84m    2   
       14.43m  15.55m  17.84m           
-  8 Patry-Ménard, Kina           AST                     17.56m  
+  8 Patry-Ménard, Kina           AST                     17.56m    1   
       17.56m  16.37m  16.00m           
   9 Duguay, Marianne             GAB                     17.42m  
       17.42m  16.48m  14.60m           
@@ -1804,24 +1929,24 @@ Epreuve 65  Femmes Lancer du disque 600g Benjamine
       FOUL  FOUL  FOUL           
  
 Epreuve 66  Hommes Lancer du disque 750g Benjamine
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 David, William               CLA                     25.25m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 David, William               CLA                     25.25m    9   
       23.70m  25.25m  24.86m           
-  2 Zayed, Thomas Gabriel        CLA                     23.93m  
+  2 Zayed, Thomas Gabriel        CLA                     23.93m    7   
       18.86m  23.93m  22.03m           
-  3 Noel, Léo-Pierre             AMI                     22.90m  
+  3 Noel, Léo-Pierre             AMI                     22.90m    6   
       22.90m  19.36m  22.00m           
-  4 Brousseau, Julien            CSS                     21.96m  
+  4 Brousseau, Julien            CSS                     21.96m    5   
       FOUL  19.61m  21.96m            
-  5 Fortier-Gendron, Adam        FL                      21.95m  
+  5 Fortier-Gendron, Adam        FL                      21.95m    4   
       17.58m  17.55m  21.95m           
-  6 Denoyer, Jhoris              CSS                     21.33m  
+  6 Denoyer, Jhoris              CSS                     21.33m    3   
       FOUL  18.22m  21.33m           
-  7 Gagnon Clermont, Jérémy      LAV                     20.66m  
+  7 Gagnon Clermont, Jérémy      LAV                     20.66m    2   
       FOUL  20.66m  FOUL           
-  8 Gaudreault, Aymeric          EPJ                     19.28m  
+  8 Gaudreault, Aymeric          EPJ                     19.28m    1   
       18.50m  19.28m  FOUL           
   9 Poulin, William              AST                     18.21m  
       18.21m  17.98m  FOUL           
@@ -1839,24 +1964,24 @@ Epreuve 66  Hommes Lancer du disque 750g Benjamine
       FOUL  FOUL  FOUL           
  
 Epreuve 67  Femmes Lancer du disque 1kg Cadette
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Moubayed, Léa                CL                      21.60m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Moubayed, Léa                CL                      21.60m    9   
       20.36m  21.04m  21.60m           
-  2 Rizzuto, Isabella            ESC                     20.53m  
+  2 Rizzuto, Isabella            ESC                     20.53m    7   
       19.14m  20.51m  20.53m           
-  3 Ngono Mvogo, Kate            ESC                     18.68m  
+  3 Ngono Mvogo, Kate            ESC                     18.68m    6   
       FOUL  FOUL  18.68m           
-  4 Ouellet, Élodie              LAV                     18.26m  
+  4 Ouellet, Élodie              LAV                     18.26m    5   
       18.26m  16.25m  16.31m           
-  5 Gladu-Lessard, Léa           FREN                    18.02m  
+  5 Gladu-Lessard, Léa           FREN                    18.02m    4   
       15.07m  18.02m  FOUL           
-  6 Duran Bertran, Maria Vic     EPJ                     17.94m  
+  6 Duran Bertran, Maria Vic     EPJ                     17.94m    3   
       16.54m  17.94m  FOUL           
-  7 Corbeil, Chloé               CSS                     17.43m  
+  7 Corbeil, Chloé               CSS                     17.43m    2   
       17.43m  FOUL  15.30m           
-  8 Dion, Shelly-Ann             FL                      16.23m  
+  8 Dion, Shelly-Ann             FL                      16.23m    1   
       14.38m  FOUL  16.23m           
   9 Gratton, Aurélya             FL                      16.13m  
       16.13m  15.11m  15.64m           
@@ -1872,24 +1997,24 @@ Epreuve 67  Femmes Lancer du disque 1kg Cadette
       8.61m  7.40m  10.15m           
  
 Epreuve 68  Hommes Lancer du disque 1kg Cadette
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Locas, Alexandre             ESC                     36.81m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Locas, Alexandre             ESC                     36.81m    9   
       31.01m  25.07m  36.81m           
-  2 Hamelin, Mathieu             AST                     29.75m  
+  2 Hamelin, Mathieu             AST                     29.75m    7   
       22.79m  25.52m  29.75m           
-  3 Alcide, John Kilyan          CLA                     29.71m  
+  3 Alcide, John Kilyan          CLA                     29.71m    6   
       28.10m  28.87m  29.71m           
-  4 Lauzon, Vincent              CLA                     29.49m  
+  4 Lauzon, Vincent              CLA                     29.49m    5   
       FOUL  27.55m  29.49m           
-  5 Gonthier-Gravel, Nicolas     CAP                     29.33m  
+  5 Gonthier-Gravel, Nicolas     CAP                     29.33m    4   
       28.61m  24.82m  29.33m           
-  6 Catellier, François          CL                      28.62m  
+  6 Catellier, François          CL                      28.62m    3   
       27.51m  26.97m  28.62m           
-  7 Trudel, Zachary              FL                      27.03m  
+  7 Trudel, Zachary              FL                      27.03m    2   
       FOUL  27.03m  21.93m           
-  8 Roy, Jérémy                  EPJ                     26.93m  
+  8 Roy, Jérémy                  EPJ                     26.93m    1   
       26.93m  25.36m  25.64m           
   9 Registre, Anthony            AST                     26.44m  
       26.44m  21.40m  FOUL           
@@ -1927,24 +2052,24 @@ Epreuve 68  Hommes Lancer du disque 1kg Cadette
       FOUL  14.44m  15.29m           
  
 Epreuve 69  Femmes Lancer du disque 1kg Juvénile
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Foucault, Mahély             LAV                     25.45m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Foucault, Mahély             LAV                     25.45m    9   
       24.00m  25.45m  23.03m           
-  2 Allard, Malie                CLA                     22.70m  
+  2 Allard, Malie                CLA                     22.70m    7   
       17.78m  22.70m  17.34m           
-  3 Gagnon, Marianne             CEB                     22.50m  
+  3 Gagnon, Marianne             CEB                     22.50m    6   
       FOUL  22.50m  19.18m           
-  4 Latreille, Audrey            CAP                     20.81m  
+  4 Latreille, Audrey            CAP                     20.81m    5   
       17.19m  15.50m  20.81m           
-  5 Torchon, Lhoydie             FL                      20.80m  
+  5 Torchon, Lhoydie             FL                      20.80m    4   
       17.05m  19.79m  20.80m           
-  6 Pagé, Florence               CSS                     20.20m  
+  6 Pagé, Florence               CSS                     20.20m    3   
       16.88m  FOUL  20.20m           
-  7 Gauthier, Emy                ESC                     19.90m  
+  7 Gauthier, Emy                ESC                     19.90m    2   
       FOUL  18.42m  19.90m           
-  8 Peterson, Marilou            JBM                     19.60m  
+  8 Peterson, Marilou            JBM                     19.60m    1   
       17.80m  19.60m  19.43m           
   9 Mantha, Catherine            GAB                     16.83m  
       16.83m  15.89m  15.89m           
@@ -1964,24 +2089,24 @@ Epreuve 69  Femmes Lancer du disque 1kg Juvénile
       9.37m  9.10m  10.75m           
  
 Epreuve 70  Hommes Lancer du disque 1.5kg Juvénile
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Casaubon, Ludwig             CAL                     37.70m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Casaubon, Ludwig             CAL                     37.70m    9   
       33.43m  37.70m  FOUL           
-  2 Cliche, Gregory              LAV                     32.16m  
+  2 Cliche, Gregory              LAV                     32.16m    7   
       32.16m  31.55m  27.80m           
-  3 Dumoulin-Fournier, Louis     ESC                     31.50m  
+  3 Dumoulin-Fournier, Louis     ESC                     31.50m    6   
       29.49m  31.50m  30.52m           
-  4 Pyrus, Mcryan Trever         CLA                     30.31m  
+  4 Pyrus, Mcryan Trever         CLA                     30.31m    5   
       29.60m  26.55m  30.31m           
-  5 Giguère, Gabriel             AST                     27.40m  
+  5 Giguère, Gabriel             AST                     27.40m    4   
       24.74m  FOUL  27.40m           
-  6 Morin, Jonathan              SMAX                    27.24m  
+  6 Morin, Jonathan              SMAX                    27.24m    3   
       FOUL  24.54m  27.24m           
-  7 Alcide, Shawn Gabriel        CLA                     26.55m  
+  7 Alcide, Shawn Gabriel        CLA                     26.55m    2   
       26.55m  FOUL  24.36m           
-  8 Guegano, Christophe          ETS                     25.26m  
+  8 Guegano, Christophe          ETS                     25.26m    1   
       25.26m  FOUL  FOUL           
   9 Rucka, Justin                AMI                     24.85m  
       FOUL  23.77m  24.85m          
@@ -2013,24 +2138,24 @@ Epreuve 70  Hommes Lancer du disque 1.5kg Juvénile
       13.20m  FOUL  13.30m           
  
 Epreuve 71  Femmes Lancer du javelot 400g Benjamine
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Marin, Justine               CLA                     25.10m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Marin, Justine               CLA                     25.10m    9   
       25.10m  24.02m  22.50m           
-  2 Rolland, Anne                EPJ                     24.04m  
+  2 Rolland, Anne                EPJ                     24.04m    7   
       21.70m  24.04m  8.65m           
-  3 Dénommé, Frédérique          CLA                     21.50m  
+  3 Dénommé, Frédérique          CLA                     21.50m    6   
       19.10m  18.33m  21.50m           
-  4 Gagné, Maève                 ESC                     20.34m  
+  4 Gagné, Maève                 ESC                     20.34m    5   
       16.30m  12.90m  20.34m           
-  5 Ménard, Justine              EPJ                     19.65m  
+  5 Ménard, Justine              EPJ                     19.65m    4   
       15.03m  14.42m  19.65m           
-  6 Sebti, Anaïs                 ODJ                     19.19m  
+  6 Sebti, Anaïs                 ODJ                     19.19m    3   
       15.90m  19.19m  18.55m           
-  7 Gariépy, Erika               FL                      18.77m  
+  7 Gariépy, Erika               FL                      18.77m    2   
       18.77m  14.76m  16.43m           
-  8 Lafond, Delphine             AST                     17.66m  
+  8 Lafond, Delphine             AST                     17.66m    1   
       13.42m  16.31m  17.66m           
   9 Joyal, Justine               ETS                     16.58m  
       16.25m  16.58m  15.05m           
@@ -2058,24 +2183,24 @@ Epreuve 71  Femmes Lancer du javelot 400g Benjamine
       5.80m  10.15m  8.50m           
  
 Epreuve 72  Hommes Lancer du javelot 500g Benjamine
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Blain, Alix                  CLA                     31.12m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Blain, Alix                  CLA                     31.12m    9   
       24.58m  28.69m  31.12m           
-  2 Dubois, Sean Edward          ESC                     24.10m  
+  2 Dubois, Sean Edward          ESC                     24.10m    7   
       FOUL  FOUL  24.10m           
-  3 Bissonnette, Antoine         AMI                     23.05m  
+  3 Bissonnette, Antoine         AMI                     23.05m    6   
       FOUL  23.05m  FOUL           
-  4 Gravel, Alexandre            EPJ                     22.09m  
+  4 Gravel, Alexandre            EPJ                     22.09m    5   
       22.09m  FOUL  12.53m           
-  5 Noel, Léo-Pierre             AMI                     20.26m  
+  5 Noel, Léo-Pierre             AMI                     20.26m    4   
       20.26m  19.46m  18.50m           
-  6 Lefebvre, Charles-Henri      ESC                     20.20m  
+  6 Lefebvre, Charles-Henri      ESC                     20.20m    3   
       FOUL  20.20m  FOUL           
-  7 Chowdhury, Ryhan             GAB                     19.25m  
+  7 Chowdhury, Ryhan             GAB                     19.25m    2   
       17.30m  FOUL  19.25m           
-  8 Villeneuve, Nicolas          GAB                     18.17m  
+  8 Villeneuve, Nicolas          GAB                     18.17m    1   
       18.17m  FOUL  13.90m           
   9 Gagnon, Xavier               LAV                     18.09m  
       15.14m  18.09m  13.90m           
@@ -2105,24 +2230,24 @@ Epreuve 72  Hommes Lancer du javelot 500g Benjamine
       FOUL  FOUL  FOUL           
  
 Epreuve 73  Femmes Lancer du javelot 500g Cadette
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Louissaint, Naïla            CLA                     24.16m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Louissaint, Naïla            CLA                     24.16m    9   
       20.24m  22.01m  24.16m           
-  2 Richard, Alexia              ESC                     21.53m  
+  2 Richard, Alexia              ESC                     21.53m    7   
       18.31m  20.60m  21.53m           
-  3 Leblanc, Cassandre           GAB                     20.34m  
+  3 Leblanc, Cassandre           GAB                     20.34m    6   
       20.34m  FOUL  20.18m           
-  4 Simard, Alexiane             ODJ                     18.00m  
+  4 Simard, Alexiane             ODJ                     18.00m    5   
       17.36m  14.10m  18.00m           
-  5 St-Jean, Allison             LAV                     17.97m  
+  5 St-Jean, Allison             LAV                     17.97m    4   
       17.97m  14.77m  15.21m           
-  6 Bouhlel, Lina                EPJ                     16.71m  
+  6 Bouhlel, Lina                EPJ                     16.71m    3   
       16.71m  FOUL  FOUL           
-  7 Gagnon, Audrey-Jeanne        CLA                     15.49m  
+  7 Gagnon, Audrey-Jeanne        CLA                     15.49m    2   
       15.35m  FOUL  15.49m           
-  8 Benoit, Victoria             EPJ                     13.34m  
+  8 Benoit, Victoria             EPJ                     13.34m    1   
       FOUL  12.71m  13.34m           
   9 Rojas, Lidya                 HOR                     13.23m  
       13.23m  11.29m  10.27m           
@@ -2152,24 +2277,24 @@ Epreuve 73  Femmes Lancer du javelot 500g Cadette
       FOUL  FOUL  FOUL           
  
 Epreuve 74  Hommes Lancer du javelot 600g Cadette
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Aubin, Dylan                 AST                     33.59m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Aubin, Dylan                 AST                     33.59m    9   
       28.44m  29.93m  33.59m            
-  2 Thiboutot, Vincent           CLA                     33.54m  
+  2 Thiboutot, Vincent           CLA                     33.54m    7   
       30.49m  27.44m  33.54m           
-  3 Couture, Joseph              HOR                     32.51m  
+  3 Couture, Joseph              HOR                     32.51m    6   
       FOUL  32.51m  FOUL           
-  4 Côté, Alexis                 LAV                     32.46m  
+  4 Côté, Alexis                 LAV                     32.46m    5   
       32.46m  31.23m  32.18m            
-  5 Gosselin, William            CSS                     27.42m  
+  5 Gosselin, William            CSS                     27.42m    4   
       FOUL  26.40m  27.42m           
-  6 Roy, Jérémy                  EPJ                     27.16m  
+  6 Roy, Jérémy                  EPJ                     27.16m    3   
       26.89m  27.16m  FOUL            
-  7 Fortin, Alexandre            FL                      26.26m  
+  7 Fortin, Alexandre            FL                      26.26m    2   
       FOUL  FOUL  26.26m           
-  8 Gingras, Simon               PST                     26.15m  
+  8 Gingras, Simon               PST                     26.15m    1   
       24.87m  26.15m  FOUL           
   9 Berteau, Tommy               PREL                    25.56m  
       22.10m  19.72m  25.56m            
@@ -2213,24 +2338,24 @@ Epreuve 74  Hommes Lancer du javelot 600g Cadette
       FOUL  FOUL  FOUL            
  
 Epreuve 75  Femmes Lancer du javelot 500g Juvénile
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Lefrançois, Émilie           CL                      32.18m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Lefrançois, Émilie           CL                      32.18m    9   
       25.06m  32.18m  28.00m           
-  2 Lacoste, Marilou             CLA                     30.05m  
+  2 Lacoste, Marilou             CLA                     30.05m    7   
       30.05m  27.24m  26.92m           
-  3 Robitaille, Chloé            PST                     26.84m  
+  3 Robitaille, Chloé            PST                     26.84m    6   
       19.74m  26.84m  FOUL           
-  4 Foucault, Mahély             LAV                     26.70m  
+  4 Foucault, Mahély             LAV                     26.70m    5   
       24.00m  26.70m  24.53m           
-  5 Guay, Ann-Sophie             FL                      26.38m  
+  5 Guay, Ann-Sophie             FL                      26.38m    4   
       26.00m  23.03m  26.38m           
-  6 St-Germain, Maoly            PREL                    25.80m  
+  6 St-Germain, Maoly            PREL                    25.80m    3   
       24.92m  23.10m  25.80m           
-  7 Stringer, Maude              CAL                     25.79m  
+  7 Stringer, Maude              CAL                     25.79m    2   
       FOUL  24.18m  25.79m           
-  8 Pouliot, Maelle              CEB                     25.45m  
+  8 Pouliot, Maelle              CEB                     25.45m    1   
       25.45m  16.30m  21.48m           
   9 Monchamp-Siew, Aurélie       ESC                     25.34m  
       23.30m  22.12m  25.34m           
@@ -2258,24 +2383,24 @@ Epreuve 75  Femmes Lancer du javelot 500g Juvénile
       FOUL  FOUL  FOUL           
  
 Epreuve 76  Hommes Lancer du javelot 700g Juvénile
-================================================================
-    Nom                    Annee Club                   Finales 
-================================================================
-  1 Régimbald, Marc-Antoine      AMI                     44.23m  
+=======================================================================
+    Nom                    Annee Club                   Finales  Points
+=======================================================================
+  1 Régimbald, Marc-Antoine      AMI                     44.23m    9   
       44.00m  44.23m  32.86m           
-  2 Daunais, Benjamin            CLA                     43.30m  
+  2 Daunais, Benjamin            CLA                     43.30m    7   
       FOUL  37.91m  43.30m           
-  3 Rondeau, Sacha               JBM                     40.94m  
+  3 Rondeau, Sacha               JBM                     40.94m    6   
       40.94m  38.47m  29.57m           
-  4 Urbain, Anthony              AST                     40.75m  
+  4 Urbain, Anthony              AST                     40.75m    5   
       40.75m  35.46m  FOUL           
-  5 Hassan Omar, Benjamin        CLA                     36.57m  
+  5 Hassan Omar, Benjamin        CLA                     36.57m    4   
       33.66m  36.57m  35.73m           
-  6 Mariano, José                HOR                     36.49m  
+  6 Mariano, José                HOR                     36.49m    3   
       36.49m  36.00m  34.83m           
-  7 Moreau-Leblanc, Yan          LAV                     36.48m  
+  7 Moreau-Leblanc, Yan          LAV                     36.48m    2   
       FOUL  36.48m  FOUL           
-  8 Richard, Félix               ESC                     35.58m  
+  8 Richard, Félix               ESC                     35.58m    1   
       32.10m  35.58m  33.26m           
   9 Morin, Jonathan              SMAX                    35.57m  
       32.90m  35.57m  31.71m           
@@ -2313,24 +2438,24 @@ Epreuve 76  Hommes Lancer du javelot 700g Juvénile
       FOUL  FOUL  FOUL           
  
 Epreuve 77  Femmes Triple Saut Cadette
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 Yao, Samira Akono            EPJ                      9.68m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 Yao, Samira Akono            EPJ                      9.68m   NWI   9   
      FOUL      9.14m(NWI) 9.68m(NWI)           
-  2 Péladeau-Desjardins, Jul     CL                       8.77m   NWI 
+  2 Péladeau-Desjardins, Jul     CL                       8.77m   NWI   7   
      8.77m(NWI) 8.15m(NWI) 8.24m(NWI)           
-  3 Longin, Ashley               ETS                      8.74m   NWI 
+  3 Longin, Ashley               ETS                      8.74m   NWI   6   
      8.60m(NWI) 8.74m(NWI) 8.05m(NWI)           
-  4 Fortin, Sarah                ESC                      8.65m   NWI 
+  4 Fortin, Sarah                ESC                      8.65m   NWI   5   
      7.90m(NWI) 8.30m(NWI) 8.65m(NWI)           
-  5 Poulin, Jade                 CLA                      8.63m   NWI 
+  5 Poulin, Jade                 CLA                      8.63m   NWI   3.50
      8.60m(NWI) 8.55m(NWI) 8.63m(NWI)           
-  5 Chauvette, Léanne            ETS                      8.63m   NWI 
+  5 Chauvette, Léanne            ETS                      8.63m   NWI   3.50
      8.48m(NWI) 8.63m(NWI) 8.51m(NWI)           
-  7 Dulièpre, Tanisha            CLA                      8.45m   NWI 
+  7 Dulièpre, Tanisha            CLA                      8.45m   NWI   2   
      8.32m(NWI) 8.45m(NWI) 8.42m(NWI)           
-  8 Dionne, Emy                  ESC                      8.39m   NWI 
+  8 Dionne, Emy                  ESC                      8.39m   NWI   1   
      FOUL      8.39m(NWI) 8.30m(NWI)           
   9 Gervais, Laurence            ESO1                     8.33m   NWI 
      7.85m(NWI) 8.33m(NWI) 8.23m(NWI)           
@@ -2340,24 +2465,24 @@ Epreuve 77  Femmes Triple Saut Cadette
      FOUL      FOUL      FOUL                
  
 Epreuve 78  Hommes Triple Saut Cadette
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 Bayard-Fournier, Émerick     GV                      13.20m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 Bayard-Fournier, Émerick     GV                      13.20m   NWI   9   
      13.20m(NWI) FOUL      FOUL                
-  2 Lafayette Pierre, Jesse      CLA                     11.05m   NWI 
+  2 Lafayette Pierre, Jesse      CLA                     11.05m   NWI   7   
      10.95m(NWI) FOUL      11.05m(NWI)           
-  3 Catellier, François          CL                      10.53m   NWI 
+  3 Catellier, François          CL                      10.53m   NWI   6   
      FOUL      10.43m(NWI) 10.53m(NWI)           
-  4 François, Cory               CLA                     10.27m   NWI 
+  4 François, Cory               CLA                     10.27m   NWI   5   
      9.63m(NWI) 8.80m(NWI) 10.27m(NWI)           
-  5 Laperle, Émile               ETS                      9.96m   NWI 
+  5 Laperle, Émile               ETS                      9.96m   NWI   4   
      9.60m(NWI) 9.96m(NWI) 9.86m(NWI)           
-  6 Deveau, Isaac B.             GAB                      9.95m   NWI 
+  6 Deveau, Isaac B.             GAB                      9.95m   NWI   2.50
      9.80m(NWI) 9.46m(NWI) 9.95m(NWI)           
-  6 Ashton, Shawn                ETS                      9.95m   NWI 
+  6 Ashton, Shawn                ETS                      9.95m   NWI   2.50
      9.91m(NWI) 9.95m(NWI) 9.78m(NWI)           
-  8 Diop, El Hadj Saliou         JBM                      9.45m   NWI 
+  8 Diop, El Hadj Saliou         JBM                      9.45m   NWI   1   
      FOUL      9.45m(NWI) FOUL                 
   9 Lamontagne, Marc-Olivier     ESC                      9.05m   NWI 
      9.01m(NWI) 9.03m(NWI) 9.05m(NWI)           
@@ -2367,41 +2492,41 @@ Epreuve 78  Hommes Triple Saut Cadette
      8.20m(NWI) 8.20m(NWI) 8.28m(NWI)           
  
 Epreuve 79  Femmes Triple Saut Juvénile
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 Piché-Lebel, Florence        CL                       9.75m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 Piché-Lebel, Florence        CL                       9.75m   NWI   9   
      9.75m(NWI) 9.10m(NWI) 9.40m(NWI)           
-  2 Gauthier, Alexe              ESC                      9.54m   NWI 
+  2 Gauthier, Alexe              ESC                      9.54m   NWI   7   
      9.47m(NWI) 9.13m(NWI) 9.54m(NWI)           
-  3 Savard, Camille              CLA                      9.53m   NWI 
+  3 Savard, Camille              CLA                      9.53m   NWI   6   
      9.15m(NWI) 8.98m(NWI) 9.53m(NWI)           
-  4 Gilbert, Pascale             CL                       9.13m   NWI 
+  4 Gilbert, Pascale             CL                       9.13m   NWI   5   
      FOUL      8.83m(NWI) 9.13m(NWI)           
-  5 Bigras, Sandrine             CLA                      8.39m   NWI 
+  5 Bigras, Sandrine             CLA                      8.39m   NWI   4   
      8.39m(NWI) 7.76m(NWI) 8.32m(NWI)           
-  6 Simon-Desloges, Mylaa        ESC                      8.13m   NWI 
+  6 Simon-Desloges, Mylaa        ESC                      8.13m   NWI   3   
      8.13m(NWI) 8.13m(NWI) 8.05m(NWI)           
  
 Epreuve 80  Hommes Triple Saut Juvénile
-=====================================================================
-    Nom                    Annee Club                   Finales  Vent
-=====================================================================
-  1 Lefrançois, Xavier           ETS                     12.34m   NWI 
+============================================================================
+    Nom                    Annee Club                   Finales  Vent Points
+============================================================================
+  1 Lefrançois, Xavier           ETS                     12.34m   NWI   9   
      12.12m(NWI) 12.34m(NWI) FOUL                
-  2 Marescot-Gauthier, Laure     ESC                     12.33m   NWI 
+  2 Marescot-Gauthier, Laure     ESC                     12.33m   NWI   7   
      12.05m(NWI) 12.24m(NWI) 12.33m(NWI)           
-  3 Ben Hadj Salah, Mohamed      CLA                     12.30m   NWI 
+  3 Ben Hadj Salah, Mohamed      CLA                     12.30m   NWI   6   
      12.30m(NWI) 12.07m(NWI) FOUL                
-  4 Di Genova, David             ESC                     11.73m   NWI 
+  4 Di Genova, David             ESC                     11.73m   NWI   5   
      11.31m(NWI) 11.20m(NWI) 11.73m(NWI)           
-  5 Bélanger, Philippe           CL                      11.64m   NWI 
+  5 Bélanger, Philippe           CL                      11.64m   NWI   4   
      11.10m(NWI) 11.64m(NWI) 11.13m(NWI)           
-  6 Beaulne, Alexis              CL                      11.44m   NWI 
+  6 Beaulne, Alexis              CL                      11.44m   NWI   3   
      10.13m(NWI) 11.09m(NWI) 11.44m(NWI)          
-  7 Pfalzmann, Thomas Sebast     JBM                     10.71m   NWI 
+  7 Pfalzmann, Thomas Sebast     JBM                     10.71m   NWI   2   
      10.71m(NWI) 10.10m(NWI) 10.60m(NWI)           
-  8 Tellier, Félix               LAF                     10.70m   NWI 
+  8 Tellier, Félix               LAF                     10.70m   NWI   1   
      9.75m(NWI) 10.70m(NWI) 10.55m(NWI)           
   9 Bourai, Amine                CLA                     10.04m   NWI 
      10.04m(NWI) 9.95m(NWI) 9.94m(NWI)          
@@ -2415,4 +2540,5 @@ Epreuve 80  Hommes Triple Saut Juvénile
      8.40m(NWI) 7.40m(NWI) FOUL                
  14 Castonguay, Mathieu          GAB                      7.45m   NWI 
      FOUL      7.45m(NWI) FOUL                
+
 ```

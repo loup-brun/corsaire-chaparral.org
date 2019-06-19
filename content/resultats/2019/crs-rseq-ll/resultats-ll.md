@@ -9,9 +9,10 @@ weight: 200
 
 ## Résultats, Laurentides-Lanaudière seulement
 
-_Dernière mise à jour : 13 juin 2019_
+_Dernière mise à jour : 17 juin 2019_
 
 ```
+
 
 
 Licensed to Club D'Athletisme Corsaire - Chaparal

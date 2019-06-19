@@ -2,20 +2,20 @@
 title: "Bannières complètes - CRS athlétisme secondaire RSEQ-LL 2019"
 date: "2019-05-28"
 icon: assignment
-weight: 300
+weight: 400
 ---
 
 [Retour au sommaire](../)
 
 ## Bannières complètes
 
-_Dernière mise à jour : 10 juin 2019_
+_Dernière mise à jour : 17 juin 2019_
 
 ```
 
 
 Licensed to Club D'Athletisme Corsaire - Chaparal
-                                                HY-TEK's Meet Manager 6/10/2019
+                                                HY-TEK's Meet Manager 6/17/2019
                CRS athlétisme extérieur RSEQ LL 2019 - 5/28/2019               
                       Stade d'athlétisme Richard-Garneau                       
                        Team Rankings - Through Event 80                        
@@ -166,6 +166,5 @@ Licensed to Club D'Athletisme Corsaire - Chaparal
                21 Esm                                ESM               5  
                22 Laf                                LAF               3  
                22 Smax                               SMAX              3  
-
 
 ```
