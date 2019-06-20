@@ -7,3 +7,5 @@ menu:
     parent: competitions
     title: "Résultats"
 ---
+
+<a href="direct/">Résultats en direct</a>
