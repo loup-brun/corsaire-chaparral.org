@@ -37,8 +37,8 @@ _**Athlètes COCH**, inscrivez-vous via notre [formulaire en ligne](https://camp
 - 100m
 - 1500m
 - 1500+3000m marche
-- Relais 4x100m
-- perche
+- relais 4x100m
+- ~~perche~~ <span class="badge badge-danger">ANNULÉE</span>
 - longueur 
 - javelot
 - disque
