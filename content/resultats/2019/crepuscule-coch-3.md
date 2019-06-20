@@ -1,6 +1,6 @@
 ---
 title: "Crépuscule COCH #3 2019"
-date: "2018-06-19"
+date: 2019-06-19
 icon: assignment
 ---
 
@@ -35,6 +35,7 @@ Epreuve 2  Homme 80 Metres Sprint Benjamin
  
 Epreuve 3  Femme 100 Metres Sprint Ouvert
 ========================================================================
+Top 7 Advance by Time
     Nom                    Annee Club                   Prelims  Vent H#
 ========================================================================
 Preliminaries
@@ -45,7 +46,7 @@ Preliminaries
   5 Dort, Yasmine             97 Force Track              13.53q -1.2  1 
   6 Racine-Prud'homme, André  02 Corsaire-Cha             13.64q -1.2  1 
   7 Dufour, Léanne            05 Corsaire-Cha             13.70q -1.2  1 
-  8 Bonneau, Louise           69 Lachine                  14.17q -1.2  1 
+  8 Bonneau, Louise           69 Lachine                  14.17  -1.2  1 
   9 Rochon, Gabrielle         03 Corsaire-Cha             14.25  -1.6  2 
  10 McFarland, Leila          01 Corsaire-Cha             14.44  -1.2  1 
  11 Rondeau, Marie-Laurence   05 Saint-Lauren             15.64  -1.6  2 
@@ -67,6 +68,7 @@ Finales
  
 Epreuve 4  Homme 100 Metres Sprint Ouvert
 ========================================================================
+Top 7 Advance by Time
     Nom                    Annee Club                   Prelims  Vent H#
 ========================================================================
 Preliminaries
@@ -77,7 +79,7 @@ Preliminaries
   5 Laurier, Charles-David    00 Indépendant              12.59q -1.6  2 
   6 Bonin, Louis-Philippe     03 Corsaire-Cha             12.65q -0.3  1 
   7 Brosseau, Isaac           03 Corsaire-Cha             12.74q -0.3  3 
-  8 Gallant, Benjamin         01 Corsaire-Cha             12.81q -1.6  2 
+  8 Gallant, Benjamin         01 Corsaire-Cha             12.81  -1.6  2 
   9 Situ, Jin Yang            98 Force Track              12.85  -0.3  1 
  10 Dalphond, Edouard         04 Corsaire-Cha             13.35  -1.6  2 
  11 Nadeau, Yves              58 Vainqueurs P             14.81  -0.3  3 
@@ -139,7 +141,7 @@ Epreuve 8  Homme 1500 Metres Marche Ouvert
   3 Béchard, Yvan             62 Les Vainqueu           8:27.50  
   4 Jobin, Marcel             42 Les Vainqueu           9:23.39  
   5 Robichaud, Roland         44 Les Vainqueu          10:36.33  
-  6 Tardi, Emmanuel           67 Indépendant           10:50.36  
+  6 Tardi, Emmanuel           67 Essonne (Fra)        X10:50.36  
  
 Epreuve 9  Femme 3000 Metres Marche Ouvert
 ================================================================
@@ -160,7 +162,7 @@ Epreuve 10  Homme 3000 Metres Marche Ouvert
   3 Laflamme, Denis           54 Les Vainqueu          17:09.80  
   4 Jobin, Marcel             42 Les Vainqueu          18:55.06  
   5 Robichaud, Roland         44 Les Vainqueu          21:28.45  
-  6 Tardi, Emmanuel           67 Indépendant           22:44.29  
+  6 Tardi, Emmanuel           67 Essonne (Fra)        X22:44.29  
  
 Epreuve 12  Homme 300 Metres Sprint Ouvert
 ================================================================
@@ -199,12 +201,12 @@ Epreuve 14  Homme Saut en longueur Ouvert
      FOUL(+0.0) FOUL(+0.0) 5.04m(+0.0) 4.81m(+0.0) 4.68m(+0.0) 4.37m(+0.0)
   7 Bonin, Louis-Philippe     03 Corsaire-Cha             4.79m  -1.5 
      4.67m(-1.5) FOUL      4.79m(-1.5) FOUL      4.72m(-1.5) 4.65m(-1.5)
-  9 Dalphond, Edouard         04 Corsaire-Cha             4.72m  +0.0 
+  8 Dalphond, Edouard         04 Corsaire-Cha            J4.72m  +0.0 
      4.72m(+0.0) 4.42m(+0.0) 4.65m(+0.0) 2.88m(+0.0) 4.38m(+0.0) 4.36m(+0.0)
- 10 Zahirovich, Mooshie       64 Indépendant             J3.87m  -0.7 
-        3.62m(-0.7) 3.87m(-0.7)           
- 10 Pépin, Thierry            07 Corsaire-Cha             3.87m  -1.3 
+  9 Pépin, Thierry            07 Corsaire-Cha            J3.87m  -1.3 
      3.78m(-1.3) 3.68m(-1.3) 3.87m(-1.3)           
+ 10 Zahirovich, Mooshie       64 Indépendant             J3.87m  -0.7 
+     PASS      3.62m(-0.7) 3.87m(-0.7) PASS      PASS      PASS     
  11 Pelletier, Jérôme         06 Corsaire-Cha             3.65m  +0.0 
      3.62m(+0.0) 3.65m(+0.0) 3.50m(+0.0)           
  
@@ -276,6 +278,8 @@ Epreuve 26  Homme Lancer du javelot Vétéran
 ================================================================
   1 Boyer, Luc                57 Lanaudière-O            28.22m   600g
       27.29m  28.01m  26.65m  28.22m  26.77m  27.12m
+  2 Dalpé, André              57 Kilomaîtres             19.61m   600g
+      14.69m  16.46m  18.26m  19.61m  15.33m  18.35m
  
 Epreuve 30  Homme Lancer du disque 1kg Cadet
 ================================================================

@@ -1,6 +1,6 @@
 ---
 title: "Challenge André-Harel 2019"
-date: "2018-02-02"
+date: 2019-02-02
 icon: assignment
 ---
 

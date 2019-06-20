@@ -1,0 +1,43 @@
+{{ define "article" }}
+  {{ $sort := "desc" }}
+  {{ if isset $.Page.Params "sortDate" }}
+  {{ $sort = $.Page.Params.sortDate }}
+  {{ end }}
+
+  {{ .Content }}
+  
+  <ul class="list-unstyled">
+    {{ range sort .Pages "Date" $sort }}
+    <li class="row">
+      <div class="col col-2 tablet-col-3 phone-col-12">
+        <small><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-02" }}</small>
+      </div>
+      <div class="col col-10 tablet-col-9 phone-col-12">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+
+  {{ range .Sections.ByDate.Reverse }}
+  <section>
+    <h2>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+
+    <ul class="list-unstyled">
+    {{ range sort .Pages "Date" $sort }}
+    <li class="row">
+      <div class="col col-2 tablet-col-3 phone-col-12">
+        <small><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-02" }}</small>
+      </div>
+      <div class="col col-8 phone-col-12">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </div>
+    </li>
+    {{ end }}
+    </ul>
+
+    {{ end }}
+  </section>
+{{ end }}

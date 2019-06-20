@@ -8,4 +8,4 @@ menu:
     title: "Résultats"
 ---
 
-<a href="direct/">Résultats en direct</a>
+<a href="direct/" class="btn btn-primary -lg ">🔥 Résultats en direct <span class="icon icon-angle-right"></span></a>

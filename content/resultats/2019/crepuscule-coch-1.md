@@ -1,6 +1,6 @@
 ---
 title: "Crépuscule COCH #1 2019"
-date: "2018-05-22"
+date: 2019-05-22
 icon: assignment
 ---
 

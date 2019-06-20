@@ -13,7 +13,7 @@ images:
 
 [**Voir tous les crépuscules!**](../)
 
-<!--[Résultats](/resultats/2019/crepuscule-coch-3/)-->
+[Résultats](/resultats/2019/crepuscule-coch-3/)
 
 ## Informations générales
 

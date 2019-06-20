@@ -1,6 +1,6 @@
 ---
 title: "Le Petit Combiné de Nathalie 2019"
-date: "2018-06-15"
+date: 2019-06-15
 icon: assignment
 ---
 
