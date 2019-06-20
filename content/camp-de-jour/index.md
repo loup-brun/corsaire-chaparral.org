@@ -11,12 +11,22 @@ description: >
 Veuillez vous inscrire en fonction de votre municipalité de résidence :
 
 <a href="https://campdejour2019.corsaire-chaparral.org/e/1/camp-de-jour-blainvilleste-therese" class="btn btn-primary">
-Citoyens de Blainville/Ste-Thérèse
+Citoyens de **Blainville/Ste-Thérèse**
 <span class="icon icon-angle-right"></span>
 </a>
 
 <a href="https://campdejour2019.corsaire-chaparral.org/e/2/camp-de-jour-villes-exterieures" class="btn btn-secondary">
 Citoyens des **villes extérieures**
+<span class="icon icon-angle-right"></span>
+</a>
+
+---
+
+Service de garde (50$ / semaine) :
+
+
+<a href="https://campdejour2019.corsaire-chaparral.org/e/3/service-de-garde-du-camp-de-jour" class="btn btn-primary">
+Ajouter le service de garde
 <span class="icon icon-angle-right"></span>
 </a>
 
