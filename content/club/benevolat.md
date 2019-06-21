@@ -29,6 +29,7 @@ Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chap
 | 2019-06-29 | Corsaire-Chaparral Invitation 2019 – [Infos](/competitions/corsaire-chaparral-invitation) | [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-coch-invitation-2019)
 | 2019-07-05 | Championnats canadiens vétéran 2019 – [Infos](/competitions/championnats-canadiens-veteran-2019/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019) |
 | 2019-07-06 | Championnats québécois 2019 – [Infos](/competitions/championnats-quebecois-junior-senior-para-2019) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019/) |
+| 2019-09-08 | Demi-Marathon de Blainville – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
 
 ## Tâches régulières
 

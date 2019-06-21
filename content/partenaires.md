@@ -7,6 +7,7 @@ menu:
   main:
     identifier: partenaires
     title: Partenaires
+    parent: club
     url: '/partenaires/'
     weight: 90
 ---

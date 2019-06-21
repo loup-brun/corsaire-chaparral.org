@@ -187,23 +187,23 @@ Epreuve 14  Homme Saut en longueur Ouvert
 =====================================================================
     Nom                    Annee Club                   Finales  Vent
 =====================================================================
-  1 Dimnaku, Gezim            72 Indépendant              5.56m  -0.7 
-     FOUL(-0.7) 5.56m(-0.7) 5.37m(-0.7) 5.53m(-0.7) 5.35m(-0.7) FOUL(-0.7)
-  2 Lefrançois, Xavier        03 Les Tornades             5.62m  -1.3 
+  1 Lefrançois, Xavier        03 Les Tornades             5.62m  -1.3 
      4.99m(-1.3) 5.36m(-1.3) 4.87m(-1.3) 5.62m(-1.3) 4.95m(-1.3) 5.26m(-1.3)
-  3 Nadeau, Yves              58 Vainqueurs P             3.97m  +0.0 
-     FOUL(+0.0) 3.97m(+0.0) FOUL(+0.0) FOUL(+0.0) FOUL(+0.0) 3.82m(+0.0)
-  4 Benazout, Abdelkrim       72 Enduromax                4.71m  +0.0 
-     4.71m(+0.0) 4.38m(+0.0) 4.52m(+0.0) FOUL(+0.0) 3.35m(+0.0)   
-  5 Hamel, Thomas             01 Corsaire-Cha             5.38m  -0.1 
+  2 Dimnaku, Gezim            72 Indépendant              5.56m  -0.7 
+     FOUL(-0.7) 5.56m(-0.7) 5.37m(-0.7) 5.53m(-0.7) 5.35m(-0.7) FOUL(-0.7)
+  3 Hamel, Thomas             01 Corsaire-Cha             5.38m  -0.1 
      FOUL(-0.1) 5.24m(-0.1) 4.95m(-0.1) 4.84m(-0.1) 5.38m(-0.1) 5.28m(-0.1)
-  6 Gallant, Benjamin         01 Corsaire-Cha             5.04m  +0.0 
+  4 Gallant, Benjamin         01 Corsaire-Cha             5.04m  +0.0 
      FOUL(+0.0) FOUL(+0.0) 5.04m(+0.0) 4.81m(+0.0) 4.68m(+0.0) 4.37m(+0.0)
-  7 Bonin, Louis-Philippe     03 Corsaire-Cha             4.79m  -1.5 
+  5 Bonin, Louis-Philippe     03 Corsaire-Cha             4.79m  -1.5 
      4.67m(-1.5) FOUL      4.79m(-1.5) FOUL      4.72m(-1.5) 4.65m(-1.5)
-  8 Dalphond, Edouard         04 Corsaire-Cha            J4.72m  +0.0 
+  6 Dalphond, Edouard         04 Corsaire-Cha             4.72m  +0.0 
      4.72m(+0.0) 4.42m(+0.0) 4.65m(+0.0) 2.88m(+0.0) 4.38m(+0.0) 4.36m(+0.0)
-  9 Pépin, Thierry            07 Corsaire-Cha            J3.87m  -1.3 
+  7 Benazout, Abdelkrim       72 Enduromax                4.71m  +0.0 
+     4.71m(+0.0) 4.38m(+0.0) 4.52m(+0.0) FOUL(+0.0) 3.35m(+0.0)   
+  8 Nadeau, Yves              58 Vainqueurs P             3.97m  +0.0 
+     FOUL(+0.0) 3.97m(+0.0) FOUL(+0.0) FOUL(+0.0) FOUL(+0.0) 3.82m(+0.0)
+  9 Pépin, Thierry            07 Corsaire-Cha             3.87m  -1.3 
      3.78m(-1.3) 3.68m(-1.3) 3.87m(-1.3)           
  10 Zahirovich, Mooshie       64 Indépendant             J3.87m  -0.7 
      PASS      3.62m(-0.7) 3.87m(-0.7) PASS      PASS      PASS     

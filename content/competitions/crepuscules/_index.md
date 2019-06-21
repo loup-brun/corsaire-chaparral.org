@@ -1,12 +1,9 @@
 ---
 title: "Crépuscules 2019"
-date: "2019"
+date: 2019-05-22
 icon: calendar
-#menu:
-#  main:
-#    identifier: crepuscules
-#    weight: 0
-#    parent: competitions
+params:
+  sortDate: "asc"
 ---
 
 {{% div class="well well-primary" %}}

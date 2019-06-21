@@ -1,13 +1,6 @@
 ---
 title: Challenge Jean-Paul Baert
-date: ""
 icon: calendar
-#menu:
-#  main:
-#    identifier: challenge-jean-paul-baert
-#    title: Challenge Jean-Paul-Baert
-#    weight: 0
-#    parent: competitions
 ---
 
 > Si vous trouvez amusant de voir un lanceur de marteau lancer le javelot, attendez de voir l'inverse!

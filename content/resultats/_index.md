@@ -1,11 +1,12 @@
 ---
 title: "Résultats"
 icon: assignment
+type: "by-date"
 menu:
   main:
     identifier: resultats-all
-    parent: competitions
     title: "Résultats"
+    weight: 20
 ---
 
 <a href="direct/" class="btn btn-primary -lg ">🔥 Résultats en direct <span class="icon icon-angle-right"></span></a>

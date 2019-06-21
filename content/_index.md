@@ -3,26 +3,14 @@ title: Accueil
 layout: home
 backgroundImg: /img/coch-dos.jpg
 slides:
-#  - heading: Nouvelle session pour les colibris
-#    body: >
-#      Une nouvelle session pour les colibris de 10 semaines débutera le **13 avril 2019**
-#    buttons:
-#    - title: Entraînements
-#      url: /club/entrainements/#colibri-2010-2011-2012
-#      post: <span class="icon icon-calendar"></span>
-#      class: btn-default
-#    - title: Inscription
-#      url: /club/inscription/
-#      post: <span class="icon icon-pencil"></span>
-#      class: btn-secondary
-  - heading: Clinique de course à pied
+  - heading: "Compétition : Corsaire-Chaparral Invitation"
     body: >
-      Du 8 mai au 5 août, le Corsaire-Chaparral offrira une clinique de course à pied et de mise en forme cet été au stade Richard-Garneau.
+      La grande compétition estivale du Corsaire-Chaparral arrive à grands pas!
     buttons:
     - title: Infos et inscription
-      url: /initiation-course-mise-en-forme/
+      url: /competitions/corsaire-chaparral-invitation/
       post: <span class="icon icon-pencil"></span>
-      class: btn-secondary
+      class: btn-primary
   - heading: Camp de jour en athlétisme
     body: >
       Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme cet été.
@@ -31,14 +19,6 @@ slides:
       url: /camp-de-jour/
       post: <span class="icon icon-pencil"></span>
       class: btn-primary
-  - heading: Crépuscules estivaux
-    body: >
-      Les crépuscules estivaux sont de retour!
-    buttons:
-    - title: Programmation
-      url: /competitions/crepuscules/
-      post: <span class="icon icon-calendar"></span>
-      class: btn-secondary
   - heading: Club satellite – Lachute
     body: >
       Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
@@ -48,9 +28,6 @@ slides:
       pre: 
       post: <span class="icon icon-angle-right"></span>
       class: btn-default
-  - heading: Une nouvelle identité
-    body: >
-      Le Corsaire-Chaparral fait peau neuve et procèdera bientôt au lancement de sa nouvelle identité visuelle. Restez à l'affût!
 
 featuredPhotosUrl: https://photos.corsaire-chaparral.org
 featuredPhotos:

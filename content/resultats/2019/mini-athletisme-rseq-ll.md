@@ -1,6 +1,7 @@
 ---
 title: "Mini-athlétisme RSEQ-LL Primaire 2019"
 date: 2019-06-03
+icon: assignment
 ---
 
 ```
