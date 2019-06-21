@@ -1,7 +1,7 @@
 {{ define "article" }}
   {{ $sort := "desc" }}
-  {{ if isset $.Page.Params "sortDate" }}
-  {{ $sort = $.Page.Params.sortDate }}
+  {{ if isset .Page.Params "sortDate" }}
+  {{ $sort = .Page.Params.sortDate }}
   {{ end }}
 
   {{ .Content }}
@@ -10,10 +10,14 @@
     {{ range sort .Pages "Date" $sort }}
     <li class="row">
       <div class="col col-2 tablet-col-3 phone-col-12">
+        {{ if .Date }}
         <small><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-02" }}</small>
+        {{ else }}
+        &nbsp;
+        {{ end }}
       </div>
       <div class="col col-10 tablet-col-9 phone-col-12">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <a href="{{ .Permalink }}" class="h5 no-margin">{{ .Title }}</a>
       </div>
     </li>
     {{ end }}
@@ -29,10 +33,14 @@
     {{ range sort .Pages "Date" $sort }}
     <li class="row">
       <div class="col col-2 tablet-col-3 phone-col-12">
+        {{ if .Date }}
         <small><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-02" }}</small>
+        {{ else }}
+        &nbsp;
+        {{ end }}
       </div>
       <div class="col col-8 phone-col-12">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <a href="{{ .Permalink }}" class="h5 no-margin">{{ .Title }}</a>
       </div>
     </li>
     {{ end }}

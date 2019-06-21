@@ -1,16 +1,18 @@
-// Navigation
+;// Navigation
 // -----------------------------------
 
 .nav {
   @include list-reset;
-  @include clearfix;
+  display: flex;
+  flex-direction: row;
 
   > li {
-    float: left;
+    text-align: center;
+    flex-grow: 1;
 
     > a {
-      display: block;
       padding: $spacing-xs;
+      display: block;
     }
   }
 }
@@ -29,15 +31,14 @@
 .navbar-main {
   @include clearfix;
   position: relative;
-  z-index: $z-index-overlay + 1; // overlay the responsive menu
+  z-index: $z-index-menu + 1; // overlay the responsive menu
   font-size: $font-size-navbar;
   color: check-background($color-navbar);
   background-color: $color-navbar;
 
   .nav {
 
-    float: left;
-    &.nav-menu { float: right; }
+//    &.nav-menu { float: right; }
 
     > li {
 
@@ -84,7 +85,7 @@
 .dropdown {
   position: relative;
   cursor: pointer;
-  z-index: $z-index-overlay; // old IE needs a z-index on parent
+  z-index: $z-index-menu; // old IE needs a z-index on parent
 
   //&:hover,
   &.open {
@@ -109,7 +110,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  z-index: $z-index-overlay - 1;
+  z-index: $z-index-menu - 1;
 }
 
 .dropdown-list {
@@ -126,14 +127,14 @@
   left: 0;
   background-color: $gray-darker;
   color: $gray-lighter;
-  z-index: $z-index-overlay; // old IE needs a z-index on parent
+  z-index: $z-index-menu; // old IE needs a z-index on parent
 
   > li {
 
     > a {
       display: block;
       padding: $spacing;
-      z-index: $z-index-overlay;
+      z-index: $z-index-menu;
       color: $gray-lighter;
 
       &:hover {

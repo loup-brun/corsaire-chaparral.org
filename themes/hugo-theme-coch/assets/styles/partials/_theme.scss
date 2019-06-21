@@ -134,7 +134,7 @@ p a { // inline text links
 
 .banner {
   position: fixed;
-  z-index: $z-index-modal + 10;
+  z-index: $z-index-modal + 1;
   left: 0;
   bottom: 0;
   width: 100%;

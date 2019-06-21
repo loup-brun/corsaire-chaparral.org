@@ -126,14 +126,16 @@
     bean.on(toggleElem, 'click', toggleSidebar);
 
     function toggleSidebar() {
+      
+      var windowHeight = window.innerHeight;
 
       if (classie.has(sidebar, 'toggled')) {
-        Velocity(sidebar, { translateX: [260, 0] }, { duration: 400, easing: 'easeInCubic', display: 'none' });
+        Velocity(sidebar, { translateY: [-windowHeight, 0] }, { duration: 400, easing: 'easeInCubic', display: 'none' });
       } else {
-        Velocity(sidebar, { translateX: [0, 260] }, { duration: 800, easing: 'easeOutExpo', display: 'block' });
+        Velocity(sidebar, { translateY: [0, -windowHeight] }, { duration: 800, easing: 'easeOutExpo', display: 'block' });
       }
 
-      classie.toggleClass(body, 'in-modal');
+//      classie.toggleClass(body, 'in-modal');
       classie.toggleClass(sidebar, 'toggled');
     }
 
