@@ -28,9 +28,9 @@ params:
   admin: Louis-Olivier Brassard
   stripePublicKey: pk_live_ccR6ujsv04d7TjBjRvVBgFvn
   apiUrl: https://api.corsaire-chaparral.org/v1/payment/new
-#  annonce: >
-#    ANNULATION D'ENTRAÎNEMENT LUNDI 8 AVRIL – En raison d'une panne d'électricité, l’entraînement à la Polyvente Ste-Thérèse est annulé.
-sectionPagesMenu: main
+  annonce: >
+   Corsaire-Chaparral Invitation 2019 <a href="/competitions/corsaire-chaparral-invitation/" class="btn btn-primary -sm">Infos et inscription</a>
+#sectionPagesMenu: main
 
 
 menu:
@@ -95,7 +95,7 @@ menu:
   - identifier: nouvelles
     url: '/nouvelles/'
     title: Nouvelles
-    weight: 30
+    weight: 40
 
 #  - identifier: coch-invitation
 #    title: Corsaire-Chaparral Invitation

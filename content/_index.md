@@ -103,8 +103,8 @@ images:
 - /img/coch-dos.jpg
 ---
 
-<a href="/competitions/crepuscules/crepuscule-3/" class="link-unstyled">
-![Crépuscule COCH #3](/competitions/crepuscules/crepuscule3-banner.jpg)
+<a href="/competitions/corsaire-chaparral-invitation/" class="link-unstyled">
+![COCH Invitation 2019](/competitions/coch-inv-banniere.jpg)
 </a>
 
 <a href="/camp-de-jour/" class="link-unstyled">
