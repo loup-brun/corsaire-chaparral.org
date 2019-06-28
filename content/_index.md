@@ -7,8 +7,23 @@ slides:
     body: >
       La grande compétition estivale du Corsaire-Chaparral arrive à grands pas!
     buttons:
-    - title: Infos et inscription
+    - title: Informations
       url: /competitions/corsaire-chaparral-invitation/
+      post: <span class="icon icon-angle-right"></span>
+      class: btn-default
+    - title: Horaire final
+      url: https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/horaire-final-coch-invitation-2019.pdf
+      post: <span class="icon icon-stopwatch"></span>
+      class: btn-secondary
+#    - title: Résultats 🔥
+#      url: /resultats/direct/
+#      class: btn-primary
+  - heading: "Gros weekend de championnats"
+    body: >
+      Le Corsaire-Chaparral sera l'hôte de 3 championnats d'envergure du 5 au 7 juillet 2019.
+    buttons:
+    - title: Infos et inscription
+      url: /competitions/championnats-quebecois-junior-senior-para-2019/
       post: <span class="icon icon-pencil"></span>
       class: btn-primary
   - heading: Camp de jour en athlétisme

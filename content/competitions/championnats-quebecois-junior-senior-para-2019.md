@@ -25,13 +25,21 @@ Sainte-Thérèse QC
 J7E 4S4
 ```
 
-Téléchargez le [paquet technique](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/document-technique-championnats-quebecois-jun-sen-para-2019.pdf) et la [liste des hôtels à tarif préférentiel](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/hotels-championnats-qc-2019.pdf).
+Téléchargez le [document technique](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/document-technique-championnats-quebecois-jun-sen-para-2019.pdf) et la [liste des hôtels à tarif préférentiel](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/hotels-championnats-qc-2019.pdf).
 
 **Personnel de contact :**  
 
 - [Robert Lavoie](mailto:robertlecoach@gmail.com), _direction technique_
 - [Samuel Grondin-Bernier](mailto:grondin750@hotmail.com), _direction technique_
 - [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org), _chronométrage et résultats_
+
+## Inscription
+
+Inscrivez-vous jusqu'au **vendredi 28 juin 2019**.
+
+<a href="https://avs-sport.com/inscriptions.php?comp=400" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
+
+_**Athlètes COCH**, inscrivez-vous via [notre formulaire](https://campagnes.corsaire-chaparral.org/inscription-champprov-2019)._
 
 ## Bénévolat
 

@@ -23,7 +23,8 @@
   }
 
   .container-main {
-    width: 94%;
+    width: auto;
+    @include horizontal-margin($spacing-xs);
     margin-top: 3%;
 //    margin-top: 0;
 //    margin-bottom: 0;
@@ -35,7 +36,7 @@
   }
 
   // show toggle button for navbar
-  .nav-menu { display: block; }
+  .nav-responsive { display: flex; }
 
   .nav-break {
     display: none; // toggle w/ js

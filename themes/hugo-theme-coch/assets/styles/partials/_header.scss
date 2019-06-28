@@ -6,10 +6,6 @@
   padding-bottom: $spacing-lg;
   margin-bottom: $spacing-lg;
   border-bottom: 1px solid $gray-lighter;
-
-  .col {
-    margin-left: 0;
-  }
 }
 
 .title-header {
@@ -19,7 +15,7 @@
   color: check-background($color-primary);
   word-wrap: break-word;
   position: relative;
-  left: -11px;
+  left: -$header-fold-size;
   box-shadow: 0 5px 6px rgba(0,0,0,0.2);
 
   &:after {
@@ -101,6 +97,37 @@
   right: 20px;
   color: $gray-lighter;
 }
+
+.header--main {
+      
+  @include mquery($tablet-breakpoint) {
+    display: none;
+  }
+  background-color: $color-primary;
+  padding: $spacing;
+  &__title {
+    font-size: $font-size * 2;
+    margin: 0 !important;
+    line-height: 1;
+    text-transform: uppercase;
+    font-weight: normal;
+    color:#fff;
+  }
+  
+  &__logo {
+    float: left;
+    height: $font-size * 4;
+    width:  $font-size * 4;
+    display: inline-block;
+    margin-right: $spacing;
+    
+    svg {
+      height: 100%;
+      width: 100%;
+    }
+  }
+}
+
 
 //.icon-landing {
 //  @include opacity(0.7);

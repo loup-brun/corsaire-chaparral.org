@@ -9,4 +9,4 @@ menu:
     weight: 20
 ---
 
-<a href="direct/" class="btn btn-primary -lg ">🔥 Résultats en direct <span class="icon icon-angle-right"></span></a>
+<a href="direct/" class="btn btn-primary">🔥 Résultats en direct <span class="icon icon-angle-right"></span></a>

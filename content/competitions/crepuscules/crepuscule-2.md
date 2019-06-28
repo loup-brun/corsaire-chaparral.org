@@ -20,7 +20,7 @@ images:
 - **Date** : mercredi 5 juin 2019
 - **Heure de début** : 18h30
 - **Pré-inscription** : jusqu'au 3 juin 23h59 (en ligne, tarif préférentiel)
-- **Document technique** : [Télécharger le paquet technique](https://assets.corsaire-chaparral.org/competitions/2019/crepuscules/crepuscule-2-document-technique.pdf)
+- **Document technique** : [Télécharger le document technique](https://assets.corsaire-chaparral.org/competitions/2019/crepuscules/crepuscule-2-document-technique.pdf)
 
 ## Inscription
 

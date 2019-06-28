@@ -74,9 +74,9 @@ $spacing-xl:		      4em;
 $border-radius:           0.33em;
 
 // Navbar
-$font-size-navbar:        0.8em;
-$spacing-navbar:          1.2em;
-$height-navbar:           $font-size-navbar * $line-height + 2 * $spacing-navbar;
+$font-size-navbar:        13px;
+$spacing-navbar:          $spacing;
+$height-navbar:           $font-size-navbar * $line-height + 2 * $font-size-navbar;
 $color-navbar:            $gray-darker;
 
 // Header

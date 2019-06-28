@@ -127,15 +127,15 @@
 
     function toggleSidebar() {
       
-      var windowHeight = window.innerHeight;
+//      var windowWidth = window.innerWidth;
 
-      if (classie.has(sidebar, 'toggled')) {
-        Velocity(sidebar, { translateY: [-windowHeight, 0] }, { duration: 400, easing: 'easeInCubic', display: 'none' });
-      } else {
-        Velocity(sidebar, { translateY: [0, -windowHeight] }, { duration: 800, easing: 'easeOutExpo', display: 'block' });
-      }
-
-//      classie.toggleClass(body, 'in-modal');
+//      if (classie.has(sidebar, 'toggled')) {
+//        Velocity(sidebar, { translateX: [-380, 0] }, { duration: 400, easing: 'easeInCubic', display: 'none' });
+//      } else {
+//        Velocity(sidebar, { translateX: [0, -380] }, { duration: 800, easing: 'easeOutExpo', display: 'block' });
+//      }
+//
+      classie.toggleClass(body, 'in-modal');
       classie.toggleClass(sidebar, 'toggled');
     }
 

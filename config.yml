@@ -28,17 +28,17 @@ params:
   admin: Louis-Olivier Brassard
   stripePublicKey: pk_live_ccR6ujsv04d7TjBjRvVBgFvn
   apiUrl: https://api.corsaire-chaparral.org/v1/payment/new
-  annonce: >
-   Corsaire-Chaparral Invitation 2019 <a href="/competitions/corsaire-chaparral-invitation/" class="btn btn-primary -sm">Infos et inscription</a>
+#  annonce: >
+#   Corsaire-Chaparral Invitation 2019 <a href="/competitions/corsaire-chaparral-invitation/" class="btn btn-primary -sm">Infos et inscription</a>
 #sectionPagesMenu: main
 
 
 menu:
   main:
-  - identifier: home
-    title: Accueil
-    url: '/'
-    weight: -110
+#  - identifier: home
+#    title: Accueil
+#    url: '/'
+#    weight: -110
   
   - identifier: club
     title: Club

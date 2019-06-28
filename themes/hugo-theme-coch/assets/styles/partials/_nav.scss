@@ -17,13 +17,33 @@
   }
 }
 
-.nav-menu {
+.nav-responsive {
   display: none; // show when nav collapses
+  flex-direction: row;
+  justify-content: space-between;
 
   > li {
+    flex-grow: 0;
+
     > a {
-      padding: $spacing-xs;
+      padding: $spacing-navbar;
       cursor: pointer;
+    }
+  }
+  
+  &__link--home {
+//    background-image: url('/img/apple-touch-icon.png');
+    background-position: 0 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: $height-navbar;
+    width: $height-navbar;
+    display: block;
+    padding: $spacing-xs !important;
+    
+    > svg {
+      height: 100%;
+      width: 100%;
     }
   }
 }
@@ -38,7 +58,7 @@
 
   .nav {
 
-//    &.nav-menu { float: right; }
+//    &.nav-responsive { float: right; }
 
     > li {
 

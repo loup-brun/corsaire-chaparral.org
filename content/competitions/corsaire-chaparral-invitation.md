@@ -13,7 +13,13 @@ images:
 #    parent: competitions
 ---
 
-{{% decompte title="Fin des inscriptions en ligne dans" time="2019-06-24 23:59:59" %}}
+[HORAIRE FINAL](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/horaire-final-coch-invitation-2019.pdf)
+
+[Horaire des bénévoles](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/horaire-benevoles-coch-invitation-2019.pdf)  
+
+[Liste des performances](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/liste-perf-coch-invitation-2019.pdf)
+
+<a href="/resultats/direct/" class="btn btn-primary">🔥 Résultats en direct <span class="icon icon-angle-right"></span></a>
 
 ## Informations générales
 
@@ -22,7 +28,6 @@ images:
 - **Responsable de la rencontre** : [Samuel Grondin-Bernier](mailto:samuel@corsaire-chaparral.org).
 - **Responsable, finale régionale des Jeux du Québec** : [Louis-Olivier Brassard](mailto:louis@athlaurentides.ca)
 
-<!--[Résultats en direct](/resultats/direct/)-->
 
 ## Emplacement
 
@@ -32,11 +37,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 ## Inscription
 
-Athlètes affiliés, veuillez procéder à l'inscription via le site [avs-sport.com](https://avs-sport.com/main.php).
-
-<a href="https://avs-sport.com/display_inscriptions.php?comp=392&user=None&key=" class="btn btn-primary" target="_blank">Inscription <span class="icon icon-pencil"></span></a>
-
-_**Athlètes COCH**, inscrivez-vous via notre [formulaire en ligne](https://campagnes.corsaire-chaparral.org/inscription-cochinv-2019)._
+***Les inscriptions sont désormais fermées.***
 
 {{% div class="well" %}}
 Tel que spécifié dans le document technique, les **inscriptions tardives** seront acceptées sur AVS-Sport jusqu’au **mercredi 26 juin** moyennant des frais de 50&nbsp;$ par épreuve. Aucune inscription après cette date. Aucune inscription sans paiement.
