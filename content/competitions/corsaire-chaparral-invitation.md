@@ -13,6 +13,8 @@ images:
 #    parent: competitions
 ---
 
+[Résultats](/resultats/2019/coch-invitation/)
+
 [HORAIRE FINAL](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/horaire-final-coch-invitation-2019.pdf)
 
 [Horaire des bénévoles](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/horaire-benevoles-coch-invitation-2019.pdf)  

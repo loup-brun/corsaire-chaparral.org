@@ -29,7 +29,7 @@ params:
   stripePublicKey: pk_live_ccR6ujsv04d7TjBjRvVBgFvn
   apiUrl: https://api.corsaire-chaparral.org/v1/payment/new
 #  annonce: >
-#   Corsaire-Chaparral Invitation 2019 <a href="/competitions/corsaire-chaparral-invitation/" class="btn btn-primary -sm">Infos et inscription</a>
+#   Corsaire-Chaparral Invitation 2019 <a href="/resultats/direct/" class="btn btn-primary -sm">Résultats 🔥</a>
 #sectionPagesMenu: main
 
 
