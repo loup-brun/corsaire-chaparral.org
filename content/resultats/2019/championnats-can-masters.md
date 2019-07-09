@@ -5,6 +5,8 @@ date: 2019-07-05
 
 [Pointage / Scores](/resultats/2019/championnats-can-masters/)
 
+[PDF](https://assets.corsaire-chaparral.org/competitions/2019/cma-champs/resultats-champ-can-masters-2019-courier1col.pdf)
+
 ```
 
 
@@ -194,7 +196,8 @@ Pentathlon int.: #4 Femme Saut en longueur Master 35-39 Pentathlon int.
 ============================================================================
     Nom                    Annee Club                   Finales  Vent Points
 ============================================================================
-  1 Newington, Dash           84 Unattached               3.81m   NWI    308
+  1 Newington, Dash           84 Unattached               3.81m  +0.0    308
+     FOUL(+0.0) 3.81m(+0.0) 3.68m(+0.0)            
  
 Throws Pentathlon: #2 Femme Lancer du poids 4kg Master 35-39 Throws Pentathlon
 =======================================================================
@@ -388,7 +391,8 @@ Pentathlon int.: #4 Femme Saut en longueur Master 45-49 Pentathlon int.
 ============================================================================
     Nom                    Annee Club                   Finales  Vent Points
 ============================================================================
-  1 Wagner, Claudia           69 West Island              3.69m   NWI    388
+  1 Wagner, Claudia           69 West Island              3.69m   0.1    388
+     3.38m(+0.0) FOUL(+0.0) 3.69m(0.1)            
  
 Pentathlon int.: #3 Femme Lancer du poids 4kg Master 45-49 Pentathlon int.
 =======================================================================
@@ -1666,12 +1670,14 @@ Pentathlon int.: #1 Homme Saut en longueur Master 45-49 Pentathlon int.
 ============================================================================
     Nom                    Annee Club                   Finales  Vent Points
 ============================================================================
-  1 Dimnaku, Gezim            72 Indépendant              5.55m   NWI    677
-  2 Benazout, Abdelkrim       72 Enduromax                4.17m   NWI    346
-     4.17m(+0.0) FOUL(+0.0)               
-  3 Dery, Martin              70 C. A. De Qué             1.56m   NWI    435
-     4.36m(NWI) 4.43m(NWI) 4.57m(NWI)            
-  4 Rangel, Alejandro         70 Lachine                  1.07m   NWI    326
+  1 Dimnaku, Gezim            72 Indépendant              5.23m  +0.0    677
+     5.23m(+0.0) 3.55m(1.0) FOUL(0.6)            
+  2 Dery, Martin              70 C. A. De Qué             4.57m  +0.0    435
+     4.36m(+0.0) 4.43m(+0.0) 4.57m(+0.0)            
+  3 Benazout, Abdelkrim       72 Enduromax                4.17m  +0.0    346
+     4.17m(+0.0) FOUL(+0.0) PASS                 
+  4 Rangel, Alejandro         70 Lachine                  4.07m  +0.0    326
+     3.88m(+0.0) 3.97m(+0.0) 4.07m(+0.0)            
  
 Pentathlon int.: #4 Homme Lancer du disque 2kg Master 45-49 Pentathlon int.
 =======================================================================
@@ -1925,8 +1931,10 @@ Pentathlon int.: #1 Homme Saut en longueur Master 50-54 Pentathlon int.
 ============================================================================
     Nom                    Annee Club                   Finales  Vent Points
 ============================================================================
-  1 McConnell, Geordie        65 Unattached -             4.08m   NWI    384
-  2 Muir, Robert              68 Ottawa Lions             3.92m   NWI    346
+  1 McConnell, Geordie        65 Unattached -             4.08m  +0.0    384
+     4.08m(+0.0) 3.91m(+0.0) 3.58m(0.9)            
+  2 Muir, Robert              68 Ottawa Lions             3.92m  +0.0    346
+     3.92m(+0.0) 3.08m(+0.0) 3.10m(+0.0)            
  
 Throws Pentathlon: #2 Homme Lancer du poids 6kg Master 50-54 Throws Pentathlon
 =======================================================================
@@ -2159,8 +2167,10 @@ Pentathlon int.: #1 Homme Saut en longueur Master 55-59 Pentathlon int.
 ============================================================================
     Nom                    Annee Club                   Finales  Vent Points
 ============================================================================
-  1 Zahirovich, Mooshie       64 Indépendant              3.60m   NWI    330
-  2 Bouchard, Luc             59 Indépendant              3.12m   NWI    220
+  1 Zahirovich, Mooshie       64 Indépendant              3.60m  +0.0    330
+     3.12m(+0.0) 3.41m(+0.0) 3.60m(+0.0)            
+  2 Bouchard, Luc             59 Indépendant              3.12m   0.3    220
+     FOUL(+0.0) 2.84m(+0.0) 3.12m(0.3)            
  
 Pentathlon int.: #4 Homme Lancer du disque 1,5kg Master 55-59 Pentathlon int.
 =======================================================================
@@ -2403,8 +2413,10 @@ Pentathlon int.: #1 Homme Saut en longueur Master 60-64 Pentathlon int.
 ============================================================================
     Nom                    Annee Club                   Finales  Vent Points
 ============================================================================
-  1 Boyer, Luc                57 Lanaudière-O             3.51m   NWI    369
-  2 Lebrun, Rémi              55 Indépendant              3.45m   NWI    354
+  1 Boyer, Luc                57 Lanaudière-O             3.51m   0.5    369
+     3.29m(+0.0) 3.25m(+0.0) 3.51m(0.5)            
+  2 Lebrun, Rémi              55 Indépendant              3.45m  +0.0    354
+     2.47m(+0.0) 2.99m(+0.0) 3.45m(+0.0)            
  
 Throws Pentathlon: #2 Homme Lancer du poids 5kg Master 60-64 Throws Pentathlon
 =======================================================================
@@ -2693,7 +2705,8 @@ Pentathlon int.: #1 Homme Saut en longueur Master 65-69 Pentathlon int.
 ============================================================================
     Nom                    Annee Club                   Finales  Vent Points
 ============================================================================
-  1 Zowkewych, Peter          50 University o             3.06m   NWI    315
+  1 Zowkewych, Peter          50 University o             3.06m   1.1    315
+     2.85m(0.1) 2.51m(0.5) 3.06m(1.1)            
  
 Throws Pentathlon: #2 Homme Lancer du poids 5kg Master 65-69 Throws Pentathlon
 =======================================================================
@@ -2889,7 +2902,7 @@ Homme Saut en longueur Master 70-74
   1 Blackwood, David          49 Saint John T           3.34m      3.46m  +0.0 
      3.08m(0.8) 3.21m(+0.0) 3.46m(+0.0) 3.12m(+0.0) PASS      PASS     
   2 Ulis, David               48 Greyhounds M           3.54m     J3.46m  +0.0 
-     FOUL      3.21m(NWI) FOUL      3.46m(+0.0) 3.12m(0.9) PASS     
+     FOUL      3.21m(+0.0) FOUL      3.46m(+0.0) 3.12m(0.9) PASS     
   3 Seitz, Stan               47 Ottawa Lions           3.30m      3.33m  +0.0 
      3.19m(0.1) 3.33m(+0.0) 3.22m(+0.0) 3.33m(+0.0) FOUL      FOUL     
   4 Sandhu, Hardev Singh      49 Greyhounds M                      2.20m  +0.0 
@@ -2975,8 +2988,10 @@ Pentathlon int.: #1 Homme Saut en longueur Master 70-74 Pentathlon int.
 ============================================================================
     Nom                    Annee Club                   Finales  Vent Points
 ============================================================================
-  1 Blackwood, David          49 Saint John T             3.16m   NWI    421
-  2 Ulis, David               48 Greyhounds M             3.04m   NWI    384
+  1 Blackwood, David          49 Saint John T             3.16m  +0.0    421
+     3.16m(+0.0) 2.98m(+0.0) 2.88m(+0.0)            
+  2 Ulis, David               48 Greyhounds M             3.04m   0.5    384
+     FOUL(+0.0) 3.04m(0.5) FOUL(+0.0)            
  
 Throws Pentathlon: #2 Homme Lancer du poids 4kg Master 70-74 Throws Pentathlon
 =======================================================================
@@ -3046,10 +3061,10 @@ Homme 100 Metres Sprint Master 75-79
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
-  1 Morris, Mike              40 Unattached -           15.50      15.85   NWI 
-  2 Shah, Surinder            43 Greyhounds M                      17.35   NWI 
-  3 Tams, Peter               40 Unattached -           18.00      17.42   NWI 
-  4 McNally, Michael          42 Indépendant         11:30.30      18.57   NWI 
+  1 Morris, Mike              40 Unattached -           15.50      15.85  -1.3 
+  2 Shah, Surinder            43 Greyhounds M                      17.35  -1.3 
+  3 Tams, Peter               40 Unattached -           18.00      17.42  -1.3 
+  4 McNally, Michael          42 Indépendant         11:30.30      18.57  -1.3 
  
 Homme 200 Metres Sprint Master 75-79
 ==============================================================================
@@ -3200,7 +3215,7 @@ Homme 100 Metres Sprint Master 80-84
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
-  1 Armstrong, Mervyn         39 Unattached A                      17.45   NWI 
+  1 Armstrong, Mervyn         39 Unattached A                      17.45  -1.3 
  
 Homme 200 Metres Sprint Master 80-84
 ==============================================================================
@@ -3347,7 +3362,8 @@ Pentathlon int.: #1 Homme Saut en longueur Master 80-84 Pentathlon int.
 ============================================================================
     Nom                    Annee Club                   Finales  Vent Points
 ============================================================================
-  1 Van Der Wal, Hylke        38 Saskatchewan             1.98m   NWI    195
+  1 Van Der Wal, Hylke        38 Saskatchewan             1.98m  +0.0    195
+     1.98m(+0.0)                  
  
 Pentathlon int.: #4 Homme Lancer du disque 1kg Master 80-84 Pentathlon int.
 =======================================================================
@@ -3493,6 +3509,7 @@ Homme Pentathlon int. Master 80-84
     1) Saskatchewan                68        2) University of Toronto T.C  21   
     3) Throwers Club               14        4) GREYHOUNDS MASTERS TRACK    7   
     5) Unattached - Ontario         6                                           
+
 
 ```
 

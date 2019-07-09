@@ -14,6 +14,8 @@ description: >
 
 [Résultats / Results](/resultats/2019/championnats-can-masters/)
 
+[Shaggy's Photos](https://www.shaggysphotos.com/Canadian-Masters-Events/CMA-Champs-Ste-Therese-2019/)
+
 ## HORAIRE FINAL / FINAL SCHEDULE
 
 - [Piste - Track](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/horaire-final-piste-championnats-5-7-juillet-2019.pdf)
