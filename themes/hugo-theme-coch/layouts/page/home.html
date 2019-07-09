@@ -4,6 +4,7 @@
   <header class="header-landing row-primary" style="background-image:url({{ .Params.backgroundImg }})">
     <div class="swipe landing-slider" id="landing-slider">
       <div class="swipe-wrap">
+<!--
         <section>
           <div class="container">
             <div class="row text-center">
@@ -15,6 +16,7 @@
             </div>
           </div>
         </section>
+-->
         
         {{ range .Params.slides }}
 
@@ -113,6 +115,15 @@
       </div>
       
       <a href="{{ .Params.featuredPhotosUrl }}" class="btn btn-primary">Voir plus de photos <span class="icon icon-angle-right"></span></a>
+    </div>
+  </section>
+  
+  <section id="partenaires" class="row">
+    <div class="container">
+      <h2>Partenaires de championnat 2019</h2>
+      {{ range .Site.Data.partenaires_champ_2019 }}
+      {{ partial "partenaire.html" . }}
+      {{ end }}
     </div>
   </section>
   

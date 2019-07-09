@@ -12,10 +12,21 @@ description: >
 #    parent: competitions
 ---
 
+[Résultats compilés](/resultats/2019/championnats-qc-pent-bn-cd/)
+
+## HORAIRE FINAL / FINAL SCHEDULE
+
+- [Piste - Track](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/horaire-final-piste-championnats-5-7-juillet-2019.pdf)
+- [Sauts verticaux - Vertical Jumps](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/horaire-final-sauts-verticaux-championnats-5-7-juillet-2019.pdf)
+- [Sauts horizontaux - Horizontal Jumps](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/horaire-final-sauts-horizontaux-championnats-5-7-juillet-2019.pdf)
+- [Lancers - Throws](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/horaire-final-lancers-championnats-5-7-juillet-2019.pdf)
+
+[Liste des performances](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/perflist-junior-senior-para-2019.pdf)
+
 ## Informations générales
 
 **Dates :**  
-Samedi 6 et dimanche 7 juillet 2019
+Vendredi 5, Samedi 6 et dimanche 7 juillet 2019
 
 **Emplacement :**  
 Stade d’athlétisme Richard-Garneau  
@@ -35,13 +46,13 @@ Téléchargez le [document technique](https://assets.corsaire-chaparral.org/comp
 
 ## Inscription
 
-Inscrivez-vous jusqu'au **vendredi 28 juin 2019**.
+**Les inscriptions sont fermées.**
 
-<a href="https://avs-sport.com/inscriptions.php?comp=400" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
-
-_**Athlètes COCH**, inscrivez-vous via [notre formulaire](https://campagnes.corsaire-chaparral.org/inscription-champprov-2019)._
+<a href="https://avs-sport.com/inscriptions.php?comp=400" class="btn btn-default disabled" disabled>Inscription <span class="icon icon-pencil"></span></a>
 
 ## Bénévolat
+
+[HORAIRE DES BÉNÉVOLES](https://assets.corsaire-chaparral.org/competitions/2019/championnats-qc/horaire-benevoles-5-juillet-2019.pdf)
 
 Pour cet événement d’envergure, nous aurons grandement besoin de bénévoles!
 

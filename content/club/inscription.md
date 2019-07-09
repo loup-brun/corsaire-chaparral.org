@@ -15,14 +15,18 @@ _Vous cherchez le camp de jour? Veuillez consulter la [page dédiée](/camp-de-j
 
 {{% div class="alert -primary" %}}
 
-**L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis remplissez le formulaire d'inscription en ligne.
+<!--**L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis remplissez le formulaire d'inscription en ligne.-->
 
+**Les inscriptions pour la saison 2019-2020 reprendront en septembre. Bonne fin d'été!**
+
+<!--
 <a class="btn btn-default" href="#comment-s-inscrire">
 </span>En savoir plus <span class="icon icon-angle-down">
 </a>
 <a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">
 Formulaire en ligne <span class="icon icon-pencil"></span>
 </a>
+-->
 
 {{% /div %}}
 
@@ -109,5 +113,5 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 Le paiement doit être fait en **intégralité** à la réception de votre facture. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
-<a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">Formulaire en ligne <span class="icon icon-pencil"></a>
+<!--<a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">Formulaire en ligne <span class="icon icon-pencil"></a>-->
 <a class="btn btn-secondary" href="/payer">Payer <span class="icon icon-angle-right"></a>

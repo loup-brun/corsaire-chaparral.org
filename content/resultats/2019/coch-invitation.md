@@ -1417,6 +1417,14 @@ Homme Lancer du marteau 5kg Juvénile
   1 Casaubon, Ludwig          02 Corsaire-Cha            51.90m  
       47.58m  FOUL  51.90m  51.88m  FOUL  50.87m
  
+Homme Lancer du javelot 700g Juvénile
+================================================================
+           P: P 62.53m  7/2/2008    Charles Mainville, Saint-Jean-Olympique    
+    Nom                    Annee Club                   Finales 
+================================================================
+  1 Mancini, David            02 Lachine                 56.23m   Résultat en attente
+  2 Boivin, Félix             03 Mustangs                32.10m   Résultat en attente
+ 
 Homme 110 Metres Haies 39po Junior
 =====================================================================
        Stade: S 14.16  7/12/2013   Eric Guy, Winnipeg Opt                      
@@ -1723,6 +1731,5 @@ Homme 1500 Metres Demi-fond Ouvert
  -- Prince, Simon             00 Corsaire-Cha               DNF  
  -- Langlois, Charles         98 Corsaire-Cha               DNF  
  -- Riopel, Nicolas           99 Corsaire-Cha               DNF  
-
 
 ```

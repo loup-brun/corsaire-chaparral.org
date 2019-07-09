@@ -17,6 +17,28 @@
 - name: "Club Optimiste de Sainte-Thérèse"
   image: "/img/partenaires/club-optimiste-ste-therese.gif"
 
+# Partenaires de championnat 2019
+- name: "Arousse"
+  url: "http://arousse.com/"
+  image: "/img/partenaires/arousse.png"
+
+- name: "Délices Lafrenaie"
+  url: "http://lesdeliceslafrenaie.com/"
+  image: "/img/partenaires/delices-lafrenaye.png"
+
+- name: "Linda Lapointe : Députée fédérale de Rivière-des-Mille-Îles"
+  image: "/img/partenaires/linda-lapointe.png"
+
+- name: "Fenêtres Magistral"
+  url: "https://www.fenetresmagistral.com/"
+  image: "/img/partenaires/fenetres-magistral.jpg"
+
+- name: "Benny & Co. (320 boul. Labelle Sainte-Thérèse, Qc  J7E 2Y1 450-433-3944)"
+  url: "https://www.benny-co.com/"
+  image: "/img/partenaires/benny.jpg"
+
+# FIN partenaires de championnat 2019
+
 - name: "Desjardins"
   url: "https://www.desjardins.com"
   image: "/img/partenaires/desjardins-logo-rgb.jpg"

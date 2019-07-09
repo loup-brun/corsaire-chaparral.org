@@ -3,39 +3,55 @@ title: Accueil
 layout: home
 backgroundImg: /img/coch-dos.jpg
 slides:
-  - heading: "Compétition : Corsaire-Chaparral Invitation"
+#  - heading: "Compétition : Corsaire-Chaparral Invitation"
 #    body: >
 #      La grande compétition estivale du Corsaire-Chaparral arrive à grands pas!
-    buttons:
-    - title: Résultats
-      url: /resultats/2019/coch-invitation/
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-primary
+#    buttons:
+#    - title: Résultats
+#      url: /resultats/2019/coch-invitation/
+#      post: <span class="icon icon-angle-right"></span>
+#      class: btn-primary
   - heading: "Gros weekend de championnats"
     body: >
-      Le Corsaire-Chaparral sera l'hôte de 3 championnats d'envergure du 5 au 7 juillet 2019.
+      Le Corsaire-Chaparral était l'hôte de 3 championnats d'envergure du 5 au 7 juillet 2019.
     buttons:
-    - title: Infos et inscription
-      url: /competitions/championnats-quebecois-junior-senior-para-2019/
-      post: <span class="icon icon-pencil"></span>
-      class: btn-primary
-  - heading: Camp de jour en athlétisme
-    body: >
-      Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme cet été.
-    buttons:
-    - title: Infos et inscription
-      url: /camp-de-jour/
-      post: <span class="icon icon-pencil"></span>
-      class: btn-primary
-  - heading: Club satellite – Lachute
-    body: >
-      Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
-    buttons:
-    - title: Informations
-      url: /club/entrainements/
-      pre: 
+    - title: Résultats
+      url: /resultats/
       post: <span class="icon icon-angle-right"></span>
-      class: btn-default
+      class: btn-primary
+  - heading: "Canadian Masters Championships"
+    body: >
+      July 5-7 in Ste-Thérèse – welcome!
+    buttons:
+    - title: Results
+      url: /resultats/championnats-can-masters/
+      post: <span class="icon icon-angle-right"></span>
+      class: btn-primary
+  - heading: "Championnat québécois de pentathlon"
+    body: >
+      Championnat québécois de pentathlon benjamin-cadet (samedi 6 juillet 2019)
+    buttons:
+    - title: Résultats
+      url: /resultats/2019/championnats-qc-pent-bn-cd/
+      post: <span class="icon icon-angle-right"></span>
+      class: btn-primary
+#  - heading: Camp de jour en athlétisme
+#    body: >
+#      Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme cet été.
+#    buttons:
+#    - title: Infos et inscription
+#      url: /camp-de-jour/
+#      post: <span class="icon icon-pencil"></span>
+#      class: btn-primary
+#  - heading: Club satellite – Lachute
+#    body: >
+#      Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
+#    buttons:
+#    - title: Informations
+#      url: /club/entrainements/
+#      pre: 
+#      post: <span class="icon icon-angle-right"></span>
+#      class: btn-default
 
 featuredPhotosUrl: https://photos.corsaire-chaparral.org
 featuredPhotos:
