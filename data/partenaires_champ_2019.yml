@@ -17,3 +17,23 @@
   url: "https://www.benny-co.com/"
   image: "/img/partenaires/benny.jpg"
 
+- name: "Subway (232 St-Charles suite 120 Sainte-Thérèse)"
+  url: "https://www.subway.com/fr-CA"
+  image: "/img/partenaires/subway.jpg"
+
+- name: "Fontaine Santé : 450 Deslauriers, Saint-Laurent H4N 1V8"
+  url: "http://www.fontainesante.com/"
+  image: "/img/partenaires/fontaine-sante.png"
+
+- name: "Farinex : 3780 rue Lavérendrye, Boisbriand  J7H 1R5"
+  url: "http://www.farinex.ca/alimentation/index.php"
+  image: "/img/partenaires/farinex.jpg"
+
+- name: "Pacini : 99 boum. Labelle, Rosemère  J7A 2H2"
+  url: "https://pacini.com/"
+  image: "/img/partenaires/pacini.jpg"
+
+- name: "Dairy Queen : 190 Curé-Labelle, Sainte-Thérèse  J7E 2X5"
+  url: "https://www.dairyqueen.com/ca-fr/"
+  image: "/img/partenaires/dairy-queen.jpg"
+
