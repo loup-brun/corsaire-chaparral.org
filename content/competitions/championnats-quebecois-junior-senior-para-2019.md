@@ -12,7 +12,7 @@ description: >
 #    parent: competitions
 ---
 
-[Résultats compilés](/resultats/2019/championnats-qc-pent-bn-cd/)
+[Résultats compilés](/resultats/2019/championnats-qc-jr-sr-para/)
 
 ## HORAIRE FINAL / FINAL SCHEDULE
 

@@ -23,6 +23,12 @@ Femme 200 Metres Sprint Master 30-34
 Finales
   1 Deschênes, Marie-Eve      87 Sherbrooke             28.00      29.34   0.6 
  
+Femme 5000 Metres Demi-fond Master 30-34
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Singh, Maninder           88 Unattached          33:00.00       XDNS  
+ 
 Femme 1500 Metres Marche Master 30-34
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
@@ -73,6 +79,12 @@ Femme 1500 Metres Demi-fond Master 35-39
 =========================================================================
  -- Newington, Dash           84 Unattached           6:00.00   X7:57.60  
  
+Femme 5000 Metres Demi-fond Master 35-39
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Nehme, Pia                81 Sherbrooke          17:30.00        DNS  
+ 
 Femme 100 Metres Haies 33po Master 35-39
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
@@ -119,6 +131,7 @@ Femme Saut en longueur Master 35-39
 ==============================================================================
   1 Touchette, Monia          82 Lanaudière-O                      3.45m  +0.0 
      3.22m(1.5) 3.29m(+0.0) 3.17m(0.9) 3.45m(+0.0) FOUL(0.9) 3.19m(+0.0)
+ -- Barta, Mihaela            80 Montréal-Int                        DNS   NWI 
  -- Newington, Dash           84 Unattached             4.50m     X3.97m  +0.0 
      FOUL      FOUL      3.85m(1.0) 3.72m(0.3) 3.97m(+0.0)   
  
@@ -172,92 +185,17 @@ Femme Weight Throw 9,08kg Master 35-39
  -- Newington, Dash           84 Unattached             8.00m     X7.25m  
       6.66m  6.50m  6.74m  7.25m  5.86m  6.58m
  
-Pentathlon int.: #5 Femme 800 Metres Demi-fond Master 35-39 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Newington, Dash           84 Unattached             3:36.43     109
- 
-Pentathlon int.: #1 Femme 100 Metres Haies 33po Master 35-39 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Newington, Dash           84 Unattached               21.64   0.1    311
- 
-Pentathlon int.: #2 Femme Saut en hauteur Master 35-39 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Newington, Dash           84 Unattached               1.29m     460
-     1.11 1.23 1.26 1.29 1.32 
-        O    O   XO    O  XXX 
- 
-Pentathlon int.: #4 Femme Saut en longueur Master 35-39 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Newington, Dash           84 Unattached               3.81m  +0.0    308
-     FOUL(+0.0) 3.81m(+0.0) 3.68m(+0.0)            
- 
-Throws Pentathlon: #2 Femme Lancer du poids 4kg Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Newington, Dash           84 Unattached               5.80m     274
-      5.68m  5.51m  5.80m            
- 
-Pentathlon int.: #3 Femme Lancer du poids 4kg Master 35-39 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Newington, Dash           84 Unattached               6.10m     292
-      5.83m  6.10m  5.24m            
- 
-Throws Pentathlon: #3 Femme Lancer du disque 1kg Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Newington, Dash           84 Unattached              19.42m     280
-      18.14m  19.42m  FOUL            
- 
-Throws Pentathlon: #1 Femme Lancer du marteau 4kg Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
- -- Newington, Dash           84 Unattached                FOUL  
-      FOUL    x             
- 
-Throws Pentathlon: #4 Femme Lancer du javelot 600g Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Newington, Dash           84 Unattached              11.69m     149
-      11.69m  11.31m  10.08m            
- 
-Throws Pentathlon: #5 Femme Weight Throw 9,08kg Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Newington, Dash           84 Unattached               6.70m     330
-      5.87m  6.70m  6.05m            
- 
-Femme Pentathlon int. Master 35-39
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Newington, Dash           84 Unattached               950      X1480  
- 
-Femme Throws Pentathlon Master 35-39
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Newington, Dash           84 Unattached              1300      X1033  
- 
 Femme 1500 Metres Marche Master 35-39
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
  -- Newington, Dash           84 Unattached          15:00.00  X10:20.03  
+ 
+Femme 5000 Metres Marche Master 35-39
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Newington, Dash           84 Unattached          45:00.00       XDNS  
  
 Femme 100 Metres Sprint Master 40-44
 ==============================================================================
@@ -276,6 +214,7 @@ Femme 200 Metres Sprint Master 40-44
   1 Lachance, Renée           74 Sherbrooke                        28.78  +0.0 
   2 King, Debbie              75 Jmac - Jamca           29.50      29.39  +0.0 
   3 Lévesque, Sonia           77 Saint-Lauren           30.00      29.79  +0.0 
+ -- Binstock, Susy            77 Indépendant            32.00        DNS  +0.0 
  
 Femme Saut en longueur Master 40-44
 ==============================================================================
@@ -316,6 +255,7 @@ Femme 100 Metres Sprint Master 45-49
 ==============================================================================
   1 Morris, Jennifer          73 Ottawa Lions           14.04      14.52  -3.2 
   2 Bonneau, Louise           69 Lachine                14.46      14.79  -3.2 
+ -- Fontaine, Paule           72 Sherbrooke          14:12.00        DNS  -3.2 
  
 Femme 200 Metres Sprint Master 45-49
 ==============================================================================
@@ -325,6 +265,7 @@ Femme 200 Metres Sprint Master 45-49
   2 Bonneau, Louise           69 Lachine                29.38      29.12   0.6 
   3 Harding, Hazel            73 Ottawa Lions           30.90      31.41   0.6 
   4 La Rivière, Eve           72 Saint-Jean O           31.47      33.28   0.6 
+ -- Fontaine, Paule           72 Sherbrooke                          DNS   0.6 
  
 Femme 400 Metres Sprint Master 45-49
 =========================================================================
@@ -366,46 +307,6 @@ Femme Saut en longueur Master 45-49
 ==============================================================================
   1 La Rivière, Eve           72 Saint-Jean O           3.20m      3.13m  +0.0 
      2.96m(1.1) 2.92m(+0.0) 2.79m(0.4) 2.98m(1.0) 3.07m(0.4) 3.13m(+0.0)
- 
-Pentathlon int.: #5 Femme 800 Metres Demi-fond Master 45-49 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Wagner, Claudia           69 West Island            2:37.32     780
- 
-Pentathlon int.: #1 Femme 80 Metres Haies 30po Master 45-49 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Wagner, Claudia           69 West Island              17.50   0.1    604
- 
-Pentathlon int.: #2 Femme Saut en hauteur Master 45-49 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Wagner, Claudia           69 West Island              1.20m     502
-     1.11 1.14 1.17 1.20 1.23 
-        O   XO    O    O  XXX 
- 
-Pentathlon int.: #4 Femme Saut en longueur Master 45-49 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Wagner, Claudia           69 West Island              3.69m   0.1    388
-     3.38m(+0.0) FOUL(+0.0) 3.69m(0.1)            
- 
-Pentathlon int.: #3 Femme Lancer du poids 4kg Master 45-49 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Wagner, Claudia           69 West Island              8.29m     523
-      FOUL  7.88m  8.29m            
- 
-Femme Pentathlon int. Master 45-49
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Wagner, Claudia           69 West Island                        2797  
  
 Femme 100 Metres Sprint Master 50-54
 ==============================================================================
@@ -498,6 +399,9 @@ Femme 100 Metres Sprint Master 55-59
   1 Rouillard, Luc            64 Sherbrooke             14.74      15.36  -3.3 
   2 Nearing-Guibord, Danette  61 Ottawa Lions           15.70      16.96  -3.3 
   3 Melvin, Wendy             60 Unattached -                      18.68  -3.3 
+ -- Faucher, Serge            64 Ottawa Lions           12.45        DNS  -3.3 
+ -- St-Louis, Jean            63 Indépendant                         DNS  -3.3 
+ -- Baptiste, Joseph          60 Jmac - Jamca           13.80        DNS  -3.3 
  
 Femme 200 Metres Sprint Master 55-59
 ==============================================================================
@@ -530,6 +434,14 @@ Femme 5000 Metres Demi-fond Master 55-59
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Duchesne, Sylvie          62 Lanaudière-O        22:45.10   22:19.25  
+ -- Kramarich, Joy            60 University o        22:00.00        DNS  
+ -- Lachance, Monique         62 Les Vainqueu                        DNS  
+ 
+Femme 2000 Metres Steeplechase 30po Master 55-59
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Kramarich, Joy            60 University o         8:50.00        DNS  
  
 Femme Lancer du poids 3kg Master 55-59
 =========================================================================
@@ -581,64 +493,6 @@ Femme Weight Throw 7,26kg Master 55-59
       5.77m  6.25m  6.04m  FOUL  FOUL  5.85m
  -- Ecklund, Deborah          59 Unattached                       X4.70m  
       4.30m  4.10m  4.22m  4.64m  4.69m  4.70m
- 
-Throws Pentathlon: #2 Femme Lancer du poids 3kg Master 55-59 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dajia, Kristen            63 Throwers Clu             9.35m     715
-      FOUL  9.35m  8.89m            
-  2 LeBlanc, Heather          61 Unattached-N             7.82m     576
-      7.33m  7.82m  7.54m            
-  3 Ecklund, Deborah          59 Unattached               4.74m     302
-      FOUL  4.74m  4.48m            
- 
-Throws Pentathlon: #3 Femme Lancer du disque 1kg Master 55-59 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dajia, Kristen            63 Throwers Clu            27.41m     644
-      22.76m  26.92m  27.41m            
-  2 LeBlanc, Heather          61 Unattached-N            19.87m     436
-      19.87m  19.13m  18.87m            
-  3 Ecklund, Deborah          59 Unattached              11.27m     211
-      10.93m  11.27m  FOUL            
- 
-Throws Pentathlon: #1 Femme Lancer du marteau 3kg Master 55-59 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dajia, Kristen            63 Throwers Clu            36.46m     954
-      30.47m  30.77m  36.46m            
-  2 LeBlanc, Heather          61 Unattached-N            22.46m     523
-      22.46m  22.02m  21.58m            
-  3 Ecklund, Deborah          59 Unattached              13.03m     242
-      13.03m  FOUL  12.35m            
- 
-Throws Pentathlon: #4 Femme Lancer du javelot 500g Master 55-59 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 LeBlanc, Heather          61 Unattached-N            16.04m     349
-      14.43m  16.04m  14.48m            
-  2 Ecklund, Deborah          59 Unattached               7.43m     120
-      7.01m  7.43m  6.43m            
- 
-Throws Pentathlon: #5 Femme Weight Throw 7,26kg Master 55-59 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 LeBlanc, Heather          61 Unattached-N             7.58m     480
-      6.43m  7.58m  FOUL            
-  2 Ecklund, Deborah          59 Unattached               4.41m     234
-      4.41m  3.83m  4.06m            
- 
-Femme Throws Pentathlon Master 55-59
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 LeBlanc, Heather          61 Unattached-N            2339       2364  
-  2 Ecklund, Deborah          59 Unattached                        X1109  
  
 Femme 1500 Metres Marche Master 55-59
 =========================================================================
@@ -749,47 +603,6 @@ Femme Weight Throw 5,45kg Master 60-64
   2 Jardine, Ellen            56 Throwers Clu           9.09m      8.58m  
       8.26m  8.58m  8.11m  FOUL  8.37m  8.32m
  
-Throws Pentathlon: #2 Femme Lancer du poids 4kg Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Jardine, Ellen            56 Throwers Clu             7.28m     591
-      7.28m  7.05m  6.76m            
- 
-Throws Pentathlon: #3 Femme Lancer du disque 1kg Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Jardine, Ellen            56 Throwers Clu            19.67m     489
-      18.84m  19.29m  19.67m            
- 
-Throws Pentathlon: #1 Femme Lancer du marteau 3kg Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Jardine, Ellen            56 Throwers Clu            21.77m     567
-      FOUL  19.30m  21.77m            
- 
-Throws Pentathlon: #4 Femme Lancer du javelot 500g Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Jardine, Ellen            56 Throwers Clu            15.26m     375
-      FOUL  13.74m  15.26m            
- 
-Throws Pentathlon: #5 Femme Weight Throw 5,45kg Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Jardine, Ellen            56 Throwers Clu             8.53m     512
-      8.53m  FOUL  FOUL            
- 
-Femme Throws Pentathlon Master 60-64
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Jardine, Ellen            56 Throwers Clu            2521       2534  
- 
 Femme 1500 Metres Marche Master 60-64
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
@@ -814,6 +627,7 @@ Femme 200 Metres Sprint Master 65-69
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
   1 Del Grande, Karla         53 Variety Vill           29.11      29.49   0.5 
+ -- Rock-Pontius, Linda       51 Unattached             39.75       XDNS   0.5 
  
 Femme 400 Metres Sprint Master 65-69
 =========================================================================
@@ -821,6 +635,12 @@ Femme 400 Metres Sprint Master 65-69
 =========================================================================
   1 Del Grande, Karla         53 Variety Vill         1:09.11    1:09.59  
  -- Rock-Pontius, Linda       51 Unattached           1:35.50   X1:35.39  
+ 
+Femme 800 Metres Demi-fond Master 65-69
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Rock-Pontius, Linda       51 Unattached           3:55.80       XDNS  
  
 Femme 80 Metres Haies 27po Master 65-69
 ==============================================================================
@@ -893,47 +713,6 @@ Femme Weight Throw 3kg Master 65-69
   2 Hessel, Laura             52 Unattached A           9.68m      9.35m  
       9.35m  FOUL  8.86m  8.75m  FOUL  FOUL
  
-Throws Pentathlon: #2 Femme Lancer du poids 3kg Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Hessel, Laura             52 Unattached A             7.80m     723
-      7.63m  FOUL  7.80m            
- 
-Throws Pentathlon: #3 Femme Lancer du disque 1kg Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Hessel, Laura             52 Unattached A            22.74m     669
-      22.46m  21.43m  22.74m            
- 
-Throws Pentathlon: #1 Femme Lancer du marteau 3kg Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Hessel, Laura             52 Unattached A            24.33m     743
-      24.33m  FOUL  24.02m            
- 
-Throws Pentathlon: #4 Femme Lancer du javelot 500g Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Hessel, Laura             52 Unattached A            20.30m     608
-      20.30m  16.69m  17.98m            
- 
-Throws Pentathlon: #5 Femme Weight Throw 5,45kg Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Hessel, Laura             52 Unattached A             9.78m     675
-      9.35m  FOUL  9.78m            
- 
-Femme Throws Pentathlon Master 65-69
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Hessel, Laura             52 Unattached A                       3418  
- 
 Femme 1500 Metres Marche Master 65-69
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
@@ -959,12 +738,14 @@ Femme 200 Metres Sprint Master 70-74
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
   1 Allison, Sheila           45 Greyhounds M        42:13.00      42.61   0.5 
+ -- Douglas, Avril            46 Kajaks Track           35.00        DNS   0.5 
  
 Femme 400 Metres Sprint Master 70-74
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Allison, Sheila           45 Greyhounds M         1:42.01    1:36.73  
+ -- Douglas, Avril            46 Kajaks Track         1:18.00        DNS  
  
 Femme 800 Metres Demi-fond Master 70-74
 =========================================================================
@@ -1027,52 +808,12 @@ Femme Weight Throw 5,45kg Master 70-74
   1 Closkey, Cheryl           48 Unattached -                     10.33m  
       9.50m  10.33m  9.35m  9.63m  9.99m  FOUL
  
-Throws Pentathlon: #2 Femme Lancer du poids 3kg Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Closkey, Cheryl           48 Unattached -             6.79m     701
-      6.37m  6.79m  6.67m            
- 
-Throws Pentathlon: #3 Femme Lancer du disque 1kg Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Closkey, Cheryl           48 Unattached -            22.14m     761
-      20.73m  FOUL  22.14m            
- 
-Throws Pentathlon: #1 Femme Lancer du marteau 3kg Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Closkey, Cheryl           48 Unattached -            24.28m     855
-      23.40m  24.28m  FOUL            
- 
-Throws Pentathlon: #4 Femme Lancer du javelot 500g Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Closkey, Cheryl           48 Unattached -            16.40m     561
-      14.64m  16.40m  16.18m            
- 
-Throws Pentathlon: #5 Femme Weight Throw 5,45kg Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Closkey, Cheryl           48 Unattached -             9.81m     763
-      9.81m  9.48m  FOUL            
- 
-Femme Throws Pentathlon Master 70-74
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Closkey, Cheryl           48 Unattached -                       3641  
- 
 Homme 100 Metres Sprint Master 30-34
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
   1 Westcott, Sheldon         84 Unattached                        13.23  -0.3 
+ -- Liu, Box                  88 University o           13.11       XDNS  -0.3 
  
 Homme Saut en hauteur Master 30-34
 =========================================================================
@@ -1098,8 +839,6 @@ Homme Lancer du disque 2kg Master 30-34
 =========================================================================
   1 Dumont, Mathieu           87 C. A. Univer                     33.41m  
       30.63m  32.02m  30.91m  33.41m  30.92m  28.99m
- -- Nishida, Raphael          88 The Gazelles          21.00m    X19.61m  
-      18.69m  19.39m  18.75m  19.61m  18.09m  16.15m
  
 Homme Lancer du marteau 7,26kg Master 30-34
 =========================================================================
@@ -1107,92 +846,7 @@ Homme Lancer du marteau 7,26kg Master 30-34
 =========================================================================
   1 Dumont, Mathieu           87 C. A. Univer                     37.84m  
       FOUL  37.23m  37.84m  FOUL  FOUL  PASS
- 
-Homme Weight Throw 15,88kg Master 30-34
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
- -- Nishida, Raphael          88 The Gazelles           6.70m     X6.77m  
-      6.77m  FOUL  6.54m  6.39m  FOUL  6.41m
- 
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 30-34 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Westcott, Sheldon         84 Unattached               25.72   1.3    547
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 30-34 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Westcott, Sheldon         84 Unattached             5:15.60     476
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 30-34 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Westcott, Sheldon         84 Unattached               5.44m  +0.0    469
-     5.44m(+0.0) FOUL(+0.0) FOUL(0.4)            
- 
-Throws Pentathlon: #2 Homme Lancer du poids 7,26kg Master 30-34 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Nishida, Raphael          88 The Gazelles            17.66m     954
-      17.66m  17.40m  17.46m            
- 
-Pentathlon int.: #4 Homme Lancer du disque 2kg Master 30-34 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Westcott, Sheldon         84 Unattached              20.46m     281
-      FOUL  20.46m  FOUL            
- 
-Throws Pentathlon: #3 Homme Lancer du disque 2kg Master 30-34 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Nishida, Raphael          88 The Gazelles            19.10m     255
-      16.61m  17.95m  19.10m            
- 
-Throws Pentathlon: #1 Homme Lancer du marteau 7,26kg Master 30-34 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Nishida, Raphael          88 The Gazelles            13.13m      87
-      13.13m  PASS  PASS            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 800g Master 30-34 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Westcott, Sheldon         84 Unattached              43.56m     494
- 
-Throws Pentathlon: #4 Homme Lancer du javelot 800g Master 30-34 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Nishida, Raphael          88 The Gazelles            15.93m     107
-      FOUL  15.93m  15.02m            
- 
-Throws Pentathlon: #5 Homme Weight Throw 15,88kg Master 30-34 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Nishida, Raphael          88 The Gazelles             6.47m     257
-      6.47m  6.20m  FOUL            
- 
-Homme Pentathlon int. Master 30-34
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Westcott, Sheldon         84 Unattached                         2267  
- 
-Homme Throws Pentathlon Master 30-34
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Nishida, Raphael          88 The Gazelles                      X1660  
+ -- Nishida, Raphael          88 The Gazelles          11.40m        DNS  
  
 Homme 100 Metres Sprint Master 35-39
 ==============================================================================
@@ -1201,6 +855,7 @@ Homme 100 Metres Sprint Master 35-39
   1 Primeau, David            83 A.T.P Athlét           12.00      12.62  -0.3 
   2 Lewis, John James         79 West Island                       14.84  -0.3 
   3 Stewart, Jason            80 Halifast Ath           13.56      15.19  -0.3 
+ -- Singh, Gurkamal           79 Unattached             12.00       XDNS  -0.3 
  -- Ogata, Kensaku            81 McGill Olymp           12.00     X12.50  -0.3 
  
 Homme 200 Metres Sprint Master 35-39
@@ -1227,7 +882,7 @@ Homme 1500 Metres Demi-fond Master 35-39
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
-  1 Jacek, Trevor             81 Unattached-S         4:39.89    3:23.85  
+  1 Jacek, Trevor             81 Unattached-S         4:39.89    4:36.86  
  
 Homme 29&U 4x400 Metres Relais Master 35-39
 =========================================================================
@@ -1248,86 +903,6 @@ Homme Lancer du disque 2kg Master 35-39
 =========================================================================
   1 Dery, Patrick             79 C. A. De Qué          26.03m     24.70m  
       21.51m  23.59m  23.35m  24.70m  FOUL  21.99m
- 
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 35-39 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Tremblay-Fournier, Cédri  82 Zénix De La              25.68   1.3    583
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 35-39 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Tremblay-Fournier, Cédri  82 Zénix De La            5:05.34     546
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 35-39 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Tremblay-Fournier, Cédri  82 Zénix De La              4.79m   0.5    371
-     4.75m(+0.0) 4.03m(+0.0) 4.79m(0.5)            
- 
-Throws Pentathlon: #2 Homme Lancer du poids 7,26kg Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dery, Patrick             79 C. A. De Qué             9.42m     472
-      8.59m  9.07m  9.42m            
- 
-Throws Pentathlon: #3 Homme Lancer du disque 2kg Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dery, Patrick             79 C. A. De Qué            24.31m     360
-      24.31m  FOUL  23.87m            
- 
-Pentathlon int.: #4 Homme Lancer du disque 2kg Master 35-39 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Tremblay-Fournier, Cédri  82 Zénix De La             22.69m     329
-      18.42m  22.41m  22.69m            
- 
-Throws Pentathlon: #1 Homme Lancer du marteau 7,26kg Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dery, Patrick             79 C. A. De Qué            19.85m     199
-      19.68m  19.85m  FOUL            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 800g Master 35-39 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Tremblay-Fournier, Cédri  82 Zénix De La             35.26m     380
-      34.64m  FOUL  35.26m            
- 
-Throws Pentathlon: #4 Homme Lancer du javelot 800g Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dery, Patrick             79 C. A. De Qué            37.04m     406
-      35.46m  37.04m  35.46m            
- 
-Throws Pentathlon: #5 Homme Weight Throw 15,88kg Master 35-39 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dery, Patrick             79 C. A. De Qué             8.09m     355
-      7.44m  7.42m  8.09m            
- 
-Homme Pentathlon int. Master 35-39
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Tremblay-Fournier, Cédri  82 Zénix De La                        2209  
- 
-Homme Throws Pentathlon Master 35-39
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Dery, Patrick             79 C. A. De Qué                       1792  
  
 Homme 1500 Metres Marche Master 35-39
 =========================================================================
@@ -1358,6 +933,9 @@ Homme 200 Metres Sprint Master 40-44
 ==============================================================================
   1 Eniojukan, Sunday         75 The Gazelles           26.10      25.98  -3.7 
   2 Langlois, Maxime          78 Pélicans De            24.75      26.25  -3.7 
+ -- Muzard, Camilo            75 Club De Cour           27.00        DNS  -3.7 
+ -- Meikle, Supa D.A.         77 Jmac - Jamca           27.11        DNS  -3.7 
+ -- Cholakis, Ernest          75 Winnipeg Opt                        DNS  -3.7 
  -- Bouloum, Yassine          79 Halifast Ath           24.91     X25.62  -3.7 
  
 Homme 400 Metres Sprint Master 40-44
@@ -1367,6 +945,7 @@ Homme 400 Metres Sprint Master 40-44
   1 Langlois, Maxime          78 Pélicans De            54.00      58.30  
   2 Perrault, Mathieu         76 Sherbrooke             59.00      59.87  
   3 Muzard, Camilo            75 Club De Cour           58.00    1:01.57  
+ -- Cholakis, Ernest          75 Winnipeg Opt                        DNS  
  
 Homme 800 Metres Demi-fond Master 40-44
 =========================================================================
@@ -1374,12 +953,14 @@ Homme 800 Metres Demi-fond Master 40-44
 =========================================================================
   1 Mirco, Sheldon            76 Unattached -         2:05.00    2:06.68  
   2 Muzard, Camilo            75 Club De Cour         2:24.00    2:30.78  
+ -- Mohamed Ragab, Ragab      79 Unattached           1:59.00       XDNS  
  
 Homme 1500 Metres Demi-fond Master 40-44
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Gobeil, David             76 Lanaudière-O         4:15.00    4:25.65  
+ -- Nisbet, Marc              75 Corsaire-Cha         4:36.00        DNS  
  
 Homme 5000 Metres Demi-fond Master 40-44
 =========================================================================
@@ -1423,85 +1004,6 @@ Homme Lancer du marteau 7,26kg Master 40-44
   1 Przadka, Ludovic          74 Indépendant                      22.47m  
       20.38m  FOUL  19.23m  21.66m  20.46m  22.47m
  
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 40-44 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Rubio, Gerard             74 Corsaire-Cha             29.59   1.3    362
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 40-44 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Rubio, Gerard             74 Corsaire-Cha           5:09.18     594
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 40-44 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Rubio, Gerard             74 Corsaire-Cha             3.46m  +0.0    170
-     3.46m(+0.0) FOUL(+0.0)               
- 
-Throws Pentathlon: #2 Homme Lancer du poids 7,26kg Master 40-44 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Przadka, Ludovic          74 Indépendant              7.95m     417
-      FOUL  FOUL  7.95m            
- 
-Throws Pentathlon: #3 Homme Lancer du disque 2kg Master 40-44 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Przadka, Ludovic          74 Indépendant             23.17m     377
-      FOUL  23.17m  FOUL            
- 
-Pentathlon int.: #4 Homme Lancer du disque 2kg Master 40-44 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Rubio, Gerard             74 Corsaire-Cha            19.87m     307
-      FOUL  FOUL  19.87m            
- 
-Throws Pentathlon: #1 Homme Lancer du marteau 7,26kg Master 40-44 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Przadka, Ludovic          74 Indépendant             20.87m     247
-      7.59m  FOUL  20.87m            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 800g Master 40-44 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Rubio, Gerard             74 Corsaire-Cha            27.44m     296
- 
-Throws Pentathlon: #4 Homme Lancer du javelot 800g Master 40-44 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Przadka, Ludovic          74 Indépendant             16.10m     128
-      16.10m  FOUL  FOUL            
- 
-Throws Pentathlon: #5 Homme Weight Throw 15,88kg Master 40-44 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Przadka, Ludovic          74 Indépendant              8.08m     385
-      FOUL  5.40m  8.08m            
- 
-Homme Pentathlon int. Master 40-44
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Rubio, Gerard             74 Corsaire-Cha                       1729  
- 
-Homme Throws Pentathlon Master 40-44
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Przadka, Ludovic          74 Indépendant                        1554  
- 
 Homme 100 Metres Sprint Master 45-49
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
@@ -1513,6 +1015,8 @@ Homme 100 Metres Sprint Master 45-49
   5 Dery, Martin              70 C. A. De Qué           13.50      13.90  -3.3 
   6 Penney, Neil              70 Unattached N                      14.01  -3.3 
   7 Salazar, Mauricio         69 Lanaudière-O                      14.08  -3.3 
+ -- Samuel, Dale              71 Jmac - Jamca           13.01        DNS  -3.3 
+ -- Farr, Kevin               70 U Windsor At           12.48        DNS  -3.3 
  
 Homme 200 Metres Sprint Master 45-49
 ==============================================================================
@@ -1523,6 +1027,9 @@ Homme 200 Metres Sprint Master 45-49
   3 Mason, Alex-Bobbie        72 University o        26:00.00      25.25  -1.8 
   4 Renaud, Pascal            72 C. A. Univer           24.46      25.99  -1.8 
   5 Salazar, Mauricio         69 Lanaudière-O                      33.51  -1.8 
+ -- Farr, Kevin               70 U Windsor At           25.55        DNS  -1.8 
+ -- Samuel, Dale              71 Jmac - Jamca           26.61        DNS  -1.8 
+ -- Dimnaku, Gezim            72 Indépendant         25:36.00        DNS  -1.8 
  
 Homme 400 Metres Sprint Master 45-49
 =========================================================================
@@ -1530,6 +1037,8 @@ Homme 400 Metres Sprint Master 45-49
 =========================================================================
   1 Doucet, Patrice           72 Milpat Club            52.92      55.11  
   2 Mason, Alex-Bobbie        72 University o        02:00.00      59.16  
+ -- Williams, Lawrence        70 Ottawa Lions           54.90        DNS  
+ -- Farr, Kevin               70 U Windsor At           56.11        DNS  
  
 Homme 800 Metres Demi-fond Master 45-49
 =========================================================================
@@ -1546,6 +1055,7 @@ Homme 1500 Metres Demi-fond Master 45-49
 =========================================================================
   1 Koppel, Aivar             69 Unattached           4:50.79    4:54.71  
   2 Vincent, Francois         73 Saint-Jean O         4:49.51    5:08.63  
+ -- Doucet, Patrice           72 Milpat Club          4:17.56        DNS  
  
 Homme 5000 Metres Demi-fond Master 45-49
 =========================================================================
@@ -1554,12 +1064,14 @@ Homme 5000 Metres Demi-fond Master 45-49
   1 Gilbert, Claude           70 Coureur Nord                   16:29.05  
   2 Strowbridge, Dean         71 Saint John T        16:59.00   16:53.91  
   3 Leef, Ryan                73 Athletics YU        18:00.00   17:56.83  
+ -- Lopez-Bravo, Pedro        70 Newmarket Hu        17:25.00        DNS  
  
 Homme 10000 Metres Demi-fond Master 45-49
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Leef, Ryan                73 Athletics YU        39:00.00   39:28.51  
+ -- Thériault, Jean-Marc      73 Lanaudière-O        33:59.00        DNS  
  
 Homme 110 Metres Haies 39po Master 45-49
 ==============================================================================
@@ -1567,11 +1079,23 @@ Homme 110 Metres Haies 39po Master 45-49
 ==============================================================================
   1 Dimnaku, Gezim            72 Indépendant         17:21.00      18.13   0.1 
  
+Homme 400 Metres Haies 36po Master 45-49
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Benazout, Abdelkrim       72 Enduromax            1:02.00        DNS  
+ 
 Homme 3000 Metres Steeplechase 36po Master 45-49
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Renaud, Pascal            72 C. A. Univer        11:40.00   11:28.66  
+ 
+Homme 95-99 4x100 Metres Relais Master 45-49
+=========================================================================
+    Club                                                 Seed    Finales 
+=========================================================================
+ -- Master  'A'                                                      DNS  
  
 Homme Saut en hauteur Master 45-49
 =========================================================================
@@ -1648,68 +1172,6 @@ Homme Weight Throw 15,88kg Master 45-49
   1 Pontes, Jack              71 Jmac - Jamca           8.00m      5.87m  
       FOUL  4.05m  FOUL  FOUL  5.65m  5.87m
  
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 45-49 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Dimnaku, Gezim            72 Indépendant              25.13   1.3    766
-  2 Dery, Martin              70 C. A. De Qué             27.88   1.3    544
-  3 Rangel, Alejandro         70 Lachine                  28.69   1.3    485
-  4 Benazout, Abdelkrim       72 Enduromax                30.86   1.3    343
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 45-49 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Benazout, Abdelkrim       72 Enduromax              5:13.11     645
-  2 Dimnaku, Gezim            72 Indépendant            6:18.01     329
-  3 Rangel, Alejandro         70 Lachine                6:33.13     270
-  4 Dery, Martin              70 C. A. De Qué           6:50.91     209
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 45-49 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Dimnaku, Gezim            72 Indépendant              5.23m  +0.0    677
-     5.23m(+0.0) 3.55m(1.0) FOUL(0.6)            
-  2 Dery, Martin              70 C. A. De Qué             4.57m  +0.0    435
-     4.36m(+0.0) 4.43m(+0.0) 4.57m(+0.0)            
-  3 Benazout, Abdelkrim       72 Enduromax                4.17m  +0.0    346
-     4.17m(+0.0) FOUL(+0.0) PASS                 
-  4 Rangel, Alejandro         70 Lachine                  4.07m  +0.0    326
-     3.88m(+0.0) 3.97m(+0.0) 4.07m(+0.0)            
- 
-Pentathlon int.: #4 Homme Lancer du disque 2kg Master 45-49 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Rangel, Alejandro         70 Lachine                 31.06m     612
-      FOUL  24.08m  31.06m            
-  2 Dimnaku, Gezim            72 Indépendant             18.68m     319
-      18.23m  18.68m  FOUL            
-  3 Benazout, Abdelkrim       72 Enduromax               17.82m     300
-      17.82m  16.89m  16.59m            
-  4 Dery, Martin              70 C. A. De Qué            16.64m     273
-      FOUL  FOUL  16.64m            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 800g Master 45-49 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Rangel, Alejandro         70 Lachine                 36.92m     489
-  2 Dimnaku, Gezim            72 Indépendant             32.89m     421
-  3 Dery, Martin              70 C. A. De Qué            22.09m     242
-  4 Benazout, Abdelkrim       72 Enduromax               21.41m     231
- 
-Homme Pentathlon int. Master 45-49
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Dimnaku, Gezim            72 Indépendant             3113       2512  
-  2 Rangel, Alejandro         70 Lachine                            2182  
-  3 Benazout, Abdelkrim       72 Enduromax               2500       1865  
-  4 Dery, Martin              70 C. A. De Qué                       1703  
- 
 Homme 1500 Metres Marche Master 45-49
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
@@ -1725,6 +1187,7 @@ Homme 100 Metres Sprint Master 50-54
   3 Williams, David           66 Etobicoke Tr           12.30      12.66  -2.3 
   4 Lazare, Pierre            68 Perfmax-Raci           13.00      15.25  -2.3 
   5 Léger, Sylvain            65 Saint-Lauren                      19.73  -2.3 
+ -- Tavitian, Zaven           66 Perfmax-Raci        12:07.00        DNS  -2.3 
  -- Warren, Mark              67 Unattached             12.50     X15.09  -2.3 
  
 Homme 200 Metres Sprint Master 50-54
@@ -1735,6 +1198,9 @@ Homme 200 Metres Sprint Master 50-54
   2 Lawson, Peter             68 LIIT                   25.10      25.45  -2.5 
   3 Kangni, Jerry             68 Perfmax-Raci           26.00      25.74  -2.5 
   4 Ollivier, Philippe        67 Saint-Lauren                      26.32  -2.5 
+ -- Léger, Sylvain            65 Saint-Lauren                        DNS  -2.5 
+ -- El-Hajj, Ziad             65 Enduromax              31.00        DNS  -2.5 
+ -- Warren, Mark              67 Unattached             25.50       XDNS  -2.5 
  
 Homme 400 Metres Sprint Master 50-54
 =========================================================================
@@ -1763,6 +1229,7 @@ Homme 1500 Metres Demi-fond Master 50-54
   5 Hogue, Benoit             65 Corsaire-Cha         4:40.24    4:40.93  
   6 Boulay, Pierre            67 Indépendant                     4:48.14  
   7 Madsen, Chris             68 University o         5:31.00    5:47.53  
+ -- El-Hajj, Ziad             65 Enduromax            5:50.00        DNS  
  
 Homme 5000 Metres Demi-fond Master 50-54
 =========================================================================
@@ -1773,6 +1240,8 @@ Homme 5000 Metres Demi-fond Master 50-54
   3 Poirier, Richard          68 Indépendant         17:50.00   17:44.88  
   4 Ferguson, Michael         64 Unattached -        19:25.00   20:11.52  
   5 Madsen, Chris             68 University o        21:05.00   23:21.44  
+ -- Boulay, Pierre            67 Indépendant         17:30.00        DNS  
+ -- Boileau, Martin           64 Corsaire-Cha        17:30.00        DNS  
  
 Homme 10000 Metres Demi-fond Master 50-54
 =========================================================================
@@ -1780,6 +1249,7 @@ Homme 10000 Metres Demi-fond Master 50-54
 =========================================================================
   1 Cusson, Michel            67 Fleur De Lys        36:28.00   36:21.25  
   2 Boulay, Pierre            67 Indépendant         36:30.00   37:02.67  
+ -- Guertin, Stéphane         66 Indépendant         40:00.00        DNS  
  
 Homme 100 Metres Haies 36po Master 50-54
 ==============================================================================
@@ -1834,12 +1304,12 @@ Homme Saut en longueur Master 50-54
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
-  1 Warren, Mark              67 Unattached             5.20m      5.05m  +0.0 
-     4.98m(0.5) 4.86m(0.8) 4.89m(+0.0) 5.05m(+0.0) 5.05m(-0.4) 4.63m(+0.0)
   2 Ollivier, Philippe        67 Saint-Lauren           4.86m      4.88m   2.2 
      4.88m(2.2) 4.44m(0.1) 4.49m(2.2) PASS      PASS      PASS     
   3 Gautier, Paul             64 Saint John T           4.50m      3.88m  +0.0 
      3.88m(+0.0) 3.73m(1.3) PASS      PASS      PASS      PASS     
+  1 Warren, Mark              67 Unattached             5.20m     X5.05m  +0.0 
+     4.98m(0.5) 4.86m(0.8) 4.89m(+0.0) 5.05m(+0.0) 5.05m(-0.4) 4.63m(+0.0)
  
 Homme Triple Saut Master 50-54
 ==============================================================================
@@ -1847,7 +1317,7 @@ Homme Triple Saut Master 50-54
 ==============================================================================
   1 Gautier, Paul             64 Saint John T           9.00m      9.90m   1.5 
      8.47m(1.0) 9.90m(1.5) PASS      9.08m(1.3) PASS      PASS     
-  2 Warren, Mark              67 Unattached             9.95m      9.71m   1.6 
+  2 Warren, Mark              67 Unattached             9.95m     X9.71m   1.6 
      9.44m(2.1) 9.27m(1.3) 9.30m(2.1) 9.71m(1.6) FOUL(0.1) 9.58m(1.6)
  
 Homme Lancer du poids 6kg Master 50-54
@@ -1879,6 +1349,7 @@ Homme Lancer du disque 1,5kg Master 50-54
       32.94m  FOUL  31.75m  FOUL  FOUL  FOUL
   5 Burggraf, Scott           68 Kingston Tra          28.70m     29.66m  
       26.38m  27.51m  26.32m  29.66m  29.58m  FOUL
+ -- Ollivier, Philippe        67 Saint-Lauren          25.00m        DNS  
  
 Homme Lancer du marteau 6kg Master 50-54
 =========================================================================
@@ -1913,110 +1384,14 @@ Homme Weight Throw 11,34kg Master 50-54
   3 Delyea, Tim               64 Throwers Clu           8.05m      7.51m  
       6.57m  7.51m  FOUL  FOUL  FOUL  FOUL
  
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 50-54 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 McConnell, Geordie        65 Unattached -             29.33   1.8    508
-  2 Muir, Robert              68 Ottawa Lions             29.90   1.8    469
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 50-54 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Muir, Robert              68 Ottawa Lions           5:01.82     792
-  2 McConnell, Geordie        65 Unattached -           6:06.55     452
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 50-54 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 McConnell, Geordie        65 Unattached -             4.08m  +0.0    384
-     4.08m(+0.0) 3.91m(+0.0) 3.58m(0.9)            
-  2 Muir, Robert              68 Ottawa Lions             3.92m  +0.0    346
-     3.92m(+0.0) 3.08m(+0.0) 3.10m(+0.0)            
- 
-Throws Pentathlon: #2 Homme Lancer du poids 6kg Master 50-54 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Gautier, Paul             64 Saint John T            13.06m     808
-      12.23m  13.06m  13.03m            
-  2 Nzambe-Busugu, Landry     67 Kilomaîtres             12.75m     786
-      12.75m  12.68m  12.40m            
- 
-Throws Pentathlon: #3 Homme Lancer du disque 1,5kg Master 50-54 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Gautier, Paul             64 Saint John T            38.73m     656
-      35.97m  38.73m  36.70m            
-  2 Nzambe-Busugu, Landry     67 Kilomaîtres             35.21m     583
-      35.21m  FOUL  34.13m            
- 
-Pentathlon int.: #4 Homme Lancer du disque 1,5kg Master 50-54 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Muir, Robert              68 Ottawa Lions            21.45m     308
-      FOUL  19.61m  21.45m            
-  2 McConnell, Geordie        65 Unattached -            18.39m     249
-      FOUL  18.39m  FOUL            
- 
-Throws Pentathlon: #1 Homme Lancer du marteau 6kg Master 50-54 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Gautier, Paul             64 Saint John T            37.97m     595
-      32.04m  37.18m  37.97m            
-  2 Nzambe-Busugu, Landry     67 Kilomaîtres             29.09m     423
-      29.09m  FOUL  24.19m            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 700g Master 50-54 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 McConnell, Geordie        65 Unattached -            33.89m     465
-  2 Muir, Robert              68 Ottawa Lions            26.81m     340
- 
-Throws Pentathlon: #4 Homme Lancer du javelot 700g Master 50-54 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Gautier, Paul             64 Saint John T            36.19m     507
-      FOUL  34.11m  36.19m            
-  2 Nzambe-Busugu, Landry     67 Kilomaîtres             34.94m     484
-      33.20m  34.94m  34.55m            
- 
-Throws Pentathlon: #5 Homme Weight Throw 11,34kg Master 50-54 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Gautier, Paul             64 Saint John T            14.77m     763
-      13.28m  14.32m  14.77m            
-  2 Nzambe-Busugu, Landry     67 Kilomaîtres             12.18m     608
-      10.88m  12.18m  11.85m            
- 
-Homme Pentathlon int. Master 50-54
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Muir, Robert              68 Ottawa Lions                       2255  
-  2 McConnell, Geordie        65 Unattached -            2400       2058  
- 
-Homme Throws Pentathlon Master 50-54
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Gautier, Paul             64 Saint John T            3300       3329  
-  2 Nzambe-Busugu, Landry     67 Kilomaîtres                        2884  
- 
 Homme 100 Metres Sprint Master 55-59
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
   1 St-Louis, Jean            63 Indépendant                       15.08  -2.3  vent: -2.3
   2 Rouillard, Luc            64 Sherbrooke             14.74      15.36  -2.3  vent : -3.3
+ -- Faucher, Serge            64 Ottawa Lions           12.45        DNS  -2.3 
+ -- Baptiste, Joseph          60 Jmac - Jamca           13.80        DNS  -2.3 
  
 Homme 200 Metres Sprint Master 55-59
 ==============================================================================
@@ -2026,6 +1401,8 @@ Homme 200 Metres Sprint Master 55-59
   2 Pinckard, Mark            60 Ocean Athlet           27.05      27.64   1.5 
   3 Baptiste, Joseph          60 Jmac - Jamca           28.80      28.30   1.5 
   4 Garratt, Rodney           63 Unattached             29.69      29.47   1.5 
+ -- Faucher, Serge            64 Ottawa Lions           25.39        DNS   1.5 
+ -- St-Louis, Jean            63 Indépendant                         DNS   1.5 
  
 Homme 400 Metres Sprint Master 55-59
 =========================================================================
@@ -2035,6 +1412,7 @@ Homme 400 Metres Sprint Master 55-59
   2 Pinckard, Mark            60 Ocean Athlet           59.46      59.70  
   3 Garratt, Rodney           63 Unattached           1:04.00    1:03.06  
   4 Zahirovich, Mooshie       64 Indépendant          1:05.00    1:08.36  
+ -- Faucher, Serge            64 Ottawa Lions           56.14        DNS  
  -- Drueckhammer, Dale        61 Unattached           1:02.95   X1:05.78  
  
 Homme 800 Metres Demi-fond Master 55-59
@@ -2045,6 +1423,7 @@ Homme 800 Metres Demi-fond Master 55-59
   2 Rosvall, Bruce            63 Fast Tracks          2:16.27    2:15.17  
   3 Garratt, Rodney           63 Unattached           2:30.00    2:27.89  
   4 Flett, Gordon             60 Roadkill Run         2:51.98    2:53.62  
+ -- Osland, Paul              64 University o         2:08.20        DNS  
  -- Drueckhammer, Dale        61 Unattached           2:28.68   X2:40.81  
  
 Homme 1500 Metres Demi-fond Master 55-59
@@ -2053,6 +1432,7 @@ Homme 1500 Metres Demi-fond Master 55-59
 =========================================================================
   1 Forner, Lino              60 Unattached           5:19.00    5:48.31  
   2 Flett, Gordon             60 Roadkill Run         5:45.84    5:57.78  
+ -- Osland, Paul              64 University o         4:27.00        DNS  
  
 Homme 5000 Metres Demi-fond Master 55-59
 =========================================================================
@@ -2060,6 +1440,8 @@ Homme 5000 Metres Demi-fond Master 55-59
 =========================================================================
   1 Desjardins, Rhéal         60 Indépendant         16:50.00   17:56.25  
   2 Roy, Alain                59 Les Vikings         19:14.07   19:01.18  
+ -- Dugas, Jean-Francois      63 Les Vainqueu                        DNS  
+ -- Fortier, Louis            63 Sherbrooke                          DNS  
  
 Homme 10000 Metres Demi-fond Master 55-59
 =========================================================================
@@ -2149,52 +1531,6 @@ Homme Lancer du javelot 700g Master 55-59
   3 Smith, Alain              61 Vainqueurs P          18.00m     12.85m  
       11.21m  FOUL  12.85m  FOUL  PASS  PASS
  
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 55-59 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Zahirovich, Mooshie       64 Indépendant              31.36   1.8    442
-  2 Bouchard, Luc             59 Indépendant              36.21   1.8    184
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 55-59 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Zahirovich, Mooshie       64 Indépendant            5:34.87     690
-  2 Bouchard, Luc             59 Indépendant            6:48.17     351
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 55-59 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Zahirovich, Mooshie       64 Indépendant              3.60m  +0.0    330
-     3.12m(+0.0) 3.41m(+0.0) 3.60m(+0.0)            
-  2 Bouchard, Luc             59 Indépendant              3.12m   0.3    220
-     FOUL(+0.0) 2.84m(+0.0) 3.12m(0.3)            
- 
-Pentathlon int.: #4 Homme Lancer du disque 1,5kg Master 55-59 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Zahirovich, Mooshie       64 Indépendant             17.98m     271
-      FOUL  13.37m  17.98m            
-  2 Bouchard, Luc             59 Indépendant             14.56m     201
-      FOUL  FOUL  14.56m            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 700g Master 55-59 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Zahirovich, Mooshie       64 Indépendant             25.40m     356
-  2 Bouchard, Luc             59 Indépendant             16.48m     189
- 
-Homme Pentathlon int. Master 55-59
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Zahirovich, Mooshie       64 Indépendant                        2089  
-  2 Bouchard, Luc             59 Indépendant              900       1145  
- 
 Homme 1500 Metres Marche Master 55-59
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
@@ -2217,6 +1553,7 @@ Homme 100 Metres Sprint Master 60-64
   3 Nadeau, Yves              58 Vainqueurs P           14.71      15.04  -2.7 
   4 Blanchet, Yvon            56 Indépendant            14.80      15.11  -2.7 
   5 Lebrun, Rémi              55 Indépendant            15.50      15.93  -2.7 
+ -- Arnfield, Spencer         59 Jmac - Jamca           14.00        DNS  -2.7 
  
 Homme 200 Metres Sprint Master 60-64
 ==============================================================================
@@ -2227,6 +1564,7 @@ Homme 200 Metres Sprint Master 60-64
   3 Blanchet, Yvon            56 Indépendant            30.05      30.70  -1.3 
   4 Mohamed, Rafeek           55 Unattached -        32:00.00      30.90  -1.3 
   5 Sandhu, Jasbir            54 Greyhounds M                      37.97  -1.3 
+ -- Lebrun, Rémi              55 Indépendant                         DNS  -1.3 
  
 Homme 400 Metres Sprint Master 60-64
 =========================================================================
@@ -2253,6 +1591,8 @@ Homme 1500 Metres Demi-fond Master 60-64
   1 Landsberger, Les          58 Athlétisme V         5:30.00    5:30.30  
   2 Walsh, Patrick            56 University o         5:55.00    6:03.95  
   3 Sandhu, Jasbir            54 Greyhounds M                    6:21.40  
+ -- Jackson, Robert           55 Unattached-N         5:00.00        DNS  
+ -- Cunliffe, Bill            59 Durham Drago         5:10.00        DNS  
  
 Homme 5000 Metres Demi-fond Master 60-64
 =========================================================================
@@ -2261,6 +1601,7 @@ Homme 5000 Metres Demi-fond Master 60-64
   1 Kagan, Ryszard            58 Unattached -        18:40.00   18:52.92  
   2 Landsberger, Les          58 Athlétisme V        20:30.00   20:00.70  
   3 Knipping, Randy           59 Unattached -        21:27.00   21:53.96  
+ -- Jackson, Robert           55 Unattached-N        18:30.00        DNS  
  
 Homme 10000 Metres Demi-fond Master 60-64
 =========================================================================
@@ -2284,12 +1625,15 @@ Homme 300 Metres Haies 30po Master 60-64
 =========================================================================
   1 Sandhu, Jasbir            54 Greyhounds M                    1:01.54  
   2 Lebrun, Rémi              55 Indépendant                     1:08.42  
+ -- Chipkar, Glenn            59 Etobicoke Tr           52.00        DNS  
  
 Homme 2000 Metres Steeplechase 30po Master 60-64
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Sandhu, Jasbir            54 Greyhounds M                    5:50.80  
+ -- Szczesiul, Fred           57 Unattached          10:13.00        DNS  
+ -- Wakelin, Keith            58 Unattached -                        DNS  
  
 Homme Saut en hauteur Master 60-64
 =========================================================================
@@ -2315,6 +1659,7 @@ Homme Saut a la perche Master 60-64
   2 Courteau, Ambroise        58 Montréal-Int           3.05m     J3.10m  
      2.95 3.10 3.30 
        XO   XO  XXX 
+ -- Boyer, Luc                57 Lanaudière-O           2.00m        DNS  
  
 Homme Saut en longueur Master 60-64
 ==============================================================================
@@ -2359,6 +1704,7 @@ Homme Lancer du disque 1kg Master 60-64
       23.30m  28.04m  FOUL  27.77m  27.30m  28.76m
   4 Boyer, Luc                57 Lanaudière-O          30.00m     28.38m  
       FOUL  27.76m  28.38m  FOUL  23.58m  22.06m
+ -- Arnfield, Spencer         59 Jmac - Jamca          30.00m        DNS  
  
 Homme Lancer du marteau 5kg Master 60-64
 =========================================================================
@@ -2395,115 +1741,6 @@ Homme Weight Throw 9,08kg Master 60-64
   3 Lebrun, Rémi              55 Indépendant                       7.38m  
       6.82m  6.79m  7.38m  7.10m  7.19m  FOUL
  
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 60-64 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Lebrun, Rémi              55 Indépendant              32.85   1.8    420
-  2 Boyer, Luc                57 Lanaudière-O             33.33   1.8    392
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 60-64 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Boyer, Luc                57 Lanaudière-O           6:41.76     459
-  2 Lebrun, Rémi              55 Indépendant            6:48.17     430
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 60-64 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Boyer, Luc                57 Lanaudière-O             3.51m   0.5    369
-     3.29m(+0.0) 3.25m(+0.0) 3.51m(0.5)            
-  2 Lebrun, Rémi              55 Indépendant              3.45m  +0.0    354
-     2.47m(+0.0) 2.99m(+0.0) 3.45m(+0.0)            
- 
-Throws Pentathlon: #2 Homme Lancer du poids 5kg Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dabrowa, Jerzy            58 Unattached -            10.08m     642
-      9.79m  FOUL  10.08m            
-  2 Dalpé, André              57 Kilomaîtres              8.03m     487
-      7.70m  7.87m  8.03m            
-  3 Lebrun, Rémi              55 Indépendant              7.39m     439
-      6.72m  7.39m  7.01m            
- 
-Throws Pentathlon: #3 Homme Lancer du disque 1kg Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dabrowa, Jerzy            58 Unattached -            30.23m     506
-      26.32m  30.23m  FOUL            
-  2 Dalpé, André              57 Kilomaîtres             24.19m     381
-      23.07m  FOUL  24.19m            
-  3 Lebrun, Rémi              55 Indépendant             22.19m     340
-      FOUL  22.19m  FOUL            
- 
-Pentathlon int.: #4 Homme Lancer du disque 1kg Master 60-64 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Lebrun, Rémi              55 Indépendant             24.78m     393
-      24.78m  21.73m  FOUL            
- -- Boyer, Luc                57 Lanaudière-O              FOUL  
-      FOUL  FOUL  FOUL            
- 
-Throws Pentathlon: #1 Homme Lancer du marteau 5kg Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dabrowa, Jerzy            58 Unattached -            21.26m     315
-      20.29m  20.43m  21.26m            
-  2 Dalpé, André              57 Kilomaîtres             19.82m     285
-      13.67m  19.82m  FOUL            
-  3 Lebrun, Rémi              55 Indépendant             14.95m     185
-      FOUL  FOUL  14.95m            
- 
-Throws Pentathlon: #4 Homme Lancer du javelot 600g Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dabrowa, Jerzy            58 Unattached -            23.50m     345
-      FOUL  23.18m  23.50m            
-  2 Dalpé, André              57 Kilomaîtres             20.41m     283
-      18.77m  20.41m  19.01m            
-  3 Lebrun, Rémi              55 Indépendant             19.07m     257
-      16.25m  19.07m  FOUL            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 600g Master 60-64 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Boyer, Luc                57 Lanaudière-O            28.87m     454
-  2 Lebrun, Rémi              55 Indépendant             22.55m     326
- 
-Throws Pentathlon: #5 Homme Weight Throw 9,08kg Master 60-64 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Dabrowa, Jerzy            58 Unattached -             9.25m     432
-      7.42m  9.07m  9.25m            
-  2 Dalpé, André              57 Kilomaîtres              7.60m     337
-      FOUL  FOUL  7.60m            
-  3 Lebrun, Rémi              55 Indépendant              5.94m     242
-      5.94m  PASS  PASS            
- 
-Homme Pentathlon int. Master 60-64
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Lebrun, Rémi              55 Indépendant                        1923  
-  2 Boyer, Luc                57 Lanaudière-O            2163       1674  
- 
-Homme Throws Pentathlon Master 60-64
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Dabrowa, Jerzy            58 Unattached -            1000       2240  
-  2 Dalpé, André              57 Kilomaîtres                        1773  
-  3 Lebrun, Rémi              55 Indépendant                        1463  
- 
 Homme 5000 Metres Marche Master 60-64
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
@@ -2515,8 +1752,8 @@ Homme 100 Metres Sprint Master 65-69
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
-  1 Bonenberg, Robert         50 Rive-Sud                          25.06  -3.1 
- -- Spleit, Oswin             53 Unattached -           16.00     X15.68  -3.1 
+  1 Spleit, Oswin             53 Unattached -           16.00      15.68  -3.1 
+  2 Bonenberg, Robert         50 Rive-Sud                          25.06  -3.1 
  
 Homme 200 Metres Sprint Master 65-69
 ==============================================================================
@@ -2525,6 +1762,8 @@ Homme 200 Metres Sprint Master 65-69
   1 Naud, André               50 Milpat Club                       32.85  -0.8 
   2 Kang, Harjinder           54 Greyhounds M           36.00      37.71  -0.8 
   3 Stoyan, Tom               50 York Univers           40.00      40.49  -0.8 
+ -- Balk, Malcolm             54 Athlétisme V           30.00        DNS  -0.8 
+ -- Pontius, Bill             50 Unattached             31.00       XDNS  -0.8 
  
 Homme 400 Metres Sprint Master 65-69
 =========================================================================
@@ -2543,6 +1782,7 @@ Homme 800 Metres Demi-fond Master 65-69
   2 Perowne, Ian              52 Club De Cour         3:03.05    3:19.58  
   3 Kang, Harjinder           54 Greyhounds M         2:59.00    3:29.99  
   4 Stoyan, Tom               50 York Univers         3:34.00    3:32.08  
+ -- Balk, Malcolm             54 Athlétisme V         2:30.00        DNS  
  
 Homme 1500 Metres Demi-fond Master 65-69
 =========================================================================
@@ -2566,6 +1806,7 @@ Homme 10000 Metres Demi-fond Master 65-69
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Naud, André               50 Milpat Club                    43:35.43  
+ -- Schlemm, Leonard          52 Unattached                          DNS  
  
 Homme 100 Metres Haies 33po Master 65-69
 ==============================================================================
@@ -2578,14 +1819,12 @@ Homme 2000 Metres Steeplechase 30po Master 65-69
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Chee, Wayne               54 University o         9:30.00    5:45.46  
+ -- Smith, Doug               51 University o        14:00.00        DNS  
  
 Homme Saut en hauteur Master 65-69
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
-  1 Griffin, Ken              51 Unattached             1.30m      1.35m  
-     1.20 1.25 1.30 1.35 1.40 
-       XO  XXO    O  XXO    X 
   2 Zowkewych, Peter          50 University o                      1.25m  
      1.00 1.05 1.10 1.15 1.20 1.25 1.30 
         O    P    O    O    O    O  XXX 
@@ -2595,6 +1834,9 @@ Homme Saut en hauteur Master 65-69
   4 Bonenberg, Robert         50 Rive-Sud                          1.10m  
      1.00 1.05 1.10 1.15 
         O    O    O  XXX 
+  1 Griffin, Ken              51 Unattached             1.30m     X1.35m  
+     1.20 1.25 1.30 1.35 1.40 
+       XO  XXO    O  XXO    X 
  
 Homme Saut a la perche Master 65-69
 =========================================================================
@@ -2639,6 +1881,7 @@ Homme Lancer du disque 1kg Master 65-69
       30.46m  26.74m  30.49m  31.71m  FOUL  29.37m
   3 Bonenberg, Robert         50 Rive-Sud                         28.49m  
       24.67m  26.17m  26.13m  28.49m  26.83m  25.62m
+ -- Szafranski, Longin        52 Unattached A                        DNS  
  -- Irving, Tom               53 Unattached            35.00m    X35.85m  
       34.57m  29.04m  34.44m  FOUL  35.85m  35.50m
  -- Daniels, Edward           52 Unattached            27.00m    X27.77m  
@@ -2654,6 +1897,7 @@ Homme Lancer du marteau 5kg Master 65-69
       23.96m  24.63m  25.05m  24.50m  25.56m  24.74m
   3 Kang, Harjinder           54 Greyhounds M          22.50m     16.94m  
       16.89m  16.54m  16.55m  16.94m  FOUL  PASS
+ -- Szafranski, Longin        52 Unattached A                        DNS  
  -- Irving, Tom               53 Unattached            30.00m    X29.75m  
       29.75m  27.74m  FOUL  25.73m  FOUL  27.94m
  -- Daniels, Edward           52 Unattached            31.00m    X29.61m  
@@ -2673,6 +1917,7 @@ Homme Lancer du javelot 600g Master 65-69
       FOUL  FOUL  24.31m  25.08m  FOUL  22.65m
   5 Bonenberg, Robert         50 Rive-Sud                         24.17m  
       16.65m  18.39m  18.81m  20.65m  21.80m  24.17m
+ -- Pearson, William          52 Throwers Clu          26.00m        DNS  
  
 Homme Weight Throw 9,08kg Master 65-69
 =========================================================================
@@ -2684,122 +1929,11 @@ Homme Weight Throw 9,08kg Master 65-69
       9.37m  9.22m  8.93m  8.94m  9.82m  9.53m
   3 Kang, Harjinder           54 Greyhounds M           8.25m      6.38m  
       FOUL  FOUL  6.13m  5.78m  6.38m  6.11m
+ -- Szafranski, Longin        52 Unattached A                        DNS  
  -- Irving, Tom               53 Unattached            12.00m    X11.49m  
       10.95m  10.88m  11.49m  FOUL  11.28m  11.40m
  -- Daniels, Edward           52 Unattached            11.00m     X9.85m  
       9.44m  9.85m  9.49m  FOUL  FOUL  FOUL
- 
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 65-69 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Zowkewych, Peter          50 University o             34.26   1.3    416
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 65-69 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
- -- Zowkewych, Peter          50 University o               DNF  
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 65-69 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Zowkewych, Peter          50 University o             3.06m   1.1    315
-     2.85m(0.1) 2.51m(0.5) 3.06m(1.1)            
- 
-Throws Pentathlon: #2 Homme Lancer du poids 5kg Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Zowkewych, Peter          50 University o            10.26m     726
-      FOUL  10.16m  10.26m            
-  2 Pearson, William          52 Throwers Clu             9.64m     674
-      9.64m  FOUL  9.14m            
-  3 Hessel, Patrick           52 Unattached A             9.39m     653
-      9.23m  9.39m  8.74m            
-  4 Kang, Harjinder           54 Greyhounds M             5.42m     329
-      5.42m  5.39m  5.27m            
- 
-Throws Pentathlon: #3 Homme Lancer du disque 1kg Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Pearson, William          52 Throwers Clu            29.03m     539
-      29.03m  28.95m  FOUL            
-  2 Hessel, Patrick           52 Unattached A            27.63m     507
-      27.52m  27.63m  16.09m            
-  3 Zowkewych, Peter          50 University o            25.84m     466
-      20.32m  22.18m  25.84m            
-  4 Kang, Harjinder           54 Greyhounds M            17.66m     282
-      15.46m  17.66m  16.09m            
- 
-Pentathlon int.: #4 Homme Lancer du disque 1kg Master 65-69 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Zowkewych, Peter          50 University o            25.74m     463
-      23.19m  24.71m  25.74m            
- 
-Throws Pentathlon: #1 Homme Lancer du marteau 5kg Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Hessel, Patrick           52 Unattached A            28.29m     536
-      FOUL  27.73m  28.29m            
-  2 Pearson, William          52 Throwers Clu            25.49m     469
-      21.80m  23.89m  25.49m            
-  3 Zowkewych, Peter          50 University o            17.85m     289
-      FOUL  17.85m  16.12m            
-  4 Kang, Harjinder           54 Greyhounds M            17.78m     287
-      17.14m  17.78m  17.34m            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 600g Master 65-69 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Zowkewych, Peter          50 University o            30.66m     557
- 
-Throws Pentathlon: #4 Homme Lancer du javelot 600g Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Zowkewych, Peter          50 University o            27.63m     488
-      FOUL  27.63m  FOUL            
-  2 Hessel, Patrick           52 Unattached A            24.26m     412
-      24.26m  23.72m  22.94m            
-  3 Pearson, William          52 Throwers Clu            22.27m     367
-      22.27m  21.33m  21.72m            
-  4 Kang, Harjinder           54 Greyhounds M            15.29m     214
-      12.91m  15.29m  12.67m            
- 
-Throws Pentathlon: #5 Homme Weight Throw 9,08kg Master 65-69 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Hessel, Patrick           52 Unattached A             9.58m     490
-      9.58m  9.38m  9.32m            
-  2 Pearson, William          52 Throwers Clu             9.24m     469
-      9.24m  8.83m  FOUL            
-  3 Zowkewych, Peter          50 University o             8.22m     405
-      FOUL  8.16m  8.22m            
-  4 Kang, Harjinder           54 Greyhounds M             6.50m     299
-      FOUL  6.40m  6.50m            
- 
-Homme Pentathlon int. Master 65-69
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Zowkewych, Peter          50 University o                       1751  
- 
-Homme Throws Pentathlon Master 65-69
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Hessel, Patrick           52 Unattached A            2622       2598  
-  2 Pearson, William          52 Throwers Clu            3000       2518  
-  3 Zowkewych, Peter          50 University o                       2374  
-  4 Kang, Harjinder           54 Greyhounds M            1975       1411  
  
 Homme 1500 Metres Marche Master 65-69
 =========================================================================
@@ -2902,7 +2036,7 @@ Homme Saut en longueur Master 70-74
   1 Blackwood, David          49 Saint John T           3.34m      3.46m  +0.0 
      3.08m(0.8) 3.21m(+0.0) 3.46m(+0.0) 3.12m(+0.0) PASS      PASS     
   2 Ulis, David               48 Greyhounds M           3.54m     J3.46m  +0.0 
-     FOUL      3.21m(+0.0) FOUL      3.46m(+0.0) 3.12m(0.9) PASS     
+     FOUL(+0.0) 3.21m(+0.0) FOUL(+0.0) 3.46m(+0.0) 3.12m(0.9) PASS     
   3 Seitz, Stan               47 Ottawa Lions           3.30m      3.33m  +0.0 
      3.19m(0.1) 3.33m(+0.0) 3.22m(+0.0) 3.33m(+0.0) FOUL      FOUL     
   4 Sandhu, Hardev Singh      49 Greyhounds M                      2.20m  +0.0 
@@ -2970,93 +2104,6 @@ Homme Weight Throw 7,26kg Master 70-74
   2 Sandhu, Hardev Singh      49 Greyhounds M                     12.24m  
       10.71m  FOUL  12.24m  FOUL  11.83m  11.89m
  
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 70-74 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Blackwood, David          49 Saint John T             33.93   1.3    530
-  2 Ulis, David               48 Greyhounds M             36.57   1.3    380
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 70-74 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Blackwood, David          49 Saint John T           7:10.28     535
-  2 Ulis, David               48 Greyhounds M           8:13.68     311
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 70-74 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Blackwood, David          49 Saint John T             3.16m  +0.0    421
-     3.16m(+0.0) 2.98m(+0.0) 2.88m(+0.0)            
-  2 Ulis, David               48 Greyhounds M             3.04m   0.5    384
-     FOUL(+0.0) 3.04m(0.5) FOUL(+0.0)            
- 
-Throws Pentathlon: #2 Homme Lancer du poids 4kg Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Ulis, David               48 Greyhounds M            10.31m     679
-      10.03m  10.15m  10.31m            
- 
-Pentathlon int.: #4 Homme Lancer du disque 1kg Master 70-74 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Ulis, David               48 Greyhounds M            31.21m     662
-      30.13m  27.92m  31.21m            
-  2 Blackwood, David          49 Saint John T            23.46m     464
-      23.46m  FOUL  23.11m            
- 
-Throws Pentathlon: #3 Homme Lancer du disque 1kg Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Ulis, David               48 Greyhounds M            30.90m     654
-      28.64m  30.90m  FOUL            
- 
-Throws Pentathlon: #1 Homme Lancer du marteau 4kg Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Ulis, David               48 Greyhounds M            35.80m     709
-      35.80m  33.36m  34.09m            
- 
-Throws Pentathlon: #4 Homme Lancer du javelot 500g Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Ulis, David               48 Greyhounds M            37.31m     778
-      29.91m  33.00m  37.31m            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 500g Master 70-74 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Ulis, David               48 Greyhounds M            39.25m     828
-  2 Blackwood, David          49 Saint John T            28.36m     554
- 
-Throws Pentathlon: #5 Homme Weight Throw 7,26kg Master 70-74 Throws Pentathlon
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Ulis, David               48 Greyhounds M            13.41m     752
-      13.41m  13.21m  13.39m            
- 
-Homme Pentathlon int. Master 70-74
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Ulis, David               48 Greyhounds M            2520       2565  
-  2 Blackwood, David          49 Saint John T            2300       2504  
- 
-Homme Throws Pentathlon Master 70-74
-=========================================================================
-    Nom                    Annee Club                    Seed    Finales 
-=========================================================================
-  1 Ulis, David               48 Greyhounds M            3800       3572  
- 
 Homme 100 Metres Sprint Master 75-79
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
@@ -3065,6 +2112,7 @@ Homme 100 Metres Sprint Master 75-79
   2 Shah, Surinder            43 Greyhounds M                      17.35  -1.3 
   3 Tams, Peter               40 Unattached -           18.00      17.42  -1.3 
   4 McNally, Michael          42 Indépendant         11:30.30      18.57  -1.3 
+ -- Sekhon, Pritam            43 Unattached -           29.00        DNS  -1.3 
  
 Homme 200 Metres Sprint Master 75-79
 ==============================================================================
@@ -3072,6 +2120,7 @@ Homme 200 Metres Sprint Master 75-79
 ==============================================================================
   1 Morris, Mike              40 Unattached -           33.50      33.74  +0.0 
   2 Shah, Surinder            43 Greyhounds M                      35.51  +0.0 
+ -- Sekhon, Pritam            43 Unattached -           40.00        DNS  +0.0 
  
 Homme 400 Metres Sprint Master 75-79
 =========================================================================
@@ -3079,6 +2128,7 @@ Homme 400 Metres Sprint Master 75-79
 =========================================================================
   1 Mackie, Chris             40 Unattached -         1:25.00    1:22.16  
   2 Shah, Surinder            43 Greyhounds M                    1:23.19  
+ -- Sekhon, Pritam            43 Unattached -         2:00.00        DNS  
  
 Homme 800 Metres Demi-fond Master 75-79
 =========================================================================
@@ -3092,12 +2142,20 @@ Homme 1500 Metres Demi-fond Master 75-79
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Mackie, Chris             40 Unattached -         6:12.00    6:23.19  
+ -- Robichaud, Roland         44 Les Vainqueu        10:36.00        DNS  
+ -- Sekhon, Pritam            43 Unattached -        10:00.00        DNS  
  
 Homme 75-79 5000 Metres Demi-fond Master 75-79
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Sekhon, Pritam            43 Unattached -                   49:30.89  
+ 
+Homme 10000 Metres Demi-fond Master 75-79
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Sekhon, Pritam            43 Unattached -        20:00.00        DNS  
  
 Homme 80 Metres Haies 30po Master 75-79
 ==============================================================================
@@ -3143,6 +2201,7 @@ Homme Triple Saut Master 75-79
 ==============================================================================
   1 Shah, Surinder            43 Greyhounds M                      5.66m   0.8 
      5.43m(1.5) 5.66m(0.8) PASS      PASS      PASS      PASS     
+ -- Sekhon, Pritam            43 Unattached -           5.00m        DNS   NWI 
  
 Homme Lancer du poids 4kg Master 75-79
 =========================================================================
@@ -3167,6 +2226,7 @@ Homme Lancer du disque 1kg Master 75-79
       21.93m  21.26m  21.52m  23.08m  22.40m  22.82m
   3 Tams, Peter               40 Unattached -          19.00m     20.29m  
       19.27m  FOUL  FOUL  FOUL  20.29m  17.28m
+ -- Sekhon, Pritam            43 Unattached -          10.00m        DNS  
  
 Homme Lancer du marteau 4kg Master 75-79
 =========================================================================
@@ -3176,6 +2236,7 @@ Homme Lancer du marteau 4kg Master 75-79
       19.69m  21.54m  22.01m  21.60m  19.43m  21.47m
   2 Shah, Surinder            43 Greyhounds M                     16.70m  
       14.07m  16.70m  13.40m  14.04m  PASS  PASS
+ -- Sekhon, Pritam            43 Unattached -          20.00m        DNS  
  
 Homme Lancer du javelot 500g Master 75-79
 =========================================================================
@@ -3204,12 +2265,15 @@ Homme 1500 Metres Marche Master 75-79
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Robichaud, Roland         44 Les Vainqueu                    9:53.83  
+ -- Sekhon, Pritam            43 Unattached -        15:00.00        DNS  
+ -- Jobin, Marcel             42 Les Vainqueu         9:23.00        DNS  
  
 Homme 5000 Metres Marche Master 75-79
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Robichaud, Roland         44 Les Vainqueu        35:00.00   34:02.0h  
+ -- Sekhon, Pritam            43 Unattached -        50:00.00        DNS  
  
 Homme 100 Metres Sprint Master 80-84
 ==============================================================================
@@ -3222,21 +2286,18 @@ Homme 200 Metres Sprint Master 80-84
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
   1 Van Der Wal, Hylke        38 Saskatchewan           50.22      49.65  +0.0 
- -- Mey, Karl                 36 Greyhounds M           37.50     X37.57  +0.0 
  
 Homme 400 Metres Sprint Master 80-84
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Van Der Wal, Hylke        38 Saskatchewan         1:55.13    2:39.19  
- -- Mey, Karl                 36 Greyhounds M                   X1:25.70  
  
 Homme 800 Metres Demi-fond Master 80-84
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Van Der Wal, Hylke        38 Saskatchewan         4:29.00    6:26.66  
- -- Mey, Karl                 36 Greyhounds M                   X3:36.30  
  
 Homme 1500 Metres Demi-fond Master 80-84
 =========================================================================
@@ -3250,6 +2311,7 @@ Homme 5000 Metres Demi-fond Master 80-84
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Taivassalo, Keijo         39 University o        24:50.00   25:06.53  
+ -- Geddes, Jack              37 Unattached -        30:00.00        DNS  
  
 Homme 10000 Metres Demi-fond Master 80-84
 =========================================================================
@@ -3262,14 +2324,13 @@ Homme 80 Metres Haies 27po Master 80-84
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
   1 Van Der Wal, Hylke        38 Saskatchewan        21:00.00      38.24   0.6 
- -- Mey, Karl                 36 Greyhounds M                     X21.15   0.6 
+ -- Armstrong, Mervyn         39 Unattached A                        DNS   0.6 
  
 Homme 200 Metres Haies 27po Master 80-84
 ==============================================================================
     Nom                    Annee Club                    Seed    Finales  Vent
 ==============================================================================
   1 Van Der Wal, Hylke        38 Saskatchewan        51:00.00    1:26.72  +0.0 
- -- Mey, Karl                 36 Greyhounds M                     X40.88  +0.0 
  
 Homme 2000 Metres Steeplechase 30po Master 80-84
 =========================================================================
@@ -3293,8 +2354,6 @@ Homme Saut en longueur Master 80-84
      2.91m(+0.0) 3.04m(+0.0) FOUL      FOUL      3.22m(-0.3) 3.27m(+0.0)
   2 Van Der Wal, Hylke        38 Saskatchewan           2.89m      1.87m  +0.0 
      FOUL      1.87m(+0.0) PASS      PASS      PASS      PASS     
- -- Mey, Karl                 36 Greyhounds M                     X2.90m  +0.0 
-     2.84m(-0.1) 2.90m(+0.0) FOUL(0.4) 2.85m(1.5) 2.76m(+0.0) 2.87m(+0.0)
  
 Homme Triple Saut Master 80-84
 ==============================================================================
@@ -3309,8 +2368,6 @@ Homme Lancer du poids 3kg Master 80-84
 =========================================================================
   1 Van Der Wal, Hylke        38 Saskatchewan           7.87m      6.10m  
       PASS  PASS  6.07m  6.10m  PASS  5.78m
- -- Mey, Karl                 36 Greyhounds M                     X7.39m  
-      7.39m  7.09m  6.65m  7.39m  7.03m  6.92m
  
 Homme Lancer du disque 1kg Master 80-84
 =========================================================================
@@ -3320,8 +2377,6 @@ Homme Lancer du disque 1kg Master 80-84
       23.02m  24.73m  FOUL  FOUL  PASS  PASS
   2 Van Der Wal, Hylke        38 Saskatchewan          14.78m     12.93m  
       12.93m  PASS  PASS  PASS  11.58m  FOUL
- -- Mey, Karl                 36 Greyhounds M                    X15.19m  
-      15.19m  13.00m  FOUL  15.03m  FOUL  13.62m
  
 Homme Lancer du marteau 3kg Master 80-84
 =========================================================================
@@ -3336,8 +2391,6 @@ Homme Lancer du javelot 400g Master 80-84
 =========================================================================
   1 Armstrong, Mervyn         39 Unattached A                     24.60m  
       24.60m  PASS  PASS  PASS  PASS  PASS
- -- Mey, Karl                 36 Greyhounds M                    X15.99m  
-      14.57m  15.66m  15.99m  14.02m  14.74m  FOUL
  
 Homme Weight Throw 5,45kg Master 80-84
 =========================================================================
@@ -3346,43 +2399,89 @@ Homme Weight Throw 5,45kg Master 80-84
   1 Muller, Emil              35 Throwers Clu          12.50m     11.55m  
       10.52m  11.55m  FOUL  PASS  FOUL  PASS
  
-Pentathlon int.: #3 Homme 200 Metres Sprint Master 80-84 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Van Der Wal, Hylke        38 Saskatchewan             48.56   0.6    126
- 
-Pentathlon int.: #5 Homme 1500 Metres Demi-fond Master 80-84 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Van Der Wal, Hylke        38 Saskatchewan          13:49.79  
- 
-Pentathlon int.: #1 Homme Saut en longueur Master 80-84 Pentathlon int.
-============================================================================
-    Nom                    Annee Club                   Finales  Vent Points
-============================================================================
-  1 Van Der Wal, Hylke        38 Saskatchewan             1.98m  +0.0    195
-     1.98m(+0.0)                  
- 
-Pentathlon int.: #4 Homme Lancer du disque 1kg Master 80-84 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Van Der Wal, Hylke        38 Saskatchewan            13.16m     303
-      13.16m  PASS  PASS            
- 
-Pentathlon int.: #2 Homme Lancer du javelot 400g Master 80-84 Pentathlon int.
-=======================================================================
-    Nom                    Annee Club                   Finales  Points
-=======================================================================
-  1 Van Der Wal, Hylke        38 Saskatchewan             9.52m     161
- 
-Homme Pentathlon int. Master 80-84
+Homme Lancer du javelot 400g Master 85-89
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
-  1 Van Der Wal, Hylke        38 Saskatchewan                        785  
+ -- Staveley, Bob             34 Ottawa Lions          18.51m        DNS  
+ 
+Homme 200 Metres Sprint Master 90-94
+==============================================================================
+    Nom                    Annee Club                    Seed    Finales  Vent
+==============================================================================
+ -- Fee, Earl                 29 Unattached -           38.50        DNS   NWI 
+ 
+Homme 400 Metres Sprint Master 90-94
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Fee, Earl                 29 Unattached -         1:29.50        DNS  
+ 
+Homme 800 Metres Demi-fond Master 90-94
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Fee, Earl                 29 Unattached -         3:38.50        DNS  
+ 
+Homme 200 Metres Haies 27po Master 90-94
+==============================================================================
+    Nom                    Annee Club                    Seed    Finales  Vent
+==============================================================================
+ -- Fee, Earl                 29 Unattached -           51.50        DNS   NWI 
+ 
+Homme Saut en hauteur Master 90-94
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Fee, Earl                 29 Unattached -           1.02m        DNS  
+ 
+Homme Lancer du javelot 400g Master 90-94
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Fee, Earl                 29 Unattached -          20.00m        DNS  
+ 
+Homme 100 Metres Sprint Master 95-99
+==============================================================================
+    Nom                    Annee Club                    Seed    Finales  Vent
+==============================================================================
+ -- Sekhon, Atter Singh       23 Unattached -                        DNS   NWI 
+ 
+Homme 200 Metres Sprint Master 95-99
+==============================================================================
+    Nom                    Annee Club                    Seed    Finales  Vent
+==============================================================================
+ -- Sekhon, Atter Singh       23 Unattached -                        DNS   NWI 
+ 
+Homme Lancer du poids 3kg Master 95-99
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Sekhon, Atter Singh       23 Unattached -                        DNS  
+ 
+Homme Lancer du disque 1kg Master 95-99
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Sekhon, Atter Singh       23 Unattached -                        DNS  
+ 
+Homme Lancer du marteau 3kg Master 95-99
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Sekhon, Atter Singh       23 Unattached -                        DNS  
+ 
+Homme Lancer du javelot 400g Master 95-99
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Sekhon, Atter Singh       23 Unattached -                        DNS  
+ 
+Homme Weight Throw 5,45kg Master 95-99
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Sekhon, Atter Singh       23 Unattached -                        DNS  
  
             Combined Team Scores - Benjamin - 2 Pointage par epreuve
 ===============================================================================
@@ -3510,6 +2609,4 @@ Homme Pentathlon int. Master 80-84
     3) Throwers Club               14        4) GREYHOUNDS MASTERS TRACK    7   
     5) Unattached - Ontario         6                                           
 
-
 ```
-

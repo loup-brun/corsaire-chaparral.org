@@ -3,12 +3,14 @@ title: "POINTAGE Championnats canadiens des vétérans - SCORES Canadian Masters
 date: 2019-07-05
 ---
 
+[Scores PDF](https://assets.corsaire-chaparral.org/competitions/2019/cma-champs/scores-champ-can-masters-2019.pdf)
+
 [Résultats / Results](/resultats/2019/championnats-can-masters/)
 
 ```
 
 Licensed to Club D'Athletisme Corsaire - Chaparal
-                                                 HY-TEK's Meet Manager 7/8/2019
+                                                HY-TEK's Meet Manager 7/11/2019
 Championnats québécois junior-senior-para, pentathlon benjamin-cadet, CMA - 7/5
   Canadian Masters Championships, Quebec Junior-Senior-Para & U14/U16 Pentath  
                       Stade d'athlétisme Richard-Garneau                       

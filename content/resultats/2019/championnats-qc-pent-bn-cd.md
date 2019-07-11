@@ -5,7 +5,6 @@ date: 2019-07-06
 
 ```
 
-
 Licensed to Club D'Athletisme Corsaire - Chaparal         HY-TEK's Meet Manager
 Championnats québécois junior-senior-para, pentathlon benjamin-cadet, CMA - 7/5
   Canadian Masters Championships, Quebec Junior-Senior-Para & U14/U16 Pentath  
@@ -26,6 +25,7 @@ Finales
   7 Fagnan, Mathilde          06 Rive-Sud               3:02.41     343
   8 Duguay, Marianne          06 Corsaire-Cha           3:04.11     328
   9 Akrich, Lea-Catherine     06 Corsaire-Cha           3:20.17     201
+ -- Mailhot, Camille          06 Corsaire-Cha               DNS  
  
 Pentathlon int.: #1 Femme 80 Metres Haies 30po Benjamin Pentathlon int.
 ===============================================================================
@@ -295,6 +295,7 @@ Pentathlon int.: #5 Homme 1000 Metres Demi-fond Benjamin Pentathlon int.
   8 Caza-Aubin, Étienne       07 Lanaudière-O           4:06.41     164
   9 Vermette, Clovis          07 Adrénaline             4:07.23     160
  10 Pelletier, Jérôme         06 Corsaire-Cha           4:14.41     126
+ -- Tatar, Alexander Patrick  07 Saint-Jean O               DNS  
  
 Pentathlon int.: #1 Homme 80 Metres Haies 30po Benjamin Pentathlon int.
 ===============================================================================
@@ -311,6 +312,7 @@ Pentathlon int.: #1 Homme 80 Metres Haies 30po Benjamin Pentathlon int.
   9 Pépin, Thierry            07 Corsaire-Cha             17.80   1.3  2      4
  10 Aubin, Zack               06 Corsaire-Cha             17.87   0.3  1      3
  11 Caza-Aubin, Étienne       07 Lanaudière-O             19.48   1.3  2 
+ -- Brikci-Tani, Mehdi        07 A.T.P Athlét               DNS   1.3  2 
  
 Pentathlon int.: #4 Homme Saut en hauteur Benjamin Pentathlon int.
 =======================================================================
@@ -349,6 +351,7 @@ Pentathlon int.: #4 Homme Saut en hauteur Benjamin Pentathlon int.
  11 Aubin, Zack               06 Corsaire-Cha             1.06m     111
      1.00 1.03 1.06 1.09 
        XO    O   XO  XXX 
+ -- Brikci-Tani, Mehdi        07 A.T.P Athlét               DNS  
  
 Pentathlon int.: #2 Homme Saut en longueur Benjamin Pentathlon int.
 ============================================================================
@@ -376,6 +379,7 @@ Pentathlon int.: #2 Homme Saut en longueur Benjamin Pentathlon int.
      3.12m(1.6) 3.00m(+0.0) 2.94m(-0.8)            
  11 Vermette, Clovis          07 Adrénaline               2.94m  +0.0     59
      2.94m(+0.0) FOUL(-1.1) 2.67m(-1.9)            
+ -- Brikci-Tani, Mehdi        07 A.T.P Athlét               DNS   NWI 
  
 Pentathlon int.: #3 Homme Lancer du poids 3kg Benjamin Pentathlon int.
 =======================================================================
@@ -403,6 +407,7 @@ Pentathlon int.: #3 Homme Lancer du poids 3kg Benjamin Pentathlon int.
       5.08m  3.91m  5.24m            
  11 Caza-Aubin, Étienne       07 Lanaudière-O             4.75m     177
       4.51m  4.75m  FOUL            
+ -- Brikci-Tani, Mehdi        07 A.T.P Athlét               DNS  
  
 Homme Pentathlon int. Benjamin
 =========================================================================
@@ -431,6 +436,7 @@ Pentathlon int.: #5 Homme 1000 Metres Sprint Cadet Pentathlon int.
   6 Portugais, Émile          05 Corsaire-Cha           3:27.24     422
   7 Berard, Marc-Olivier      05 Sherbrooke             3:39.19     332
   8 Ouellette, Maxime         05 Dynamique De           4:33.79      52
+ -- Brodeur, Vincent          05 Filoup                     DNS  
  
 Pentathlon int.: #1 Homme 100 Metres Haies 33po Cadet Pentathlon int.
 ===============================================================================
@@ -444,6 +450,8 @@ Pentathlon int.: #1 Homme 100 Metres Haies 33po Cadet Pentathlon int.
   6 Tardif, Nicolas           05 Baie-Comeau              20.33  -1.0  1    210
   7 Berard, Marc-Olivier      05 Sherbrooke               21.43  -1.0  1    142
   8 Ouellette, Maxime         05 Dynamique De             22.49   0.6  2     87
+ -- Bédard, Zachary           05 C. A. De Qué               DNS  -1.0  1 
+ -- Brodeur, Vincent          05 Filoup                     DNS  -1.0  1 
  
 Pentathlon int.: #4 Homme Saut en hauteur Cadet Pentathlon int.
 =======================================================================
@@ -473,6 +481,8 @@ Pentathlon int.: #4 Homme Saut en hauteur Cadet Pentathlon int.
   6 Portugais, Émile          05 Corsaire-Cha             1.36m     290
      1.30 1.33 1.36 1.39 
        XO  XXO  XXO  XXX 
+ -- Bédard, Zachary           05 C. A. De Qué               DNS  
+ -- Brodeur, Vincent          05 Filoup                     DNS  
  
 Pentathlon int.: #2 Homme Saut en longueur Cadet Pentathlon int.
 ============================================================================
@@ -494,6 +504,8 @@ Pentathlon int.: #2 Homme Saut en longueur Cadet Pentathlon int.
      FOUL(-1.6) 3.54m(-0.8) 3.66m(+0.0)            
   8 Ouellette, Maxime         05 Dynamique De             3.37m  -1.6    112
      2.92m(-1.1) 3.37m(-1.6) 3.09m(+0.0)            
+ -- Brodeur, Vincent          05 Filoup                     DNS   NWI 
+ -- Bédard, Zachary           05 C. A. De Qué               DNS   NWI 
  
 Pentathlon int.: #3 Homme Lancer du poids 4kg Cadet Pentathlon int.
 =======================================================================
@@ -515,6 +527,8 @@ Pentathlon int.: #3 Homme Lancer du poids 4kg Cadet Pentathlon int.
       6.40m  6.03m  6.47m            
   8 Simard, Thomas            05 C. A. Univer             6.12m     256
       5.90m  6.01m  6.12m            
+ -- Bédard, Zachary           05 C. A. De Qué               DNS  
+ -- Brodeur, Vincent          05 Filoup                     DNS  
  
 Homme Pentathlon int. Cadet
 =========================================================================
@@ -528,6 +542,132 @@ Homme Pentathlon int. Cadet
   6 Berard, Marc-Olivier      05 Sherbrooke              1755       1473  
   7 Portugais, Émile          05 Corsaire-Cha                       1426  
   8 Ouellette, Maxime         05 Dynamique De             901        817  
+ 
+            Combined Team Scores - Benjamin - 2 Pointage par epreuve
+===============================================================================
+    1) Dynamique De Laval          18        2) Corsaire-Chaparral         12   
+    3) Adrénaline                   8        4) Lanaudière-Olympique        6   
+    5) A.t.p Athlétisme             5        6) C. A. Université Laval      4   
+    7) Rive-Sud                     3                                           
+ 
+             Combined Team Scores - Cadet - 2 Pointage par epreuve
+===============================================================================
+    1) C. A. Université Laval       9        2) Adrénaline                  8   
+    3) Vainqueurs Plus              7        3) Drummondville               7   
+    5) Filoup                       6        5) Dynamique De Laval          6   
+    7) Gatineau                     5        8) Baie-Comeau                 4   
+    9) Sherbrooke                   2       10) Corsaire-Chaparral          1   
+   10) C. A. De Québec              1                                           
+ 
+         Combined Team Scores - Master 30-34 - 12 Pointage par epreuve
+===============================================================================
+    1) C. A. Université Laval      21        2) Les Vainqueurs             14   
+    3) Sherbrooke                   7        4) The Gazelles                6   
+ 
+         Combined Team Scores - Master 35-39 - 33 Pointage par epreuve
+===============================================================================
+    1) JMAC - JAMCAN Internationa  28        2) Les Vainqueurs             26   
+    3) West Island T. C.           19        4) Variety Village Athletic   18   
+    5) Lanaudière-Olympique        17        6) UNATTACHED-SASKATCHEWAN    14   
+    6) Rive-Sud                    14        6) Saint-Laurent Sélect       14   
+    6) C. A. De Québec             14        6) A.t.p Athlétisme           14   
+   11) Montréal-International      13       12) Zénix De La Mauricie        7   
+   12) Unattached - Ontario         7       14) Sherbrooke                  6   
+   14) University of Toronto T.C.   6       16) Halifast Athletics          5   
+ 
+         Combined Team Scores - Master 40-44 - 20 Pointage par epreuve
+===============================================================================
+    1) JMAC - JAMCAN Internationa  27        2) Indépendant                25   
+    3) Sherbrooke                  23        4) Pélicans De Rosemont       20   
+    5) Les Vainqueurs              14        5) Unattached - Ontario       14   
+    5) Corsaire-Chaparral          14        5) Dynamique De Laval         14   
+    9) The Gazelles                13       10) Club De Coureurs Boréal    11   
+   11) Saint-Laurent Sélect        10       12) Saint-Jean Olympique        7   
+   12) Brockville Legion Track Cl   7       12) Lanaudière-Olympique        7   
+   15) UNATTACHED-NEW BRUNSWICK     6                                           
+ 
+         Combined Team Scores - Master 45-49 - 30 Pointage par epreuve
+===============================================================================
+    1) Lachine                     43        2) Indépendant                40   
+    3) Ottawa Lions                31        4) University of Toronto T.C  28   
+    5) Saint-Jean Olympique        27        6) JMAC - JAMCAN Internation  23   
+    7) ATHLETICS YUKON             18        8) Etobicoke Track & Field C  14   
+    8) Milpat Club Mauricie        14        8) West Island T. C.          14   
+    8) Saint-Laurent Sélect        14       12) Unattached - Ontario       13   
+   13) C. A. Université Laval      11       14) UNATTACHED NEWFOUNDLAND A   8   
+   15) C. A. De Québec              7       15) Coureur Nordique            7   
+   15) Vainqueurs Plus              7       18) SAINT JOHN TRACK & FIELD    6   
+   19) Enduromax                    5       20) Lanaudière-Olympique        4   
+ 
+         Combined Team Scores - Master 50-54 - 32 Pointage par epreuve
+===============================================================================
+    1) SAINT JOHN TRACK & FIELD    57        2) Saint-Laurent Sélect       39   
+    3) Les Vainqueurs              38        4) JMAC - JAMCAN Internation  37   
+    5) University of Toronto T.C.  32        6) Unattached - Ontario       31   
+    7) Variety Village Athletic C  30        8) Indépendant                24   
+    8) Newmarket Huskies Track Cl  24       10) Kilomaîtres De Lasalle     23   
+   11) Enduromax                   17       12) Perfmax-Racing             15   
+   13) Corsaire-Chaparral          14       13) Ottawa Lions               14   
+   15) LIIT                        13       15) Coureur Nordique           13   
+   17) Cirrus Gatineau             12       17) Winnipeg Optimist Athleti  12   
+   19) Kingston Track & Field Clu  10       19) Throwers Club              10   
+   21) Vainqueurs Plus              8       22) Fleur De Lys                7   
+   22) Saint-Jean Olympique         7       24) Etobicoke Track & Field C   5   
+ 
+         Combined Team Scores - Master 55-59 - 35 Pointage par epreuve
+===============================================================================
+    1) Indépendant                 64        2) UNATTACHED-NEW BRUNSWICK   42   
+    3) Les Vainqueurs              40        4) Vainqueurs Plus            38   
+    5) Unattached - Ontario        26        6) Roadkill Running Club      22   
+    7) FAST TRACKS                 20        8) OCEAN ATHLETICS TRACK & F  19   
+    8) Kalenjins                   19       10) Drummondville              18   
+   11) University of Toronto T.C.  14       12) Ottawa Lions               13   
+   12) Sherbrooke                  13       14) Throwers Club              12   
+   15) Ontario Racewalkers Associ  11       16) Lanaudière-Olympique        7   
+   17) Les Vikings Club De Course   6       18) JMAC - JAMCAN Internation   5   
+ 
+         Combined Team Scores - Master 60-64 - 38 Pointage par epreuve
+===============================================================================
+    1) Unattached - Ontario        86        2) Indépendant                53   
+    3) Throwers Club               47        4) GREYHOUNDS MASTERS TRACK   41   
+    5) Ottawa Lions                40        5) Lanaudière-Olympique       40   
+    7) University of Toronto T.C.  35        8) UNATTACHED NOVA SCOTIA     33   
+    9) Kilomaîtres De Lasalle      32       10) Les Vainqueurs             26   
+   11) Montréal-International      20       12) Vainqueurs Plus            17   
+   13) The Gazelles                14       14) Athlétisme Ville-Marie     13   
+   15) Etobicoke Track & Field Cl   7       15) Zénix De La Mauricie        7   
+   15) Unattached - British Colum   7       15) UNATTACHED-NEW BRUNSWICK    7   
+   19) Les Godasses Du Nord         6                                           
+ 
+         Combined Team Scores - Master 65-69 - 38 Pointage par epreuve
+===============================================================================
+    1) GREYHOUNDS MASTERS TRACK &  65        2) Throwers Club              58   
+    3) University of Toronto T.C.  46        4) Milpat Club Mauricie       35   
+    5) Rive-Sud                    33        6) Ontario Racewalkers Assoc  26   
+    7) Variety Village Athletic C  21        8) Les Vainqueurs             18   
+    9) Club De Coureurs Boréal     17       10) York University Track & F  14   
+   11) EDMONTON RACEWALK CLUB      13       12) SISU Throws Club            7   
+   13) Athlétisme Ville-Marie       6       14) Vainqueurs Plus             5   
+ 
+         Combined Team Scores - Master 70-74 - 31 Pointage par epreuve
+===============================================================================
+    1) GREYHOUNDS MASTERS TRACK & 181        2) Unattached - British Colu  42   
+    3) SAINT JOHN TRACK & FIELD    40        4) Indépendant                33   
+    5) JMAC - JAMCAN Internationa  28        6) Ottawa Lions               19   
+    7) Unattached - Ontario        14        8) Saint-Jean Olympique       12   
+    9) Brockville Legion Track Cl   5                                           
+ 
+         Combined Team Scores - Master 75-79 - 21 Pointage par epreuve
+===============================================================================
+    1) Unattached - Ontario       102        2) GREYHOUNDS MASTERS TRACK   98   
+    3) Les Vainqueurs              14        3) Throwers Club              14   
+    5) Indépendant                  4                                           
+ 
+         Combined Team Scores - Master 80-84 - 19 Pointage par epreuve
+===============================================================================
+    1) Saskatchewan                68        2) University of Toronto T.C  21   
+    3) Throwers Club               14        4) GREYHOUNDS MASTERS TRACK    7   
+    5) Unattached - Ontario         6                                           
 
 ```
 

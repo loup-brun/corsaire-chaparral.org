@@ -27,6 +27,8 @@ Preliminaries
   7 Dostie, Marie-Jeanne      01 Sherbrooke             12.95      12.83q  3.3  2 
   8 Caissy, Élisabeth         02 C. A. Univer           13.06      13.26q  3.3  2 
   9 Renaud, Janie             00 Corsaire-Cha           14.13      14.08   2.1  1 
+ -- Dion, Kassandra           00 Lavironde              12.87        DNS   2.1  1 
+ -- Ford-Scantlebury, Adrian  01 Saint-Lauren                        DNS   2.1  1 
  
 Femme 100 Metres Sprint Junior
 ==============================================================================
@@ -40,9 +42,11 @@ Finales
   5 Tejiofo, Fiola            02 C. A. Univer           12.62      12.89   1.4 
   6 Attoungbré, Jessica-Flor  01 Force Track            12.95      12.95   1.4 
   7 Caissy, Élisabeth         02 C. A. Univer           13.26      13.53   1.4 
+ -- Dostie, Marie-Jeanne      01 Sherbrooke             12.83        DNS   1.4 
 Preliminaries
-  7 Dostie, Marie-Jeanne      01 Sherbrooke             12.83                  
   9 Renaud, Janie             00 Corsaire-Cha           14.08                  
+ -- Dion, Kassandra           00 Lavironde               DNS                   
+ -- Ford-Scantlebury, Adrian  01 Saint-Lauren            DNS                   
  
 Femme 200 Metres Sprint Junior
 =================================================================================
@@ -61,6 +65,7 @@ Femme 200 Metres Sprint Junior
  10 Ford-Scantlebury, Adrian  01 Saint-Lauren                      28.64   2.5  2 
  11 Renaud, Janie             00 Corsaire-Cha           29.41      28.78   1.8  1 
  12 Pelletier, Alexa          01 Vaudreuil-Do           29.15      29.62   1.8  1 
+ -- McNeal-Cruickshank, N'Ya  01 Saint-Lauren           25.71        DNS   2.5  2 
  
 Femme 200 Metres Sprint Junior
 ==============================================================================
@@ -74,12 +79,13 @@ Finales
   5 Lanctôt, Laurence         00 Perfmax-Raci           27.13      27.13   2.1 
   6 Tejiofo, Fiola            02 C. A. Univer           27.05      27.23   2.1 
   7 Custeau, Jade             01 Zénix De La            26.99      27.81   2.1 
+ -- Dulude Bellavance, Sarah  01 Club Citius            25.41        DNS   2.1 
 Preliminaries
-  3 Dulude Bellavance, Sarah  01 Club Citius            25.41                  
   9 Attoungbré, Jessica-Flor  01 Force Track            27.24                  
  10 Ford-Scantlebury, Adrian  01 Saint-Lauren           28.64                  
  11 Renaud, Janie             00 Corsaire-Cha           28.78                  
  12 Pelletier, Alexa          01 Vaudreuil-Do           29.62                  
+ -- McNeal-Cruickshank, N'Ya  01 Saint-Lauren            DNS                   
  
 Femme 400 Metres Sprint Junior
 ============================================================================
@@ -94,6 +100,9 @@ Top 8 Advance by Time
   6 Martineau, Éliane         01 Cirrus Gatin         1:03.45    1:04.18q  2 
   7 Aubé, Judy-Ann            02 Lavironde            1:03.32    1:05.38q  1 
   8 Dufresne, Aurélie         01 Filoup               1:05.28    1:05.91q  2 
+ -- Dulude Bellavance, Sarah  01 Club Citius                         DNS   1 
+ -- Marenger, Florence        01 Corsaire-Cha         1:02.20        DNS   1 
+ -- Sénécal, Gabrielle        01 Rive-Sud             1:13.49        DNS   1 
  
 Femme 400 Metres Sprint Junior
 =========================================================================
@@ -105,10 +114,13 @@ Finales
   3 Custeau, Jade             01 Zénix De La            59.79    1:00.56  
   4 Lanctôt, Laurence         00 Perfmax-Raci           59.88    1:01.08  
   5 Martineau, Éliane         01 Cirrus Gatin         1:04.18    1:02.67  
+ -- Hébert, Élodie            01 Sherbrooke           1:01.23        DNS  
+ -- Dufresne, Aurélie         01 Filoup               1:05.91        DNS  
+ -- Aubé, Judy-Ann            02 Lavironde            1:05.38        DNS  
 Preliminaries
-  5 Hébert, Élodie            01 Sherbrooke           1:01.23             
-  7 Aubé, Judy-Ann            02 Lavironde            1:05.38             
-  8 Dufresne, Aurélie         01 Filoup               1:05.91             
+ -- Dulude Bellavance, Sarah  01 Club Citius             DNS              
+ -- Sénécal, Gabrielle        01 Rive-Sud                DNS              
+ -- Marenger, Florence        01 Corsaire-Cha            DNS              
  
 Femme 800 Metres Demi-fond Junior
 =========================================================================
@@ -137,6 +149,7 @@ Femme 1500 Metres Demi-fond Junior
   3 Looper, Alison            01 Athlétisme V         5:10.06    5:25.52  
   4 Rieu, Romie               01 Spartiates C         5:28.99    5:38.46  
   5 Rieu, Janne               01 Spartiates C         5:28.67    5:46.13  
+ -- Côté, Anaïs               03 Jakours              4:43.94        DNS  
  
 Femme 3000 Metres Demi-fond Junior
 =========================================================================
@@ -152,6 +165,7 @@ Top 8 Advance by Time
 Preliminaries
   1 Phan, Adriana             01 Rive-Sud               14.64      15.22q -0.2 
   2 Dion, Kassandra           00 Lavironde                         17.76q -0.2 
+ -- Royce, Chloé              01 Dynamique De           14.20        DNS  -0.2 
  
 Femme 100 Metres Haies 33po Junior
 ==============================================================================
@@ -160,11 +174,14 @@ Femme 100 Metres Haies 33po Junior
 Finales
   1 Phan, Adriana             01 Rive-Sud               15.22      14.83   0.5 
   2 Dion, Kassandra           00 Lavironde              17.76      17.56   0.5 
+Preliminaries
+ -- Royce, Chloé              01 Dynamique De            DNS                   
  
 Femme 400 Metres Haies 30po Junior
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
+Finales
   1 Leclair, Marie-Éloïse     02 Rive-Sud             1:04.51    1:03.54  
   2 Deslandes, Myriam         03 Rive-Sud             1:06.43    1:07.22  
   3 Courteau, Laurie          03 Saint-Lauren         1:06.55    1:08.07  
@@ -185,6 +202,7 @@ Femme Saut en hauteur Junior
   3 Boisvert, Laurie          03 Adrénaline             1.65m      1.50m  
      1.45 1.50 1.55 
         O    O  XXX 
+ -- Ranger, Marguerite        02 Vainqueurs P                        DNS  
  
 Femme Saut a la perche Junior
 =========================================================================
@@ -238,6 +256,7 @@ Femme Saut en longueur Junior
      3.78m(-0.7) FOUL(+0.0) 3.67m(-1.2) PASS      PASS      PASS     
  -- Rouleau, Chloé            01 Sherbrooke             5.19m       FOUL       
      FOUL(-1.2) FOUL(-0.4) FOUL(+0.0) PASS      PASS      PASS     
+ -- Royce, Chloé              01 Dynamique De           5.68m        DNS   NWI 
  
 Femme Triple Saut Junior
 ==============================================================================
@@ -325,6 +344,7 @@ Preliminaries
  12 Dort, Yasmine             97 Force Track            13.53      13.41   1.5  2 
  13 Lavigne, Stéphanie        88 Perfmax-Raci                      13.64   2.0  1 
  14 Haji, Sulav               98 Saint-Lauren           14.44      14.69   1.5  2 
+ -- Dubé, Élisabeth           95 Saint-Lauren           13.42        DNS   1.5  2 
  
 Femme 100 Metres Sprint Senior
 ==============================================================================
@@ -338,14 +358,15 @@ Finales
   5 Bositampen, Jessica       99 Perfmax-Raci           12.63      12.62  +0.0 
   6 Hountondji, Isaline       98 C. A. Univer           12.58      12.73  +0.0 
   7 Bellemare-Ferland, Sarah  99 C. A. Univer           12.78      12.96  +0.0 
+ -- Baulu, Élodie             96 Saint-Lauren           12.89        DNS  +0.0 
 Preliminaries
-  8 Baulu, Élodie             96 Saint-Lauren           12.89                  
   9 Ba, Sophie                98 Sherbrooke             13.12                  
  10 Lépine, Érika             96 Tarus                  13.18                  
  11 Naoum, Catherine          97 Saint-Lauren           13.27                  
  12 Dort, Yasmine             97 Force Track            13.41                  
  13 Lavigne, Stéphanie        88 Perfmax-Raci           13.64                  
  14 Haji, Sulav               98 Saint-Lauren           14.69                  
+ -- Dubé, Élisabeth           95 Saint-Lauren            DNS                   
  
 Femme 200 Metres Sprint Senior
 =================================================================================
@@ -370,21 +391,25 @@ Femme 200 Metres Sprint Senior
  16 Giroux, Stéphanie         90 Saint-Lauren           28.47      28.65   0.8  3 
  17 Lavigne, Stéphanie        88 Perfmax-Raci           28.64      29.30   0.8  3 
  18 Haji, Sulav               98 Saint-Lauren           30.92      31.59   1.5  1 
+ -- Kluyts, Catharina         99 Edmonton Oly           25.10        DNS   1.5  1 
+ -- Dubé, Élisabeth           95 Saint-Lauren           27.17        DNS   1.2  2 
+ -- Powell, Micha             95 McGill Olymp           23.93        DNS   1.2  2 
+ -- Jackson, Audrey           98 Saint-Lauren           23.81        DNS   0.8  3 
  
 Femme 200 Metres Sprint Senior
 ==============================================================================
     Nom                    Annee Club                 Prelims    Finales  Vent
 ==============================================================================
 Finales
-  1 Savoury, Jorden           98 Saint-Lauren           24.82      25.19   NWI 
-  2 Béliveau, Émy             95 C. A. Univer           25.20      25.30   NWI 
-  3 Bositampen, Jessica       99 Perfmax-Raci           26.26      26.29   NWI 
-  4 Carrier, Rose-Emilie      95 C. A. Univer           26.16      26.42   NWI 
-  5 Lefebvre Castillo, Winon  93 Perfmax-Raci           25.83      26.63   NWI 
-  6 Bellemare-Ferland, Sarah  99 C. A. Univer           26.00      26.71   NWI 
+  1 Savoury, Jorden           98 Saint-Lauren           24.82      25.19  +0.0 
+  2 Béliveau, Émy             95 C. A. Univer           25.20      25.30  +0.0 
+  3 Bositampen, Jessica       99 Perfmax-Raci           26.26      26.29  +0.0 
+  4 Carrier, Rose-Emilie      95 C. A. Univer           26.16      26.42  +0.0 
+  5 Lefebvre Castillo, Winon  93 Perfmax-Raci           25.83      26.63  +0.0 
+  6 Bellemare-Ferland, Sarah  99 C. A. Univer           26.00      26.71  +0.0 
+ -- Rocheleau, Myriam         99 C. A. Univer           25.94        DNS  +0.0 
+ -- Leclerc, Claudie          96 Corsaire-Cha           25.87        DNS  +0.0 
 Preliminaries
-  3 Leclerc, Claudie          96 Corsaire-Cha           25.87                  
-  5 Rocheleau, Myriam         99 C. A. Univer           25.94                  
   9 Hountondji, Isaline       98 C. A. Univer           26.38                  
  10 Laberge, Megane           99 Perfmax-Raci           27.10                  
  11 Vallière, Cloé            97 Saint-Lauren           27.58                  
@@ -395,6 +420,10 @@ Preliminaries
  16 Giroux, Stéphanie         90 Saint-Lauren           28.65                  
  17 Lavigne, Stéphanie        88 Perfmax-Raci           29.30                  
  18 Haji, Sulav               98 Saint-Lauren           31.59                  
+ -- Powell, Micha             95 McGill Olymp            DNS                   
+ -- Kluyts, Catharina         99 Edmonton Oly            DNS                   
+ -- Jackson, Audrey           98 Saint-Lauren            DNS                   
+ -- Dubé, Élisabeth           95 Saint-Lauren            DNS                   
  
 Femme 400 Metres Sprint Senior
 ============================================================================
@@ -412,6 +441,8 @@ Top 8 Advance by Time
   9 Vallière, Cloé            97 Saint-Lauren         1:02.95    1:03.57   1 
  10 Giroux, Stéphanie         90 Saint-Lauren         1:02.67    1:04.05   1 
  11 Hangi, Neige              98 Force Track          1:04.03    1:04.09   2 
+ -- Desrosiers, Sandrine      99 Corsaire-Cha           57.98        DNS   2 
+ -- Prévost-Cormier, Claudel  96 Saint-Lauren         1:02.30        DNS   2 
  
 Femme 400 Metres Sprint Senior
 =========================================================================
@@ -422,14 +453,16 @@ Finales
   2 Laberge, Megane           99 Perfmax-Raci           59.63    1:00.79  
   3 Denault, Stephany         93 Saint-Lauren         1:02.15    1:01.93  
   4 Marchand, Marie-Andrée    94 Saint-Lauren         1:02.61    1:03.00  
+ -- Carrier, Rose-Emilie      95 C. A. Univer           59.92        DNS  
+ -- Jackson, Audrey           98 Saint-Lauren           56.88        DNS  
+ -- Leclerc, Claudie          96 Corsaire-Cha           59.50        DNS  
+ -- Bouchard-Nguyen, Jade     96 Saint-Lauren           58.03        DNS  
 Preliminaries
-  2 Jackson, Audrey           98 Saint-Lauren           56.88             
-  3 Bouchard-Nguyen, Jade     96 Saint-Lauren           58.03             
-  4 Leclerc, Claudie          96 Corsaire-Cha           59.50             
-  6 Carrier, Rose-Emilie      95 C. A. Univer           59.92             
   9 Vallière, Cloé            97 Saint-Lauren         1:03.57             
  10 Giroux, Stéphanie         90 Saint-Lauren         1:04.05             
  11 Hangi, Neige              98 Force Track          1:04.09             
+ -- Desrosiers, Sandrine      99 Corsaire-Cha            DNS              
+ -- Prévost-Cormier, Claudel  96 Saint-Lauren            DNS              
  
 Femme 800 Metres Demi-fond Senior
 ============================================================================
@@ -454,6 +487,8 @@ Finales
  16 Desharnais-Préfontai, No  95 Saint-Lauren                    2:26.39   1 
  17 Ceneston, Karen           99 Force Track          2:29.42    2:31.65   1 
  18 Ragot, Rose               93 A.T.P Athlét                    2:51.57   1 
+ -- Marchand, Marie-Andrée    94 Saint-Lauren         2:18.09        DNS   2 
+ -- Prévost-Cormier, Claudel  96 Saint-Lauren                        DNS   1 
  
 Femme 1500 Metres Demi-fond Senior
 ============================================================================
@@ -476,6 +511,10 @@ Femme 1500 Metres Demi-fond Senior
  15 Cloutier, Mathilde        99 C. A. Univer         5:33.97    5:36.97   1 
  16 Ragot, Rose               93 A.T.P Athlét                    5:52.61   1 
  -- Ouellet, Evelyne          95 Sherbrooke           4:38.53        DNF   2 
+ -- Guérin, Lisanne           94 Zénix De La                         DNS   1 
+ -- Numainville, Joelle       87 Athlétisme V         4:48.69        DNS   2 
+ -- Fleurent-Grégoire, Chloé  96 McGill Olymp         4:39.47        DNS   2 
+ -- Gravel, Noémie            97 Saint-Lauren         4:45.58        DNS   2 
  
 Femme 3000 Metres Demi-fond Senior
 =========================================================================
@@ -492,6 +531,9 @@ Femme 3000 Metres Demi-fond Senior
   9 Cadoret, Karel            99 C. A. Univer                   12:01.67  
  10 Cloutier, Mathilde        99 C. A. Univer                   12:09.00  
  -- Bouchard-Nguyen, Jade     96 Saint-Lauren                        DNF  
+ -- Bélanger, Andréane        91 Sherbrooke          10:49.37        DNS  
+ -- Ouellet, Béatrice         94 C. A. Univer         9:54.29        DNS  
+ -- Hirsch, Elizabeth         97 McGill Olymp         9:59.90        DNS  
  
 Femme 100 Metres Haies 33po Senior
 ==============================================================================
@@ -508,14 +550,12 @@ Femme 100 Metres Haies 33po Senior
 ==============================================================================
 Finales
   1 Kluyts, Catharina         99 Edmonton Oly           17.42      14.39   0.5 
-Preliminaries
-  1 O'Connor, Jaymie          97 Dynamique De           14.43                  
+ -- O'Connor, Jaymie          97 Dynamique De           14.43        DNS   0.5 
  
 Femme 400 Metres Haies 30po Senior
 =========================================================================
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
-Finales
   1 Reinfels, Helena          94 Saint-Lauren                    1:00.39  
   2 Poulin, Marie-Frédérique  99 Zénix De La          1:00.78    1:04.01  
   3 Angell, Kaitlin           97 Saint-Lauren         1:02.84    1:04.56  
@@ -559,6 +599,9 @@ Femme Saut en hauteur Senior
   4 Boccacci, Yelena          95 C. A. Univer           1.55m      1.50m  
      1.45 1.50 1.55 
        XO   XO  XXX 
+ -- Léveillé, Maude           95 Sherbrooke             1.65m        DNS  
+ -- Augé, Amélie              87 Dynamique De                        DNS  
+ -- Lorenzo, Marguerite       99 Saint-Lauren           1.76m        DNS  
  
 Femme Saut a la perche Senior
 =========================================================================
@@ -567,6 +610,7 @@ Femme Saut a la perche Senior
   1 Beaumont-Courteau, Arian  90 Sherbrooke             3.98m      3.50m  
      3.30 3.50 3.70 
        XO    O   XX 
+ -- Salmon, Brittany          95 Montréal-Int           4.05m        DNS  
  
 Femme Saut en longueur Senior
 ==============================================================================
@@ -582,6 +626,7 @@ Femme Saut en longueur Senior
      4.18m(+0.0) FOUL(+0.0) FOUL(+0.0) FOUL(+0.0) FOUL(0.2) 4.31m(0.6)
   5 Nguyen, Tanya             98 Tarus                             4.24m   0.5 
      3.80m(+0.0) 4.24m(0.5) 4.20m(0.2) 3.99m(0.6) 2.76m(0.9) FOUL(0.9)
+ -- Augé, Amélie              87 Dynamique De                        DNS   NWI 
  
 Femme Triple Saut Senior
 ==============================================================================
@@ -600,6 +645,7 @@ Femme Lancer du poids 4kg Senior
 =========================================================================
   1 Vallière, Cloé            97 Saint-Lauren           8.24m      8.15m  
       7.58m  8.00m  7.58m  7.97m  8.14m  8.15m
+ -- Léveillé, Maude           95 Sherbrooke            11.11m        DNS  
  
 Femme Lancer du disque 1kg Senior
 =========================================================================
@@ -609,6 +655,7 @@ Femme Lancer du disque 1kg Senior
       51.42m  FOUL  52.84m  50.23m  54.56m  54.10m
   2 Dubois, Ariane            95 Dynamique De          46.26m     43.58m  
       FOUL  43.58m  FOUL  42.52m  41.68m  41.94m
+ -- St-Gelais, Véronique      98 Baie-Comeau                         DNS  
  
 Femme Lancer du marteau 4kg Senior
 =========================================================================
@@ -633,6 +680,7 @@ Femme Lancer du javelot 600g Senior
       39.75m  44.43m  44.02m  43.51m  41.95m  FOUL
   2 St-Gelais, Véronique      98 Baie-Comeau           37.76m     36.01m  
       31.99m  36.01m  FOUL  33.64m  35.73m  33.58m
+ -- Léveillé, Maude           95 Sherbrooke            34.52m        DNS  
  
 Femme 100 Metres Sprint Wheelchair Para
 ==============================================================================
@@ -651,6 +699,12 @@ Femme 800 Metres Demi-fond Wheelchair Para
     Nom                    Annee Club                    Seed    Finales 
 =========================================================================
   1 Vaillant, Catherine       78 Saint-Lauren         2:05.36    2:26.60  
+ 
+Femme 1500 Metres Demi-fond Wheelchair Para
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Vaillant, Catherine       78 Saint-Lauren         4:06.26        DNS  
  
 Homme 100 Metres Sprint Junior
 =================================================================================
@@ -673,6 +727,7 @@ Preliminaries
  13 Laurier, Charles-David    00 Indépendant            12.32      12.36   0.2  2 
  14 Gallant, Benjamin         01 Corsaire-Cha           12.81      12.37   0.9  1 
  15 Sabelli, Nicholas         01 Montréal-Int           12.85      12.42   0.9  1 
+ -- Bélanger, Thomas          00 Lavironde              13.83        DNS   0.2  2 
  
 Homme 100 Metres Sprint Junior
 ==============================================================================
@@ -695,6 +750,7 @@ Preliminaries
  13 Laurier, Charles-David    00 Indépendant            12.36                  
  14 Gallant, Benjamin         01 Corsaire-Cha           12.37                  
  15 Sabelli, Nicholas         01 Montréal-Int           12.42                  
+ -- Bélanger, Thomas          00 Lavironde               DNS                   
  
 Homme 200 Metres Sprint Junior
 =================================================================================
@@ -716,6 +772,9 @@ Homme 200 Metres Sprint Junior
  13 Doss, Colin               01 Force Track            26.33      26.74   1.7  1 
  14 Cordeiro Beaupré, Alexi   01 Adrénaline             33.10      33.10   1.6  2 
  -- Octave, Tyrick            03 Force Track            22.49        DNF   1.6  2 
+ -- Busby, Wayne-Anthony      00 Saint-Lauren           22.27        DNS   1.7  1 
+ -- Bélanger, Thomas          00 Lavironde              28.75        DNS   1.7  1 
+ -- Briggs, Kevwe             03 West Island            24.41        DNS   0.7  3 
  
 Homme 200 Metres Sprint Junior
 ==============================================================================
@@ -728,9 +787,9 @@ Finales
   4 Léveillé-Sanchez, Ismael  01 Sherbrooke             23.12      23.04  -1.1 
   5 Tremblay, Yanis           01 C. A. Univer           23.08      23.38  -1.1 
   6 Hernandez, Charley        00 Montreal Tra           23.45      23.70  -1.1 
+ -- Percopo, Ricardo          00 Montreal Tra           23.50        DNS  -1.1 
+ -- Lebel, Henri              00 C. A. Univer           23.28        DNS  -1.1 
 Preliminaries
-  6 Percopo, Ricardo          00 Montreal Tra           23.50                  
-  8 Lebel, Henri              00 C. A. Univer           23.28                  
   9 Bélisle, Maxim            01 Corsaire-Cha           24.19                  
  10 Trotman Allen, Joash      00 Kilomaîtres            24.27                  
  11 Gallant, Benjamin         01 Corsaire-Cha           25.10                  
@@ -738,6 +797,9 @@ Preliminaries
  13 Doss, Colin               01 Force Track            26.74                  
  14 Cordeiro Beaupré, Alexi   01 Adrénaline             33.10                  
  -- Octave, Tyrick            03 Force Track             DNF                   
+ -- Busby, Wayne-Anthony      00 Saint-Lauren            DNS                   
+ -- Bélanger, Thomas          00 Lavironde               DNS                   
+ -- Briggs, Kevwe             03 West Island             DNS                   
  
 Homme 400 Metres Sprint Junior
 ============================================================================
@@ -770,9 +832,9 @@ Finales
   4 Gagnon, Tristan           02 C. A. Univer           50.91      50.69  
   5 Lebel, Henri              00 C. A. Univer           50.41      51.08  
   6 Léveillé-Sanchez, Ismael  01 Sherbrooke             51.33      51.12  
+ -- Percopo, Ricardo          00 Montreal Tra           52.57        DNS  
+ -- Cavé, Pradel-D'olympe     01 Lavironde              51.91        DNS  
 Preliminaries
-  7 Cavé, Pradel-D'olympe     01 Lavironde              51.91             
-  8 Percopo, Ricardo          00 Montreal Tra           52.57             
   9 Lamirande, Félix-Antoine  01 Sherbrooke             52.86             
  10 Dussault, Thierry         00 Cirrus Gatin           53.43             
  11 Trotman Allen, Joash      00 Kilomaîtres            54.40             
@@ -813,6 +875,7 @@ Homme 1500 Metres Demi-fond Junior
   9 El Moutaouakil, Ismaïl    01 A.T.P Athlét                    4:17.48  
  10 Kourouss, Mohamed Amine   01 Lanaudière-O         4:20.82    4:48.95  
  11 Ouellet, Benjamin         01 Filoup               4:49.21    4:49.20  
+ -- Beaudet, Matthew          00 Lachine              4:03.37        DNS  
  
 Homme 3000 Metres Demi-fond Junior
 ============================================================================
@@ -836,11 +899,13 @@ Preliminaries
  -- Michel, Grégory           00 Mustangs               14.88        DNF   0.9 
  
 Homme 110 Metres Haies 39po Junior
-=================================================================================
-    Nom                    Annee Club                 Prelims    Finales  Vent H#
-=================================================================================
-  1 Gabaud, Shaïdan           01 Lachine                15.45                     
- -- Michel, Grégory           00 Mustangs                DNF                      
+==============================================================================
+    Nom                    Annee Club                 Prelims    Finales  Vent
+==============================================================================
+Finales
+ -- Gabaud, Shaïdan           01 Lachine                15.45        DNS   NWI 
+Preliminaries
+ -- Michel, Grégory           00 Mustangs                DNF                   
  
 Homme 400 Metres Haies 36po Junior
 =========================================================================
@@ -850,6 +915,14 @@ Finales
   1 Lamirande, Félix-Antoine  01 Sherbrooke             56.08      56.57  
   2 Lebrun, Antoine           01 Cirrus Gatin                      58.39  
   3 Thompson, Morgan          00 Vainqueurs P         1:00.75    1:17.47  
+ -- Aktas, Adam               00 Force Track                         DNS  
+ -- Michel, Grégory           00 Mustangs               55.76        DNS  
+ 
+Homme 3000 Metres Steeplechase 36po Junior
+=========================================================================
+    Nom                    Annee Club                    Seed    Finales 
+=========================================================================
+ -- Dufour, Léo               01 Vaudreuil-Do                        DNS  
  
 Homme Saut en hauteur Junior
 =========================================================================
@@ -870,6 +943,7 @@ Homme Saut en hauteur Junior
  -- Thompson, Morgan          00 Vainqueurs P           1.88m         NH  
      1.74 
       XXX 
+ -- Doirilus, Darwill Marven  00 Vainqueurs P           1.98m        DNS  
  
 Homme Saut a la perche Junior
 =========================================================================
@@ -915,6 +989,7 @@ Homme Lancer du poids 6kg Junior
       12.87m  FOUL  FOUL  FOUL  FOUL  11.55m
   2 Sabelli, Nicholas         01 Montréal-Int          13.22m     12.27m  
       12.27m  12.22m  12.19m  FOUL  12.20m  FOUL
+ -- Paradis, Louis-Frédéric   01 Filoup                              DNS  
  
 Homme Lancer du disque 1.75kg Junior
 =========================================================================
@@ -987,6 +1062,16 @@ Preliminaries
  32 Lakehal, Yahia Abdelali   92 Saint-Lauren           12.49      12.79  -2.1  3 
  33 Jouni, Chadi              97 Tarus                             13.11  +0.0  6 
  34 Desmarais, Renaud         99 Sherbrooke             13.52      13.70  +0.0  6 
+ -- Ullberg, Cedric           92 Saint-Lauren                        DNS   0.9  2 
+ -- Ntonga, Nathanael         95 Sherbrooke             11.40        DNS   2.1  1 
+ -- Bositampen, Rabbi         99 Perfmax-Raci           10.67        DNS   3.7  5 
+ -- Laferrière Mailfait, Ant  97 Montreal Tra           10.92        DNS   0.9  2 
+ -- Côté, Thomas              96 Saint-Lauren           11.15        DNS  -2.1  3 
+ -- Rouleau, Guillaume        97 Rive-Sud                            DNS   2.1  1 
+ -- Roy, Antoine              98 C. A. Univer           11.13        DNS   2.5  4 
+ -- Correa, Daniel            96 C. A. Univer           11.88        DNS   0.9  2 
+ -- Mougeolle, Clément        98 Saint-Lauren           11.01        DNS  +0.0  6 
+ -- Tshisunga, Néhémie        97 Tarus                  11.70        DNS  +0.0  6 
  
 Homme 100 Metres Sprint Senior
 ==============================================================================
@@ -1028,6 +1113,16 @@ Preliminaries
  32 Lakehal, Yahia Abdelali   92 Saint-Lauren           12.79                  
  33 Jouni, Chadi              97 Tarus                  13.11                  
  34 Desmarais, Renaud         99 Sherbrooke             13.70                  
+ -- Ullberg, Cedric           92 Saint-Lauren            DNS                   
+ -- Ntonga, Nathanael         95 Sherbrooke              DNS                   
+ -- Bositampen, Rabbi         99 Perfmax-Raci            DNS                   
+ -- Laferrière Mailfait, Ant  97 Montreal Tra            DNS                   
+ -- Côté, Thomas              96 Saint-Lauren            DNS                   
+ -- Rouleau, Guillaume        97 Rive-Sud                DNS                   
+ -- Roy, Antoine              98 C. A. Univer            DNS                   
+ -- Correa, Daniel            96 C. A. Univer            DNS                   
+ -- Mougeolle, Clément        98 Saint-Lauren            DNS                   
+ -- Tshisunga, Néhémie        97 Tarus                   DNS                   
  
 Homme 200 Metres Sprint Senior
 =================================================================================
@@ -1062,6 +1157,26 @@ Homme 200 Metres Sprint Senior
  26 Desmarais, Renaud         99 Sherbrooke             27.52      27.19   2.4  1 
  27 Raselma, Zakarya Adam     99 Tarus                  26.01      27.70   1.3  2 
  -- Mougeolle, Clément        98 Saint-Lauren           22.25        DNF   2.4  1 
+ -- Correa, Daniel            96 C. A. Univer           23.68        DNS   1.3  6 
+ -- Roy, Antoine              98 C. A. Univer           23.30        DNS   2.4  1 
+ -- Maazami, Youssef-Mehdi    95 Perfmax-Raci           22.89        DNS   0.4  4 
+ -- Togola, Mamadou-Bazan     94 C. A. Univer                        DNS   1.0  3 
+ -- Jouni, Chadi              97 Tarus                  23.77        DNS   0.4  4 
+ -- Gagnon, Mathieu           96 A.T.P Athlét           25.02        DNS  +0.0  5 
+ -- Gagnon, William           99 Zénix De La            22.41        DNS   1.0  3 
+ -- Jean-Paul, Mike Clarey    99 Force Track            24.71        DNS   1.3  6 
+ -- Pelletier, Charles        97 Sherbrooke             22.18        DNS   1.0  3 
+ -- Rouleau, Guillaume        97 Rive-Sud                            DNS   0.4  4 
+ -- Lakehal, Yahia Abdelali   92 Saint-Lauren                        DNS   1.3  2 
+ -- Rica, Antoine             90 Pélicans De            24.13        DNS   1.0  3 
+ -- Tshisunga, Néhémie        97 Tarus                  23.77        DNS   1.0  3 
+ -- Laferrière Mailfait, Ant  97 Montreal Tra           22.38        DNS   1.3  2 
+ -- Ahmed, Shamwilu           93 McGill Olymp                        DNS  +0.0  5 
+ -- Judge, Jeffrey            96 Tarus                  22.97        DNS   1.3  2 
+ -- Côté, Thomas              96 Saint-Lauren           22.66        DNS   1.3  6 
+ -- Bositampen, Rabbi         99 Perfmax-Raci           22.09        DNS  +0.0  5 
+ -- Louis, Andy               95 Saint-Lauren                        DNS   1.3  6 
+ -- Salvo, Dominic            98 Finalpush              22.61        DNS   1.3  6 
  
 Homme 200 Metres Sprint Senior
 ==============================================================================
@@ -1075,8 +1190,8 @@ Finales
   5 Rénélique, Taylor         99 Perfmax-Raci           22.51      22.81  -2.0 
   6 Florestal, Kensley        95 Perfmax-Raci           22.73      23.39  -2.0 
   7 Bernier-Woel, Karim       94 Perfmax-Raci           23.18      23.40  -2.0 
+ -- Miguel, Paulo             94 Saint-Lauren           22.70        DNS  -2.0 
 Preliminaries
-  5 Miguel, Paulo             94 Saint-Lauren           22.70                  
   9 Rezaire, Gwendal          98 Zénix De La            23.00                  
  10 Kokoroko, Arnold          94 Saint-Lauren           23.17                  
  11 Krejcik, Peter            97 Saint-Lauren           23.41                  
@@ -1097,6 +1212,26 @@ Preliminaries
  26 Desmarais, Renaud         99 Sherbrooke             27.19                  
  27 Raselma, Zakarya Adam     99 Tarus                  27.70                  
  -- Mougeolle, Clément        98 Saint-Lauren            DNF                   
+ -- Correa, Daniel            96 C. A. Univer            DNS                   
+ -- Roy, Antoine              98 C. A. Univer            DNS                   
+ -- Maazami, Youssef-Mehdi    95 Perfmax-Raci            DNS                   
+ -- Togola, Mamadou-Bazan     94 C. A. Univer            DNS                   
+ -- Jouni, Chadi              97 Tarus                   DNS                   
+ -- Gagnon, Mathieu           96 A.T.P Athlét            DNS                   
+ -- Gagnon, William           99 Zénix De La             DNS                   
+ -- Jean-Paul, Mike Clarey    99 Force Track             DNS                   
+ -- Pelletier, Charles        97 Sherbrooke              DNS                   
+ -- Rouleau, Guillaume        97 Rive-Sud                DNS                   
+ -- Lakehal, Yahia Abdelali   92 Saint-Lauren            DNS                   
+ -- Rica, Antoine             90 Pélicans De             DNS                   
+ -- Tshisunga, Néhémie        97 Tarus                   DNS                   
+ -- Laferrière Mailfait, Ant  97 Montreal Tra            DNS                   
+ -- Ahmed, Shamwilu           93 McGill Olymp            DNS                   
+ -- Judge, Jeffrey            96 Tarus                   DNS                   
+ -- Côté, Thomas              96 Saint-Lauren            DNS                   
+ -- Bositampen, Rabbi         99 Perfmax-Raci            DNS                   
+ -- Louis, Andy               95 Saint-Lauren            DNS                   
+ -- Salvo, Dominic            98 Finalpush               DNS                   
  
 Homme 400 Metres Sprint Senior
 ============================================================================
@@ -1122,6 +1257,9 @@ Top 8 Advance by Time
  17 Tchatchoua, Lauriche      97 Finalpush                         57.04   4 
  18 Tremblay, Francis         97 C. A. De Qué                      59.38   3 
  19 Carrillo, Heber           99 Force Track                     1:05.00   4 
+ -- Khelifa, Azer             97 Saint-Lauren           48.72        DNS   2 
+ -- Aber, Yassine             96 Sherbrooke             49.28        DNS   2 
+ -- Slythe Léveillé, Gabriel  93 Corsaire-Cha           48.99        DNS   1 
  
 Homme 400 Metres Sprint Senior
 =========================================================================
@@ -1135,8 +1273,8 @@ Finales
   5 Lafrenière, Jérémy        94 Sherbrooke             50.84      50.20  
   6 Rica, Antoine             90 Pélicans De            51.27      50.85  
   7 Chouinard-Laliberte, Sim  95 Saint-Lauren           51.92      51.41  
+ -- Rousseau, Jacob           98 Sherbrooke             51.79        DNS  
 Preliminaries
-  7 Rousseau, Jacob           98 Sherbrooke             51.79             
   9 Sanvi, Ohini Yanis        99 Saint-Lauren           52.36             
  10 Danouj, Oussama           96 Saint-Lauren           52.59             
  11 Leger, Taylor             96 McGill Olymp           52.76             
@@ -1148,6 +1286,9 @@ Preliminaries
  17 Tchatchoua, Lauriche      97 Finalpush              57.04             
  18 Tremblay, Francis         97 C. A. De Qué           59.38             
  19 Carrillo, Heber           99 Force Track          1:05.00             
+ -- Khelifa, Azer             97 Saint-Lauren            DNS              
+ -- Aber, Yassine             96 Sherbrooke              DNS              
+ -- Slythe Léveillé, Gabriel  93 Corsaire-Cha            DNS              
  
 Homme 800 Metres Demi-fond Senior
 ============================================================================
@@ -1180,8 +1321,11 @@ Finales
  24 Oiknine, Nicolas          92 Saint-Lauren         2:08.35    2:10.74   1 
  25 Allie, Antoine            99 Corsaire-Cha         2:12.44    2:12.16   1 
  26 Nault, Eliot              99 Spartiates C         2:14.09    2:12.73   1 
- -- Payette, William          98 Saint-Lauren         1:53.10        DNF   3 
  -- Duchesne, Félix           97 C. A. Univer         1:54.20        DNF   3 
+ -- Payette, William          98 Saint-Lauren         1:53.10        DNF   3 
+ -- Hubert, Maxime            90 Les Vainqueu         2:00.37        DNS   2 
+ -- Roy, Jérémie              96 Sherbrooke           1:53.36        DNS   3 
+ -- Labrèche, William         97 C. A. Univer         1:56.78        DNS   2 
  
 Homme 1500 Metres Demi-fond Senior
 ============================================================================
@@ -1203,6 +1347,10 @@ Homme 1500 Metres Demi-fond Senior
  14 Paré, Maxime              96 Lavironde            4:26.02    4:36.77   1 
  15 Oiknine, Nicolas          92 Saint-Lauren         4:39.46    4:37.53   1 
  16 Villeneuve, Julien        96 Spartiates C         4:41.63    4:38.67   1 
+ -- Simoneau, William         97 Club Citius          4:18.66        DNS   2 
+ -- Payette, William          98 Saint-Lauren         3:59.99        DNS   2 
+ -- Riopel, Nicolas           99 Corsaire-Cha         4:07.93        DNS   2 
+ -- Roy, Jérémie              96 Sherbrooke           4:02.80        DNS   2 
  
 Homme 3000 Metres Demi-fond Senior
 ============================================================================
@@ -1225,9 +1373,11 @@ Homme 3000 Metres Demi-fond Senior
  15 Savard, Luc               82 Jakours              9:35.05    9:17.14   1 
  16 Thériault, Jean-Marc      73 Lanaudière-O         9:39.55    9:32.44   1 
  17 Tremblay, Francis         97 C. A. De Qué        10:56.69   10:29.47   1 
- -- Lapointe, Jean-Samuel     91 C. A. Univer         8:16.82        DNF   2 
  -- Sikubwabo, Yves           93 C. A. Univer         8:21.88        DNF   2 
  -- Brouard, William          92 C. A. Univer         8:58.44        DNF   2 
+ -- Lapointe, Jean-Samuel     91 C. A. Univer         8:16.82        DNF   2 
+ -- Billerot, Pierre-Lou      93 Sherbrooke           8:23.90        DNS   2 
+ -- Lafortune-Cazale, Félix   99 Les Vainqueu         9:12.13        DNS   1 
  
 Homme 110 Metres Haies 42po Senior
 ==============================================================================
@@ -1237,6 +1387,7 @@ Top 8 Advance by Time
 Preliminaries
   1 Daly, Matthew             97 Saint-Lauren           14.79      15.37q  0.4 
   2 Miguel, Paulo             94 Saint-Lauren           14.92      16.04q  0.4 
+ -- Mezghani, Hani            98 Saint-Lauren           15.65        DNS   0.4 
  
 Homme 110 Metres Haies 42po Senior
 ==============================================================================
@@ -1244,8 +1395,9 @@ Homme 110 Metres Haies 42po Senior
 ==============================================================================
 Finales
   1 Miguel, Paulo             94 Saint-Lauren           16.04      14.80   1.1 
+ -- Daly, Matthew             97 Saint-Lauren           15.37        DNS   1.1 
 Preliminaries
-  1 Daly, Matthew             97 Saint-Lauren           15.37                  
+ -- Mezghani, Hani            98 Saint-Lauren            DNS                   
  
 Homme 400 Metres Haies 36po Senior
 =========================================================================
@@ -1305,6 +1457,7 @@ Homme Saut a la perche Senior
   5 Le Mouël, Corentin        95 Saint-Jean O           3.70m      3.90m  
      3.75 3.90 4.05 
       XXO   XO  XXX 
+ -- Léveillé, Maxime          98 Sherbrooke             4.95m        DNS  
  
 Homme Saut en longueur Senior
 ==============================================================================
@@ -1320,6 +1473,8 @@ Homme Saut en longueur Senior
      FOUL      FOUL      6.18m(-0.8) 6.01m(1.7) 4.34m(-1.3) FOUL     
   5 Hladin, Ludovick          99 Sherbrooke             6.36m      6.16m  +0.0 
      FOUL      6.16m(+0.0) 5.76m(-0.8) PASS      PASS      PASS     
+ -- Cinfinix, Jovani          99 Dynamique De           6.25m        DNS   NWI 
+ -- Mougeolle, Clément        98 Saint-Lauren           7.09m        DNS   NWI 
  
 Homme Triple Saut Senior
 ==============================================================================
@@ -1401,6 +1556,7 @@ Homme 200 Metres Sprint Wheelchair Para
   1 Larouche, Samuel          93 Jakours                49.94      49.02   1.9 
   2 Simoneau, Raphaël         98 Saint-Lauren           36.40      49.79   1.9 
   3 Alain, François           83 Saint-Lauren           31.75    1:35.37   1.9 
+ -- Leclerc, Lee              87 Saint-Lauren           28.75        DNS   1.9 
  
 Homme 400 Metres Sprint Wheelchair Para
 =========================================================================
@@ -1461,6 +1617,131 @@ Homme Lancer du javelot Wheelchair Para
       15.00m  15.12m  16.07m  14.19m  14.77m  15.77m
   2 Barette-LeBlanc, Félix    99 C. A. Univer                     13.57m  
       12.89m  13.33m  13.47m  12.99m  13.57m  13.57m
+ 
+            Combined Team Scores - Benjamin - 2 Pointage par epreuve
+===============================================================================
+    1) Dynamique De Laval          18        2) Corsaire-Chaparral         12   
+    3) Adrénaline                   8        4) Lanaudière-Olympique        6   
+    5) A.t.p Athlétisme             5        6) C. A. Université Laval      4   
+    7) Rive-Sud                     3                                           
+ 
+             Combined Team Scores - Cadet - 2 Pointage par epreuve
+===============================================================================
+    1) C. A. Université Laval       9        2) Adrénaline                  8   
+    3) Vainqueurs Plus              7        3) Drummondville               7   
+    5) Filoup                       6        5) Dynamique De Laval          6   
+    7) Gatineau                     5        8) Baie-Comeau                 4   
+    9) Sherbrooke                   2       10) Corsaire-Chaparral          1   
+   10) C. A. De Québec              1                                           
+ 
+         Combined Team Scores - Master 30-34 - 12 Pointage par epreuve
+===============================================================================
+    1) C. A. Université Laval      21        2) Les Vainqueurs             14   
+    3) Sherbrooke                   7        4) The Gazelles                6   
+ 
+         Combined Team Scores - Master 35-39 - 33 Pointage par epreuve
+===============================================================================
+    1) JMAC - JAMCAN Internationa  28        2) Les Vainqueurs             26   
+    3) West Island T. C.           19        4) Variety Village Athletic   18   
+    5) Lanaudière-Olympique        17        6) UNATTACHED-SASKATCHEWAN    14   
+    6) Rive-Sud                    14        6) Saint-Laurent Sélect       14   
+    6) C. A. De Québec             14        6) A.t.p Athlétisme           14   
+   11) Montréal-International      13       12) Zénix De La Mauricie        7   
+   12) Unattached - Ontario         7       14) Sherbrooke                  6   
+   14) University of Toronto T.C.   6       16) Halifast Athletics          5   
+ 
+         Combined Team Scores - Master 40-44 - 20 Pointage par epreuve
+===============================================================================
+    1) JMAC - JAMCAN Internationa  27        2) Indépendant                25   
+    3) Sherbrooke                  23        4) Pélicans De Rosemont       20   
+    5) Les Vainqueurs              14        5) Unattached - Ontario       14   
+    5) Corsaire-Chaparral          14        5) Dynamique De Laval         14   
+    9) The Gazelles                13       10) Club De Coureurs Boréal    11   
+   11) Saint-Laurent Sélect        10       12) Saint-Jean Olympique        7   
+   12) Brockville Legion Track Cl   7       12) Lanaudière-Olympique        7   
+   15) UNATTACHED-NEW BRUNSWICK     6                                           
+ 
+         Combined Team Scores - Master 45-49 - 30 Pointage par epreuve
+===============================================================================
+    1) Lachine                     43        2) Indépendant                40   
+    3) Ottawa Lions                31        4) University of Toronto T.C  28   
+    5) Saint-Jean Olympique        27        6) JMAC - JAMCAN Internation  23   
+    7) ATHLETICS YUKON             18        8) Etobicoke Track & Field C  14   
+    8) Milpat Club Mauricie        14        8) West Island T. C.          14   
+    8) Saint-Laurent Sélect        14       12) Unattached - Ontario       13   
+   13) C. A. Université Laval      11       14) UNATTACHED NEWFOUNDLAND A   8   
+   15) C. A. De Québec              7       15) Coureur Nordique            7   
+   15) Vainqueurs Plus              7       18) SAINT JOHN TRACK & FIELD    6   
+   19) Enduromax                    5       20) Lanaudière-Olympique        4   
+ 
+         Combined Team Scores - Master 50-54 - 32 Pointage par epreuve
+===============================================================================
+    1) SAINT JOHN TRACK & FIELD    57        2) Saint-Laurent Sélect       39   
+    3) Les Vainqueurs              38        4) JMAC - JAMCAN Internation  37   
+    5) University of Toronto T.C.  32        6) Unattached - Ontario       31   
+    7) Variety Village Athletic C  30        8) Indépendant                24   
+    8) Newmarket Huskies Track Cl  24       10) Kilomaîtres De Lasalle     23   
+   11) Enduromax                   17       12) Perfmax-Racing             15   
+   13) Corsaire-Chaparral          14       13) Ottawa Lions               14   
+   15) LIIT                        13       15) Coureur Nordique           13   
+   17) Cirrus Gatineau             12       17) Winnipeg Optimist Athleti  12   
+   19) Kingston Track & Field Clu  10       19) Throwers Club              10   
+   21) Vainqueurs Plus              8       22) Fleur De Lys                7   
+   22) Saint-Jean Olympique         7       24) Etobicoke Track & Field C   5   
+ 
+         Combined Team Scores - Master 55-59 - 35 Pointage par epreuve
+===============================================================================
+    1) Indépendant                 64        2) UNATTACHED-NEW BRUNSWICK   42   
+    3) Les Vainqueurs              40        4) Vainqueurs Plus            38   
+    5) Unattached - Ontario        26        6) Roadkill Running Club      22   
+    7) FAST TRACKS                 20        8) OCEAN ATHLETICS TRACK & F  19   
+    8) Kalenjins                   19       10) Drummondville              18   
+   11) University of Toronto T.C.  14       12) Ottawa Lions               13   
+   12) Sherbrooke                  13       14) Throwers Club              12   
+   15) Ontario Racewalkers Associ  11       16) Lanaudière-Olympique        7   
+   17) Les Vikings Club De Course   6       18) JMAC - JAMCAN Internation   5   
+ 
+         Combined Team Scores - Master 60-64 - 38 Pointage par epreuve
+===============================================================================
+    1) Unattached - Ontario        86        2) Indépendant                53   
+    3) Throwers Club               47        4) GREYHOUNDS MASTERS TRACK   41   
+    5) Ottawa Lions                40        5) Lanaudière-Olympique       40   
+    7) University of Toronto T.C.  35        8) UNATTACHED NOVA SCOTIA     33   
+    9) Kilomaîtres De Lasalle      32       10) Les Vainqueurs             26   
+   11) Montréal-International      20       12) Vainqueurs Plus            17   
+   13) The Gazelles                14       14) Athlétisme Ville-Marie     13   
+   15) Etobicoke Track & Field Cl   7       15) Zénix De La Mauricie        7   
+   15) Unattached - British Colum   7       15) UNATTACHED-NEW BRUNSWICK    7   
+   19) Les Godasses Du Nord         6                                           
+ 
+         Combined Team Scores - Master 65-69 - 38 Pointage par epreuve
+===============================================================================
+    1) GREYHOUNDS MASTERS TRACK &  65        2) Throwers Club              58   
+    3) University of Toronto T.C.  46        4) Milpat Club Mauricie       35   
+    5) Rive-Sud                    33        6) Ontario Racewalkers Assoc  26   
+    7) Variety Village Athletic C  21        8) Les Vainqueurs             18   
+    9) Club De Coureurs Boréal     17       10) York University Track & F  14   
+   11) EDMONTON RACEWALK CLUB      13       12) SISU Throws Club            7   
+   13) Athlétisme Ville-Marie       6       14) Vainqueurs Plus             5   
+ 
+         Combined Team Scores - Master 70-74 - 31 Pointage par epreuve
+===============================================================================
+    1) GREYHOUNDS MASTERS TRACK & 181        2) Unattached - British Colu  42   
+    3) SAINT JOHN TRACK & FIELD    40        4) Indépendant                33   
+    5) JMAC - JAMCAN Internationa  28        6) Ottawa Lions               19   
+    7) Unattached - Ontario        14        8) Saint-Jean Olympique       12   
+    9) Brockville Legion Track Cl   5                                           
+ 
+         Combined Team Scores - Master 75-79 - 21 Pointage par epreuve
+===============================================================================
+    1) Unattached - Ontario       102        2) GREYHOUNDS MASTERS TRACK   98   
+    3) Les Vainqueurs              14        3) Throwers Club              14   
+    5) Indépendant                  4                                           
+ 
+         Combined Team Scores - Master 80-84 - 19 Pointage par epreuve
+===============================================================================
+    1) Saskatchewan                68        2) University of Toronto T.C  21   
+    3) Throwers Club               14        4) GREYHOUNDS MASTERS TRACK    7   
+    5) Unattached - Ontario         6                                           
 
 ```
-
