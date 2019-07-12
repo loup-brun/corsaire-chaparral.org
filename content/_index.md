@@ -127,10 +127,6 @@ images:
 - /img/coch-dos.jpg
 ---
 
-<a href="/competitions/corsaire-chaparral-invitation/" class="link-unstyled">
-![COCH Invitation 2019](/competitions/coch-inv-banniere.jpg)
-</a>
-
 <a href="/camp-de-jour/" class="link-unstyled">
 <img src="/img/camp-jour-athletisme.jpg" alt="Camp de jour 2019" />
 </a> 

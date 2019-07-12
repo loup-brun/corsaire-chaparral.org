@@ -32,6 +32,8 @@ Ajouter le service de garde
 
 ## Informations 
 
+Personne de contact : **Samuel Grondin-Bernier** – (438) 398-4049‬
+
 Vocation du camp de jour: initiation aux diverses disciplines de l’athlétisme.
 
 **Coût**  
