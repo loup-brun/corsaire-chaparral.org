@@ -10,7 +10,7 @@ date: 2019-07-05
 ```
 
 Licensed to Club D'Athletisme Corsaire - Chaparal
-                                                HY-TEK's Meet Manager 7/11/2019
+                                                 HY-TEK's Meet Manager 8/1/2019
 Championnats québécois junior-senior-para, pentathlon benjamin-cadet, CMA - 7/5
   Canadian Masters Championships, Quebec Junior-Senior-Para & U14/U16 Pentath  
                       Stade d'athlétisme Richard-Garneau                       
@@ -80,6 +80,5 @@ Championnats québécois junior-senior-para, pentathlon benjamin-cadet, CMA - 7/
                59 Les Vikings Club De Course         VIKI              6  
                59 Les Godasses Du Nord               LGDN              6  
                61 Halifast Athletics                 HFST              5  
-
 
 ```
