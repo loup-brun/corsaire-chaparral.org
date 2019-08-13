@@ -1,0 +1,88 @@
+// Splash page layout
+
+.splash {
+  min-height: 100vh;
+  padding: $spacing-lg $spacing;
+  
+  @media (min-width: $tablet-breakpoint) {
+    padding: $spacing-lg $spacing-xl;
+  }
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(135deg, $color-primary, saturate(adjust-hue($color-primary, -12%), 10%));
+  color: check-background($color-primary);
+  
+  position: relative;
+  
+  a:not(.btn) {
+    color: check-background($color-primary);
+    border-color: check-background($color-primary);
+
+  }
+}
+
+.splash__background-layer {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  
+  // splash background
+  
+  background-image: url('/img/COCH_Seul_4C.svg');
+  background-repeat: no-repeat;
+  
+  // mobile-first background layout
+  background-position: 25vw -4vh;
+  background-size: auto 95vh;
+  
+  
+  @media (min-width: $tablet-breakpoint) {
+    background-position: 40vw 1vh;
+    background-size: auto 125vh;
+  }
+  
+  opacity: 0.8;
+}
+.splash__content-layer {
+  position: relative;
+  z-index: 2;
+}
+
+.splash__header {
+  
+  > span {
+    font-size: 52px; // mobile-first size
+    margin: 0 0 70px;
+    margin-bottom: 25px;
+    line-height: 0.88;
+    
+
+    @media (min-width: $tablet-breakpoint) {
+      font-size: 9.2vw;
+      margin-bottom: 8vh;
+    }
+  }
+}
+
+.splash__lead {
+  
+  @media (min-width: $tablet-breakpoint) {
+    font-size: 1.46vw;
+
+    .btn {
+      font-size: inherit;
+    }
+  }
+
+  .splash__buttons {
+    margin-top: 5vh;
+    
+    .btn + .btn {
+      margin-top: .75em;
+    }
+  }
+}

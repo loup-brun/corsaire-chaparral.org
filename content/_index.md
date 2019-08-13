@@ -1,57 +1,22 @@
 ---
 title: Accueil
-layout: home
-backgroundImg: /img/coch-dos.jpg
-slides:
-#  - heading: "Compétition : Corsaire-Chaparral Invitation"
-#    body: >
-#      La grande compétition estivale du Corsaire-Chaparral arrive à grands pas!
-#    buttons:
-#    - title: Résultats
-#      url: /resultats/2019/coch-invitation/
-#      post: <span class="icon icon-angle-right"></span>
-#      class: btn-primary
-  - heading: "Gros weekend de championnats"
-    body: >
-      Le Corsaire-Chaparral était l'hôte de 3 championnats d'envergure du 5 au 7 juillet 2019.
-    buttons:
-    - title: Résultats
-      url: /resultats/
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-primary
-  - heading: "Canadian Masters Championships"
-    body: >
-      July 5-7 in Ste-Thérèse – welcome!
-    buttons:
-    - title: Results
-      url: /resultats/championnats-can-masters/
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-primary
-  - heading: "Championnat québécois de pentathlon"
-    body: >
-      Championnat québécois de pentathlon benjamin-cadet (samedi 6 juillet 2019)
-    buttons:
-    - title: Résultats
-      url: /resultats/2019/championnats-qc-pent-bn-cd/
-      post: <span class="icon icon-angle-right"></span>
-      class: btn-primary
-#  - heading: Camp de jour en athlétisme
-#    body: >
-#      Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme cet été.
-#    buttons:
-#    - title: Infos et inscription
-#      url: /camp-de-jour/
-#      post: <span class="icon icon-pencil"></span>
-#      class: btn-primary
-#  - heading: Club satellite – Lachute
-#    body: >
-#      Le Corsaire-Chaparral est heureux de participer au développement de l’athlétisme régional en lançant un nouveau club satellite à Lachute.
-#    buttons:
-#    - title: Informations
-#      url: /club/entrainements/
-#      pre: 
-#      post: <span class="icon icon-angle-right"></span>
-#      class: btn-default
+type: accueil
+layout: splash
+
+intro : >
+  Le Corsaire-Chaparral fait relâche pour le mois d’août.
+  
+  
+  De retour à l’entraînement le [**samedi 14 septembre 2019**](/nouvelles/).
+  
+  
+  N’oubliez pas le [**Demi-Marathon de Blainville**](https://demimarathondeblainville.com/fr/) le 8 septembre 2019.
+  
+  
+  <div class="splash__buttons phone-text-center">
+  <a href="https://demimarathondeblainville.com/fr/Benevoles/" class="btn btn-default">Devenir bénévole <span class="icon icon-angle-right"></span></a>
+  <a href="https://makeitrun.co/races/2019/demi-marathon-de-blainville" class="btn btn-primary">S’inscrire à la course <span class="icon icon-pencil"></span></a>
+  </div>
 
 featuredPhotosUrl: https://photos.corsaire-chaparral.org
 featuredPhotos:
@@ -127,10 +92,3 @@ images:
 - /img/coch-dos.jpg
 ---
 
-<a href="/camp-de-jour/" class="link-unstyled">
-<img src="/img/camp-jour-athletisme.jpg" alt="Camp de jour 2019" />
-</a> 
-
-<a href="/initiation-course-mise-en-forme/" class="link-unstyled">
-<img src="/img/promo-clinique-course.jpg" alt="Nouveau! Clinique d’initiation à la course à pied et mise en forme" />
-</a> 
