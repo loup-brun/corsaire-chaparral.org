@@ -43,6 +43,7 @@
 .btn-default { @include btn-style($gray-lighter) }
 .btn-primary { @include btn-style($color-primary) }
 .btn-secondary { @include btn-style($color-secondary) }
+.btn-tertiary { @include btn-style($color-tertiary) }
 .btn-link { @include btn-style($color-link) }
 //.btn-danger { @include btn-style($red) }
 //.btn-white { @include btn-style(#fff) }

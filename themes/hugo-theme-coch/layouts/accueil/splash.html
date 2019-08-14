@@ -4,105 +4,41 @@
   <section class="splash">
     <div class="splash__background-layer"></div>
     <div class="splash__content-layer">
-      <div class="container container-full">
-        <div class="splash__header">
-          <span class="h1 block">
-            De retour en septembre
-          </span>
-        </div>
+      <div class="splash__header">
+        <span class="h1 block">
+          {{ .Params.splash.title }}
+        </span>
+      </div>
 
-        <div class="splash__lead">
-          {{ .Params.Intro | markdownify }}
-        </div>
+      <div class="splash__lead">
+        {{ .Params.splash.lead | markdownify }}
       </div>
     </div>
   </section>
-  
-  <div class="container container-full">
-    
-    <!-- Page markdown content is rendered here -->
-    {{ .Content }}
 
-    <h2>Quoi de neuf</h2>
-
-    <div class="row">
-      <aside class="col col-4 tablet-col-12 right">
-      </aside>
-
-      <article class="col col-8 tablet-col-12">
-        <section>
-
-          {{ with .Site.GetPage "section" "nouvelles" }}
-
-          <!-- Other articles -->
-          {{ range first 3 .Pages }}
-          {{ partial "nouvelle-apercu.html" . }}
-          {{ end }}
-          {{ end }}
-
-          <div class="row row-sm">
-            <a href="/nouvelles/" class="btn btn-secondary -sm">
-              Toutes les nouvelles
-              <span class="icon icon-hamburger"></span>
-            </a>
-          </div>
-        </section>
-
-        {{ if isset .Params "announcement" }}
-          <div class="alert -primary phone-text-center">
-              <span class="h1 alert__heading">{{ .Params.announcement.title }} <span class="icon icon-pencil"></span></span>
-              <p>
-                {{ .body | markdownify }}
-              </p>
-            </div>
-        {{ end }}
-
-      </article>
-    </div>
-  </div>
-  
-  <section class="row-lg" id="photos">
+  <section class="section-large-type" id="blablabla">
     <div class="container container-full">
-      <h2>Dernières photos</h2>
-      <div class="row">
-        {{ range first 3 .Params.featuredPhotos }}
-        <div class="col col-4 tablet-col-12">
-          <a href="{{ .url}}">
-            <figure class="featured-photo-figure"
-                    style="background-image: url({{ .img }})">
-              <img src="{{ .img }}" alt="{{ .title }}" />
-              <figcaption class="featured-photo-figure__caption">
-                <h3>{{ .title }}</h3>
-              </figcaption>
-            </figure>
-          </a>
-        </div>
-        {{ end }}
-      </div>
       
-      <a href="{{ .Params.featuredPhotosUrl }}" class="btn btn-primary">Voir plus de photos <span class="icon icon-angle-right"></span></a>
+      <div class="row">
+        <div class="col col-10 phone-col-12">
+          <h2 class="h1">Qu’est-ce que le Corsaire-Chaparral?</h2>
+          
+          <p class="lead">
+            {{ .Site.Params.description }}
+            <br><a href="/club/histoire-mission/">En savoir plus</a>
+          </p>
+          
+          {{ .Content }}
+        </div>
+      </div>
     </div>
   </section>
-  
-  <section id="partenaires" class="row">
-    <div class="container">
-      <h2>Partenaires de championnat 2019</h2>
-      {{ range .Site.Data.partenaires_champ_2019 }}
-      {{ partial "partenaire.html" . }}
-      {{ end }}
-    </div>
-  </section>
-  
-  <section class="row-lg" id="infolettre">
+
+  <section id="infolettre">
     <div class="container container-full">
       <div class="row">
-        <div class="col col-6 tablet-col-4 phone-col-12 text-center">
-          <img class="img-responsive"
-           src="/img/new-message.png"
-           alt="Courrier" />
-        </div>
         <div class="col col-6 tablet-col-8 phone-col-12">
-          <div class="container no-margin">
+          <div class="container no-padding">
             <h2>Infolettre <span class="icon icon-mail"></span></h2>
 
             <p>Parents et athlètes, ajoutez votre adresse courriel pour recevoir toutes les informations. Si vous vous êtes inscrit(e) au club pour la saison 2018–2019, vous avez déjà été ajouté(e) à l’infolettre!</p>
@@ -155,9 +91,90 @@
             </div>
           </div>
         </div>
+        <div class="col col-6 tablet-col-4 phone-col-12 text-center">
+          <img class="img-responsive"
+           src="/img/new-message.png"
+           alt="Courrier" />
+        </div>
       </div>
     </div>
   </section>
+  
+  {{/*}}
+  <div class="container container-full">
+
+    <h2>Quoi de neuf</h2>
+
+    <div class="row">
+      <aside class="col col-4 tablet-col-12 right">
+      </aside>
+
+      <article class="col col-8 tablet-col-12">
+        <section>
+
+          {{ with .Site.GetPage "section" "nouvelles" }}
+
+          {{ range first 3 .Pages }}
+          {{ partial "nouvelle-apercu.html" . }}
+          {{ end }}
+          {{ end }}
+
+          <div class="row row-sm">
+            <a href="/nouvelles/" class="btn btn-secondary -sm">
+              Toutes les nouvelles
+              <span class="icon icon-hamburger"></span>
+            </a>
+          </div>
+        </section>
+
+        {{ if isset .Params "announcement" }}
+          <div class="alert -primary phone-text-center">
+              <span class="h1 alert__heading">{{ .Params.announcement.title }} <span class="icon icon-pencil"></span></span>
+              <p>
+                {{ .body | markdownify }}
+              </p>
+            </div>
+        {{ end }}
+
+      </article>
+    </div>
+  </div>
+  {{*/}}
+  
+  {{/*}}
+  <section class="row-lg" id="photos">
+    <div class="container container-full">
+      <h2>Dernières photos</h2>
+      <div class="row">
+        {{ range first 3 .Params.featuredPhotos }}
+        <div class="col col-4 tablet-col-12">
+          <a href="{{ .url}}">
+            <figure class="featured-photo-figure"
+                    style="background-image: url({{ .img }})">
+              <img src="{{ .img }}" alt="{{ .title }}" />
+              <figcaption class="featured-photo-figure__caption">
+                <h3>{{ .title }}</h3>
+              </figcaption>
+            </figure>
+          </a>
+        </div>
+        {{ end }}
+      </div>
+      
+      <a href="{{ .Params.featuredPhotosUrl }}" class="btn btn-primary">Voir plus de photos <span class="icon icon-angle-right"></span></a>
+    </div>
+  </section>
+  {{/*}}
+  <section id="partenaires" class="row">
+    <div class="container">
+      <h2>Partenaires de championnat 2019</h2>
+      {{ range .Site.Data.partenaires_champ_2019 }}
+      {{ partial "partenaire.html" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{*/}}
+  
 </main>
 
 {{ partial "mautic-script.html" . }}

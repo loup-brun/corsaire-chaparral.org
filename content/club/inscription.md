@@ -13,35 +13,30 @@ menu:
 
 _Vous cherchez le camp de jour? Veuillez consulter la [page dédiée](/camp-de-jour/)._
 
-{{% div class="alert -primary" %}}
 
 <!--**L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis remplissez le formulaire d'inscription en ligne.-->
 
-**Les inscriptions pour la saison 2019-2020 reprendront en septembre. Bonne fin d'été!**
-
-<!--
-<a class="btn btn-default" href="#comment-s-inscrire">
-</span>En savoir plus <span class="icon icon-angle-down">
-</a>
-<a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">
-Formulaire en ligne <span class="icon icon-pencil"></span>
-</a>
--->
+{{% div class="alert -primary" %}}
+**Les inscriptions pour la saison 2019-2020 reprendront le 1<sup>er</sup> septembre 2019. Bon été!**
 
 {{% /div %}}
 
+<!--
 
 ## Comment s’inscrire?
 
 1. Remplissez le [formulaire d’inscription](https://campagnes.corsaire-chaparral.org/inscription-2018-2019) pour chaque athlète.
 2. Patientez; un courriel vous sera envoyé quelques jours plus tard lorsque votre facture sera prête. 
 3. [Payez](/payer) votre facture en ligne.
+-->
+<!--
 
 {{% div class="well well-danger" %}}
 **NOTE IMPORTANTE SUR LES COURRIELS**
 
 Toutes les communications se font par courriel. Assurez-vous d’ajouter **info@corsaire-chaparral.org** à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{% /div %}}
+-->
 
 ## Informations générales et politiques d'inscription
 
@@ -56,6 +51,12 @@ Veuillez prendre note qu'un rabais est accordé aux familles ayant plus d'un ath
 {{% /div %}}
 
 ## Catégories d'âge et tarifs d'inscription
+
+{{% div class="well well-danger" %}}
+**ATTENTION!**
+
+La grille ci-dessous présente les tarifs pour la saison _2018-2019_. Les montants seront bientôt mis à jour pour la prochaine saison, à compter du 1<sup>er</sup> septembre 2019.
+{{% /div %}}
 
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> mars au 31 août |
 | ----------------------- | ---------------------------------- | --------------------------------- |

@@ -11,9 +11,12 @@ menu:
 layout: single
 ---
 
-## Reprise de la saison 2018-2019
+## Reprise de la saison 2019-2020
 
-Les entraînements reprendront **samedi 15 septembre 2018** à de 10&nbsp;h&nbsp;30 à 12&nbsp;h exceptionnellement pour toutes les catégories, **sauf pour les minimes** dont l'entraînement sera gardé à **9 h 00**. Un pique-nique sera également organisé après l’entraînement dès midi.
+Les entraînements reprendront **samedi 14 septembre 2019** de 10&nbsp;h&nbsp;30 à 12&nbsp;h pour les catégories **benjamin et plus vieux**.  
+Un BBQ sera également organisé après l’entraînement dès midi.
+
+**Les colibris et les minimes reprendont au mois d'octobre (date à venir).**
 
 Les entraînements reprendront par la suite selon l’horaire des catégories (voir plus bas).
 
@@ -47,11 +50,7 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
-{{% div class="alert -primary" %}}
-**Club satellite de Lachute** : les résidents de la région de Lachute qui souhaitent faire de l’athlétisme pendant les mois d’octobre, novembre, décembre, janvier, février, mars devront s’incrire au club régulier et pourront prendre part aux entrainements à Sainte-Thérèse. À partir d’**avril 2019**, les activités à la polyvalente Lavigne reprendront.
-{{% /div %}}
-
-### Colibri (2010-2011-2012)
+### Colibri (2011-2012-2013)
 
 <em class="badge badge-primary">Nouveau!</em> Une nouvelle session pour les colibris de 10 semaines recommencera à partir du **samedi 13 avril 2019** et se concluera le **samedi 15 juin 2019** avec une mini-compétition amicale!
 
@@ -63,7 +62,7 @@ Entraîneurs responsables :
 * [Samuel Gougeon](/club/entraineurs/samuel-gougeon)
 * [Alexandre Lafleur](/club/entraineurs/alexandre-lafleur)
 
-### Minime (2008-2009)
+### Minime (2009-2010)
 
 - Samedi 9 h à 10 h 30
 
@@ -71,7 +70,7 @@ Consultez le [calendrier](minimes) pour les minimes.
 
 Entraîneur responsable : [Charles-Olivier Roy](/club/entraineurs/charles-olivier-roy/).
 
-### Benjamin (2006-2007)
+### Benjamin (2007-2008)
 
 - Jeudi 18 h à 19 h 30
 - Samedi 9 h à 10 h 30
@@ -80,7 +79,7 @@ Consultez le [calendrier](benjamins) pour les benjamins.
 
 Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).
 
-### Cadet (2004-2005)
+### Cadet (2005-2006)
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
@@ -90,15 +89,16 @@ Consultez le [calendrier](cadets) pour les cadets.
 
 Entraîneur responsable : Samuel Grondin-Bernier.
 
-### Juvénile (2002-2003), junior (2000-2001) et senior (1985-1999)
+### Juvénile (2003-2004), junior (2001-2002) et senior (1986-2000)
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-### Vétéran (1984 et avant)
+### Vétéran (1985 et avant)
 
 Horaire à confirmer lors de l'inscription.
+<!--
 
 ### Demi-fond (cadet, juvénile et plus vieux)
 
@@ -114,9 +114,8 @@ Entraîneurs responsables :
 
 - [Sabrina Lavigne](/club/entraineurs/sabrina-lavigne/)
 - Simon Prince-Desjardins
+-->
 
 ### Horaire d’entraînement – Lachute
 
-{{% div class="alert -primary" %}}
-**Club satellite de Lachute** : les résidents de la région de Lachute qui souhaitent faire de l’athlétisme pendant les mois d’octobre, novembre, décembre, janvier, février, mars devront s’incrire au club régulier et pourront prendre part aux entrainements à Sainte-Thérèse. À partir d’**avril 2019**, les activités à la polyvalente Lavigne reprendront.
-{{% /div %}}
+À venir.

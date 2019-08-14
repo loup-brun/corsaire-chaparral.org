@@ -15,5 +15,8 @@ build:
 build-staging:
 	hugo --config=config.yml,config.staging.yml --minify
 
+all-staging:
+	hugo --config=config.yml,config.staging.yml --minify && ./deploy-staging
+
 all:
 	make build && ./deploy-production

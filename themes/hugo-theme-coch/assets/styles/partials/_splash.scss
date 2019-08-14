@@ -6,6 +6,7 @@
   
   @media (min-width: $tablet-breakpoint) {
     padding: $spacing-lg $spacing-xl;
+    padding: 4vh 4vw;
   }
   display: flex;
   flex-direction: column;
@@ -55,14 +56,13 @@
 .splash__header {
   
   > span {
-    font-size: 52px; // mobile-first size
-    margin: 0 0 70px;
-    margin-bottom: 25px;
+    font-size: 44px; // mobile-first size
+    margin: 0 0 25px;
     line-height: 0.88;
     
 
     @media (min-width: $tablet-breakpoint) {
-      font-size: 9.2vw;
+      font-size: 13.5vh;
       margin-bottom: 8vh;
     }
   }
@@ -71,7 +71,7 @@
 .splash__lead {
   
   @media (min-width: $tablet-breakpoint) {
-    font-size: 1.46vw;
+    font-size: 2.5vh;
 
     .btn {
       font-size: inherit;
@@ -79,10 +79,46 @@
   }
 
   .splash__buttons {
-    margin-top: 5vh;
+    margin-top: 8vh;
     
     .btn + .btn {
       margin-top: .75em;
     }
+  }
+}
+
+.section-large-type {
+  font-size: 20px;
+  
+  hr {
+    background-color: $gray-light;
+  }
+  .container {
+    @media (min-width: $tablet-breakpoint) {
+      @include horizontal-padding(4vw);
+    }
+  }
+  
+  p {
+    > a {
+      border-bottom-width: 0.1em;
+    }
+  }
+
+  @media (min-width: $phone-breakpoint) {
+    font-size: 3.75vh;
+    
+    h1, .h1 {
+      font-size: 1.8em;
+    }
+    h2, .h2 {
+      font-size: 1.5em;
+    }
+    h3, .h3 {
+      font-size: 1.33em;
+    }
+  }
+  @media (min-width: $tablet-breakpoint) {
+    font-size: 5vh;
   }
 }
