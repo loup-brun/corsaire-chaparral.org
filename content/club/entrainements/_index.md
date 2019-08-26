@@ -13,8 +13,12 @@ layout: single
 
 ## Reprise de la saison 2019-2020
 
-Les entraînements reprendront **samedi 14 septembre 2019** de 10&nbsp;h&nbsp;30 à 12&nbsp;h pour les catégories **benjamin et plus vieux**.  
+{{% div class="well well-primary" %}}
+
+Les entraînements reprendront **samedi 14 septembre 2019 de 10&nbsp;h&nbsp;30 à 12&nbsp;h** pour les catégories **benjamin et plus vieux**.  
 Un BBQ sera également organisé après l’entraînement dès midi.
+
+{{% /div %}}
 
 **Les colibris et les minimes reprendont au mois d'octobre (date à venir).**
 
@@ -52,30 +56,30 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2011-2012-2013)
 
-<em class="badge badge-primary">Nouveau!</em> Une nouvelle session pour les colibris de 10 semaines recommencera à partir du **samedi 13 avril 2019** et se concluera le **samedi 15 juin 2019** avec une mini-compétition amicale!
+**Prochaine session : octobre 2019** (date à venir).
 
- - Samedi 9 h à 10 h 30
+<!-- - Samedi 9 h à 10 h 30-->
 
-Entraîneurs responsables :
+Entraîneur responsable :
 
-* [Christophe Miglierina](/club/entraineurs/christophe-miglierina/) (entraîneur responsable)
-* [Samuel Gougeon](/club/entraineurs/samuel-gougeon)
-* [Alexandre Lafleur](/club/entraineurs/alexandre-lafleur)
+- [Christophe Miglierina](/club/entraineurs/christophe-miglierina/)
 
 ### Minime (2009-2010)
 
-- Samedi 9 h à 10 h 30
+**Prochaine session : octobre 2019** (date à venir).
 
-Consultez le [calendrier](minimes) pour les minimes.
+<!--- Samedi 9 h à 10 h 30-->
 
-Entraîneur responsable : [Charles-Olivier Roy](/club/entraineurs/charles-olivier-roy/).
+Entraîneur responsable : 
+
+- [Charles-Olivier Roy](/club/entraineurs/charles-olivier-roy/).
 
 ### Benjamin (2007-2008)
 
 - Jeudi 18 h à 19 h 30
 - Samedi 9 h à 10 h 30
 
-Consultez le [calendrier](benjamins) pour les benjamins.
+<!--Consultez le [calendrier](benjamins) pour les benjamins.-->
 
 Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).
 
@@ -85,7 +89,7 @@ Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/)
 - Jeudi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-Consultez le [calendrier](cadets) pour les cadets.
+<!--Consultez le [calendrier](cadets) pour les cadets.-->
 
 Entraîneur responsable : Samuel Grondin-Bernier.
 
@@ -98,6 +102,7 @@ Entraîneur responsable : Samuel Grondin-Bernier.
 ### Vétéran (1985 et avant)
 
 Horaire à confirmer lors de l'inscription.
+
 <!--
 
 ### Demi-fond (cadet, juvénile et plus vieux)
@@ -115,6 +120,7 @@ Entraîneurs responsables :
 - [Sabrina Lavigne](/club/entraineurs/sabrina-lavigne/)
 - Simon Prince-Desjardins
 -->
+
 
 ### Horaire d’entraînement – Lachute
 
