@@ -48,14 +48,14 @@ Les inscriptions mensuelles ne sont pas acceptées.
 
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août |
 | ----------------------- | ------------------ | ------ |
-| Colibri (2010-2011-2012)| 103 $ par session  |        |
-| Minime (2008-2009)      | 190 $              | 150 $  |
-| Benjamine (2006-2007)   | 370 $              | 290 $  |
-| Cadettte (2004-2005)    | 425 $              | 330 $  |
-| Juvénile (2002-2003)    | 588 $              | 448 $  |
-| Junior (2000-2001)      | 742 $              | 562 $  |
-| Senior (1985-1999)      | 752 $              | 572 $  |
-| Vétéran (1984 et avant) | 588 $              | 448 $  |
+| Colibri (2011-2012-2013)| 103 $ par session  |        |
+| Minime (2009-2010)      | 190 $              | 150 $  |
+| Benjamin  (2007-2008)   | 370 $              | 290 $  |
+| Cadet (2005-2006)       | 425 $              | 330 $  |
+| Juvénile (2003-2004)    | 588 $              | 448 $  |
+| Junior (2001-2002)      | 742 $              | 562 $  |
+| Senior (1986-2000)      | 752 $              | 572 $  |
+| Vétéran (1985 et avant) | 588 $              | 448 $  |
 
 {{< note >}}
 ### Notes
@@ -71,9 +71,9 @@ Les inscriptions mensuelles ne sont pas acceptées.
 
 | Catégorie               | Cotisation   |
 | ----------------------- | ------------ |
-| Benjamine (2005-2006)   | 90 $         |
-| Cadette (2003-2004)     | 100 $        |
-| Juvénile (2001-2002)    | 110 $        |
+| Benjamin (2006-2007)    | 90 $         |
+| Cadet (2004-2005)       | 100 $        |
+| Juvénile (2002-2003)    | 110 $        |
 -->
 
 ## Bénévolat et activités de financement
