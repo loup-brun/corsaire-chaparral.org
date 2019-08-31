@@ -20,11 +20,7 @@ Former les jeunes à la compétition athlétique, spécifiquement dans les disci
 
 Les services offerts par le COCH incluent l'affiliation à la Fédération d'athlétisme du Québec, un programme d'entraînement réparti sur toute l'année et supervisé par une équipe d’entraîneurs certifiés par le Programme national de certification des entraîneurs (PNCE), l'inscription aux compétitions et l'encadrement lors de ces rencontres.
 
-Doté d'une structure interne comprenant un club-école et un club-élite, le COCH est en mesure d'adapter ces services à ses athlètes des catégories Colibri (8-9 ans) à Junior (17-18 ans) selon leur niveau. Quelques athlètes de catégorie Senior et Vétéran comptent aussi parmi nos plus fiers représentants.
-
-Le club-école regroupe tous nos athlètes minime à junior en développement. Les entraînements ont lieu à Sainte-Thérèse et Blainville et permettent aux jeunes de s'initier aux disciplines et de choisir les épreuves dans lesquelles ils/elles voudront éventuellement se spécialiser.
-
-Le club-élite concentre ses activités d'entraînement au Complexe sportif Claude-Robillard à Montréal. La formation y est dispensée à un niveau d'intensité et de spécialisation plus élevé, aux athlètes dont les performances en compétition permettent le choix d'objectifs de plus haut niveau.
+Les entraînements ont lieu au stade d’athlétisme Richard-Garneau Sainte-Thérèse et permettent aux athlètes de tous les niveaux de s'initier aux différentes disciplines et, le temps venu de choisir leur épreuves de spécialisation.
 
 ### Les disciplines <span class="icon icon-athletics-3"></span>
 

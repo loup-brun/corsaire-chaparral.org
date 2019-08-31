@@ -104,7 +104,7 @@
     display: none;
   }
   background-color: $color-primary;
-  padding: $spacing;
+  padding: $spacing-lg;
   &__title {
     font-size: $font-size * 2;
     margin: 0 !important;
@@ -116,8 +116,8 @@
   
   &__logo {
     float: left;
-    height: $font-size * 4;
-    width:  $font-size * 4;
+    height: $font-size * 5;
+    width:  $font-size * 5;
     display: inline-block;
     margin-right: $spacing;
     

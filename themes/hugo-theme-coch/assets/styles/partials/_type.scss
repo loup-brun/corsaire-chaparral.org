@@ -67,6 +67,13 @@ h1, h2, h3, h4, h5, h6,
   @extend .font-bold;
   font-family: $font-family-h;
   display: block;
+  
+  // reset awkward top margin inside wells
+  .well & {
+    &:first-child {
+      margin-top: 0;
+    }
+  }
 }
 
 h1, .h1 {

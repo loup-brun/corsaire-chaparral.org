@@ -3,6 +3,7 @@ title: "Initiation à la course à pied et mise en forme"
 slug: initiation-course-mise-en-forme
 images:
 - /img/steven-lelham-342930-unsplash.jpg
+published: false
 ---
 
 **Coût** : 100 $ / SESSION

@@ -6,7 +6,9 @@ layout: splash
 splash:
   title: "De retour en septembre"
   lead : >
-    Les entraînements reprendront le [**samedi 14 septembre 2019**](/club/inscription/).
+    Les entraînements reprendront le [**samedi 14 septembre 2019**](/club/inscription/)*.  
+
+    <small><em>*Reprise pour les colibris et les minimes au mois d'octobre.</em></small>
 
 
     N’oubliez pas le [**Demi-Marathon de Blainville**](https://demimarathondeblainville.com/fr/) le 8 septembre 2019.
@@ -75,18 +77,11 @@ featuredPhotos:
 #    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/06/Fl7w.th.jpg"
 #    url: "https://photos.corsaire-chaparral.org/i/Fl7w"
 
-#announcement:
-#  title: Inscription 2018-2019
-#  icon: icon-star
-#  body: >
-#    L'inscription est en cours! Consultez les détails relativement à l'[inscription](/club/inscription), puis remplissez le [formulaire](https://campagnes.corsaire-chaparral.org/inscription-2018-2019) en ligne.
-#    <br><br>
-#    <a class="btn btn-default" href="/club/inscription">
-#    </span>Informations <span class="icon icon-assignment">
-#    </a>
-#    <a class="btn btn-primary" href="https://campagnes.corsaire-chaparral.org/inscription-2018-2019">
-#    Inscription <span class="icon icon-pencil"></span>
-#    </a>
+announcement:
+  title: Inscription 2018-2019
+  icon: icon-star
+  body: >
+    L'inscription 2019-2020 est en cours! Consultez les détails de la nouvelle saison et [inscrivez-vous ici](/inscription).
 images:
 - /img/coch-dos.jpg
 ---
@@ -97,16 +92,8 @@ images:
 
 \- Le [Demi-Marathon de Blainville](https://demimarathondeblainville.com/fr/)  
 \- Un [camp de jour](/camp-de-jour/) spécialisé en athlétisme  
-\- Une [clinique](/initiation-course-mise-en-forme/) de course à pied  
+\- Une clinique de course à pied  
 \- Des [compétitions](/competitions/) régionales, provinciales et nationales
-
-<a href="/camp-de-jour/" class="link-unstyled">
-<img src="/img/camp-jour-athletisme.jpg" alt="Camp de jour 2019" />
-</a> 
-
-<a href="/initiation-course-mise-en-forme/" class="link-unstyled">
-<img src="/img/promo-clinique-course.jpg" alt="Nouveau! Clinique d’initiation à la course à pied et mise en forme" />
-</a>
 
 ---
 

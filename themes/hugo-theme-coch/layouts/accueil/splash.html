@@ -20,7 +20,24 @@
     <div class="container container-full">
       
       <div class="row">
+        <div class="col col-12">
+          {{ if isset .Params "announcement" }}
+            <div class="well well-primary">
+              <span class="h1 alert__heading">{{ .Params.announcement.title }} <span class="icon icon-pencil"></span></span>
+
+              {{- with .Params.announcement.body -}}
+              <p>
+                {{ . | markdownify }}
+              </p>
+              {{- end -}}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+      
+      <div class="row">
         <div class="col col-10 phone-col-12">
+
           <h2 class="h1">Qu’est-ce que le Corsaire-Chaparral?</h2>
           
           <p class="lead">
@@ -126,15 +143,6 @@
             </a>
           </div>
         </section>
-
-        {{ if isset .Params "announcement" }}
-          <div class="alert -primary phone-text-center">
-              <span class="h1 alert__heading">{{ .Params.announcement.title }} <span class="icon icon-pencil"></span></span>
-              <p>
-                {{ .body | markdownify }}
-              </p>
-            </div>
-        {{ end }}
 
       </article>
     </div>

@@ -4,7 +4,9 @@
 {{ "<!--[if IE 8]>" | safeHTML }}<html lang="fr" class="no-js lt-ie9"> {{ "<![endif]-->" | safeHTML }}
 {{ "<!--[if gt IE 8]><!-->" | safeHTML }}<html class="no-js" lang="fr"> {{ "<!--<![endif]-->" | safeHTML }}
   {{ partial "head.html" . }}
-  <body>
+  <body class="landing-page">
+
+    {{- partial "navbar.html" . -}}
 
     {{- block "main" . }}
     <main class="container container-main" role="main">

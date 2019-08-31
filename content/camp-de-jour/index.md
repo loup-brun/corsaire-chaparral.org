@@ -2,9 +2,15 @@
 title: "Camp de jour 2019"
 date: 2019-04-07T13:25:59-04:00
 description: >
-  Le Corsaire-Chaparral offrira un camp de jour spécialisé en athlétisme à l’été 2019, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
+  Le Corsaire-Chaparral offre un camp de jour spécialisé en athlétisme à l’été 2019, en partenariat avec les villes de Blainville et de Sainte-Thérèse.
 
 ---
+
+{{< div class="well well-primary h2 text-center" >}}
+Merci, à l'été prochain! ☀️
+{{< /div >}}
+
+<!--
 
 ## Inscription
 
@@ -72,3 +78,4 @@ Le port de vêtements appropriés selon la température est recommandé.
 - Du 5 au 9 aout
 - Du 12 au 16 aout
 
+-->

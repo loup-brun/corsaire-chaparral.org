@@ -7,7 +7,7 @@ menu:
     weight: 100
 ---
 
-Il est attendu que chaque athlète (et sa famille) accomplisse [**15 heures**](/club/inscription/#b%C3%A9n%C3%A9volat-et-activit%C3%A9s-de-financement) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
+Il est attendu que chaque athlète (et sa famille) accomplisse [**20 heures**](/club/inscription/#b%C3%A9n%C3%A9volat-et-activit%C3%A9s-de-financement) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
 
 Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chaparral.org), responsable des bénévoles.
 
@@ -15,6 +15,9 @@ Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chap
 
 | Date       | Événement                  |
 |------------|----------------------------|
+| 2019-09-08 | Demi-Marathon de Blainville – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
+
+<!--
 | 2018-10-05 | Cross-country École en forme et en santé |
 | 2018-10-28 | Demi-marathon Oasis de Blainville – [Infos](https://www.lacoursedeblainville.com/fr/Benevoles/) |
 | 2018-12-14 | Montage pour le Festival en salle des jeunes – [Infos](/competitions/festival-en-salle-des-jeunes) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-festival-en-salle-coch-2018) |
@@ -29,7 +32,7 @@ Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chap
 | 2019-06-29 | Corsaire-Chaparral Invitation 2019 – [Infos](/competitions/corsaire-chaparral-invitation) | [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-coch-invitation-2019)
 | 2019-07-05 | Championnats canadiens vétéran 2019 – [Infos](/competitions/championnats-canadiens-veteran-2019/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019) |
 | 2019-07-06 | Championnats québécois 2019 – [Infos](/competitions/championnats-quebecois-junior-senior-para-2019) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-provinciaux-ete-2019/) |
-| 2019-09-08 | Demi-Marathon de Blainville – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
+-->
 
 ## Tâches régulières
 

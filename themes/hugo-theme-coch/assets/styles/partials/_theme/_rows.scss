@@ -9,13 +9,13 @@
 .row-darker { background-color: $gray-darker; color: check-background($gray-darker); }
 
 // Colors
-.row-primary {
-    background-color: $color-primary;
+.row-primary, .well-primary {
+  background-color: $color-primary;
+  color: check-background($color-primary);
+  a {
     color: check-background($color-primary);
-    p > a {
-        color: check-background($color-primary);
-        border-color: check-background($color-primary);
-    }
+    border-color: check-background($color-primary);
+  }
 }
 .row-danger { background-color: $color-danger; color: check-background($color-danger); }
 
