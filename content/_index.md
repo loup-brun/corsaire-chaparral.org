@@ -88,6 +88,16 @@ images:
 
 ---
 
+## Sections
+
+[Club](/club/) / 
+[Compétitions](/competitions/) / 
+[Résultats](/resultats/) / 
+[Nouvelles](/nouvelles/) / 
+[Contact](/contact//)
+
+---
+
 ## Activités
 
 \- Le [Demi-Marathon de Blainville](https://demimarathondeblainville.com/fr/)  
@@ -101,7 +111,8 @@ images:
 
 ### Comment puis-je faire de l’athlétisme?
 
-Les inscriptions pour la saison 2019-2020 débuteront à compter du 1<sup>er</sup> septembre 2019.
+Les entraînements reprennent le **samedi 14 setpembre 2019** de 10&nbsp;h à 12&nbsp;h*. Les inscriptions en ligne pour la saison 2019-2020 débutent à compter du 1<sup>er</sup> septembre 2019. [S’inscrire <span class="icon icon-angle-right"></span>](/inscription/)  
+<small><em>*Reprise pour les colibris et les minimes au mois d'octobre (date à venir).</em></small>
 
 ### Quelles sont les catégories d’âge?
 
