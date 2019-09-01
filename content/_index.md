@@ -120,7 +120,7 @@ _<small>Saison 2019-2020</small>_
 
 | Catégorie              | Année de naissance |
 | ---------------------- | -------------------|
-| Colibri                | 2011-2012-2013     |
+| Colibri                | 2011-2012          |
 | Minime                 | 2009-2010          |
 | Benjamine              | 2007-2008          |
 | Cadettte               | 2005-2006          |
