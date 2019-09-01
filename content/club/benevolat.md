@@ -15,7 +15,7 @@ Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chap
 
 | Date       | Événement                  |
 |------------|----------------------------|
-| 2019-09-08 | Demi-Marathon de Blainville – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
+| 2019-09-08 | *Demi-Marathon de Blainville – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/)<br><small><em>*sera comptabilisé pour les heures de l'année 2018-2019</em></small> |
 
 <!--
 | 2018-10-05 | Cross-country École en forme et en santé |

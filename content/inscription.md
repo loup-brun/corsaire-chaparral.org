@@ -84,7 +84,7 @@ Chaque **famille** doit accomplir un minimum de **20 heures** au cours de la sai
 
 Les heures de bénévolat peuvent être accomplies par l’athlète et/ou par un parent de la même famille. Les heures de bénévolat effectuées par plusieurs membres d’une même famille seront additionnées ; par contre, elles ne peuvent être transférées à un autre athlète.
 
-Pour chacune des heures comptabilisées, le club déduira **10,00&nbsp;$** de la contribution initiale jusqu’à concurrence du dépôt de 200 $. Au-delà de 15 heures de bénévolat, l’athlète est acquitté de ses devoirs et ses heures ne seront plus comptabilisées. Les heures de bénévolat ne peuvent être fractionnées ou transférées sur deux saisons différentes.
+Pour chacune des heures comptabilisées, le club déduira **10,00&nbsp;$** de la contribution initiale jusqu’à concurrence du dépôt de 200 $. Au-delà de 20 heures de bénévolat, l’athlète est acquitté de ses devoirs et ses heures ne seront plus comptabilisées. Les heures de bénévolat ne peuvent être fractionnées ou transférées sur deux saisons différentes.
 
 La comptabilisation des heures de bénévolat se terminant le **31 août**, la contribution du bénévolat est appliquée au crédit lors de la réinscription ou sera remboursée sur demande.
 
