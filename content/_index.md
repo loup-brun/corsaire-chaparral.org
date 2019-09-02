@@ -8,7 +8,7 @@ splash:
   lead : >
     Les entraînements reprendront le [**samedi 14 septembre 2019**](/club/inscription/)*.  
 
-    <small><em>*Reprise pour les colibris et les minimes au mois d'octobre.</em></small>
+    <small><em>*Reprise le 21 septembre pour les minimes et le 12 octobre pour les colibris.</em></small>
 
 
     N’oubliez pas le [**Demi-Marathon de Blainville**](https://demimarathondeblainville.com/fr/) le 8 septembre 2019.
@@ -102,7 +102,7 @@ images:
 
 \- Le [Demi-Marathon de Blainville](https://demimarathondeblainville.com/fr/)  
 \- Un [camp de jour](/camp-de-jour/) spécialisé en athlétisme  
-\- Une clinique de course à pied  
+\- Une [clinique](/initiation-course-mise-en-forme/) de course à pied  
 \- Des [compétitions](/competitions/) régionales, provinciales et nationales
 
 ---
@@ -111,8 +111,8 @@ images:
 
 ### Comment puis-je faire de l’athlétisme?
 
-Les entraînements reprennent le **samedi 14 setpembre 2019** de 10&nbsp;h à 12&nbsp;h*. Les inscriptions en ligne pour la saison 2019-2020 débutent à compter du 1<sup>er</sup> septembre 2019. [S’inscrire <span class="icon icon-angle-right"></span>](/inscription/)  
-<small><em>*Reprise pour les colibris et les minimes au mois d'octobre (date à venir).</em></small>
+Les [entraînements](/club/entrainements/) reprennent le **samedi 14 setpembre 2019** de 10&nbsp;h à 12&nbsp;h*, puis selon l'horaire habituel. Les [inscriptions](/inscription/) débutent à compter du 1<sup>er</sup> septembre 2019.  
+<small><em>*Reprise pour les [colibris](/club/entrainements#colibri) le samedi 12 octobre et les [minimes](/club/entrainements#minime) le samedi 21 setpembre mois.</em></small>
 
 ### Quelles sont les catégories d’âge?
 
@@ -132,11 +132,17 @@ _<small>Saison 2019-2020</small>_
 ### Où sont les entraînements?
 
 - **Club principal (Sainte-Thérèse)** : Stade d'athlétisme Richard-Garneau + Polyvalente Sainte-Thérèse.
-- **Club satellite (Lachute)** : Polyvalente Lavigne.
+
+<small><em>Note : le club satellite de Lachute reviendra au printemps 2020.</em></small>
 
 ### Quel est l’horaire d'entraînement?
 
 Selon les [catégories](/club/entrainements/).
+
+### Combien d'heures de bénévolat dois-je faire?
+
+Il est demandé à chaque famille* d'accomplir un minimum de [20 heures](/club/inscription/#benevolat) de bénévolat chaque année. Les amis, ça compte aussi!  
+<small><em>*À l'exception des colibris, qui n'ont pas à faire de bénévolat.</em></small>
 
 ### Comment puis-je vous contacter?
 

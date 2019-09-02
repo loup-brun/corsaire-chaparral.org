@@ -3,7 +3,7 @@ title: "Initiation à la course à pied et mise en forme"
 slug: initiation-course-mise-en-forme
 images:
 - /img/steven-lelham-342930-unsplash.jpg
-published: false
+
 ---
 
 **Coût** : 100 $ / SESSION
@@ -16,4 +16,6 @@ published: false
 
 **JOUR/HEURE** : Mercredi de 18h30 à 19h30 et samedi de 10h30 à 11h30
 
+<!--
 <a href="https://activites.corsaire-chaparral.org/e/2/initiation-a-la-course-a-pied-et-mise-en-forme" class="btn btn-primary">Inscription <span class="icon icon-angle-right"></span></a>
+-->

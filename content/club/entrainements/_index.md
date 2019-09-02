@@ -20,11 +20,9 @@ Un BBQ sera également organisé après l’entraînement dès midi.
 
 {{% /div %}}
 
-**Les colibris et les minimes reprendont au mois d'octobre (date à venir).**
+**Les colibris reprendont au mois d'octobre (détails ci-bas).**
 
 Les entraînements reprendront par la suite selon l’horaire des catégories (voir plus bas).
-
-_Nul besoin de s’inscrire à l’avance – rendez-vous au stade Richard-Garneau pour la remise en forme annuelle de l’automne!_
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
@@ -50,40 +48,46 @@ Lachute, Quebec J8H 1W9
 ```
 
 
-## <span class="icon icon-stopwatch"></span> Horaire d'entraînement
+## <span class="icon icon-stopwatch"></span> Horaire d'entraînement {#horaire}
 
 Selon les catégories (voir ci-bas).
 
-### Colibri (2011-2012-2013)
+### Colibri (2011-2012) {#colibri}
 
-**Prochaine session : octobre 2019** (date à venir).
+La prochaine session de 10 semaines consécutives débutera le **samedi 12 octobre 2019**.
 
-<!-- - Samedi 9 h à 10 h 30-->
+- Samedi 9 h à 10 h 30
 
-Entraîneur responsable :
+Animatrices responsables :
 
-- [Christophe Miglierina](/club/entraineurs/christophe-miglierina/)
+- Mélissa Bitar
+- Ève Finnerty
+- Anne Calestagne
 
-### Minime (2009-2010)
+### Minime (2009-2010) {#minime}
 
-**Prochaine session : octobre 2019** (date à venir).
+**Entraînements** : du samedi 21 septembre 2019 au samedi 13 juin 2020 (35 semaines non consécutives).
 
-<!--- Samedi 9 h à 10 h 30-->
+- Samedi 9 h à 10 h 30
 
-Entraîneur responsable : 
+Animateur(trice)s responsables :
 
-- [Charles-Olivier Roy](/club/entraineurs/charles-olivier-roy/).
+- Chloé Robitaille
+- Edward Robidoux
+- Mélodie Paré
 
-### Benjamin (2007-2008)
+
+### Benjamin (2007-2008) {#benjamin}
+
+Début des entraînements à partir du samedi 14 septembre 2019 et jusqu'au jeudi 30 juillet 2020.
 
 - Jeudi 18 h à 19 h 30
 - Samedi 9 h à 10 h 30
 
-<!--Consultez le [calendrier](benjamins) pour les benjamins.-->
+Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).  
+_Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
 
-Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).
-
-### Cadet (2005-2006)
+### Cadet (2005-2006) {#cadet}
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
@@ -93,19 +97,19 @@ Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/)
 
 Entraîneur responsable : Samuel Grondin-Bernier.
 
-### Juvénile (2003-2004), junior (2001-2002) et senior (1986-2000)
+### Juvénile (2003-2004), junior (2001-2002) et senior (1986-2000) {#juvenile-junior-senior}
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-### Vétéran (1985 et avant)
+### Vétéran (1985 et avant) {#veteran}
 
 Horaire à confirmer lors de l'inscription.
 
 <!--
 
-### Demi-fond (cadet, juvénile et plus vieux)
+### Demi-fond (cadet, juvénile et plus vieux) {#demi-fond}
 
 Les athlètes de catégorie **cadette** et **juvénile** peuvent suivre la planification spécialisée pour le demi-fond.
 
@@ -122,6 +126,6 @@ Entraîneurs responsables :
 -->
 
 
-### Horaire d’entraînement – Lachute
+### Horaire d’entraînement – Lachute {#lachute}
 
-À venir.
+Reprise au printemps 2020 (date à venir).

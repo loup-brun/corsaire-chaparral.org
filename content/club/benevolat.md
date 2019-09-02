@@ -7,7 +7,7 @@ menu:
     weight: 100
 ---
 
-Il est attendu que chaque athlète (et sa famille) accomplisse [**20 heures**](/club/inscription/#b%C3%A9n%C3%A9volat-et-activit%C3%A9s-de-financement) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
+Il est attendu que chaque athlète (et sa famille) accomplisse [**20 heures**](/inscription/#benevolat) de bénévolat chaque année. Voici quelques activités proposées. **Si vous avez des idées de projet, n'hésitez surtout pas à nous en parler!**
 
 Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chaparral.org), responsable des bénévoles.
 

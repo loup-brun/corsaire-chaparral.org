@@ -11,6 +11,15 @@ aliases:
 
 {{< badge >}}NOUVEAU!{{< /badge >}} Le club utilisera le système d'inscription Trackie cette année.
 
+{{< div class="alert -primary" >}}
+**Première inscription?**
+
+Tu n’as jamais fait d’athlétisme?  
+Tu n’es pas sûr quelle discipline te plairait?  
+Tu aimerais pouvoir essayer avant de faire ton inscription?  
+Eh bien c’est possible! Présente-toi simplement à un entrainement selon l’horaire de ta catégorie et tu pourras bénéficier d’une période d’essai sans frais.
+{{< /div >}}
+
 <!--
 
 ## Comment s’inscrire?
@@ -29,16 +38,11 @@ Toutes les communications se font par courriel. Assurez-vous d’ajouter **info@
 
 ## Informations générales et politiques d'inscription
 
-Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription. La cotisation de l’athlète comprend les frais d’entrainements, l’affiliation à la Fédération québécoise d'athlétisme et les frais de piste. **Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisation.** Finalement, une contribution au bénévolat d’un montant de 200&nbsp;$ sera ajoutée pour chaque famille s’inscrivant au club.
+Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription. La cotisation de l’athlète comprend les frais d’entrainements, l’affiliation à la Fédération québécoise d'athlétisme et les frais de piste.
 
-{{< div class="alert -primary" >}}
-**Première inscription?**
+**Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisation.**
 
-Tu n’as jamais fait d’athlétisme?  
-Tu n’es pas sûr quelle discipline te plairait?  
-Tu aimerais pouvoir essayer avant de faire ton inscription?  
-Eh bien c’est possible! Présente-toi simplement à un entrainement selon l’horaire de ta catégorie et tu pourras bénéficier d’une période d’essai sans frais.
-{{< /div >}}
+Finalement, une contribution au bénévolat d’un montant de 200&nbsp;$ sera ajoutée pour chaque famille s’inscrivant au club.
 
 ## Catégories d'âge et tarifs d'inscription
 
@@ -61,7 +65,8 @@ Les inscriptions mensuelles ne sont pas acceptées.
 ### Notes
 
 - **Chandail ou camisole obligatoire** : le port du vêtement officiel aux couleurs du club est _obligatoire_ lors de présence aux compétitions.  Il est de la responsabilité de l’athlète de s’assurer de le renouveler au besoin.  Le coût de ce vêtement n’est pas inclus dans la cotisation.
-- **Frais de piste** : les résidents de la ville de **Blainville** sont exemptés des frais d’infrastructure (50&nbsp;$).
+- **Bénévolat** : un dépôt de 200&nbsp;$ par famille est demandé lors de l'inscription ([infos ci-bas](#benevolat)).
+- **Frais de piste** : les résidents de la ville de **Blainville** sont exemptés des frais d’infrastructure (50&nbsp;$), remboursés après l'inscription.
 - **Rabais familial** : un rabais est accordé aux familles ayant plus d’un athlète inscrit annuellement au club.  L’inscription des membres d’une même famille doit être complétée en même temps.
 - **Athlète étudiant** : l’athlète de niveau collégial ou universitaire bénéficie d’un rabais à condition d’être membre d’une équipe sportive d’excellence au sein de son institution d’enseignement (un seul rabais par athlète).
 {{< /note >}}
@@ -76,7 +81,11 @@ Les inscriptions mensuelles ne sont pas acceptées.
 | Juvénile (2002-2003)    | 110 $        |
 -->
 
-## Bénévolat et activités de financement
+## Bénévolat et activités de financement {#benevolat}
+
+{{< note well-secondary >}}
+**Pour être crédité sont dépôt de bénévolat des années antérieures, [communiquez avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription**.
+{{< /note >}}
 
 Une grande partie du financement du club provient des profits générés par les activités organisées annuellement. Afin d’assurer le bon déroulement ainsi que la réussite de ces événements, nous avons besoin de la participation des membres du club, c’est pourquoi un système de comptabilisation d’heures de bénévolat a été instauré.
 
@@ -90,14 +99,14 @@ La comptabilisation des heures de bénévolat se terminant le **31 août**, la c
 
 Consultez les [activités de bénévolat](/club/benevolat/).
 
-## Paiement et inscription
+## Paiement et inscription {#inscription}
 
 Le paiement doit être fait en **intégralité** à la réception de votre facture. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
 <a class="btn btn-primary btn--block -lg" href="http://www.trackiereg.com/coch/">**Inscription 2019-2020** <span class="icon icon-pencil"></a>
 
-### Anciennes factures et paiements divers
+### Anciennes factures et paiements divers {#payer}
 
-Pour des anciennes factures ou des paiements divers, utilisez la page de paiement ici :
+Pour des anciennes factures ou des paiements divers, utilisez la page de paiement suivante :
 
 <a class="btn btn-secondary -sm" href="/payer">Payer <span class="icon icon-angle-right"></a>
