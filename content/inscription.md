@@ -44,7 +44,7 @@ Le coût d’inscription est établi selon l’année de naissance de l’athlè
 
 Finalement, une contribution au bénévolat d’un montant de 200&nbsp;$ sera ajoutée pour chaque famille s’inscrivant au club.
 
-## Catégories d'âge et tarifs d'inscription
+## Catégories d'âge et tarifs d'inscription {#tarifs}
 
 Le tarif de la cotisation 2019-2020 est établi selon la catégorie d'âge, il est très important de bien inscrire la date de naissance de l’athlète lors de l’inscription.
 
