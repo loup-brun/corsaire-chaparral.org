@@ -111,8 +111,9 @@ images:
 
 ### Comment puis-je faire de l’athlétisme?
 
-Les [entraînements](/club/entrainements/) reprennent le **samedi 14 setpembre 2019** de 10&nbsp;h à 12&nbsp;h*, puis selon l'horaire habituel. Les [inscriptions](/inscription/) débutent à compter du 1<sup>er</sup> septembre 2019.  
-<small><em>*Reprise pour les [colibris](/club/entrainements#colibri) le samedi 12 octobre et les [minimes](/club/entrainements#minime) le samedi 21 setpembre mois.</em></small>
+Les [entraînements](/club/entrainements/) reprennent le **samedi 14 setpembre 2019** de 10&nbsp;h à 12&nbsp;h*, puis selon l'horaire habituel.
+
+<small><em>*Reprise pour les [colibris](/club/entrainements#colibri) le samedi 12 octobre et les [minimes](/club/entrainements#minime) le samedi 21 setpembre.</em></small>
 
 ### Quelles sont les catégories d’âge?
 
@@ -141,7 +142,7 @@ Selon les [catégories](/club/entrainements/).
 
 ### Combien d'heures de bénévolat dois-je faire?
 
-Il est demandé à chaque famille* d'accomplir un minimum de [20 heures](/club/inscription/#benevolat) de bénévolat chaque année. Les amis, ça compte aussi!  
+Il est demandé à chaque famille* d'accomplir un minimum de [20&nbsp;heures](/club/inscription/#benevolat) de bénévolat chaque année. Les amis, ça compte aussi!  
 <small><em>*À l'exception des colibris, qui n'ont pas à faire de bénévolat.</em></small>
 
 ### Comment puis-je vous contacter?

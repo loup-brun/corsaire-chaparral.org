@@ -66,7 +66,7 @@ Animatrices responsables :
 
 ### Minime (2009-2010) {#minime}
 
-**Entraînements** : du samedi 21 septembre 2019 au samedi 13 juin 2020 (35 semaines non consécutives).
+Du samedi 21 septembre 2019 au samedi 13 juin 2020 (35 semaines non consécutives).
 
 - Samedi 9 h à 10 h 30
 
