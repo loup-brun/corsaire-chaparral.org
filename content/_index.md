@@ -11,12 +11,9 @@ splash:
     <small><em>*Reprise le 21 septembre pour les minimes et le 12 octobre pour les colibris.</em></small>
 
 
-    N’oubliez pas le [**Demi-Marathon de Blainville**](https://demimarathondeblainville.com/fr/) le 8 septembre 2019.
-
-
     <div class="splash__buttons">
-      <a href="https://makeitrun.co/races/2019/demi-marathon-de-blainville" class="btn btn-primary">S’inscrire à la course <span class="icon icon-pencil"></span></a>
-      <a href="https://demimarathondeblainville.com/fr/Benevoles/" class="btn btn-tertiary">Devenir bénévole <span class="icon icon-angle-right"></span></a>
+      <a href="/club/entrainements/" class="btn btn-default">Entraînements <span class="icon icon-angle-right"></span></a>
+      <a href="/inscription/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
     </div>
 
 featuredPhotosUrl: https://photos.corsaire-chaparral.org
@@ -77,11 +74,11 @@ featuredPhotos:
 #    thumb: "https://photos.corsaire-chaparral.org/images/2018/10/06/Fl7w.th.jpg"
 #    url: "https://photos.corsaire-chaparral.org/i/Fl7w"
 
-announcement:
-  title: Inscription 2018-2019
-  icon: icon-star
-  body: >
-    L'inscription 2019-2020 est en cours! Consultez les détails de la nouvelle saison et [inscrivez-vous ici](/inscription).
+#announcement:
+#  title: Inscription 2018-2019
+#  icon: icon-star
+#  body: >
+#    L'inscription 2019-2020 est en cours! Consultez les détails de la nouvelle saison et [inscrivez-vous ici](/inscription).
 images:
 - /img/coch-dos.jpg
 ---
@@ -132,7 +129,7 @@ _<small>Saison 2019-2020</small>_
 
 ### Où sont les entraînements?
 
-- **Club principal (Sainte-Thérèse)** : Stade d'athlétisme Richard-Garneau + Polyvalente Sainte-Thérèse.
+**Club principal (Sainte-Thérèse)** : Stade d'athlétisme Richard-Garneau + Polyvalente Sainte-Thérèse.
 
 <small><em>Note : le club satellite de Lachute reviendra au printemps 2020.</em></small>
 
