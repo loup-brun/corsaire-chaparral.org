@@ -6,9 +6,9 @@ layout: splash
 splash:
   title: "De retour en septembre"
   lead : >
-    Les entraînements reprendront le [**samedi 14 septembre 2019**](/club/inscription/)*.  
+    Les entraînements ont repris [**l’horaire régulier**](/club/entrainements/).  
 
-    <small><em>*Reprise le 21 septembre pour les minimes et le 12 octobre pour les colibris.</em></small>
+    <small><em>Reprise le 21 septembre pour les minimes et le 12 octobre pour les colibris.</em></small>
 
 
     <div class="splash__buttons">
@@ -109,7 +109,7 @@ images:
 ### Comment puis-je faire de l’athlétisme?
 
 Les entraînements ont repris [l'horaire régulier](/club/entrainements/)\*.  
-N’hésitez pas à venir faire un essai sans frais!
+N’hésitez pas à venir faire un essai sans frais avant de vous [inscrire](/inscription/)!
 
 <small><em>*Reprise à partir du samedi 21 septembre 2019 pour les [minimes](/club/entrainements#minime) et à partir du samedi 12 octobre 2019 pour les [colibris](/club/entrainements#colibri).</em></small>
 
@@ -146,6 +146,3 @@ Référez-vous à la page [contact](/contact/).
 ### Qui a fait votre logo?
 
 Le formidable [Charles Daoud](https://www.charlesdaoud.com).
-
----
-
