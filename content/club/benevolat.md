@@ -15,7 +15,8 @@ Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chap
 
 | Date       | Événement                  |
 |------------|----------------------------|
-| 2019-09-08 | *Demi-Marathon de Blainville – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/)<br><small><em>*sera comptabilisé pour les heures de l'année 2018-2019</em></small> |
+| 2019-09-08 | ~~_Demi-Marathon de Blainville_~~ – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
+| 2019-10-18 | _Cross-Country Écoles en forme et en santé_ - [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-xc-ecoles-2019) |
 
 <!--
 | 2018-10-05 | Cross-country École en forme et en santé |

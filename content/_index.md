@@ -108,9 +108,10 @@ images:
 
 ### Comment puis-je faire de l’athlétisme?
 
-Les [entraînements](/club/entrainements/) reprennent le **samedi 14 setpembre 2019** de 10&nbsp;h à 12&nbsp;h*, puis selon l'horaire habituel.
+Les entraînements ont repris [l'horaire régulier](/club/entrainements/)\*.  
+N’hésitez pas à venir faire un essai sans frais!
 
-<small><em>*Reprise pour les [colibris](/club/entrainements#colibri) le samedi 12 octobre et les [minimes](/club/entrainements#minime) le samedi 21 setpembre.</em></small>
+<small><em>*Reprise à partir du samedi 21 septembre 2019 pour les [minimes](/club/entrainements#minime) et à partir du samedi 12 octobre 2019 pour les [colibris](/club/entrainements#colibri).</em></small>
 
 ### Quelles sont les catégories d’âge?
 
@@ -132,10 +133,6 @@ _<small>Saison 2019-2020</small>_
 **Club principal (Sainte-Thérèse)** : Stade d'athlétisme Richard-Garneau + Polyvalente Sainte-Thérèse.
 
 <small><em>Note : le club satellite de Lachute reviendra au printemps 2020.</em></small>
-
-### Quel est l’horaire d'entraînement?
-
-Selon les [catégories](/club/entrainements/).
 
 ### Combien d'heures de bénévolat dois-je faire?
 
