@@ -83,6 +83,16 @@ images:
 - /img/coch-dos.jpg
 ---
 
+## Nouvelles
+
+### CONVOCATION À l’AGA 2019
+
+Veuillez prendre connaissance de l’avis de convocation ci-dessous :
+
+[![Convocation AGA 2019](/img/convocation-aga-2019.jpg)](/nouvelles/2019/09/26/convocation-aga-2019/)
+
+[Voir plus de nouvelles](/nouvelles/)
+
 ---
 
 ## Sections
