@@ -1,0 +1,49 @@
+{{ $context := $.Page.Site.Params }}
+{{ range .Site.Data.calendrier }}
+
+<section>
+  <h3>
+    {{ .title | markdownify }}
+  </h3>
+  
+  {{with .description }}
+  <p>{{ . | markdownify }}</p>
+  {{ end }}
+  
+  <ul>
+    {{ with .date }}
+    <li><strong>Date</strong> : {{ . | markdownify }}</li>
+    {{ end }}
+    {{ with .limite }}
+    <li><strong>Date limite d'inscription</strong> : <mark>{{ . | markdownify }}</mark></li>
+    {{ end }}
+    {{ with .emplacement }}
+    <li><strong>Emplacement</strong> : {{ .  | markdownify }}</li>
+    {{ end }}
+    {{ with .prix }}
+    <li><strong>Prix</strong> : {{ replace . "." "," }}$</li>
+    {{ end }}
+    {{ with .information }}
+    <li><strong><a href="{{ . }}">Informations sur la compétition</a></strong></li>
+    {{ end }}
+  </ul>
+  
+  <button
+    class="btn btn-primary snipcart-add-item"
+    data-item-id="{{ .id }}"
+    data-item-name="{{ .title }}"
+    data-item-price="{{ .prix }}"
+    data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/"
+    data-item-description="{{ .description }}">
+        Payer ({{ replace .prix "." "," }}$)
+  </button>
+  
+  {{ with .formulaire }}
+  <h4>Formulaire</h4>
+  {{ . | safeHTML }}
+  {{ end }}
+</section>
+
+<hr>
+
+{{ end }}

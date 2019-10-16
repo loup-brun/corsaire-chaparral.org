@@ -70,6 +70,15 @@
         });
       })(head);
     </script>
+
     <script> (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n; w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t), m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m) })(window,document,'script','https://campagnes.corsaire-chaparral.org/mtc.js','mt'); mt('send', 'pageview'); </script>
+
+    {{ if .Params.snipcart }}
+      <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+      <script src="https://cdn.snipcart.com/scripts/snipcart.js" id="snipcart" data-api-key="{{ $.Site.Params.snipcartApiKey }}"></script>
+
+      <link href="https://cdn.snipcart.com/themes/base/snipcart.min.css" type="text/css" rel="stylesheet" />
+    {{ end }}
     </body>
 </html>

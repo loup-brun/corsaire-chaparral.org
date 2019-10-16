@@ -27,11 +27,11 @@ params:
   adminEmail: louis@corsaire-chaparral.org
   admin: Louis-Olivier Brassard
   stripePublicKey: pk_live_ccR6ujsv04d7TjBjRvVBgFvn
+  snipcartApiKey: ZTllOTFkYTgtOWVhZS00MTQ3LWE0YWEtYTA0NjVjNTA3NTA2NjM3MDYwOTcwMTYzNzkwNDEw
   apiUrl: https://api.corsaire-chaparral.org/v1/payment/new
 #  annonce: >
 #   Championnats 2019 Champs <a href="/resultats/direct/" class="btn btn-primary -sm">Résultats 🔥</a>
 #sectionPagesMenu: main
-
 
 menu:
   main:
@@ -49,6 +49,11 @@ menu:
     title: Inscription
     url: '/inscription/'
     weight: 30
+  - identifier: calendrier
+    parent: club
+    title: Calendrier
+    url: '/calendrier/'
+    weight: 5
   - identifier: entrainements
     url: '/club/entrainements/'
     title: Entraînements

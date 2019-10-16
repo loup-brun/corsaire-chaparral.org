@@ -4,5 +4,7 @@ baseURL: "https://www-test.corsaire-chaparral.org"
 title: "[TEST] Club d’athlétisme Corsaire-Chaparral"
 
 params:
+  isTest: true
   stripePublicKey: pk_test_QfKSmWhXOWW9ZCkGdKtkL9p6
+  snipcartApiKey: MWIxZDNmNDktMWY0Mi00YmI4LTgwMjgtYzk4YjJmNzc0M2UyNjM3MDEzMDcyODE4MzE2MjU5
   apiUrl: https://api-test.corsaire-chaparral.org/v1/payment/new
