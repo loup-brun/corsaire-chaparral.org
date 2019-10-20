@@ -1,6 +1,5 @@
 - id: "comp-champ-xc-2019"
   title: "Championnat provincial de cross-country – Québec, 2019"
-  inscription: ""
   information: "http://athletisme-quebec.ca/medias/championnats-de-cross-2019.pdf"
   date: "2019-10-26"
   limite: "2019-10-17"
@@ -8,3 +7,13 @@
   prix: "20.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=60"></script>
+
+- id: "pfbs-regina-2019"
+  title: "Olympiades du Collège Régina Assumpta 2019"
+  information: "http://athletisme-quebec.ca/medias/olympiades-college-regina-assumpta-2019.pdf"
+  date: "2019-11-03"
+  limite: "2019-10-28"
+  emplacement: "Montréal"
+  prix: "25.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=61"></script>
