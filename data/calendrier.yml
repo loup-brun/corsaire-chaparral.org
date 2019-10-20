@@ -1,9 +1,9 @@
-- id: "competition-champ-xc-2019"
+- id: "comp-champ-xc-2019"
   title: "Championnat provincial de cross-country – Québec, 2019"
   inscription: ""
   information: "http://athletisme-quebec.ca/medias/championnats-de-cross-2019.pdf"
   date: "2019-10-26"
-  limite: "2019-10-17 à 23h59"
+  limite: "2019-10-17"
   emplacement: "Québec"
   prix: "20.00"
   formulaire: >
