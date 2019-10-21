@@ -42,7 +42,10 @@ body, html {
   }
 }
 
-p a { // inline text links
+p a,
+ul a,
+ol a
+{ // inline text links
   @extend .styled-link;
 }
 

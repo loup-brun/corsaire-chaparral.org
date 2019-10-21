@@ -69,8 +69,8 @@
 .no-padding { padding: 0; }
 
 .row-feature {
-	@include vertical-padding($spacing);
-	border-bottom: 1px solid $gray-lighter;
+  @include vertical-padding($spacing);
+  border-bottom: 1px solid $gray-lighter;
 }
 
 @import

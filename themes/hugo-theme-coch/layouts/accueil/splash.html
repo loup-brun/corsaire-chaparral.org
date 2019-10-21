@@ -1,27 +1,39 @@
 {{ define "main" }}
-<main class="container-main container-landing">
-  
-  <section class="splash">
-    <div class="splash__background-layer"></div>
-    <div class="splash__content-layer">
-      <div class="splash__header">
-        <span class="h1 block">
-          {{ .Params.splash.title }}
-        </span>
-      </div>
-
-      <div class="splash__lead">
-        {{ .Params.splash.lead | markdownify }}
-      </div>
+<header class="splash">
+  <div class="splash__background-layer"></div>
+  <div class="splash__content-layer">
+    <div class="splash__header">
+      <span class="h1 block">
+        {{ .Params.splash.title }}
+      </span>
     </div>
-  </section>
 
+    <div class="splash__lead">
+      {{ .Params.splash.lead | markdownify }}
+    </div>
+  </div>
+</header>
+
+<main class="container-main container-landing">
+  <nav class="nav-landing section-large-type">
+    <div class="container container-full">
+      <h2>Sections</h2>
+      <p>
+      {{ range $elem_index, $elem_val := .Site.Menus.main.ByWeight }}
+      {{ if not (eq $elem_index 0) }}
+      /
+      {{ end }}
+
+        <a href="{{ .URL }}">{{ .Title }}</a>
+      {{ end }}
+      </p>
+    </div>
+  </nav>
   <section class="section-large-type" id="blablabla">
     <div class="container container-full">
-      
+      {{ if isset .Params "announcement" }}
       <div class="row">
         <div class="col col-12">
-          {{ if isset .Params "announcement" }}
             <div class="well well-primary">
               <span class="h1 alert__heading">{{ .Params.announcement.title }} <span class="icon icon-pencil"></span></span>
 
@@ -31,12 +43,13 @@
               </p>
               {{- end -}}
             </div>
-          {{ end }}
         </div>
       </div>
+      {{ end }}
       
       <div class="row">
         <div class="col col-10 phone-col-12">
+          <hr class="no-margin">
 
           <h2 class="h1">Qu’est-ce que le Corsaire-Chaparral?</h2>
           
