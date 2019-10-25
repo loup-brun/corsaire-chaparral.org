@@ -13,6 +13,7 @@
     > a {
       padding: $spacing-xs;
       display: block;
+      border: none;
     }
   }
 }
@@ -156,6 +157,7 @@
       padding: $spacing;
       z-index: $z-index-menu;
       color: $gray-lighter;
+      border: none;
 
       &:hover {
         background-color: $color-primary;
