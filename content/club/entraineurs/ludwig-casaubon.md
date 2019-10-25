@@ -1,5 +1,5 @@
 ---
-title: Ludwig-Casaubon
+title: Ludwig Casaubon
 icon: assignment_ind
 layout: entraineur
 #menu:
