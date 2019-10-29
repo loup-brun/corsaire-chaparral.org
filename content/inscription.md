@@ -20,14 +20,6 @@ Tu aimerais pouvoir essayer avant de faire ton inscription?
 Eh bien c’est possible! Présente-toi simplement à un entrainement selon l’horaire de ta catégorie et tu pourras bénéficier d’une période d’essai sans frais.
 {{< /div >}}
 
-<!--
-
-## Comment s’inscrire?
-
-1. Remplissez le [formulaire d’inscription](https://campagnes.corsaire-chaparral.org/inscription-2018-2019) pour chaque athlète.
-2. Patientez; un courriel vous sera envoyé quelques jours plus tard lorsque votre facture sera prête. 
-3. [Payez](/payer) votre facture en ligne.
-<!--
 
 {{% div class="well well-danger" %}}
 **NOTE IMPORTANTE SUR LES COURRIELS**
@@ -104,9 +96,3 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 Le paiement doit être fait en **intégralité** à la réception de votre facture. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
 <a class="btn btn-primary btn--block -lg" href="http://www.trackiereg.com/coch/">**Inscription 2019-2020** <span class="icon icon-pencil"></a>
-
-### Anciennes factures et paiements divers {#payer}
-
-Pour des anciennes factures ou des paiements divers, utilisez la page de paiement suivante :
-
-<a class="btn btn-secondary -sm" href="/payer">Payer <span class="icon icon-angle-right"></a>
