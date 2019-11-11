@@ -101,13 +101,6 @@ Changement du mode d'inscription aux compétitions pour la prochaine année.
   **Aucune inscription sans paiement préalable.**
 - **L'inscription aux compétitions organisées par le club sera toujours gratuite.**
 
-
-### CONVOCATION À l’AGA 2019
-
-Veuillez prendre connaissance de l’avis de convocation ci-dessous :
-
-[![Convocation AGA 2019](/img/convocation-aga-2019.jpg)](/nouvelles/2019/09/26/convocation-aga-2019/)
-
 [Voir plus de nouvelles](/nouvelles/)
 
 ---
