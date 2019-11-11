@@ -17,3 +17,13 @@
   prix: "25.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=61"></script>
+
+- id: "pfbs-coch-2019"
+  title: "Festival des jeunes Corsaire-Chaparral"
+  information: "/competitions/festival-en-salle-des-jeunes/"
+  date: "2019-12-21"
+  limite: "2019-12-16"
+  emplacement: "Sainte-Thérèse"
+  prix: false
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=62"></script>

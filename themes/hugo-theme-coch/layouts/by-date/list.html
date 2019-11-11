@@ -17,7 +17,9 @@
         {{ end }}
       </div>
       <div class="col col-10 tablet-col-9 phone-col-12">
-        <a href="{{ .Permalink }}" class="h5 no-margin">{{ .Title }}</a>
+        <h5 class="no-margin">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h5>
       </div>
     </li>
     {{ end }}
@@ -40,7 +42,9 @@
         {{ end }}
       </div>
       <div class="col col-8 phone-col-12">
-        <a href="{{ .Permalink }}" class="h5 no-margin">{{ .Title }}</a>
+        <h5 class="no-margin">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h5>
       </div>
     </li>
     {{ end }}

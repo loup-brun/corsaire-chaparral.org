@@ -35,15 +35,15 @@
   </ul>
 
   {{ if gt now (time .limite) }}
-  
   <div class="well">
     <span class="icon icon-warning"></span>
     <em>La date d'inscription pour cette compétition est passée; le formulaire n'est plus disponible.</em>
   </div>
   {{ else }}
 
+  {{ if .prix }}
   <section>
-    <h4>1. Paiement</h4>
+    <h4>Paiement</h4>
     
     <p>
       Le paiement doit être fait pour que l'inscription soit valide.
@@ -59,16 +59,17 @@
           Payer ({{ replace .prix "." "," }}$)
     </button>
   </section>
+  {{ end }}
   
+  {{ with .formulaire }}
   <section>
-    {{ with .formulaire }}
     <h4>
-      2. Informations de l'athlète
+      Informations de l'athlète
     </h4>
     {{ . | safeHTML }}
-    {{ end }}
-    {{ end }}
   </section>
+  {{ end }}
+  {{ end }}
 
 </section>
 
