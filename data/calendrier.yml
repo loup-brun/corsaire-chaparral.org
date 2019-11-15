@@ -27,3 +27,13 @@
   prix: false
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=62"></script>
+
+- id: "mcgill-martlet-2019"
+  title: "McGill Martlet Classic"
+  information: "http://athletisme-quebec.ca/medias/martletclassic-2019.pdf"
+  date: "2019-11-30"
+  limite: "2019-11-23"
+  emplacement: "Montréal"
+  prix: "20.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=63"></script>
