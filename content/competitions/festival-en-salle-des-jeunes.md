@@ -1,5 +1,5 @@
 ---
-title: "Festival en salle des jeunes"
+title: "Festival des jeunes COCH"
 date: "2019-12-21"
 icon: calendar
 #menu:
@@ -23,10 +23,12 @@ _(en date du 7 novembre 2019)_
 _(en date du 9 décembre 2018)_
 -->
 
+**Inscription pour les athlètes COCH** : veuillez passer par [notre formulaire](/calendrier/) _(ne pas s'inscrire sur le site AVS-Sport)_.
+
 [Inscription](https://avs-sport.com/inscriptions.php?comp=429) **(athlètes NON COCH)**  
 _(date limite : mercredi 18 décembre 23h59)_
 
-**Inscription pour les athlètes COCH** : veuillez passer par [notre formulaire](/calendrier/) _(ne pas s'inscrire sur le site AVS-Sport)_.
+[Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-festival-des-jeunes-coch-2019) _(date limite : mercredi 18 décembre)_
 
 Responsable de la rencontre : [Nathalie Prince](mailto:nathalie.prince1@videotron.ca)
 

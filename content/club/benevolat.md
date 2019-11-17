@@ -17,6 +17,7 @@ Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chap
 |------------|----------------------------|
 | 2019-09-08 | ~~_Demi-Marathon de Blainville_~~ – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
 | 2019-10-18 | _Cross-Country Écoles en forme et en santé_ - [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-xc-ecoles-2019) |
+| 2019-12-21 | _Festival des jeunes COCH_ - [Infos](/competitions/festival-en-salle-des-jeunes/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-festival-des-jeunes-coch-2019) |
 
 <!--
 | 2018-10-05 | Cross-country École en forme et en santé |

@@ -8,19 +8,15 @@
   
   <ul class="list-unstyled">
     {{ range sort .Pages "Date" $sort }}
-    <li class="row">
-      <div class="col col-2 tablet-col-3 phone-col-12">
+    <li>
+      <h3>
         {{ if .Date }}
-        <small><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-02" }}</small>
+        <small><span class="icon icon-calendar"></span> {{ .Date.Format "2006-01-02" }}</small>
         {{ else }}
-        &nbsp;
+        <em>(Sans date)</em>
         {{ end }}
-      </div>
-      <div class="col col-10 tablet-col-9 phone-col-12">
-        <h5 class="no-margin">
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h5>
-      </div>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h3>
     </li>
     {{ end }}
   </ul>
@@ -33,19 +29,15 @@
 
     <ul class="list-unstyled">
     {{ range sort .Pages "Date" $sort }}
-    <li class="row">
-      <div class="col col-2 tablet-col-3 phone-col-12">
+    <li>
+      <h3>
         {{ if .Date }}
         <small><span class="icon icon-calendar"></span>{{ .Date.Format "2006-01-02" }}</small>
         {{ else }}
-        &nbsp;
+        <em>(Sans date)</em>
         {{ end }}
-      </div>
-      <div class="col col-8 phone-col-12">
-        <h5 class="no-margin">
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h5>
-      </div>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h3>
     </li>
     {{ end }}
     </ul>
