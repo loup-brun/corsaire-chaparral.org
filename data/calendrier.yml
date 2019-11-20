@@ -24,9 +24,19 @@
   date: "2019-12-21"
   limite: "2019-12-16"
   emplacement: "Sainte-Thérèse"
-  prix: false
+  prix: 17.00
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=62"></script>
+
+- id: "pfbs-ccr-2019"
+  title: "La Classique des Jeunes – Complexe sportif Claude-Robillard"
+  information: "http://athletisme-quebec.ca/medias/classique-des-jeunes-2019.pdf"
+  date: "2019-12-14"
+  limite: "2019-12-06"
+  emplacement: "Montréal"
+  prix: 25.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=65"></script>
 
 - id: "mcgill-martlet-2019"
   title: "McGill Martlet Classic"
