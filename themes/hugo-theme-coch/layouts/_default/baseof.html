@@ -39,7 +39,7 @@
     {{- partial "announcement.html" . -}}
     {{ end }}
 
-    <script>
+    <script type="text/javascript">
       // Globals
       window.STRIPE_PK = {{ $.Site.Params.stripePublicKey }};
       window.COCH_API_URL = {{ $.Site.Params.apiUrl }};
@@ -68,10 +68,10 @@
         ], function() {
           console.log("loaded stylesheets");
         });
-      })(head);
+      })(window.headLoader);
     </script>
 
-    <script> (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n; w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t), m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m) })(window,document,'script','https://campagnes.corsaire-chaparral.org/mtc.js','mt'); mt('send', 'pageview'); </script>
+    <script type="text/javascript"> (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n; w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t), m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m) })(window,document,'script','https://campagnes.corsaire-chaparral.org/mtc.js','mt'); mt('send', 'pageview'); </script>
 
     {{ if .Params.snipcart }}
       <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>

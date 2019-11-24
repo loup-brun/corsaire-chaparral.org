@@ -1,7 +1,8 @@
 /*global window, document, qwery, bean, classie, head, Velocity, Swipe*/
 (function(win, doc) {
 
-  head.ready(doc, function() {
+  // `window.headLoader` replaces `head` because of some conflicts sometimes
+  win.headLoader.ready(doc, function() {
 
     // include qwery as a selector engine
     bean.setSelectorEngine(qwery);

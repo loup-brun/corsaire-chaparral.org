@@ -16,6 +16,7 @@
   <script>
     {{- $headJS := resources.Get "scripts/head.min.js" -}}
     {{ $headJS.Content | safeJS }}
+     window.headLoader = head; // make sure we have no conflicts
   </script>
   <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
   <meta name="msapplication-TileColor" content="{{ $.Site.Params.themeColor | default "#f26e21" }}">
