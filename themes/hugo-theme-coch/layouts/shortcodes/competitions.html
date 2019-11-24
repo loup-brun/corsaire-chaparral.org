@@ -52,7 +52,7 @@
     {{ range $nom, $frais := $competition.structureFrais }}
     <button
       class="btn btn-primary snipcart-add-item"
-      data-item-id="{{ $competition.id }}-$nom"
+      data-item-id="{{ $competition.id }}-{{ $nom }}"
       data-item-name="{{ $competition.title }} ({{ $nom }})"
       data-item-price="{{ $frais }}"
       data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/"
