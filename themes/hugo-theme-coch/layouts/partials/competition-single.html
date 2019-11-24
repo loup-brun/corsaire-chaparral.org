@@ -56,7 +56,7 @@
       data-item-id="{{ $competition.id }}-{{ $nom }}"
       data-item-name="{{ $competition.title }} ({{ $nom }})"
       data-item-price="{{ $frais }}"
-      data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/"
+      data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/{{ $competition.id }}/"
       data-item-description="{{ with $competition.location }}{{ . }}{{ end }}{{ with $competition.date }} – Date: {{ time . }}{{ end }}">
       {{ $nom }} ({{ replace $frais "." "," }}$)
     </button>
@@ -66,7 +66,7 @@
       data-item-id="{{ $competition.id }}"
       data-item-name="{{ $competition.title }}"
       data-item-price="{{ $competition.frais }}"
-      data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/"
+      data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/{{ $competition.id }}/"
       data-item-description="{{ with $competition.location }}{{ . }}{{ end }}{{ with $competition.date }} – Date: {{ time . }}{{ end }}">
       Payer ({{ replace $competition.frais "." "," }}$)
     {{ end }}

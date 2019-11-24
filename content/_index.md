@@ -99,7 +99,6 @@ Changement du mode d'inscription aux compétitions pour la prochaine année.
 - Des frais pour le **déplacement de l’entraîneur** pourront s’appliquer si la compétition est à l’extérieur.
 - L'inscription devra être payée et complétée avant la date limite sur [corsaire-chaparral.org](https://corsaire-chaparral.org)  
   **Aucune inscription sans paiement préalable.**
-- **L'inscription aux compétitions organisées par le club sera toujours gratuite.**
 
 [Voir plus de nouvelles](/nouvelles/)
 
