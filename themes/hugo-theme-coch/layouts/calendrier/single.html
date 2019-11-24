@@ -1,0 +1,9 @@
+{{ define "article" }}
+<div>
+  <a href="../" class="small strong">&larr; Retour au calendrier</a>
+</div>
+
+{{ .Content }}
+
+{{ partial "competition-single.html" . }}
+{{ end }}

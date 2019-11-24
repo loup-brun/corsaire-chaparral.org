@@ -19,7 +19,3 @@ Dès la saison 2019-2020, les athlètes doivent débourser les frais des compét
 5. Le Corsaire-Chaparral fera votre inscription, à condition que le paiement ait été reçu au préalable.
 
 {{< /div >}}
-
-## Compétitions
-
-{{< competitions >}}

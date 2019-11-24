@@ -1,0 +1,31 @@
+{{ $context := $.Page.Site.Params }}
+<table>
+  <thead>
+    <tr>
+      <th>Date</th><th>Événement</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    {{ range sort .Site.Data.calendrier "date" "desc" }}
+    {{ $competition := . }}
+    
+    <tr>
+      <td>{{ $competition.date }}</td>
+
+      <td>
+        <a href="/calendrier/{{ $competition.id }}/">
+          {{- if gt now (time $competition.limite) -}}
+          <s>
+          {{ $competition.title | markdownify }}
+          </s>
+          {{- else -}}
+          {{- $competition.title | markdownify -}}
+          {{- end -}}
+        </a>
+      </td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+

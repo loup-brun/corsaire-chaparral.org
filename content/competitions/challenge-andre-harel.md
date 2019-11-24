@@ -1,6 +1,6 @@
 ---
 title: "Challenge André-Harel"
-date: "2019-02-02"
+date: "2020-02-01"
 icon: calendar
 #menu:
 #  main:
@@ -12,9 +12,11 @@ icon: calendar
 
 ## Informations générales
 
-[Horaire final](https://campagnes.corsaire-chaparral.org/asset/235:horaire-final-challenge-andre-harel) _(version finale mise à jour le 31 janvier 2019)_
+<!--[Horaire final](https://campagnes.corsaire-chaparral.org/asset/235:horaire-final-challenge-andre-harel) _(version finale mise à jour le 31 janvier 2019)_-->
 
-[Document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019) _(version finale mise à jour le 31 janvier 2019)_
+<!--[Document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019) _(version finale mise à jour le 31 janvier 2019)_-->
+
+Document technique à paraître sous peu.
 
 Responsable de compétition : [Samuel Grondin-Bernier](mailto:grondin750@hotmail.com)
 
@@ -30,9 +32,9 @@ L'adresse du Complexe sportif Claude-Robillard est la suivante :
 
 ### Chambre d'appel
 
-Les athlètes pourront confirmer leur présence à la traditionnelle chambre d’appel au centre de la piste ou par SMS, <mark>AU MINIMUM 45 MINUTES AVANT LEUR ÉPREUVE</mark>.
+Pour confirmer votre présence en personne, présentez-vous à la chambre d’appel muni de votre dossard **au minimum 45 minutes à l’avance**.
 
-**Pour confirmer votre présence en personne**, présentez-vous simplement à la chambre d’appel muni de votre dossard.
+<!--
 
 **Pour confirmer par SMS**, il suffit d’envoyer un message texte avec son numéro de dossard au :
 
@@ -40,15 +42,16 @@ Les athlètes pourront confirmer leur présence à la traditionnelle chambre d�
 [(450) 912-2937](tel:+14509122937)
 {{% /div %}}
 
+
 **Exemple :**
 
 ![Exemple de confirmation](https://campagnes.corsaire-chaparral.org/media/images/c7d2d31b1c5e98445ed4cfa26b4caef0.png)
 
+-->
+
 ## Bénévolat
 
-[Horaire des bénévoles](https://assets.corsaire-chaparral.org/competitions/2019/horaire-benevoles-challenge-andre-harel.pdf)
-
-**Nous avons encore besoin de bénévoles en après-midi!** Si jamais vous êtes disponible, veuillez faire parvenir un courriel à Nadine Lauzon [corsairechaparal@hotmail.com](mailto:corsairechaparal@hotmail.com) en indiquant le plateau et l'heure que vous désirez venir donner un coup de main. Nadine prendra les courriels jusqu'à 21h00 vendredi soir.
+Nous aurons besoin de bénévoles! Restez à l’affût!
 
 ## À propos de cette compétition
 
@@ -58,6 +61,7 @@ Pour célébrer la mémoire du regretté **André Harel**, l'un des figures fond
 
 ## Résultats antérieurs
 
+* [Résultats 2019](/resultats/2019/challenge-andre-harel/)
 * [Résultats 2018](/resultats/2018/challenge-andre-harel/)
 * [Résultats 2017](/resultats/2017/classique-hivernale-coch-2017/)
 * [Résultats 2016](/resultats/2016/classique-hivernale-coch-2016/)

@@ -1,5 +1,6 @@
 {{ $context := $.Page.Site.Params }}
-{{ range sort .Site.Data.calendrier "date" "desc" }}
+{{ $id := $.Page.File.BaseFileName }}
+{{ range where .Site.Data.calendrier "id" "eq" $id }}
 {{ $competition := . }}
 <section>
   <h3>
@@ -84,6 +85,4 @@
   {{ end }}
 
 </section>
-
-<hr>
 {{ end }}

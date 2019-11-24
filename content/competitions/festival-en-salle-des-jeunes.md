@@ -23,7 +23,7 @@ _(en date du 7 novembre 2019)_
 _(en date du 9 décembre 2018)_
 -->
 
-**Inscription pour les athlètes COCH** : veuillez passer par [notre formulaire](/calendrier/) _(ne pas s'inscrire sur le site AVS-Sport)_.
+**Inscription pour les athlètes COCH** : veuillez passer par [notre formulaire](/calendrier/pfbs-coch-2019/) _(ne pas s'inscrire sur le site AVS-Sport)_.
 
 [Inscription](https://avs-sport.com/inscriptions.php?comp=429) **(athlètes NON COCH)**  
 _(date limite : mercredi 18 décembre 23h59)_

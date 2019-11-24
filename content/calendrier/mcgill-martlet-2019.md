@@ -1,0 +1,3 @@
+---
+title: "McGill Martlet Classic"
+---
