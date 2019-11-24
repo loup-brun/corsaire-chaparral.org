@@ -4,7 +4,7 @@
   date: "2019-10-26"
   limite: "2019-10-17"
   emplacement: "Québec"
-  prix: "20.00"
+  frais: "20.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=60"></script>
 
@@ -14,7 +14,7 @@
   date: "2019-11-03"
   limite: "2019-10-28"
   emplacement: "Montréal"
-  prix: "25.00"
+  frais: "25.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=61"></script>
 
@@ -24,7 +24,7 @@
   date: "2019-12-21"
   limite: "2019-12-16"
   emplacement: "Sainte-Thérèse"
-  prix: 17.00
+  frais: "17.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=62"></script>
 
@@ -34,7 +34,10 @@
   date: "2019-12-14"
   limite: "2019-12-06"
   emplacement: "Montréal"
-  prix: 25.00
+  frais: "Première épreuve à 17.00$; épreuves suivantes à 12.00"
+  structureFrais:
+    "Première épreuve": "17.00"
+    "Épreuve supplémentaire": "12.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=65"></script>
 
@@ -44,6 +47,6 @@
   date: "2019-11-30"
   limite: "2019-11-23"
   emplacement: "Montréal"
-  prix: "20.00"
+  frais: "20.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=63"></script>

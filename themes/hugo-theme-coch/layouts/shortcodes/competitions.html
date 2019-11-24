@@ -1,18 +1,18 @@
 {{ $context := $.Page.Site.Params }}
 {{ range sort .Site.Data.calendrier "date" "desc" }}
-
+{{ $competition := . }}
 <section>
   <h3>
-    {{ if gt now (time .limite) }}
+    {{ if gt now (time $competition.limite) }}
     <s>
-    {{ .title | markdownify }}
+    {{ $competition.title | markdownify }}
     </s>
     {{ else }}
-    {{ .title | markdownify }}
+    {{ $competition.title | markdownify }}
     {{ end }}
   </h3>
   
-  {{with .description }}
+  {{with $competition.description }}
   <p>{{ . | markdownify }}</p>
   {{ end }}
   
@@ -26,38 +26,50 @@
     {{ with .emplacement }}
     <li><strong>Emplacement</strong> : {{ .  | markdownify }}</li>
     {{ end }}
-    {{ with .prix }}
-    <li><strong>Prix</strong> : {{ replace . "." "," }}$</li>
+    {{ with $competition.frais }}
+    <li><strong>Frais</strong> : {{ replace . "." "," }}$</li>
     {{ end }}
-    {{ with .information }}
+    {{ with $competition.information }}
     <li><strong><a href="{{ . }}" tagget="_blank">Informations sur la compétition</a></strong></li>
     {{ end }}
   </ul>
 
-  {{ if gt now (time .limite) }}
+  {{ if gt now (time $competition.limite) }}
   <div class="well">
     <span class="icon icon-warning"></span>
     <em>La date d'inscription pour cette compétition est passée; le formulaire n'est plus disponible.</em>
   </div>
   {{ else }}
 
-  {{ if .prix }}
+  {{ if $competition.frais }}
   <section>
     <h4>Paiement</h4>
-    
+
     <p>
       Le paiement doit être fait pour que l'inscription soit valide.
     </p>
-    
+
+    {{ range $nom, $frais := $competition.structureFrais }}
     <button
       class="btn btn-primary snipcart-add-item"
-      data-item-id="{{ .id }}"
-      data-item-name="{{ .title }}"
-      data-item-price="{{ .prix }}"
+      data-item-id="{{ $competition.id }}-$nom"
+      data-item-name="{{ $competition.title }} ({{ $nom }})"
+      data-item-price="{{ $frais }}"
       data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/"
-      data-item-description="{{ with .location }}{{ . }}{{ end }}{{ with .date }} – Date: {{ time . }}{{ end }}">
-      Payer ({{ replace .prix "." "," }}$)
+      data-item-description="{{ with $competition.location }}{{ . }}{{ end }}{{ with $competition.date }} – Date: {{ time . }}{{ end }}">
+      {{ $nom }} ({{ replace $frais "." "," }}$)
     </button>
+    {{ else }}
+    <button
+      class="btn btn-primary snipcart-add-item"
+      data-item-id="{{ $competition.id }}"
+      data-item-name="{{ $competition.title }}"
+      data-item-price="{{ $competition.frais }}"
+      data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/"
+      data-item-description="{{ with $competition.location }}{{ . }}{{ end }}{{ with $competition.date }} – Date: {{ time . }}{{ end }}">
+      Payer ({{ replace $competition.frais "." "," }}$)
+    {{ end }}
+
   </section>
   {{ end }}
   
