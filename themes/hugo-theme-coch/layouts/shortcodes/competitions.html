@@ -56,7 +56,7 @@
       data-item-price="{{ .prix }}"
       data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/"
       data-item-description="{{ with .location }}{{ . }}{{ end }}{{ with .date }} – Date: {{ time . }}{{ end }}">
-          Payer ({{ replace .prix "." "," }}$)
+      Payer ({{ replace .prix "." "," }}$)
     </button>
   </section>
   {{ end }}
