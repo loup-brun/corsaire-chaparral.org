@@ -26,7 +26,6 @@ Eh bien c’est possible! Présente-toi simplement à un entrainement selon l’
 
 Toutes les communications se font par courriel. Assurez-vous d’ajouter **info@corsaire-chaparral.org** à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{% /div %}}
--->
 
 ## Informations générales et politiques d'inscription
 
