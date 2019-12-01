@@ -3,7 +3,7 @@ title: "Inscription aux compétitions 2019-2020"
 subtitle: "Compétitions"
 slug: inscription-aux-competitions-2019-2020
 images:
-- /nouvelles/2019/10/15/inscription-aux-competitions-2019-2020/couverture.jpg
+- /img/illustration-course-pastille.png
 date: 2019-10-15
 author: Club d’athlétisme Corsaire-Chaparral
 description: >
@@ -15,7 +15,7 @@ description: >
 - Les inscriptions aux compétitions _ne sont pas incluses_ dans la cotisation.
 - Chaque athlète (ou le parent) débourse le montant associé à sa participation.
 - Des frais pour le **déplacement de l’entraîneur** pourront s’appliquer si la compétition est à l’extérieur.
-- L'inscription devra être payée et complétée avant la date limite sur [corsaire-chaparral.org](https://corsaire-chaparral.org)  
+- L'inscription devra être payée et complétée avant la date limite sur [corsaire-chaparral.org/calendrier](https://corsaire-chaparral.org/calendrier/)  
   **Aucune inscription sans paiement préalable.**
 
 ## Liens

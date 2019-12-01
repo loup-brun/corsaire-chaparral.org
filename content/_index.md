@@ -82,11 +82,9 @@ images:
 - /img/coch-dos.jpg
 ---
 
-![Illustration coureuse](/img/illustration-course-pastille.png)
-
----
-
 ## Nouvelles
+
+![Sprinteuse en blocs (Illustration par Raphaël Jean)](/img/illustration-course-pastille.png)
 
 ### Inscription aux compétitions 2019-2020
 
@@ -97,10 +95,16 @@ Changement du mode d'inscription aux compétitions pour la prochaine année.
 - Les inscriptions aux compétitions _ne sont pas incluses_ dans la cotisation.
 - Chaque athlète (ou le parent) débourse le montant associé à sa participation.
 - Des frais pour le **déplacement de l’entraîneur** pourront s’appliquer si la compétition est à l’extérieur.
-- L'inscription devra être payée et complétée avant la date limite sur [corsaire-chaparral.org](https://corsaire-chaparral.org)  
+- L'inscription devra être payée et complétée avant la date limite sur [corsaire-chaparral.org/calendrier](https://corsaire-chaparral.org/calendrier/)  
   **Aucune inscription sans paiement préalable.**
 
 [Voir plus de nouvelles](/nouvelles/)
+
+---
+
+<div class="force-width">
+  <img class="img-responsive" alt="Saut en hauteur (Illustration par Raphaël Jean)" src="/img/illustration-saut-hauteur.png" />
+</div>
 
 ---
 
@@ -110,6 +114,10 @@ Changement du mode d'inscription aux compétitions pour la prochaine année.
 \- Un [camp de jour](/camp-de-jour/) spécialisé en athlétisme  
 \- Une [clinique](/initiation-course-mise-en-forme/) de course à pied  
 \- Des [compétitions](/competitions/) régionales, provinciales et nationales
+
+---
+
+![Lancer du marteau (Illustration Raphaël Jean)](/img/illustration-marteau.png)
 
 ---
 

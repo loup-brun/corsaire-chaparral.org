@@ -36,15 +36,26 @@ Direction technique
 <span class="icon icon-mail"></span>
 [robertlecoach@gmail.com](mailto:robertlecoach@gmail.com)
 
+**Nancy Boucher**  
+Trésorière  
+<span class="icon icon-mail"></span>
+[nanzzou@outlook.com](mailto:nanzzou@outlook.com)
+
+**Olivier Lavoie**  
+Entraîneur-chef  
+<span class="icon icon-mail"></span>
+[olivier.gabriel.lavoie@gmail.com](mailto:olivier.gabriel.lavoie@gmail.com)
+
+**Samuel Grondin-Bernier**  
+Direction technique  
+Assistant, entraîneur-chef  
+<span class="icon icon-mail"></span>
+[grondin750@hotmail.com](mailto:grondin750@hotmail.com)
+
 **Louis-Olivier Brassard**  
 Administrateur système, chronométrage et résultats  
 <span class="icon icon-mail"></span>
 [louis@corsaire-chaparral.org](mailto:louis@corsaire-chaparral.org)
-
-**Marc-Olivier Guindon-Gibault**  
-Entraîneur-chef  
-<span class="icon icon-mail"></span>
-[coachmarcogg@gmail.com](mailto:coachmarcogg@gmail.com)
 
 **Équipe de chronométrage**  
 <span class="icon icon-mail"></span>
