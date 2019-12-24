@@ -50,3 +50,13 @@
   frais: "20.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=63"></script>
+
+- id: "vert-et-or-inv-2020"
+  title: "Vert et Or Invitation"
+  information: "http://athletisme-quebec.ca/medias/39e-rencontre-vert-et-or-2020.pdf"
+  date: "2020-01-11"
+  limite: "2019-12-30"
+  emplacement: "Sherbrooke"
+  frais: "18.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=66"></script>
