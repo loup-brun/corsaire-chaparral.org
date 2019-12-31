@@ -15,7 +15,6 @@ menu:
 
 ## Entraîneurs
 
-* [Charles–Olivier Roy](/club/entraineurs/charles-olivier-roy/) (entraîneur responsable)
 * Chloé Robitaille
 * [Mélodie Paré](/club/entraineurs/melodie-pare/)
 
