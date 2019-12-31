@@ -15,14 +15,9 @@ layout: single
 
 {{% div class="well well-primary" %}}
 
-Les entraînements reprendront **samedi 14 septembre 2019 de 10&nbsp;h&nbsp;30 à 12&nbsp;h** pour les catégories **benjamin et plus vieux**.  
-Un BBQ sera également organisé après l’entraînement dès midi.
+🎄 Bonnes vacances! Les entraînements reprendront le **lundi 4 janvier 2020**. 
 
 {{% /div %}}
-
-**Les colibris reprendont au mois d'octobre (détails ci-bas).**
-
-Les entraînements reprendront par la suite selon l’horaire des catégories (voir plus bas).
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
@@ -54,7 +49,7 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2011-2012) {#colibri}
 
-La prochaine session de 10 semaines consécutives débutera le **samedi 12 octobre 2019**.
+La prochaine session de 10 semaines consécutives débutera au printemps 2020 (détails à venir).
 
 - Samedi 9 h à 10 h 30
 

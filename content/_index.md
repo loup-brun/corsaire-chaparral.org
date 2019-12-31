@@ -82,42 +82,11 @@ images:
 - /img/coch-dos.jpg
 ---
 
-## Nouvelles
-
-![Sprinteuse en blocs (Illustration par Raphaël Jean)](/img/illustration-course-pastille.png)
-
-### Inscription aux compétitions 2019-2020
-
-Changement du mode d'inscription aux compétitions pour la prochaine année.
-
-<em class="badge badge-primary">Nouveauté</em> Chaque athlète (ou parent) est responsable de payer les frais d'inscription aux compétitions.
-
-- Les inscriptions aux compétitions _ne sont pas incluses_ dans la cotisation.
-- Chaque athlète (ou le parent) débourse le montant associé à sa participation.
-- Des frais pour le **déplacement de l’entraîneur** pourront s’appliquer si la compétition est à l’extérieur.
-- L'inscription devra être payée et complétée avant la date limite sur [corsaire-chaparral.org/calendrier](https://corsaire-chaparral.org/calendrier/)  
-  **Aucune inscription sans paiement préalable.**
-
-[Voir plus de nouvelles](/nouvelles/)
-
----
-
 <div class="force-width">
-  <img class="img-responsive" alt="Saut en hauteur (Illustration par Raphaël Jean)" src="/img/illustration-saut-hauteur.png" />
+  <img class="img-responsive" alt="Saut en hauteur (Illustration par Raphaël Jean)" src="/img/illustration-marteau.png" />
 </div>
 
----
-
-## Activités
-
-\- Le [Demi-Marathon de Blainville](https://demimarathondeblainville.com/fr/)  
-\- Un [camp de jour](/camp-de-jour/) spécialisé en athlétisme  
-\- Une [clinique](/initiation-course-mise-en-forme/) de course à pied  
-\- Des [compétitions](/competitions/) régionales, provinciales et nationales
-
----
-
-![Lancer du marteau (Illustration Raphaël Jean)](/img/illustration-marteau.png)
+_Illustration par Raphaël Jean._
 
 ---
 
@@ -155,6 +124,15 @@ _<small>Saison 2019-2020</small>_
 
 Il est demandé à chaque famille* d'accomplir un minimum de [20&nbsp;heures](/club/inscription/#benevolat) de bénévolat chaque année. Les amis, ça compte aussi!  
 <small><em>*À l'exception des colibris, qui n'ont pas à faire de bénévolat.</em></small>
+
+### Quelles activités proposez-vous?
+
+Quelques exemples :
+
+\- Le [Demi-Marathon de Blainville](https://demimarathondeblainville.com/fr/)  
+\- Un [camp de jour](/camp-de-jour/) spécialisé en athlétisme  
+\- Une [clinique](/initiation-course-mise-en-forme/) de course à pied  
+\- Des [compétitions](/competitions/) régionales, provinciales et nationales
 
 ### Comment puis-je vous contacter?
 
