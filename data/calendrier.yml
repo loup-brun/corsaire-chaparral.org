@@ -60,3 +60,16 @@
   frais: "18.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=66"></script>
+
+- id: "relais-vaudreuil-2020"
+  title: "Les Relais Vaudreuil-Dorion"
+  information: "http://athletisme-quebec.ca/medias/relais-cavd-document-technique-2020.pdf"
+  date: "2020-01-18"
+  limite: "2020-01-11"
+  emplacement: "Vaudreuil-Dorion"
+  frais: "20.00$ pour la première épreuve (toutes catégories), épreuves suivantes à 5.00"
+  structureFrais:
+    "Première épreuve": "20.00"
+    "Épreuve supplémentaire": "5.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=67"></script>
