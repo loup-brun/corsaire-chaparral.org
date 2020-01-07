@@ -14,9 +14,7 @@ icon: calendar
 
 <!--[Horaire final](https://campagnes.corsaire-chaparral.org/asset/235:horaire-final-challenge-andre-harel) _(version finale mise à jour le 31 janvier 2019)_-->
 
-<!--[Document technique](https://campagnes.corsaire-chaparral.org/asset/223:doc-technique-challenge-andre-harel-2019) _(version finale mise à jour le 31 janvier 2019)_-->
-
-Document technique à paraître sous peu.
+[Document technique](https://campagnes.corsaire-chaparral.org/asset/466:challenge-andre-harel-document-technique-2020)
 
 Responsable de compétition : [Samuel Grondin-Bernier](mailto:grondin750@hotmail.com)
 

@@ -73,3 +73,44 @@
     "Épreuve supplémentaire": "5.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=67"></script>
+
+- id: "challenge-andre-harel-2020"
+  title: "Challenge André-Harel 2020"
+  information: "https://campagnes.corsaire-chaparral.org/asset/466:challenge-andre-harel-document-technique-2020"
+  date: "2020-02-01"
+  limite: "2020-01-26"
+  emplacement: "Montréal"
+  frais: "15.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=68"></script>
+
+- id: "2020"
+  title: "2020"
+  information: "http://athletisme-quebec.ca"
+  date: ""
+  limite: ""
+  emplacement: ""
+  frais: ""
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+- id: "2020"
+  title: "2020"
+  information: "http://athletisme-quebec.ca"
+  date: ""
+  limite: ""
+  emplacement: ""
+  frais: ""
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+# Template
+- id: "2020"
+  title: "2020"
+  information: "http://athletisme-quebec.ca"
+  date: ""
+  limite: ""
+  emplacement: ""
+  frais: ""
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
