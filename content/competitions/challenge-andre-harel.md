@@ -49,7 +49,7 @@ Pour confirmer votre présence en personne, présentez-vous à la chambre d’ap
 
 ## Bénévolat
 
-Nous aurons besoin de bénévoles! Inscrivez-vous jusqu'au **mercredi 27 janvier 2020**
+Nous aurons besoin de bénévoles! Inscrivez-vous jusqu'au **lundi 27 janvier 2020**
 
 <a class="btn btn-primary btn-large" href="https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2020">Bénévolat</a>
 

@@ -1,0 +1,54 @@
+{{- define "article" -}}
+{{ .Content }}
+
+<ul class="list-unstyled">
+  <li>
+    <h2><a href="{{ .Permalink }}">{{ .CurrentSection.Title }}</a></h2>
+    <ul>
+      {{- range .CurrentSection.Pages -}}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{- end -}}
+    </ul>
+  </li>
+{{- range $.Site.Sections -}}
+  <li>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <ul>
+      {{- range .Sections -}}
+      <li>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <ul>
+          {{- range .Sections -}}
+          <li>
+            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+            <ul>
+              {{ range .Pages}}
+              <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+              {{- end -}}
+            </ul>
+          </li>
+          {{- else -}}
+          {{- range .Pages -}}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+          {{- end -}}
+          {{- end -}}
+        </ul>
+      </li>
+      {{- else -}}
+      {{- range .Pages -}}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{- end -}}
+      {{- end -}}
+    </ul>
+  </li>
+  {{- end -}}
+</ul>
+{{- end -}}

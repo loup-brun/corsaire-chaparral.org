@@ -1,3 +1,3 @@
 ---
-title: challenge-andre-harel-2020
+title: Challenge André-Harel 2020
 ---
