@@ -90,6 +90,11 @@ menu:
     title: Nouvelles
     weight: 40
 
+  - identifier: plan
+    url: '/plan-du-site/'
+    title: Plan du site
+    weight: 50
+
 #  - identifier: coch-invitation
 #    title: Corsaire-Chaparral Invitation
 #    url: '/competitions/corsaire-chaparral-invitation/'
