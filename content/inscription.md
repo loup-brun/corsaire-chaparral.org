@@ -7,7 +7,7 @@ aliases:
 ---
 
 
-**L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis inscrivez-vous en ligne.
+**L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis inscrivez-vous en ligne (lien au bas de la page).
 
 {{< badge >}}NOUVEAU!{{< /badge >}} Le club utilisera le système d'inscription Trackie cette année.
 
