@@ -1,4 +1,4 @@
-{{ $context := $.Page.Site.Params }}
+{{- $context := $.Page.Site.Params -}}
 <table>
   <thead>
     <tr>
@@ -7,15 +7,16 @@
   </thead>
   
   <tbody>
-    {{ range sort .Site.Data.calendrier "date" "desc" }}
-    {{ $competition := . }}
-    
+    {{- range sort .Site.Data.calendrier "date" "desc" }}
+    {{- $competition := . -}}
+    {{- $limitCheck := le (time (printf "%sT23:59:00.00-05:00" $competition.limite)) (time now) -}}
+
     <tr>
       <td>{{ $competition.date }}</td>
 
       <td>
         <a href="/calendrier/{{ $competition.id }}/">
-          {{- if gt now (time $competition.limite) -}}
+          {{- if and $competition.limite $limitCheck -}}
           <s>
           {{ $competition.title | markdownify }}
           </s>
@@ -25,7 +26,7 @@
         </a>
       </td>
     </tr>
-    {{ end }}
+    {{- end -}}
   </tbody>
 </table>
 

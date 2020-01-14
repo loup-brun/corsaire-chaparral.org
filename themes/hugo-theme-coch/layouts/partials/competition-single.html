@@ -1,48 +1,49 @@
-{{ $context := $.Page.Site.Params }}
-{{ $id := $.Page.File.BaseFileName }}
-{{ range where .Site.Data.calendrier "id" "eq" $id }}
-{{ $competition := . }}
+{{- $context := $.Page.Site.Params -}}
+{{- $id := $.Page.File.BaseFileName -}}
+{{- range where .Site.Data.calendrier "id" "eq" $id -}}
+{{- $competition := . -}}
+{{- $limitCheck := le (time (printf "%sT23:59:00.00-05:00" $competition.limite)) (time now) -}}
 <section>
   <h3>
-    {{ if gt now (time $competition.limite) }}
+    {{- if $limitCheck -}}
     <s>
-    {{ $competition.title | markdownify }}
+    {{- $competition.title | markdownify -}}
     </s>
-    {{ else }}
-    {{ $competition.title | markdownify }}
-    {{ end }}
+    {{- else -}}
+    {{- $competition.title | markdownify -}}
+    {{- end -}}
   </h3>
   
-  {{with $competition.description }}
+  {{- with $competition.description -}}
   <p>{{ . | markdownify }}</p>
-  {{ end }}
+  {{- end -}}
   
   <ul>
-    {{ with .date }}
-    <li><strong>Date</strong> : {{ (time .).Format "2006-01-02" }}</li>
-    {{ end }}
-    {{ with .limite }}
-    <li><strong>Date limite d'inscription</strong> : <mark>{{ (time .).Format "2006-01-02" }}</mark></li>
+    {{- if .date -}}
+    <li><strong>Date</strong> : {{ (time .date).Format "2006-01-02" }}</li>
+    {{- end -}}
+    {{- if .limite -}}
+    <li><strong>Date limite d'inscription</strong> : <mark>{{ (time .limite).Format "2006-01-02" }}</mark></li>
     {{ end }}
     {{ with .emplacement }}
     <li><strong>Emplacement</strong> : {{ .  | markdownify }}</li>
     {{ end }}
     {{ with $competition.frais }}
     <li><strong>Frais</strong> : {{ replace . "." "," }}$</li>
-    {{ end }}
-    {{ with $competition.information }}
+    {{- end -}}
+    {{- with $competition.information -}}
     <li><strong><a href="{{ . }}" tagget="_blank">Informations sur la compétition</a></strong></li>
-    {{ end }}
+    {{- end -}}
   </ul>
 
-  {{ if gt now (time $competition.limite) }}
+  {{- if $limitCheck -}}
   <div class="well">
     <span class="icon icon-warning"></span>
     <em>La date d'inscription pour cette compétition est passée; le formulaire n'est plus disponible.</em>
   </div>
-  {{ else }}
+  {{- else -}}
 
-  {{ if $competition.frais }}
+  {{- if $competition.frais -}}
   <section>
     <h4>Paiement</h4>
 

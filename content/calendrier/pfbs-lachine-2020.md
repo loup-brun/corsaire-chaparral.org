@@ -1,3 +1,3 @@
 ---
-title: pfbs-lachine-2020
+title: Les Jeux de Lachine
 ---

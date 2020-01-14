@@ -94,6 +94,36 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=70"></script>
 
+- id: "pfbs-lanaudiere-olympique-2020"
+  title: "Combiné Lanaudière-Olympique 2020"
+  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
+  date: "2020-04-26"
+  limite: "2020-04-19"
+  emplacement: "Repentigny"
+  frais: "22.00"
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+- id: "defi-course-marche-ste-therese-2020"
+  title: "Défi Course et marche Desjardins 2020"
+  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
+  date: "2020-05-03"
+  limite: ""
+  emplacement: "Sainte-Thérèse"
+  frais: ""
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+- id: "petit-pentathlon-nathalie-2020"
+  title: "Le Petit pentathlon de Nathalie 2020"
+  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
+  date: "2020-06-13"
+  limite: ""
+  emplacement: "Sainte-Thérèse"
+  frais: "17.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
 # Template
 - id: "2020"
   title: "2020"
