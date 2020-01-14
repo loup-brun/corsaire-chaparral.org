@@ -84,30 +84,20 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=68"></script>
 
-- id: "2020"
-  title: "2020"
-  information: "http://athletisme-quebec.ca"
-  date: ""
-  limite: ""
-  emplacement: ""
-  frais: ""
+- id: "pfbs-lachine-2020"
+  title: "Jeux de Lachine 2020"
+  information: "http://athletisme-quebec.ca/medias/jeux-de-lachine-26-janvier-20201947.pdf"
+  date: "2020-01-26"
+  limite: "2020-01-19"
+  emplacement: "Lachine"
+  frais: "22.00"
   formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
-
-- id: "2020"
-  title: "2020"
-  information: "http://athletisme-quebec.ca"
-  date: ""
-  limite: ""
-  emplacement: ""
-  frais: ""
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=70"></script>
 
 # Template
 - id: "2020"
   title: "2020"
-  information: "http://athletisme-quebec.ca"
+  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
   date: ""
   limite: ""
   emplacement: ""
