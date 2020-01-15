@@ -17,6 +17,10 @@
 - name: "Club Optimiste de Sainte-Thérèse"
   image: "/img/partenaires/club-optimiste-ste-therese.gif"
 
+- name: "Physio Atlas Inc. | Clinique de physiothérapie à Rosemère"
+  image: "/img/partenaires/physio-atlas-rosemere.jpg"
+  url: "https://www.facebook.com/physioatlas/"
+
 ######################################################
 #         Partenaires de championnat 2019            #
 ######################################################
