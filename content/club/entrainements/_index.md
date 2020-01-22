@@ -11,11 +11,15 @@ menu:
 layout: single
 ---
 
-## Reprise de la saison 2019-2020
+## Changements à l’horaire d’entraînement
 
-{{% div class="well well-primary" %}}
+{{% div class="well well-danger" %}}
 
-🎄 Bonnes vacances! Les entraînements reprendront le **lundi 4 janvier 2020**. 
+Voici les prochaines modifications à l’horaire d’entraînement :
+
+- **Samedi 25 janvier** : entraînement DÉPLACÉ à l’école Lucille-Teasdale.
+- **Samedi 1er février** : en raison du Challenge André-Harel (compétition hivernale) tous les entraînements sont **annulés**.
+- **Samedi 7 mars** : semaine de relâche (infos à venir)
 
 {{% /div %}}
 
