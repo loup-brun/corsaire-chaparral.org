@@ -12,7 +12,9 @@ icon: calendar
 
 ## Informations générales
 
-<!--[Horaire final](https://campagnes.corsaire-chaparral.org/asset/235:horaire-final-challenge-andre-harel) _(version finale mise à jour le 31 janvier 2019)_-->
+[Horaire final](https://assets.corsaire-chaparral.org/competitions/2020/challenge-andre-harel-2020-document-technique.pdf) _(version finale mise à jour le 29 janvier 2020)_
+
+[Participants attendus](http://athletisme-quebec.ca/medias/performances-challenge-andreharel.pdf)
 
 [Document technique](https://campagnes.corsaire-chaparral.org/asset/466:challenge-andre-harel-document-technique-2020)
 
@@ -32,26 +34,24 @@ L'adresse du Complexe sportif Claude-Robillard est la suivante :
 
 Pour confirmer votre présence en personne, présentez-vous à la chambre d’appel muni de votre dossard **au minimum 45 minutes à l’avance**.
 
-<!--
 
-**Pour confirmer par SMS**, il suffit d’envoyer un message texte avec son numéro de dossard au :
+**Vous pouvez également confirmer par SMS**. Il suffit d’envoyer un message texte avec son numéro de dossard au :
 
 {{% div class="text-center h3" %}}
 [(450) 912-2937](tel:+14509122937)
 {{% /div %}}
 
-
 **Exemple :**
 
 ![Exemple de confirmation](https://campagnes.corsaire-chaparral.org/media/images/c7d2d31b1c5e98445ed4cfa26b4caef0.png)
 
--->
-
 ## Bénévolat
 
-Nous aurons besoin de bénévoles! Inscrivez-vous jusqu'au **lundi 27 janvier 2020**
+Nous aurons besoin de bénévoles! Inscrivez-vous jusqu'au **lundi 27 janvier 2020**.
 
+<!--
 <a class="btn btn-primary btn-large" href="https://campagnes.corsaire-chaparral.org/benevolat-challenge-andre-harel-2020">Bénévolat</a>
+-->
 
 ## À propos de cette compétition
 
