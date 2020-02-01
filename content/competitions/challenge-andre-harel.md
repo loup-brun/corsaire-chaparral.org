@@ -9,12 +9,15 @@ icon: calendar
 #    parent: competitions
 ---
 
+<a href="https://avs-sport.com/comp_main.php?comp=452" target="_blank" class="btn btn-primary">Résultats</a>
 
 ## Informations générales
 
-[Horaire final](https://assets.corsaire-chaparral.org/competitions/2020/challenge-andre-harel-2020-document-technique.pdf) _(version finale mise à jour le 29 janvier 2020)_
+[Horaire final](https://assets.corsaire-chaparral.org/competitions/2020/challenge-andre-harel-2020-horaire-final.pdf) _(version finale mise à jour le 29 janvier 2020)_
 
 [Participants attendus](http://athletisme-quebec.ca/medias/performances-challenge-andreharel.pdf)
+
+[Grille de haies](https://assets.corsaire-chaparral.org/competitions/2020/challenge-andre-harel-grille-haies.pdf)
 
 [Document technique](https://campagnes.corsaire-chaparral.org/asset/466:challenge-andre-harel-document-technique-2020)
 
