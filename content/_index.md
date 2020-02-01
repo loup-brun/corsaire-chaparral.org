@@ -7,7 +7,8 @@ splash:
   title: "Challenge André-Harel 2020"
   lead : >
 
-    L’événement a lieu au complexe sportif Claude-Robillard toute la journée.
+    L’événement a lieu au complexe sportif Claude-Robillard toute la journée.<br>
+    Tous les entraînements sont annulés pour l’occasion.
     <div class="splash__buttons">
       <a href="https://avs-sport.com/comp_main.php?comp=452" class="btn btn-primary strong em">RÉSULTATS 🔥</a>
     </div>
