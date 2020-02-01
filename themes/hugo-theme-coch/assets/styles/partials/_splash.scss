@@ -11,8 +11,8 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: linear-gradient(135deg, $color-primary, saturate(adjust-hue($color-primary, -12%), 10%));
-  color: check-background($color-primary);
+  background-image: linear-gradient(-45deg, $font-color, lighten(saturate(adjust-hue($font-color, -12%), 10%), 4%));
+  color: check-background($color-secondary);
   
   position: relative;
   
@@ -36,8 +36,10 @@
   background-image: url('/img/COCH_Seul_4C.svg');
   background-repeat: no-repeat;
   
+  mix-blend-mode: color-dodge;
+  
   // mobile-first background layout
-  background-position: 25vw -4vh;
+  background-position: -25vw -4vh;
   background-size: auto 95vh;
   
   
@@ -46,7 +48,7 @@
     background-size: auto 125vh;
   }
   
-  opacity: 0.8;
+  opacity: 0.25;
 }
 .splash__content-layer {
   position: relative;
@@ -59,10 +61,13 @@
     font-size: 44px; // mobile-first size
     margin: 0 0 25px;
     line-height: 0.88;
+
+    // add a nice text shadow
+    text-shadow: 0 1px 30px rgba(0,0,0,0.7),0 0px 4px rgba(0,0,0,0.3);
     
 
     @media (min-width: $tablet-breakpoint) {
-      font-size: 8vw;
+      font-size: 10vw;
       margin-bottom: 8vh;
     }
   }

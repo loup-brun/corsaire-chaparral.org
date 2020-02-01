@@ -4,16 +4,13 @@ type: accueil
 layout: splash
 
 splash:
-  title: "Club d’athlétisme Corsaire-Chaparral"
+  title: "Challenge André-Harel 2020"
   lead : >
 
+    L’événement a lieu au complexe sportif Claude-Robillard toute la journée.
     <div class="splash__buttons">
-      <a href="/club/entrainements/" class="btn btn-default">Entraînements <span class="icon icon-angle-right"></span></a>
-      <a href="/inscription/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
+      <a href="https://avs-sport.com/comp_main.php?comp=452" class="btn btn-primary strong em">RÉSULTATS 🔥</a>
     </div>
-    
-    
-    En savoir plus &darr;
 
 featuredPhotosUrl: https://photos.corsaire-chaparral.org
 featuredPhotos:
