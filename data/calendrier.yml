@@ -124,6 +124,52 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
+- id: "champ-prov-salle-pentathlon-ben-cad-2020"
+  title: "Championnat provincial en salle de pentathlon benjamin-cadet"
+  information: "http://athletisme-quebec.ca/medias/championnats-hiver-2020-juveniles-seniors-veterans.pdf"
+  date: "2020-02-15"
+  limite: "2020-02-06"
+  emplacement: "Montréal"
+  frais: "35.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=72"></script>
+
+- id: "champ-prov-salle-juv-sen-vet-2020"
+  title: "Championnat provincial en salle juvénile-senior-vétéran"
+  information: "http://athletisme-quebec.ca/medias/championnats-hiver-2020-juveniles-seniors-veterans.pdf"
+  date: "2020-02-15"
+  limite: "2020-02-06"
+  emplacement: "Montréal"
+  frais: "Juvéniles: 17,00$/épreuve - Senior et vétéran : 22.00"
+  structureFrais:
+    "Épreuve juvénile": "17.00"
+    "Épreuve senior-vétéran": "22.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=71"></script>
+
+- id: "champ-prov-salle-ben-cad-jun-2020"
+  title: "Championnat provincial en salle benjamin-cadet-junior"
+  information: "http://athletisme-quebec.ca/medias/document-champ-en-salle-benj-cad-jun-2020.pdf"
+  date: "2020-02-29"
+  limite: "2020-02-20"
+  emplacement: "Sherbrooke"
+  frais: "Benjamin et cadet: 17,00$/épreuve - junior : 22.00"
+  structureFrais:
+    "Épreuve benjamin-cadet": "17.00"
+    "Épreuve junior": "22.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=73"></script>
+
+- id: "champ-prov-salle-pentathlon-juv-vet-2020"
+  title: "Championnat provincial en salle de pentathlon juvénile et vétéran"
+  information: "http://athletisme-quebec.ca/medias/document-champ-en-salle-benj-cad-jun-2020.pdf"
+  date: "2020-02-29"
+  limite: "2020-02-20"
+  emplacement: "Sherbrooke"
+  frais: "35.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=74"></script>
+
 # Template
 - id: "2020"
   title: "2020"
