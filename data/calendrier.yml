@@ -158,7 +158,7 @@
     "Épreuve benjamin-cadet": "17.00"
     "Épreuve junior": "22.00"
   formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=73"></script>
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 - id: "champ-prov-salle-pentathlon-juv-vet-2020"
   title: "Championnat provincial en salle de pentathlon juvénile et vétéran"
@@ -168,7 +168,17 @@
   emplacement: "Sherbrooke"
   frais: "35.00"
   formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=74"></script>
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+
+- id: "pfbs-montreal-fevrier-2020"
+  title: "PFBS - Challenge Montréal 2020"
+  information: "http://athletisme-quebec.ca/medias/document-20technique-20foul-c3-a9es-20bs-209-20f-c3-a9vrier-202020.pdf"
+  date: "2020-02-09"
+  limite: "2020-02-03"
+  emplacement: "Montréal"
+  frais: "12.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=73"></script>
 
 # Template
 - id: "2020"
