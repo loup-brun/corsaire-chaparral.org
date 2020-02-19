@@ -17,9 +17,8 @@ layout: single
 
 Voici les prochaines modifications à l’horaire d’entraînement :
 
-- **Samedi 25 janvier** : entraînement DÉPLACÉ à l’école Lucille-Teasdale.
-- **Lundi 27 janvier** : entraînement DÉPLACÉ à l’école St-Gabriel.
-- **Samedi 1er février** : en raison du Challenge André-Harel (compétition hivernale) tous les entraînements sont **annulés**.
+- **Jeudi 20 février** annulation d’entraînement (non-disponibilité des gymnases): 
+- **Samedi 22 février** : entraînement DÉPLACÉ à l’école de la Renaissance (`370 Boulevard d'Annecy, Blainville, QC J7B 1J7`), selon l’horaire habituel. 
 - **Samedi 7 mars** : semaine de relâche (infos à venir)
 
 {{% /div %}}
