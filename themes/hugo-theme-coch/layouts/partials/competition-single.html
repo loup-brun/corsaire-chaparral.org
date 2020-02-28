@@ -44,11 +44,14 @@
   {{- else -}}
 
   {{- if $competition.frais -}}
-  <section>
-    <h4>Paiement</h4>
+  <section class="row-sm">
+    <h4>Étape 1. Paiement</h4>
 
     <p>
       Le paiement doit être fait pour que l'inscription soit valide.
+    </p>
+    <p>
+      <strong>Instructions</strong> : Ajoutez toutes les épreuves auxquelles vous souhaitez participer, puis payez par carte de crédit. Notez le <strong>numéro de confirmation</strong> lorsque la transaction est complétée.
     </p>
 
     {{ range $nom, $frais := $competition.structureFrais }}
@@ -59,7 +62,7 @@
       data-item-price="{{ $frais }}"
       data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/{{ $competition.id }}/"
       data-item-description="{{ with $competition.location }}{{ . }}{{ end }}{{ with $competition.date }} – Date: {{ time . }}{{ end }}">
-      {{ $nom }} ({{ replace $frais "." "," }}$)
+      {{ $nom | markdownify }} ({{ replace $frais "." "," }}$)
     </button>
     {{ else }}
     <button
@@ -78,9 +81,21 @@
   {{ with .formulaire }}
   <section>
     <h4>
-      Informations de l'athlète
+      Étape 2. Informations de l'athlète
     </h4>
     {{ . | safeHTML }}
+
+    <h4>
+      Étape 3. Envoyer
+    </h4>
+    <p>
+      Vous recevrez un courriel de confirmation.
+      Avant la date limite, veuillez vérifier <strong>l’inscription officielle</strong> sur le site de l’événement pour vous assurer que les bonnes informations aient été transmises.
+    </p>
+    
+    <p>
+      Les inscriptions sont non remboursables après la date limite.
+    </p>
   </section>
   {{ end }}
   {{ end }}

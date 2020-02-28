@@ -100,9 +100,9 @@
   date: "2020-04-26"
   limite: "2020-04-19"
   emplacement: "Repentigny"
-  frais: "22.00"
+#  frais: "22.00"
 #  formulaire: >
-#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=77"></script>
 
 - id: "defi-course-marche-ste-therese-2020"
   title: "Défi Course et marche Desjardins 2020"
@@ -189,6 +189,21 @@
   frais: "35.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=76"></script>
+
+- id: "champ-canadien-salle-2020"
+  title: "Championnat canadien en salle 2020"
+  information: "https://athletics.ca/wp-content/uploads/2019/11/2020_indoor_champs_schedule_v15jan-with-logo.pdf"
+  date: "2020-03-21"
+  limite: "2020-03-08"
+  emplacement: "Montréal"
+  frais: "Première épreuve à 65.00$; deuxième épreuve à 50.00; troisième épreuve à 15.00"
+  structureFrais:
+    "1<sup>ère</sup> épreuve": "65.00"
+    "2<sup>e</sup> épreuve": "50.00"
+    "3<sup>e</sup> épreuve": "15.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=77"></script>
+
 
 # Template
 - id: "2020"
