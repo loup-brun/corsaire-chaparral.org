@@ -51,9 +51,9 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
-### Colibri (2011-2012) {#colibri}
+### Colibri (2011-2012-2013) {#colibri}
 
-La prochaine session de 10 semaines consécutives débutera au printemps 2020 (détails à venir).
+La prochaine session de 10 semaines consécutives débutera le samedi 4 avril 2020.
 
 - Samedi 9 h à 10 h 30
 
