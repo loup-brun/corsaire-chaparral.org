@@ -57,7 +57,7 @@ ol a
 }
 
 .container-main {
-//  @include horizontal-padding(0);
+  @include horizontal-padding(0);
   position: relative;
   margin-top: $spacing;
   padding-bottom: $spacing-xl;
@@ -75,6 +75,18 @@ ol a
   
   img {
 	max-width: 100%;
+  }
+}
+
+.card {
+  margin-top: $spacing;
+  padding-top: $spacing-lg;
+  padding-bottom: $spacing-lg;
+  background-color: #fff;
+  @include box-shadow(0 5px 10px rgba(0,0,0,0.1));
+  
+  &__heading {
+    margin-top: $spacing-xs;
   }
 }
 
