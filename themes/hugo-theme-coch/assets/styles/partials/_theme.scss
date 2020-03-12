@@ -57,7 +57,7 @@ ol a
 }
 
 .container-main {
-  @include horizontal-padding(0);
+//  @include horizontal-padding(0);
   position: relative;
   margin-top: $spacing;
   padding-bottom: $spacing-xl;

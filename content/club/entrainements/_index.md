@@ -17,9 +17,8 @@ layout: single
 
 Voici les prochaines modifications à l’horaire d’entraînement :
 
-- **Samedi 29 février** : RELÂCHE - ANNULATION D’ENTRAÎNEMENT pour toutes les catégories.
-- **Lundi 2 mars** : RELÂCHE - ANNULATION D’ENTRAÎNEMENT pour toutes les catégories.
 - Reprise selon l'horaire habituel à partir du **mercredi 4 mars**.
+- **Samedi 14 mars**: entraînement DÉPLACÉ à l’école de la Renaissance (`370 Boulevard d'Annecy Blainville, QC J7B 1J7`).
 
 {{% /div %}}
 
