@@ -15,10 +15,7 @@ layout: single
 
 {{% div class="well well-danger" %}}
 
-Voici les prochaines modifications à l’horaire d’entraînement :
-
-- Reprise selon l'horaire habituel à partir du **mercredi 4 mars**.
-- **Samedi 14 mars**: entraînement DÉPLACÉ à l’école de la Renaissance (`370 Boulevard d'Annecy Blainville, QC J7B 1J7`).
+En date du 13 mars, toutes les activités d’entraînement sont suspendues pour une durée d’au moins deux semaines.
 
 {{% /div %}}
 

@@ -6,14 +6,15 @@ layout: splash
 splash:
   title: "Club d’athlétisme Corsaire-Chaparral"
   lead : >
-
+    
+    
+    <p class="lead strong">Toutes les activités d’entraînement sont suspendues.</p>
+    
     <div class="splash__buttons">
-      <a href="/club/entrainements/" class="btn btn-default">Entraînements <span class="icon icon-angle-right"></span></a>
-      <a href="/inscription/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
+      <a href="/nouvelles/2020/03/13/covid-19-suspension-entrainements/" class="btn btn-default">En savoir plus <span class="icon icon-angle-right"></span></a>
+      <!--<a href="/inscription/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>-->
     </div>
-    
-    
-    En savoir plus &darr;
+
 
 featuredPhotosUrl: https://photos.corsaire-chaparral.org
 featuredPhotos:
