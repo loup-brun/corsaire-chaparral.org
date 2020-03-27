@@ -7,7 +7,15 @@ aliases:
 ---
 
 
+{{% div class="well well-danger" %}}
+**Les inscriptions sont présentement suspendues.**
+
+En raison des consignes relativement à la pandémie, le Corsaire-Chaparral a suspendu toutes ses activités d’entraînement ainsi que l’inscription.
+{{% /div %}}
+
+<!--
 **L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis inscrivez-vous en ligne (lien au bas de la page).
+-->
 
 {{< badge >}}NOUVEAU!{{< /badge >}} Le club utilisera le système d'inscription Trackie cette année.
 
@@ -94,4 +102,6 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
+<!--
 <a class="btn btn-primary btn--block -lg" href="http://www.trackiereg.com/coch/">**Inscription 2019-2020** <span class="icon icon-pencil"></a>
+-->
