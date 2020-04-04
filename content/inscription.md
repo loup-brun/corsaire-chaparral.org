@@ -50,6 +50,7 @@ Le tarif de la cotisation 2019-2020 est établi selon la catégorie d'âge, il e
 Les inscriptions mensuelles ne sont pas acceptées.
 
 {{< badge >}}NOUVEAU!{{< /badge >}} Une session d'entrainement été 2020 (du 1<sup>er</sup> juin au 31 juillet) a été spécialement ajoutée.
+Pour cette session, il n’y a pas de dépôt de bénévolat.
 
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 1<sup>er</sup> juin au 31 juillet |
 | ----------------------- | ------------------ | ------ | ------ |
