@@ -49,16 +49,18 @@ Le tarif de la cotisation 2019-2020 est établi selon la catégorie d'âge, il e
 
 Les inscriptions mensuelles ne sont pas acceptées.
 
-| Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août |
-| ----------------------- | ------------------ | ------ |
-| Colibri (2011-2012-2013)| 103 $ par session  | 103 $ par session |
-| Minime (2009-2010)      | 190 $              | 150 $  |
-| Benjamin  (2007-2008)   | 370 $              | 290 $  |
-| Cadet (2005-2006)       | 425 $              | 330 $  |
-| Juvénile (2003-2004)    | 588 $              | 448 $  |
-| Junior (2001-2002)      | 742 $              | 562 $  |
-| Senior (1986-2000)      | 752 $              | 572 $  |
-| Vétéran (1985 et avant) | 588 $              | 448 $  |
+{{< badge >}}NOUVEAU!{{< /badge >}} Une session d'entrainement été 2020 (du 1<sup>er</sup> juin au 31 juillet) a été spécialement ajoutée.
+
+| Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 1<sup>er</sup> juin au 31 juillet |
+| ----------------------- | ------------------ | ------ | ------ |
+| Colibri (2011-2012-2013)| 103 $ par session  | 103 $ par session | - |
+| Minime (2009-2010)      | 190 $              | 150 $  | -     |
+| Benjamin  (2007-2008)   | 370 $              | 290 $  | 160 $ |
+| Cadet (2005-2006)       | 425 $              | 330 $  | 182 $ |
+| Juvénile (2003-2004)    | 588 $              | 448 $  | 246 $ |
+| Junior (2001-2002)      | 742 $              | 562 $  | 309 $ |
+| Senior (1986-2000)      | 752 $              | 572 $  | 315 $ |
+| Vétéran (1985 et avant) | 588 $              | 448 $  | 246 $ |
 
 {{< note >}}
 ### Notes
