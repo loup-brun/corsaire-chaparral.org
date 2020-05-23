@@ -1,24 +1,26 @@
-{{ define "article" }}
-  {{ .Content }}
+{{ define "article" -}}
+{{- .Content -}}
 
-  {{ range .Sections }}
-  <h2>{{ .Title }}</h2>
+{{- range .Sections -}}
+<h2>{{ .Title }}</h2>
 
-  <ul>
-    {{ range .Pages }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-  </ul>
+<ul>
+  {{- range .Pages -}}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
+  {{- end -}}
+</ul>
 
-  {{ end }}
+{{- end -}}
 
-  <ul>
-    {{ range .Pages }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-  </ul>
-{{ end }}
+{{- if .Pages -}}
+<ul>
+  {{- range .Pages -}}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
+  {{- end -}}
+</ul>
+{{- end -}}
+{{- end }}
