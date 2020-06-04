@@ -6,7 +6,7 @@ images:
 - /nouvelles/2020/05/14/reprise-des-activites-covid19/couverture.jpg
 date: 2020-05-14
 author: Club d’athlétisme Corsaire-Chaparral
-description: Le club reprendra bientôt ses activités.
+description: La pratique individuelle est autorisée.
 ---
 
 Suivant les directives du gouvernement du Québec en matière d’activités sportives, le Corsaire-Chaparral entamera une reprise graduelle de ses activités.
