@@ -8,10 +8,10 @@ splash:
   lead : >
     
     
-    <p class="lead strong">Toutes les activités d’entraînement sont suspendues.</p>
+    <p class="lead strong">Le club reprendra bientôt ses activités.</p>
     
     <div class="splash__buttons">
-      <a href="/nouvelles/2020/03/13/covid-19-suspension-entrainements/" class="btn btn-default">En savoir plus <span class="icon icon-angle-right"></span></a>
+      <a href="/reconnaissance-risque-covid-19/" class="btn btn-tertiary">Formulaire de reprise <span class="icon icon-angle-right"></span></a>
       <!--<a href="/inscription/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>-->
     </div>
 
