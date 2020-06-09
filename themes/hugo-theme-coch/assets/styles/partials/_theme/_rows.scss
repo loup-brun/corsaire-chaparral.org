@@ -52,8 +52,8 @@
 }
 
 .well-success {
-  background-color: $green;
-  color: check-background($green);
+  background-color: $color-success;
+  color: check-background($color-success);
 }
 .well-danger {
   background-color: $color-danger;
