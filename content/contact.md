@@ -21,10 +21,8 @@ J7E 4J3
 
 ## Répertoire
 
-**Louis Lauzon**  
-Président  
-<span class="icon icon-mail"></span>
-[alouis.lauzon@sympatico.ca](mailto:alouis.lauzon@sympatico.ca)
+**Feu André-Louis Lauzon**  
+Président
 
 **Nadine Lauzon**  
 Bénévolat et inscriptions  
