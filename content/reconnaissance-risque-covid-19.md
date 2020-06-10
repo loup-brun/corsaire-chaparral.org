@@ -1,6 +1,8 @@
 ---
 title: "Reconnaissance de risque COVID-19"
 subtitle: COVID-19
+images:
+- /img/couverture-signature-formulaire.jpg
 date: 2020-06-09T18:05:14-04:00
 ---
 

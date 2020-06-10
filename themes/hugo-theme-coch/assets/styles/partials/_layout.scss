@@ -57,6 +57,7 @@
 }
 
 .row-0 { @include vertical-padding(0); }
+.row-xs { @include vertical-padding($spacing-xs); }
 .row-sm { @include vertical-padding($spacing-sm); }
 .row-lg { @include vertical-padding($spacing-xl); }
 .row-xl { @include vertical-padding(2 * $spacing-xl); }

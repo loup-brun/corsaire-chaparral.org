@@ -83,6 +83,7 @@ images:
 - /img/coch-dos.jpg
 ---
 
+<!--
 <div class="force-width">
   <img class="img-responsive" alt="Saut en hauteur (Illustration par Raphaël Jean)" src="/img/illustration-marteau.png" />
 </div>
@@ -90,15 +91,50 @@ images:
 _Illustration par Raphaël Jean._
 
 ---
+-->
 
 ## FAQ
 
+### Quand les entraînements reprendront-ils?
+
+<span class="badge badge-primary">#COVID19</span>
+<span class="badge badge-primary">#Entraînements</span>
+
+**Bientôt.**
+Le club travaille activement avec ses parenaires pour valider les possibilités d’une reprise des activités sécuritaire.
+
+D’ici là, vous pouvez signer le [formulaire de reconnaissance]({{< ref "reconnaissance-risque-covid-19" >}}) liée au risque.
+
+### Un camp de jour sera-t-il offert à l’été 2020?
+
+<span class="badge badge-primary">#COVID19</span>
+<span class="badge badge-primary">#CampDeJour</span>
+
+**Non.**
+Le camp de jour spécialisé en athlétisme n’est pas considéré comme un camp de première ligne et ne reçoit donc pas de soutien prioritaire.
+En raison de la situation sanitaire, le club n’offrira pas son camp de jour à l’été 2020.
+
+### Qu’arrive-t-il de mes heures de bénévolat pour la saison 2019-2020?
+
+<span class="badge badge-primary">#COVID19</span>
+<span class="badge badge-primary">#Bénévolat</span>
+
+Il est encore trop tôt pour que le club puisse statuer sur la formule des heures de bénévolat.
+Un crédit pourra être octroyé aux familles ayant déjà complété leurs heures lors de l’inscription l’année prochaine, mais nous ne pouvons nous avancer plus.
+
 ### Comment puis-je faire de l’athlétisme?
 
+<span class="badge badge-primary">#COVID19</span>
+
+**De manière récéative, pour le moment.**
+Les entraînements de groupe reprendront bientôt.
+
+<!--
 \- Consultez [l'horaire des entraînements](/club/entrainements/)  
 \- [Inscrivez-vous](/inscription/) en ligne
 
 Si vous avez accompli des heures de bénévolat ou souhaitez inscrire plusieurs enfants d’une même famille, <a href="mailto:info@corsaire-chaparral.org">contactez-nous</a> avant votre inscription pour obtenir un code de rabais.
+-->
 
 ### Quelles sont les catégories d’âge?
 
@@ -119,12 +155,14 @@ _<small>Saison 2019-2020</small>_
 
 **Club principal (Sainte-Thérèse)** : Stade d'athlétisme Richard-Garneau + Polyvalente Sainte-Thérèse.
 
-<small><em>Note : le club satellite de Lachute reviendra au printemps 2020.</em></small>
+<small><em>Note : le club satellite de Lachute reviendra ~~au printemps 2020~~ un jour.</em></small>
 
 ### Combien d'heures de bénévolat dois-je faire?
 
 Il est demandé à chaque famille* d'accomplir un minimum de [20&nbsp;heures](/club/inscription/#benevolat) de bénévolat chaque année. Les amis, ça compte aussi!  
 <small><em>*À l'exception des colibris, qui n'ont pas à faire de bénévolat.</em></small>
+
+<!--
 
 ### Quelles activités proposez-vous?
 
@@ -134,6 +172,7 @@ Quelques exemples :
 \- Un [camp de jour](/camp-de-jour/) spécialisé en athlétisme  
 \- Une [clinique](/initiation-course-mise-en-forme/) de course à pied  
 \- Des [compétitions](/competitions/) régionales, provinciales et nationales
+-->
 
 ### Comment puis-je vous contacter?
 
