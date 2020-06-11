@@ -126,7 +126,7 @@ Un crédit pourra être octroyé aux familles ayant déjà complété leurs heur
 
 <span class="badge badge-primary">#COVID19</span>
 
-**De manière récéative, pour le moment.**
+**De manière récréative, pour le moment.**
 Les entraînements de groupe reprendront bientôt.
 
 <!--
