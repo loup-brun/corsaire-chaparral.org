@@ -1,12 +1,12 @@
 ---
 title: Entraînements des benjamins
 description: Proposition du calendrier d’activité pour les benjamins (2006–2007).
-menu:
-  main:
-    parent: entrainements
-    identifier: entrainements-benjamins
-    title: Benjamins
-    weight: 30
+#menu:
+#  main:
+#    parent: entrainements
+#    identifier: entrainements-benjamins
+#    title: Benjamins
+#    weight: 30
 ---
 
 ## Horaire d’entraînement

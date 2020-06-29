@@ -3,19 +3,19 @@ title: Entraînements
 meta_title: 2016-2017
 categories: Club
 icon: stopwatch
-menu:
-  main:
-    identifier: entrainements-info
-    parent: entrainements
-    weight: 1
+#menu:
+#  main:
+#    identifier: entrainements-info
+#    parent: entrainements
+#    weight: 1
 layout: single
 ---
 
-## Changements à l’horaire d’entraînement
+{{% div class="well well-tertiary" %}}
 
-{{% div class="well well-danger" %}}
+## COVID-19 - Reprise
 
-En date du 13 mars, toutes les activités d’entraînement sont suspendues pour une durée d’au moins deux semaines.
+En date du 25 juin mars, les activités d’entraînement ont repris.
 
 {{% /div %}}
 

@@ -4,12 +4,12 @@ date: "2018"
 description: >
   Proposition du calendrier d’activité pour les colibris (2010–2011).
 
-menu:
-  main:
-    identifier: entrainements-colibris
-    parent: entrainements
-    title: Colibris
-    weight: 10
+#menu:
+#  main:
+#    identifier: entrainements-colibris
+#    parent: entrainements
+#    title: Colibris
+#    weight: 10
 ---
 
 ## Colibris (2010-2011-2012)

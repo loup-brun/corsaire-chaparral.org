@@ -8,11 +8,11 @@ splash:
   lead : >
     
     
-    <p class="lead strong">Le club reprendra bientôt ses activités.</p>
+    <p class="lead strong">Le club a repris ses activités.</p>
     
     <div class="splash__buttons">
       <a href="/reconnaissance-risque-covid-19/" class="btn btn-tertiary">Formulaire de reprise <span class="icon icon-angle-right"></span></a>
-      <!--<a href="/inscription/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>-->
+      <a href="/inscription/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
     </div>
 
 
@@ -100,10 +100,10 @@ _Illustration par Raphaël Jean._
 <span class="badge badge-primary">#COVID19</span>
 <span class="badge badge-primary">#Entraînements</span>
 
-**Bientôt.**
+**En date du jeudi 25 juin, les entraînements ont repris.**
 Le club travaille activement avec ses parenaires pour valider les possibilités d’une reprise des activités sécuritaire.
 
-D’ici là, vous pouvez signer le [formulaire de reconnaissance]({{< ref "reconnaissance-risque-covid-19" >}}) liée au risque.
+Vous devez d’abord signer le [formulaire de reconnaissance]({{< ref "reconnaissance-risque-covid-19" >}}) liée au risque.
 
 ### Un camp de jour sera-t-il offert à l’été 2020?
 
@@ -124,17 +124,17 @@ Un crédit pourra être octroyé aux familles ayant déjà complété leurs heur
 
 ### Comment puis-je faire de l’athlétisme?
 
-<span class="badge badge-primary">#COVID19</span>
+<span class="badge badge-primary">#Entraînements</span>
 
-**De manière récréative, pour le moment.**
-Les entraînements de groupe reprendront bientôt.
+**Une nouvelle session d’été vient d’être ajoutée.**
+Les athlètes inscrits à l’année 2019-2020 peuvent reprendre l’entraînement selon l’horaire régulier.
 
-<!--
+
 \- Consultez [l'horaire des entraînements](/club/entrainements/)  
 \- [Inscrivez-vous](/inscription/) en ligne
 
-Si vous avez accompli des heures de bénévolat ou souhaitez inscrire plusieurs enfants d’une même famille, <a href="mailto:info@corsaire-chaparral.org">contactez-nous</a> avant votre inscription pour obtenir un code de rabais.
--->
+<!--Si vous avez accompli des heures de bénévolat ou souhaitez inscrire plusieurs enfants d’une même famille, <a href="mailto:info@corsaire-chaparral.org">contactez-nous</a> avant votre inscription pour obtenir un code de rabais.-->
+
 
 ### Quelles sont les catégories d’âge?
 

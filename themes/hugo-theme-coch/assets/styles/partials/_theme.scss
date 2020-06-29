@@ -129,6 +129,10 @@ ol a
   background-color: $color-secondary;
   color: check-background($color-secondary);
 }
+.badge-tertiary {
+  background-color: $color-tertiary;
+  color: check-background($color-tertiary);
+}
 
 .badge-darker {
   background-color: $gray-darker;

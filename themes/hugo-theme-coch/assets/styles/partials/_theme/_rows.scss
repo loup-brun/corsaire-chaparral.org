@@ -51,6 +51,11 @@
   }
 }
 
+.well-tertiary {
+  background-color: $color-tertiary;
+  color: check-background($color-tertiary);
+}
+
 .well-success {
   background-color: $color-success;
   color: check-background($color-success);

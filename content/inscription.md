@@ -7,10 +7,10 @@ aliases:
 ---
 
 
-{{% div class="well well-danger" %}}
-**Les inscriptions sont présentement suspendues.**
+{{% div class="well well-tertiary" %}}
+## COVID-19 – Reprise
 
-En raison des consignes relativement à la pandémie, le Corsaire-Chaparral a suspendu toutes ses activités d’entraînement ainsi que l’inscription.
+Les inscriptions sont ouvertes à nouveau pour l’été 2020.
 {{% /div %}}
 
 <!--
@@ -19,6 +19,7 @@ En raison des consignes relativement à la pandémie, le Corsaire-Chaparral a su
 
 {{< badge >}}NOUVEAU!{{< /badge >}} Le club utilisera le système d'inscription Trackie cette année.
 
+<!--
 {{< div class="alert -primary" >}}
 **Première inscription?**
 
@@ -27,6 +28,7 @@ Tu n’es pas sûr quelle discipline te plairait?
 Tu aimerais pouvoir essayer avant de faire ton inscription?  
 Eh bien c’est possible! Présente-toi simplement à un entrainement selon l’horaire de ta catégorie et tu pourras bénéficier d’une période d’essai sans frais.
 {{< /div >}}
+-->
 
 
 {{% div class="well well-danger" %}}
@@ -54,14 +56,14 @@ Pour cette session, il n’y a pas de dépôt de bénévolat.
 
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 1<sup>er</sup> juin au 31 juillet |
 | ----------------------- | ------------------ | ------ | ------ |
-| Colibri (2011-2012-2013)| 103 $ par session  | 103 $ par session | - |
+| Colibri (2011-2012-2013)| 103 $ par session  | 103 $ par session | <mark>103 $ par session</mark> |
 | Minime (2009-2010)      | 190 $              | 150 $  | -     |
-| Benjamin  (2007-2008)   | 370 $              | 290 $  | 160 $ |
-| Cadet (2005-2006)       | 425 $              | 330 $  | 182 $ |
-| Juvénile (2003-2004)    | 588 $              | 448 $  | 246 $ |
-| Junior (2001-2002)      | 742 $              | 562 $  | 309 $ |
-| Senior (1986-2000)      | 752 $              | 572 $  | 315 $ |
-| Vétéran (1985 et avant) | 588 $              | 448 $  | 246 $ |
+| Benjamin  (2007-2008)   | 370 $              | 290 $  | <mark>160 $</mark> |
+| Cadet (2005-2006)       | 425 $              | 330 $  | <mark>182 $</mark> |
+| Juvénile (2003-2004)    | 588 $              | 448 $  | <mark>246 $</mark> |
+| Junior (2001-2002)      | 742 $              | 562 $  | <mark>309 $</mark> |
+| Senior (1986-2000)      | 752 $              | 572 $  | <mark>315 $</mark> |
+| Vétéran (1985 et avant) | 588 $              | 448 $  | <mark>246 $</mark> |
 
 {{< note >}}
 ### Notes
@@ -84,6 +86,12 @@ Pour cette session, il n’y a pas de dépôt de bénévolat.
 -->
 
 ## Bénévolat et activités de financement {#benevolat}
+
+{{< note well-tertiary >}}
+### Saison d’été 2020
+
+Il n’y a pas de bénévolat demandé pour l’inscription à la saison d’été 2020, exceptionnellement.
+{{< /note >}}
 
 {{< note well-secondary >}}
 **Pour faire créditer son dépôt de bénévolat des années antérieures avant l'inscription., [veuillez communiquer avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription**.
