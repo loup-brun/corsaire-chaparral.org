@@ -53,7 +53,7 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2011-2012-2013) {#colibri}
 
-<span class="badge badge-tertiary">Nouveau!</span> La prochaine session de 10 semaines consécutives débutera le samedi 4 juillet 2020 jusqu’au samedi 29 août 2020.
+<span class="badge badge-tertiary">Nouveau!</span> La prochaine session de 9 semaines consécutives débutera le samedi 4 juillet 2020 jusqu’au samedi 29 août 2020.
 
 - Samedi 9 h à 10 h 30
 
