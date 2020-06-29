@@ -10,7 +10,8 @@ aliases:
 {{% div class="well well-tertiary" %}}
 ## COVID-19 – Reprise
 
-Les inscriptions sont ouvertes à nouveau pour l’été 2020.
+Les inscriptions sont ouvertes à nouveau pour l’été 2020, jusqu’au 31 août.  
+Une **session d’été** est offerte à toutes les catégories.
 {{% /div %}}
 
 <!--

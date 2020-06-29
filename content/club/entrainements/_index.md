@@ -15,7 +15,10 @@ layout: single
 
 ## COVID-19 - Reprise
 
-En date du 25 juin mars, les activités d’entraînement ont repris.
+En date du 25 juin, les activités d’entraînement ont repris.
+Une session d’été est offerte jusqu’au 31 août à un tarif réduit.
+
+<a href="/inscription/" class="btn btn-default">Inscription <span class="icon icon-angle-right"></span></a>
 
 {{% /div %}}
 
@@ -27,7 +30,7 @@ Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sport
 401 Boulevard du Domaine  
 Sainte-Thérèse, QC J7E 4S4
 ```
-
+<!--
 Dans le but d'alléger les plateaux sportifs de la polyvalente durant la session d'hiver, certains entraînements des athlètes de catégorie **juvénile et plus vieux** peuvent se donner à l'**école Saint-Pierre**.
 
 ```
@@ -41,6 +44,7 @@ Sainte-Thérèse, QC J7E 2S3
 452 Avenue d’Argenteuil  
 Lachute, Quebec J8H 1W9
 ```
+-->
 
 
 ## <span class="icon icon-stopwatch"></span> Horaire d'entraînement {#horaire}
@@ -49,7 +53,7 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2011-2012-2013) {#colibri}
 
-La prochaine session de 10 semaines consécutives débutera le samedi 4 avril 2020.
+<span class="badge badge-tertiary">Nouveau!</span> La prochaine session de 10 semaines consécutives débutera le samedi 4 juillet 2020 jusqu’au samedi 29 août 2020.
 
 - Samedi 9 h à 10 h 30
 

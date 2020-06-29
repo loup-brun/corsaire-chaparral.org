@@ -162,6 +162,8 @@ _<small>Saison 2019-2020</small>_
 Il est demandé à chaque famille* d'accomplir un minimum de [20&nbsp;heures](/club/inscription/#benevolat) de bénévolat chaque année. Les amis, ça compte aussi!  
 <small><em>*À l'exception des colibris, qui n'ont pas à faire de bénévolat.</em></small>
 
+Il n’y a pas de bénévolat demandé pour la session d’été.
+
 <!--
 
 ### Quelles activités proposez-vous?

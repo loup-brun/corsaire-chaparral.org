@@ -1,12 +1,12 @@
 ---
 title: Entraînements des minimes
 description: Proposition du calendrier d’activité pour les minimes (2008–2009).
-menu:
-  main:
-    parent: entrainements
-    identifier: entrainements-minimes
-    title: Minimes
-    weight: 20
+#menu:
+#  main:
+#    parent: entrainements
+#    identifier: entrainements-minimes
+#    title: Minimes
+#    weight: 20
 ---
 
 ## Horaire d’entraînement
