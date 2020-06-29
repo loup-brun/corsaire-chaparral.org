@@ -6,7 +6,6 @@ aliases:
   - /club/inscription/
 ---
 
-
 {{% div class="well well-tertiary" %}}
 ## COVID-19 – Reprise
 
@@ -18,7 +17,9 @@ Une **session d’été** est offerte à toutes les catégories.
 **L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis inscrivez-vous en ligne (lien au bas de la page).
 -->
 
+<!--
 {{< badge >}}NOUVEAU!{{< /badge >}} Le club utilisera le système d'inscription Trackie cette année.
+-->
 
 <!--
 {{< div class="alert -primary" >}}
@@ -36,6 +37,10 @@ Eh bien c’est possible! Présente-toi simplement à un entrainement selon l’
 **NOTE IMPORTANTE SUR LES COURRIELS**
 
 Toutes les communications se font par courriel. Assurez-vous d’ajouter **info@corsaire-chaparral.org** à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
+{{% /div %}}
+
+{{% div class="well" %}}
+&darr; Le lien vers l'inscription se trouve au bas de cette page.
 {{% /div %}}
 
 ## Informations générales et politiques d'inscription
@@ -58,7 +63,7 @@ Pour cette session, il n’y a pas de dépôt de bénévolat.
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 1<sup>er</sup> juin au 31 juillet |
 | ----------------------- | ------------------ | ------ | ------ |
 | Colibri (2011-2012-2013)| 103 $ par session  | 103 $ par session | <mark>103 $ par session</mark> |
-| Minime (2009-2010)      | 190 $              | 150 $  | -     |
+| Minime (2009-2010)      | 190 $              | 150 $  | <mark>138 $</mark> |
 | Benjamin  (2007-2008)   | 370 $              | 290 $  | <mark>160 $</mark> |
 | Cadet (2005-2006)       | 425 $              | 330 $  | <mark>182 $</mark> |
 | Juvénile (2003-2004)    | 588 $              | 448 $  | <mark>246 $</mark> |
@@ -114,6 +119,4 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
-<!--
 <a class="btn btn-primary btn--block -lg" href="http://www.trackiereg.com/coch/">**Inscription 2019-2020** <span class="icon icon-pencil"></a>
--->
