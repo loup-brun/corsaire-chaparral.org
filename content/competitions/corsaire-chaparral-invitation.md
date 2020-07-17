@@ -21,7 +21,6 @@ images:
 
 [Liste des performances](https://assets.corsaire-chaparral.org/competitions/2019/coch-invitation/liste-perf-coch-invitation-2019.pdf)
 
-<a href="/resultats/direct/" class="btn btn-primary">🔥 Résultats en direct <span class="icon icon-angle-right"></span></a>
 
 ## Informations générales
 
