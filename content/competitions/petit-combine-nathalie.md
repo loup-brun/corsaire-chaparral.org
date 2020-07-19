@@ -1,6 +1,8 @@
 ---
 title: "Le petit combiné de Nathalie"
 date: 2020-08-30
+images: 
+- /img/banniere-petit-combine-nathalie.png
 ---
 
 ## Informations générales

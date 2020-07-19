@@ -3,6 +3,8 @@ title: "Ephemeros COCH"
 date: 2020-08-08
 description: >
   L’une des premières rencontres d’athlétisme de la relance COVID-19 au Québec!
+images:
+- /img/banniere-ephemeros.png
 ---
 
 ## Informations générales
@@ -30,6 +32,8 @@ Sainte-Thérèse, QC J7E 4S4
 - Lancer du marteau
 - Saut en longueur
 - Saut en hauteur (femmes: 1,40m+ / hommes: 1,65m+)
+
+![Table des épreuves offertes par catégorie et par sexe](ephemeros-table-epreuves-offertes.png)
 
 ## Inscription
 
