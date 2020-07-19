@@ -28,7 +28,7 @@ Les athlètes qui prendront part à l’événement devront faire usage de l’e
 
 ## Le petit pentathlon de Nathalie
 
-![Logo ephemeros COCH](logo-petit-pentathlon-nathalie.png)
+![Logo petit pentathlon de Nathalie COCH](logo-petit-pentathlon-nathalie.png)
 
 [Le petit pentathlon de Nathalie]({{< ref petit-pentathlon-nathalie >}}) fait partie du _Circuit estival des jeunes_, une séries de compétitions amicales pour les 13 ans et moins.
 Ce circuit, à vocation initiatique, est chapeauté par la Fédération québécoise d’athlétisme.

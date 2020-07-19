@@ -34,6 +34,8 @@ Sainte-Thérèse, QC J7E 4S4
 - Saut en longueur
 - Saut en hauteur (femmes: 1,40m+ / hommes: 1,65m+)
 
+Pour les épreuves de concours, un chiffre indique le nombre maximal de participants.
+
 ![Table des épreuves offertes par catégorie et par sexe](/img/ephemeros-table-epreuves-offertes.png)
 
 ## Inscription
