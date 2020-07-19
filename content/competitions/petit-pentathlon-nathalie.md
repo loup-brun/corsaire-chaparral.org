@@ -1,16 +1,16 @@
 ---
-title: "Le petit combiné de Nathalie"
+title: "Le petit pentathlon de Nathalie"
 date: 2020-08-30
 images: 
-- /img/banniere-petit-combine-nathalie.png
+- /img/banniere-petit-pentathlon-nathalie.png
 ---
 
 ## Informations générales
 
 - **Date** : dimanche 30 août 2020
 - **Programme** : _document technique à venir_
-<!--- **Programme** : document technique [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-00-petit-combine-nathalie-2020-document-technique.pdf)-->
-- **Responsable de la rencontre** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org).
+<!--- **Programme** : document technique [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-00-petit-pentathlon-nathalie-2020-document-technique.pdf)-->
+- **Responsable de la rencontre** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
 
 ## Emplacement
 
@@ -43,6 +43,6 @@ _Formulaire de bénévolat bientôt disponible._
 
 ## À propos de l’événement
 
-**Le petit combiné de Nathalie** s’inscrit dans le _Circuit estival des jeunes_ de la Fédération québécoise d’athlétisme, un circuit d’initiation pour les athlètes de catégorie benjamine et plus jeune.
+**Le petit pentathlon de Nathalie** s’inscrit dans le _Circuit estival des jeunes_ de la Fédération québécoise d’athlétisme, un circuit d’initiation pour les athlètes de catégorie benjamine et plus jeune.
 Il consiste en un pentathlon pour chacune des catégories: 
 

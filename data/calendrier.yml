@@ -104,25 +104,15 @@
 #  formulaire: >
 #    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=77"></script>
 
-- id: "defi-course-marche-ste-therese-2020"
-  title: "Défi Course et marche Desjardins 2020"
-  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
-  date: "2020-05-03"
-  limite: ""
+- id: "petit-pentathlon-nathalie-2020"
+  title: "Le petit pentathlon de Nathalie 2020"
+  information: "https://corsaire-chaparral.org/competitions/petit-pentathlon-nathalie/"
+  date: "2020-08-30"
+  limite: "2020-08-23"
   emplacement: "Sainte-Thérèse"
-  frais: ""
+#  frais: "17.00"
 #  formulaire: >
 #    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
-
-- id: "petit-pentathlon-nathalie-2020"
-  title: "Le Petit pentathlon de Nathalie 2020"
-  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
-  date: "2020-06-13"
-  limite: ""
-  emplacement: "Sainte-Thérèse"
-  frais: "17.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 - id: "champ-prov-salle-pentathlon-ben-cad-2020"
   title: "Championnat provincial en salle de pentathlon benjamin-cadet"
@@ -203,15 +193,26 @@
     "3<sup>e</sup> épreuve": "15.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=77"></script>
+- id: "ephemeros-coch-2020"
+  title: "Ephemeros COCH 8 août 2020"
+  information: "https://corsaire-chaparral.org/competitions/ephemeros/"
+  date: "2020-08-08"
+  limite: "2020-08-03"
+  emplacement: "Sainte-Thérèse"
+#  frais: "Première épreuve à 25.00$; deuxième épreuve à 20.00; troisième épreuve à 15.00"
+#  structureFrais:
+#    "1<sup>ère</sup> épreuve": "25.00"
+#    "2<sup>e</sup> épreuve": "20.00"
+#    "3<sup>e</sup> épreuve": "15.00"
 
 
 # Template
-- id: "2020"
-  title: "2020"
-  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
-  date: ""
-  limite: ""
-  emplacement: ""
-  frais: ""
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+#- id: "2020"
+#  title: "2020"
+#  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
+#  date: ""
+#  limite: ""
+#  emplacement: ""
+#  frais: ""
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>

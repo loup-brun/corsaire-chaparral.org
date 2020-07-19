@@ -33,7 +33,7 @@ Sainte-Thérèse, QC J7E 4S4
 - Saut en longueur
 - Saut en hauteur (femmes: 1,40m+ / hommes: 1,65m+)
 
-![Table des épreuves offertes par catégorie et par sexe](ephemeros-table-epreuves-offertes.png)
+![Table des épreuves offertes par catégorie et par sexe](/img/ephemeros-table-epreuves-offertes.png)
 
 ## Inscription
 
@@ -43,7 +43,7 @@ _Les inscriptions seront bientôt ouvertes._
 
 Nous avons besoin de bénévoles!
 
-_Formulaire de bénévolat bientôt disponible._
+<a href="benevolat" class="btn btn-primary -lg">Bénévolat <span class="icon icon-angle-right"></span></a>
 
 <!--<a href="https://campagnes.corsaire-chaparral.org/benevolat-coch-invitation-2019" class="btn btn-primary">Formulaire de bénévolat <span class="icon icon-pencil"></span></a>-->
 
