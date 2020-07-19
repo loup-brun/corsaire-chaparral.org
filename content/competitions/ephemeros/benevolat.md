@@ -5,10 +5,10 @@ description: >
   Faites du bénévolat pour l’Ephemeros COCH du 8 août 2020.
 ---
 
-L’Ephemeros COCH se tiendra le samedi 8 août 2020 au Stade Richard-Garneau.
-C’est notamment l’occasion pour votre famille de faire vos [20 heures]({{< ref "club/benevolat" >}}) de bénévolat annuelles au club!
+![Logotype ephemeros COCH 2020](/img/logo-ephemeros.png)
 
-[Informations sur l’événement]({{< ref ephemeros >}})
+[**L’Ephemeros COCH**]({{< ref ephemeros >}}) se tiendra le samedi 8 août 2020 au Stade Richard-Garneau.
+C’est notamment l’occasion pour votre famille de faire vos [20 heures]({{< ref "club/benevolat" >}}) de bénévolat annuelles au club!
 
 ## Formulaire
 

@@ -5,12 +5,13 @@ description: >
   L’une des premières rencontres d’athlétisme de la relance COVID-19 au Québec!
 images:
 - /img/banniere-ephemeros.png
+kind: single
 ---
 
 ## Informations générales
 
 - **Date** : samedi 8 août 2020
-- **Programme** : [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-00-ephemeros-coch-document-technique.pdf)
+- **Information et programme** : [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-00-ephemeros-coch-2020-document-technique.pdf)
 - **Responsable de la rencontre** : [Samuel Grondin-Bernier](mailto:samuel@corsaire-chaparral.org).
 
 ## Emplacement
@@ -37,13 +38,21 @@ Sainte-Thérèse, QC J7E 4S4
 
 ## Inscription
 
-_Les inscriptions seront bientôt ouvertes._
+En ligne, jusqu’au **lundi 3 août 2020, 23 h 59**.
+
+Tarif:
+
+- 1<sup>re</sup> épreuve: **25,00 $**
+- 2<sup>e</sup> épreuve: **20,00 $**
+- 1<sup>e</sup> épreuve: **15,00 $**
+
+<a href="https://trackiereg.com/ephemeros2020/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
 
 ## Bénévolat
 
 Nous avons besoin de bénévoles!
 
-<a href="benevolat" class="btn btn-primary -lg">Bénévolat <span class="icon icon-angle-right"></span></a>
+<a href="benevolat" class="btn btn-tertiary btn--block -lg">Bénévolat <span class="icon icon-angle-right"></span></a>
 
 <!--<a href="https://campagnes.corsaire-chaparral.org/benevolat-coch-invitation-2019" class="btn btn-primary">Formulaire de bénévolat <span class="icon icon-pencil"></span></a>-->
 
@@ -56,7 +65,7 @@ L’une des premières rencontres d’athlétisme de la reprise COVID-19 au Qué
 
 ### _ephemeros_?
 
-Le nom de l’événement vient du grec _ephemeros_, «qui dure un jour».
+Le nom de l’événement vient du grec _ephemeros_, « qui dure un jour ».
 
 {{< /div >}}
 
