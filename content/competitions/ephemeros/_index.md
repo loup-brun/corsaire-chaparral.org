@@ -11,7 +11,7 @@ kind: single
 ## Informations générales
 
 - **Date** : samedi 8 août 2020
-- **Information et programme** : [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-00-ephemeros-coch-2020-document-technique.pdf)
+- **Information et programme** : [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-01-ephemeros-coch-2020-document-technique.pdf)
 - **Responsable de la rencontre** : [Samuel Grondin-Bernier](mailto:samuel@corsaire-chaparral.org).
 
 ## Emplacement
@@ -36,7 +36,7 @@ Sainte-Thérèse, QC J7E 4S4
 
 Pour les épreuves de concours, un chiffre indique le nombre maximal de participants.
 
-![Table des épreuves offertes par catégorie et par sexe](/img/ephemeros-table-epreuves-offertes.png)
+![Table des épreuves offertes par catégorie et par sexe](ephemeros-table-epreuves-offertes.png)
 
 ## Inscription
 
