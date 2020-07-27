@@ -211,9 +211,9 @@
   date: "2020-08-12"
   limite: "2020-08-08"
   emplacement: "Sherbrooke"
-  frais: "Chaque épreuve à 25.00"
+  frais: "Chaque épreuve à 27.00"
   structureFrais:
-    "Épreuve": "25.00"
+    "Épreuve": "27.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=82"></script>
 
@@ -225,7 +225,7 @@
   emplacement: "Sherbrooke"
   frais: "Chaque épreuve à 25.00"
   structureFrais:
-    "1 épreuve": "25.00"
+    "Épreuve": "27.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=83"></script>
 
