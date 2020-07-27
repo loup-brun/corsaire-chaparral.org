@@ -205,6 +205,39 @@
 #    "2<sup>e</sup> épreuve": "20.00"
 #    "3<sup>e</sup> épreuve": "15.00"
 
+- id: "crepuscule-jacques-martin-2020"
+  title: "Crépuscule Jacques-Martin 2020"
+  information: "https://athletisme-quebec.ca/medias/document-technique-crepuscule-jacques-martin-12-aout-2020.pdf"
+  date: "2020-08-12"
+  limite: "2020-08-08"
+  emplacement: "Sherbrooke"
+  frais: "Chaque épreuve à 25.00"
+  structureFrais:
+    "Épreuve": "25.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=82"></script>
+
+- id: "athletisme-sherbrooke-invitation-2020"
+  title: "Athlétisme Sherbrooke Invitation 2020"
+  information: "https://athletisme-quebec.ca/medias/document-technique-athletisme-sherbrooke-invitation-15-aout-2020.pdf"
+  date: "2020-08-15"
+  limite: "2020-08-08"
+  emplacement: "Sherbrooke"
+  frais: "Chaque épreuve à 25.00"
+  structureFrais:
+    "1 épreuve": "25.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=83"></script>
+
+- id: "soiree-rouge-or-3-2020"
+  title: "Soirée Rouge et Or #3 2020"
+  information: "https://athletisme-quebec.ca/calendrier-resultats.php"
+  date: "2020-08-21"
+  limite: "2020-08-14"
+  emplacement: "Québec"
+  frais: ""
+#  formulaire: >
+#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
 # Template
 #- id: "2020"

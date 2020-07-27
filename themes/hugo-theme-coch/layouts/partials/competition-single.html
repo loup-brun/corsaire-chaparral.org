@@ -61,7 +61,7 @@
       data-item-name="{{ $competition.title }} ({{ $nom }})"
       data-item-price="{{ $frais }}"
       data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/{{ $competition.id }}/"
-      data-item-description="{{ with $competition.location }}{{ . }}{{ end }}{{ with $competition.date }} – Date: {{ time . }}{{ end }}">
+      data-item-description="{{ with $competition.emplacement }}{{ . }}{{ end }}{{ with $competition.date }} – {{ (time .).Format "2006-01-02" }}{{ end }}">
       {{ $nom | markdownify }} ({{ replace $frais "." "," }}$)
     </button>
     {{ else }}
@@ -71,7 +71,7 @@
       data-item-name="{{ $competition.title }}"
       data-item-price="{{ $competition.frais }}"
       data-item-url="https://{{ if $context.isTest }}www-test.{{ end }}corsaire-chaparral.org/calendrier/{{ $competition.id }}/"
-      data-item-description="{{ with $competition.location }}{{ . }}{{ end }}{{ with $competition.date }} – Date: {{ time . }}{{ end }}">
+      data-item-description="{{ with $competition.emplacement }}{{ . }}{{ end }}{{ with $competition.date }} – {{ (time .).Format "2006-01-02" }}{{ end }}">
       Payer ({{ replace $competition.frais "." "," }}$)
     {{ end }}
 
