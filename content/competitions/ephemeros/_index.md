@@ -11,8 +11,9 @@ kind: single
 ## Informations générales
 
 - **Date** : samedi 8 août 2020
-- **Information et programme** : [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-01-ephemeros-coch-2020-document-technique.pdf)
+- **Information et programme** : [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-02-ephemeros-coch-2020-document-technique.pdf)
 - **Responsable de la rencontre** : [Samuel Grondin-Bernier](mailto:samuel@corsaire-chaparral.org).
+- <em class="badge badge-primary">Nouveau!</em> Ajout d’un 800 m Invitation chez les femmes (minima : **2:08,00**).
 
 ## Emplacement
 
@@ -37,6 +38,14 @@ Sainte-Thérèse, QC J7E 4S4
 Pour les épreuves de concours, un chiffre indique le nombre maximal de participants.
 
 ![Table des épreuves offertes par catégorie et par sexe](ephemeros-table-epreuves-offertes.png)
+
+{{< note "well-primary" >}}
+### Nouveau!
+
+_L’Ephemeros COCH du 8 août 2020 ajoute à son programme un **800 mètres haute performance** chez les femmes (sur invitation seulement)._  
+_Minima : **2:08,00**._  
+_Pour plus d’information ou pour prendre part à l’épreuve, veuillez contacter les organisateurs directement._
+{{< /note >}}
 
 ## Inscription
 
