@@ -57,7 +57,7 @@ Tarif:
 - 2<sup>e</sup> épreuve: **20,00 $**
 - 3<sup>e</sup> épreuve: **15,00 $**
 
-<a href="https://trackiereg.com/ephemeros2020/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
+<a href="https://www.trackie.com/inscription/evenement/ephemeros-coch-2020/465986/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
 
 ## Bénévolat
 
