@@ -10,10 +10,17 @@ kind: single
 
 ## Informations générales
 
+[Horaire final](https://assets.corsaire-chaparral.org/competitions/2020/1-00-horaire-final-ephemeros-coch-2020.pdf) 
+|
+[Liste des performances](https://assets.corsaire-chaparral.org/competitions/2020/liste-des-performances.pdf) 
+|
+[Programme](https://assets.corsaire-chaparral.org/competitions/2020/programme.pdf)
+
 - **Date** : samedi 8 août 2020
-- **Information et programme** : [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-02-ephemeros-coch-2020-document-technique.pdf)
-- **Responsable de la rencontre** : [Samuel Grondin-Bernier](mailto:samuel@corsaire-chaparral.org).
+- **Information et programme** : [Document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-02-ephemeros-coch-2020-document-technique.pdf)
+- **Responsable de la rencontre** : [Samuel Grondin-Bernier](mailto:samuel@corsaire-chaparral.org)
 - <em class="badge badge-primary">Nouveau!</em> Ajout d’un 800 m Invitation chez les femmes (minima : **2:08,00**).
+- <em class="badge badge-tertiary">COVID-19</em> [Consignes sanitaires + plan d’accès](https://assets.corsaire-chaparral.org/competitions/2020/plan-consignes-sanitaires.pdf)
 
 ## Emplacement
 
@@ -57,7 +64,7 @@ Tarif:
 - 2<sup>e</sup> épreuve: **20,00 $**
 - 3<sup>e</sup> épreuve: **15,00 $**
 
-<a href="https://www.trackie.com/inscription/evenement/ephemeros-coch-2020/465986/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
+_Les inscriptions sont fermées._
 
 ## Bénévolat
 
