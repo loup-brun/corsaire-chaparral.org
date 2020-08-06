@@ -1798,7 +1798,7 @@ Homme 100 Metres Sprint Master 50-54
   4 Lazare, Pierre            68 Perfmax-Raci           13.00      15.25  -2.3 
   5 Léger, Sylvain            65 Saint-Lauren                      19.73  -2.3 
  -- Tavitian, Zaven           66 Perfmax-Raci        12:07.00        DNS  -2.3 
- -- Warren, Mark              67 Unattached             12.50     X15.09  -2.3 
+ -- Warren, Mark              67 Unattached             12.50        DNS  -2.3 
  
 Homme 200 Metres Sprint Master 50-54
 ==============================================================================
