@@ -28,6 +28,11 @@ kind: single
 401 boul. du Domaine  
 Sainte-Thérèse, QC J7E 4S4
 
+
+Plan d’accès (cliquez pour une image en haute résolution) :
+
+[![Plan d’accès](plan-acces-sm.png)](plan-acces.png)
+
 ## Épreuves offertes
 
 - 80m (benjamin)
@@ -65,14 +70,6 @@ Tarif:
 - 3<sup>e</sup> épreuve: **15,00 $**
 
 _Les inscriptions sont fermées._
-
-## Bénévolat
-
-Nous avons besoin de bénévoles!
-
-<a href="benevolat" class="btn btn-tertiary btn--block -lg">Bénévolat <span class="icon icon-angle-right"></span></a>
-
-<!--<a href="https://campagnes.corsaire-chaparral.org/benevolat-coch-invitation-2019" class="btn btn-primary">Formulaire de bénévolat <span class="icon icon-pencil"></span></a>-->
 
 ## À propos de l’événement
 
