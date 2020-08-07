@@ -3,7 +3,7 @@ title: 239 athlètes attendu·e·s à l’Ephemeros COCH
 subtitle: "Compétitions"
 slug: ephemeros-coch-participants-attendus
 images:
-- /nouvelles/2020/08/06/ephemeros-coch-participants-attendus/couverture.jpg
+- /nouvelles/2020/08/06/ephemeros-coch-participants-attendus/couverture2.jpg
 date: 2020-08-06
 author: Club d’athlétisme Corsaire-Chaparral
 description: Le Corsaire-Chaparral tiendra samedi 8 août l’une des premières compétitions québécoises dans le contexte de la pandémie de COVID-19.
