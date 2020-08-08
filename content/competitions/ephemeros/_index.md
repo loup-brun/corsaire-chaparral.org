@@ -15,6 +15,8 @@ kind: single
 [Liste des performances](https://assets.corsaire-chaparral.org/competitions/2020/liste-des-performances.pdf) 
 |
 [Programme](https://assets.corsaire-chaparral.org/competitions/2020/programme.pdf)
+|
+[Résultats](/resultats/direct/)
 
 - **Date** : samedi 8 août 2020
 - **Information et programme** : [Document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-02-ephemeros-coch-2020-document-technique.pdf)
