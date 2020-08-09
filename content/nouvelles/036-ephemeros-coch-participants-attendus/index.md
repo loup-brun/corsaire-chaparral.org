@@ -9,9 +9,9 @@ author: Club d’athlétisme Corsaire-Chaparral
 description: Le Corsaire-Chaparral tiendra samedi 8 août l’une des premières compétitions québécoises dans le contexte de la pandémie de COVID-19.
 ---
 
-**239 athlètes** – dont 106 femmes et 133 hommes – prendront part à l’une ou l’autre des 34 épreuves au programme de l’[Ephemeros COCH]({{< ref ephemeros >}}) du 8 août 2020.
+**239 athlètes** – dont 106 femmes et 133 hommes – prendront part à l’une ou l’autre des 34 épreuves au programme de l’[Ephemeros COCH]({{< ref "competitions/ephemeros" >}}) du 8 août 2020.
 
-L’horaire final ainsi que la liste des participant·e·s pour chaque épreuve ont été publiés aujourd’hui sur le [site Web](https://athletisme-quebec.ca/nouvelle?id=2657&mod=event) de la Fédération québécoise d’athlétisme ainsi que sur la [page]({{< ref ephemeros >}}) de la compétition sur le site du Corsaire-Chaparral.
+L’horaire final ainsi que la liste des participant·e·s pour chaque épreuve ont été publiés aujourd’hui sur le [site Web](https://athletisme-quebec.ca/nouvelle?id=2657&mod=event) de la Fédération québécoise d’athlétisme ainsi que sur la [page]({{< ref "competitions/ephemeros" >}}) de la compétition sur le site du Corsaire-Chaparral.
 
 L’événement se déroulera **à huis clos** au Stade d’athlétisme Richard-Garneau, à Ste-Thérèse.
 Les spectatrices et spectateurs ne seront pas admis dans l’enceinte de compétition, à l’exception des entraîneurs.

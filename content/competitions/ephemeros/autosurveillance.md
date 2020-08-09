@@ -7,7 +7,7 @@ description: >
 
 ![Logotype ephemeros COCH 2020](/img/logo-ephemeros.png)
 
-En vue de [**l’Ephemeros COCH**]({{< ref ephemeros >}}) (samedi 8 août 2020, Stade Richard-Garneau), tous les athlètes doivent remplir une courte grille d’autosurveillance des symptômes.
+En vue de [**l’Ephemeros COCH**]({{< ref "competitions/ephemeros" >}}) (samedi 8 août 2020, Stade Richard-Garneau), tous les athlètes doivent remplir une courte grille d’autosurveillance des symptômes.
 
 
 ## Formulaire

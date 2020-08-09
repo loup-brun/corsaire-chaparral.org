@@ -11,14 +11,14 @@ description: "Le club ajoute deux nouveaux événements au programme d’athlét
 
 Après plusieurs mois d’activités mouvementées, le club annonce l’ajout de deux nouveaux événements au calendrier provincial: 
 
-- [L’Ephemeros COCH]({{< ref ephemeros >}}) samedi 8 août 2020
+- [L’Ephemeros COCH]({{< ref "competitions/ephemeros" >}}) samedi 8 août 2020
 - [Le petit pentathlon de Nathalie]({{< ref petit-pentathlon-nathalie >}}) dimanche 30 août 2020
 
 ## L’Ephemeros, l’une des premières compétitions du circuit provincial dans la reprise COVID-19
 
 ![Logo ephemeros COCH](logo-ephemeros.png)
 
-[L’Ephemeors]({{< ref ephemeros >}}) est une compétition civile de calibre provincial.
+[L’Ephemeors]({{< ref "competitions/ephemeros" >}}) est une compétition civile de calibre provincial.
 Bien que les athlètes en provenance des autres régions soient autorisés à se déplacer, l’événement vise principalement à desservir la clientèle de la grande région métropolitaine (Laurentides, Lanaudière, Laval, Montréal).
 
 L’événement se tiendra le samedi 8 août 2020 au Stade d’athlétisme Richard-Garneau.

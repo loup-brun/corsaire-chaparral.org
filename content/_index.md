@@ -8,10 +8,10 @@ splash:
   lead : >
     
     
-    <p class="lead strong">Prochaine compétition : l’Ephemeros COCH, samedi 8 août 2020.</p>
+    <p class="lead strong"></p>
     
     <div class="splash__buttons">
-      <a href="/competitions/ephemeros/" class="btn btn-primary -lg">En savoir plus <span class="icon icon-angle-right"></span></a>
+      <a href="/resultats/2020/ephemeros/" class="btn btn-secondary">Résultats de l’Ephemeros COCH <span class="icon icon-angle-right"></span></a>
     </div>
 #    <p class="lead strong">Le club a repris ses activités.</p>
 #      <a href="/reconnaissance-risque-covid-19/" class="btn btn-tertiary">Formulaire de reprise <span class="icon icon-angle-right"></span></a>

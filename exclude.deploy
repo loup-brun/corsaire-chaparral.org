@@ -3,4 +3,4 @@ node_modules
 .git*
 deploy*
 exclude.deploy
-resultats/*
+resultats/direct

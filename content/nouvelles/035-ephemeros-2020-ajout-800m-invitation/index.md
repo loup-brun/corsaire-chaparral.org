@@ -9,7 +9,7 @@ author: Club d’athlétisme Corsaire-Chaparral
 description: Des athlètes de calibre internationale seront à Ste-Thérèse le 8 août prochain. 
 ---
 
-Les organisateurs de l’[Ephemeros COCH]({{< ref ephemeros >}}) du 8 août 2020 annoncent l’ajout d’un 800 mètres Invitation chez les femmes.
+Les organisateurs de l’[Ephemeros COCH]({{< ref "competitions/ephemeros" >}}) du 8 août 2020 annoncent l’ajout d’un 800 mètres Invitation chez les femmes.
 
 Les athlètes de haut niveau de **Maïté Bouchard** (Sherbrooke, QC) et **Lindsey Butterworth** (North Vancouver, BC) ont toutes deux confirmé leur présence à cette épreuve.
 
