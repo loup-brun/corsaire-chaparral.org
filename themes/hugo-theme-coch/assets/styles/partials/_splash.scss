@@ -11,7 +11,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: linear-gradient(135deg, $color-secondary, darken(saturate(adjust-hue($color-secondary, 8%), 10%), 14%));
+  background-image: linear-gradient(135deg, $color-primary, saturate(adjust-hue($color-primary, -12%), 10%));
   color: check-background($color-primary);
   
   position: relative;
@@ -46,7 +46,7 @@
     background-size: auto 125vh;
   }
   
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .splash__content-layer {
   position: relative;

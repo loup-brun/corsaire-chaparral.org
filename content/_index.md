@@ -4,13 +4,14 @@ type: accueil
 layout: splash
 
 splash:
-  title: "Ephemeros COCH"
+  title: "Club d’athlétisme Corsaire-Chaparral"
   lead : >
-  
-    <p class="lead">2020/08/08 – Stade d’athlétisme Richard-Garneau</p>
+    
+    
+    <p class="lead strong">Prochaine compétition : l’Ephemeros COCH, samedi 8 août 2020.</p>
     
     <div class="splash__buttons">
-      <a href="/competitions/ephemeros/" class="btn btn-primary -lg">Infos et résultats <span class="icon icon-angle-right"></span></a>
+      <a href="/competitions/ephemeros/" class="btn btn-primary -lg">En savoir plus <span class="icon icon-angle-right"></span></a>
     </div>
 #    <p class="lead strong">Le club a repris ses activités.</p>
 #      <a href="/reconnaissance-risque-covid-19/" class="btn btn-tertiary">Formulaire de reprise <span class="icon icon-angle-right"></span></a>
