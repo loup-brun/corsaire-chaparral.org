@@ -5,7 +5,6 @@ date: 2020-08-08
 
 ```
 
-
 Licensed to Club D'Athletisme Corsaire - Chaparal         HY-TEK's Meet Manager
                           Ephemeros COCH - 2020-08-08                          
                       Stade d'athlétisme Richard-Garneau                       
@@ -22,9 +21,9 @@ Femmes 80 Mètres Benjamin
   5 Bouchard, Jade            07 Baie-Comeau              12,14  -2.0  1 
   6 Mannetta, Ariana          07 Lachine                  12,14  -0.9  2 
   7 Danis, Charlotte          07 Corsaire-Chap.           12,15  -0.9  2 
-  8 Lafond, Eloise            09 Rive-Sud                 12,43  -2.0  1 
+  8 Jakubowski, Maria         09 A.T.P athlétisme         12,43  -2.0  1 
   9 Etienne, Thalie-Anne      07 Rive-Sud                 12,54  -2.0  1 
- 10 Jakubowski, Maria         09 A.T.P athlétisme         13,07  -2.0  1 
+ 10 Lafond, Eloise            09 Rive-Sud                 13,07  -2.0  1 
  
 Femmes 150 Mètres Benjamin
 ========================================================================
@@ -577,4 +576,5 @@ Hommes Javelot Ouvert
       17,59m  20,56m  18,29m  16,62m      
  10 Ouellette, Malik          07 Corsaire-Chap.          18,40m   1  500g
       18,40m  17,24m  18,15m  PASS       
+
 ```
