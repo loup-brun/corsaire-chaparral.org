@@ -108,11 +108,14 @@
   title: "Le petit pentathlon de Nathalie 2020"
   information: "https://corsaire-chaparral.org/competitions/petit-pentathlon-nathalie/"
   date: "2020-08-30"
-  limite: "2020-08-23"
+  limite: "2020-08-26"
   emplacement: "Sainte-Thérèse"
-#  frais: "17.00"
-#  formulaire: >
-#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
+  frais: "Pentathlon: 22,00$ - Marche seulement (inclus avec le Pentathlon) : 10.00"
+  structureFrais:
+    "Pentathlon": "22.00"
+    "Marche": "10.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=85"></script>
 
 - id: "champ-prov-salle-pentathlon-ben-cad-2020"
   title: "Championnat provincial en salle de pentathlon benjamin-cadet"
