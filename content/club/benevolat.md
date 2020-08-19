@@ -16,7 +16,7 @@ Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chap
 | Date       | Événement                  |
 |------------|----------------------------|
 | 2020-08-08 | _Ephemeros COCH 2020_ - [Infos]({{< ref "competitions/ephemeros" >}}) / [Bénévolat](/competitions/ephemeros/benevolat/) |
-| 2020-08-30 | _Le petit combiné de Nathalie_ - [Infos](/competitions/petit-combine-nathalie/) |
+| 2020-08-30 | _Le petit combiné de Nathalie_ - [Infos](/competitions/petit-pentathlon-nathalie/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-petit-pentathlon-nathalie-2020) |
 | 2020-09-13 | ~~_Demi-Marathon de Blainville_~~ – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
 
 <!--

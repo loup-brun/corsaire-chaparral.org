@@ -8,8 +8,7 @@ images:
 ## Informations générales
 
 - **Date** : dimanche 30 août 2020
-- **Programme** : _document technique à venir_
-<!--- **Programme** : document technique [document technique](https://assets.corsaire-chaparral.org/competitions/2020/1-00-petit-pentathlon-nathalie-2020-document-technique.pdf)-->
+- **Programme** : [document technique](https://fichiers.corsaire-chaparral.org/s/artwHa5cwwPjXmT)
 - **Responsable de la rencontre** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
 
 ## Emplacement
@@ -31,15 +30,20 @@ Catégories:
 
 ## Inscription
 
-_Les inscriptions seront bientôt ouvertes._
+Inscription sur le iste [AVS-Sport](https://avs-sport.com/main.php) jusqu’au **27 août 2020 à 23h59**.
+Aucune inscription après cette date.
+
+Aucune inscription sur place.
 
 ## Bénévolat
 
 Nous avons besoin de bénévoles!
 
-_Formulaire de bénévolat bientôt disponible._
+Inscrivez vos disponibilités jusqu’au **27 août 2020**.
 
-<!--<a href="https://campagnes.corsaire-chaparral.org/benevolat-coch-invitation-2019" class="btn btn-primary">Formulaire de bénévolat <span class="icon icon-pencil"></span></a>-->
+Le dîner sera offert à celles et ceux qui s’inscriront aux 2 blocs!
+
+<a href="https://campagnes.corsaire-chaparral.org/benevolat-petit-pentathlon-nathalie-2020" class="btn btn-tertiary -lg">Formulaire de bénévolat <span class="icon icon-pencil"></span></a>
 
 ## À propos de l’événement
 
