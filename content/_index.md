@@ -11,7 +11,7 @@ splash:
     <p class="lead strong"></p>
     
     <div class="splash__buttons">
-      <a href="/resultats/2020/ephemeros/" class="btn btn-secondary">Résultats de l’Ephemeros COCH <span class="icon icon-angle-right"></span></a>
+      <a href="/competitions/petit-pentathlon-nathalie/" class="btn btn-default">Petit pentathlon de Nathalie <span class="icon icon-angle-right"></span></a>
     </div>
 #    <p class="lead strong">Le club a repris ses activités.</p>
 #      <a href="/reconnaissance-risque-covid-19/" class="btn btn-tertiary">Formulaire de reprise <span class="icon icon-angle-right"></span></a>

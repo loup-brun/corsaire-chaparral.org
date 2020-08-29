@@ -242,6 +242,34 @@
 #  formulaire: >
 #    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
 
+- id: "soiree-select-1-2020"
+  title: "Soirée sélect #1 2020"
+  information: "https://athletisme-quebec.ca/medias/soiree-select-12-sept-2020-final.pdf"
+  date: "2020-09-12"
+  limite: "2020-09-08"
+  emplacement: "Saint-Laurent"
+  frais: "25.00$ pour la première épreuve, épreuve supplémentaire à 10.00"
+  structureFrais:
+    "1re épreuve": "25.00"
+    "2e épreuve": "10.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=87"></script>
+
+
+- id: "soiree-select-2-2020"
+  title: "Soirée sélect #2 2020"
+  information: "https://athletisme-quebec.ca/medias/soiree-select-19-sept-final.pdf"
+  date: "2020-09-19"
+  limite: "2020-09-15"
+  emplacement: "Saint-Laurent"
+  frais: "25.00$ pour la première épreuve, épreuve supplémentaire à 10.00"
+  structureFrais:
+    "1re épreuve": "25.00"
+    "2e épreuve": "10.00"
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=88"></script>
+
+
 # Template
 #- id: "2020"
 #  title: "2020"
