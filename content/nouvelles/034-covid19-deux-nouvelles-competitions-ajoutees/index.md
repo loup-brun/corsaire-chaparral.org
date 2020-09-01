@@ -12,7 +12,7 @@ description: "Le club ajoute deux nouveaux événements au programme d’athlét
 Après plusieurs mois d’activités mouvementées, le club annonce l’ajout de deux nouveaux événements au calendrier provincial: 
 
 - [L’Ephemeros COCH]({{< ref "competitions/ephemeros" >}}) samedi 8 août 2020
-- [Le petit pentathlon de Nathalie]({{< ref petit-pentathlon-nathalie >}}) dimanche 30 août 2020
+- [Le petit pentathlon de Nathalie]({{< ref "competitions/petit-pentathlon-nathalie" >}}) dimanche 30 août 2020
 
 ## L’Ephemeros, l’une des premières compétitions du circuit provincial dans la reprise COVID-19
 
@@ -30,7 +30,7 @@ Les athlètes qui prendront part à l’événement devront faire usage de l’e
 
 ![Logo petit pentathlon de Nathalie COCH](logo-petit-pentathlon-nathalie.png)
 
-[Le petit pentathlon de Nathalie]({{< ref petit-pentathlon-nathalie >}}) fait partie du _Circuit estival des jeunes_, une séries de compétitions amicales pour les 13 ans et moins.
+[Le petit pentathlon de Nathalie]({{< ref "competitions/petit-pentathlon-nathalie" >}}) fait partie du _Circuit estival des jeunes_, une séries de compétitions amicales pour les 13 ans et moins.
 Ce circuit, à vocation initiatique, est chapeauté par la Fédération québécoise d’athlétisme.
 
 Pour l’instant, s’agit du seul événement du genre pour la saison 2020.

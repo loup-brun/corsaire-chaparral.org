@@ -11,6 +11,7 @@ images:
 - **Programme** : [document technique](https://fichiers.corsaire-chaparral.org/s/artwHa5cwwPjXmT)
 - **Responsable de la rencontre** : [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org)
 - [**Horaire de la journée**](https://assets.corsaire-chaparral.org/competitions/2020/petit-pentathlon-nathalie-horaire-final.pdf)
+- [**Résultats**]({{< ref "resultats/2020/petit-pentathlon-nathalie" >}})
 
 ## Emplacement
 
