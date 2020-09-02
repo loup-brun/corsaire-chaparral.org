@@ -6,16 +6,17 @@ aliases:
   - /club/inscription/
 ---
 
-{{% div class="well well-tertiary" %}}
-## COVID-19 – Reprise
-
-Les inscriptions sont ouvertes à nouveau pour l’été 2020, jusqu’au 31 août.  
-Une **session d’été** est offerte à toutes les catégories.
-{{% /div %}}
-
 <!--
 **L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis inscrivez-vous en ligne (lien au bas de la page).
 -->
+
+{{< div class="well section-large-type" >}}
+Infos sur l’inscription 2020-2021 à venir bientôt.
+
+Reprise des entraînements au mois d’octobre 2020.
+{{< /div >}}
+
+---
 
 <!--
 {{< badge >}}NOUVEAU!{{< /badge >}} Le club utilisera le système d'inscription Trackie cette année.
@@ -39,10 +40,6 @@ Eh bien c’est possible! Présente-toi simplement à un entrainement selon l’
 Toutes les communications se font par courriel. Assurez-vous d’ajouter **info@corsaire-chaparral.org** à vos contacts pour éviter que les messages ne se retrouvent dans votre courrier indésirables _(dossier « spam »)_.
 {{% /div %}}
 
-{{% div class="well" %}}
-&darr; Le lien vers l'inscription se trouve au bas de cette page.
-{{% /div %}}
-
 ## Informations générales et politiques d'inscription
 
 Le coût d’inscription est établi selon l’année de naissance de l’athlète et la période de son inscription. La cotisation de l’athlète comprend les frais d’entrainements, l’affiliation à la Fédération québécoise d'athlétisme et les frais de piste.
@@ -57,8 +54,7 @@ Le tarif de la cotisation 2019-2020 est établi selon la catégorie d'âge, il e
 
 Les inscriptions mensuelles ne sont pas acceptées.
 
-{{< badge >}}NOUVEAU!{{< /badge >}} Une session d'entrainement été 2020 (**du 25 juin au 31 août 2020**) a été spécialement ajoutée.
-Pour cette session, il n’y a pas de dépôt de bénévolat.
+<!--
 
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 1<sup>er</sup> juin au 31 juillet |
 | ----------------------- | ------------------ | ------ | ------ |
@@ -70,6 +66,8 @@ Pour cette session, il n’y a pas de dépôt de bénévolat.
 | Junior (2001-2002)      | 742 $              | 562 $  | <mark>309 $</mark> |
 | Senior (1986-2000)      | 752 $              | 572 $  | <mark>315 $</mark> |
 | Vétéran (1985 et avant) | 588 $              | 448 $  | <mark>246 $</mark> |
+
+-->
 
 {{< note >}}
 ### Notes
@@ -93,11 +91,6 @@ Pour cette session, il n’y a pas de dépôt de bénévolat.
 
 ## Bénévolat et activités de financement {#benevolat}
 
-{{< note well-tertiary >}}
-### Saison d’été 2020
-
-Il n’y a pas de bénévolat demandé pour l’inscription à la saison d’été 2020, exceptionnellement.
-{{< /note >}}
 
 {{< note well-secondary >}}
 **Pour faire créditer son dépôt de bénévolat des années antérieures avant l'inscription., [veuillez communiquer avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription**.
@@ -115,8 +108,12 @@ La comptabilisation des heures de bénévolat se terminant le **31 août**, la c
 
 Consultez les [activités de bénévolat](/club/benevolat/).
 
+<!-- 
+
 ## Paiement et inscription {#inscription}
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
 <a class="btn btn-primary btn--block -lg" href="http://www.trackiereg.com/coch/">**Inscription 2019-2020** <span class="icon icon-pencil"></a>
+
+-->

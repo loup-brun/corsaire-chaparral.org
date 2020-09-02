@@ -85,6 +85,12 @@ images:
 - /img/coch-dos.jpg
 ---
 
+INFOS SUR L’INSCRIPTION 2020-2021  
+À VENIR BIENTÔT
+
+REPRISE AU MOIS D’OCTOBRE  
+DATE À CONFIRMER
+
 <!--
 <div class="force-width">
   <img class="img-responsive" alt="Saut en hauteur (Illustration par Raphaël Jean)" src="/img/illustration-marteau.png" />
@@ -94,6 +100,8 @@ _Illustration par Raphaël Jean._
 
 ---
 -->
+
+<!--
 
 ## FAQ
 
@@ -135,8 +143,6 @@ Les athlètes inscrits à l’année 2019-2020 peuvent reprendre l’entraîneme
 \- Consultez [l'horaire des entraînements](/club/entrainements/)  
 \- [Inscrivez-vous](/inscription/) en ligne
 
-<!--Si vous avez accompli des heures de bénévolat ou souhaitez inscrire plusieurs enfants d’une même famille, <a href="mailto:info@corsaire-chaparral.org">contactez-nous</a> avant votre inscription pour obtenir un code de rabais.-->
-
 
 ### Quelles sont les catégories d’âge?
 
@@ -166,7 +172,6 @@ Il est demandé à chaque famille* d'accomplir un minimum de [20&nbsp;heures](/c
 
 Il n’y a pas de bénévolat demandé pour la session d’été.
 
-<!--
 
 ### Quelles activités proposez-vous?
 
@@ -176,7 +181,7 @@ Quelques exemples :
 \- Un [camp de jour](/camp-de-jour/) spécialisé en athlétisme  
 \- Une [clinique](/initiation-course-mise-en-forme/) de course à pied  
 \- Des [compétitions](/competitions/) régionales, provinciales et nationales
--->
+
 
 ### Comment puis-je vous contacter?
 
@@ -185,3 +190,6 @@ Référez-vous à la page [contact](/contact/).
 ### Qui a fait votre logo?
 
 Le formidable [Charles Daoud](https://www.charlesdaoud.com).
+
+
+-->

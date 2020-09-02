@@ -11,16 +11,14 @@ icon: stopwatch
 layout: single
 ---
 
-{{% div class="well well-tertiary" %}}
 
-## COVID-19 - Reprise
+{{< div class="well section-large-type" >}}
+Infos sur l’inscription 2020-2021 à venir bientôt.
 
-En date du 25 juin, les activités d’entraînement ont repris.
-Une session d’été est offerte jusqu’au 31 août à un tarif réduit.
+Reprise des entraînements au mois d’octobre 2020 (date à venir).
+{{< /div >}}
 
-<a href="/inscription/" class="btn btn-default">Inscription <span class="icon icon-angle-right"></span></a>
-
-{{% /div %}}
+---
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
@@ -52,8 +50,6 @@ Lachute, Quebec J8H 1W9
 Selon les catégories (voir ci-bas).
 
 ### Colibri (2011-2012-2013) {#colibri}
-
-<span class="badge badge-tertiary">Nouveau!</span> La prochaine session de 9 semaines consécutives débutera le samedi 4 juillet 2020 jusqu’au samedi 29 août 2020.
 
 - Samedi 9 h à 10 h 30
 
