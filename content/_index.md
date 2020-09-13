@@ -146,18 +146,18 @@ Les athlètes inscrits à l’année 2019-2020 peuvent reprendre l’entraîneme
 
 ### Quelles sont les catégories d’âge?
 
-_<small>Saison 2019-2020</small>_
+_<small>Saison 2020-2021</small>_
 
 | Catégorie              | Année de naissance |
 | ---------------------- | -------------------|
-| Colibri                | 2011-2012          |
-| Minime                 | 2009-2010          |
-| Benjamine              | 2007-2008          |
-| Cadettte               | 2005-2006          |
-| Juvénile               | 2003-2004          |
-| Junior                 | 2001-2002          |
-| Senior                 | 1986-2000          |
-| Vétéran                | 1985 et avant      |
+| Colibri                | 2012-2013          |
+| Minime                 | 2010-2011          |
+| Benjamine              | 2008-2009          |
+| Cadettte               | 2006-2007          |
+| Juvénile               | 2004-2005          |
+| Junior                 | 2002-2003          |
+| Senior                 | 1987-2001          |
+| Vétéran                | 1986 et avant      |
 
 ### Où sont les entraînements?
 

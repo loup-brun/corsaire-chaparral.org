@@ -49,7 +49,7 @@ Lachute, Quebec J8H 1W9
 
 Selon les catégories (voir ci-bas).
 
-### Colibri (2011-2012-2013) {#colibri}
+### Colibri (2012-2013-2014) {#colibri}
 
 - Samedi 9 h à 10 h 30
 
@@ -59,7 +59,7 @@ Animatrices responsables :
 - Ève Finnerty
 - Anne Calestagne
 
-### Minime (2009-2010) {#minime}
+### Minime (2010-2011) {#minime}
 
 Du samedi 21 septembre 2019 au samedi 13 juin 2020 (35 semaines non consécutives).
 
@@ -72,7 +72,7 @@ Animateur(trice)s responsables :
 - Mélodie Paré
 
 
-### Benjamin (2007-2008) {#benjamin}
+### Benjamin (2008-2009) {#benjamin}
 
 Début des entraînements à partir du samedi 14 septembre 2019 et jusqu'au jeudi 30 juillet 2020.
 
@@ -82,7 +82,7 @@ Début des entraînements à partir du samedi 14 septembre 2019 et jusqu'au jeud
 Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).  
 _Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
 
-### Cadet (2005-2006) {#cadet}
+### Cadet (2006-2007) {#cadet}
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
@@ -92,13 +92,13 @@ _Pour tout renseignement concernant les entraînements en athlétisme pour les j
 
 Entraîneur responsable : Samuel Grondin-Bernier.
 
-### Juvénile (2003-2004), junior (2001-2002) et senior (1986-2000) {#juvenile-junior-senior}
+### Juvénile (2004-2005), junior (2002-2003) et senior (1987-2001) {#juvenile-junior-senior}
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-### Vétéran (1985 et avant) {#veteran}
+### Vétéran (1986 et avant) {#veteran}
 
 Horaire à confirmer lors de l'inscription.
 
@@ -116,11 +116,10 @@ Consultez le [calendrier](demi-fond) pour les entraînements de demi-fond.
 
 Entraîneurs responsables :
 
-- [Sabrina Lavigne](/club/entraineurs/sabrina-lavigne/)
-- Simon Prince-Desjardins
+- 
 -->
 
 
 ### Horaire d’entraînement – Lachute {#lachute}
 
-Reprise au printemps 2020 (date à venir).
+Les entraînements à Lachute sont suspendus pour une durée indéterminée.

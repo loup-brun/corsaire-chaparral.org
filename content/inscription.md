@@ -50,24 +50,21 @@ Finalement, une contribution au bénévolat d’un montant de 200&nbsp;$ sera aj
 
 ## Catégories d'âge et tarifs d'inscription {#tarifs}
 
-Le tarif de la cotisation 2019-2020 est établi selon la catégorie d'âge, il est très important de bien inscrire la date de naissance de l’athlète lors de l’inscription.
+Le tarif de la cotisation 2020-2021 est établi selon la catégorie d'âge, il est très important de bien inscrire la date de naissance de l’athlète lors de l’inscription.
 
 Les inscriptions mensuelles ne sont pas acceptées.
 
-<!--
-
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 1<sup>er</sup> juin au 31 juillet |
 | ----------------------- | ------------------ | ------ | ------ |
-| Colibri (2011-2012-2013)| 103 $ par session  | 103 $ par session | <mark>103 $ par session</mark> |
-| Minime (2009-2010)      | 190 $              | 150 $  | <mark>138 $</mark> |
-| Benjamin  (2007-2008)   | 370 $              | 290 $  | <mark>160 $</mark> |
-| Cadet (2005-2006)       | 425 $              | 330 $  | <mark>182 $</mark> |
-| Juvénile (2003-2004)    | 588 $              | 448 $  | <mark>246 $</mark> |
-| Junior (2001-2002)      | 742 $              | 562 $  | <mark>309 $</mark> |
-| Senior (1986-2000)      | 752 $              | 572 $  | <mark>315 $</mark> |
-| Vétéran (1985 et avant) | 588 $              | 448 $  | <mark>246 $</mark> |
+| Colibri (2012-2013-2014)| 130 $ par session  | 130 $ par session | 130 $ par session |
+| Minime (2010-2011)      | 130 $ par session  | 130 $ par session | 130 $ par session |
+| Benjamin  (2008-2009)   | 610 $              | 392 $  | 244 $ |
+| Cadet (2006-2007)       | 725 $              | 575 $  | 319 $ |
+| Juvénile (2004-2005)    | 792 $              | 650 $  | 353 $ |
+| Junior (2002-2003)      | 792 $              | 770 $  | 353 $ |
+| Senior (1987-2001)      | 970 $              | 780 $  | 467 $ |
+| Vétéran (1986 et avant) | 792 $              | 650 $  | 353 $ |
 
--->
 
 {{< note >}}
 ### Notes
@@ -108,12 +105,9 @@ La comptabilisation des heures de bénévolat se terminant le **31 août**, la c
 
 Consultez les [activités de bénévolat](/club/benevolat/).
 
-<!-- 
 
 ## Paiement et inscription {#inscription}
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
-<a class="btn btn-primary btn--block -lg" href="http://www.trackiereg.com/coch/">**Inscription 2019-2020** <span class="icon icon-pencil"></a>
-
--->
+<a class="btn btn-primary btn--block -lg" href="http://www.trackiereg.com/coch/">**Inscription 2020-2021** <span class="icon icon-pencil"></a>
