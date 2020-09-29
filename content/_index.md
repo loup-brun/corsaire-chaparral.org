@@ -8,11 +8,10 @@ splash:
   lead : >
     
     
-    <p class="lead strong"></p>
-    
-    <div class="splash__buttons">
-      <a href="/competitions/petit-pentathlon-nathalie/" class="btn btn-default">Petit pentathlon de Nathalie <span class="icon icon-angle-right"></span></a>
-    </div>
+    <p class="lead strong">Le club est en attente de la disponibilité des plateaux d’entraînement pour reprendre la saison 2020-2021.</p>
+    <p class="lead strong">Nous vous tiendrons informé·e·s lorsque les entraînements pourront reprendre.</p>
+    <p class="lead strong">Merci de votre compréhension.</p>
+
 #    <p class="lead strong">Le club a repris ses activités.</p>
 #      <a href="/reconnaissance-risque-covid-19/" class="btn btn-tertiary">Formulaire de reprise <span class="icon icon-angle-right"></span></a>
 #      <a href="/inscription/" class="btn btn-primary">Inscription <span class="icon icon-pencil"></span></a>
@@ -85,11 +84,7 @@ images:
 - /img/coch-dos.jpg
 ---
 
-INFOS SUR L’INSCRIPTION 2020-2021  
-À VENIR BIENTÔT
 
-REPRISE AU MOIS D’OCTOBRE  
-DATE À CONFIRMER
 
 <!--
 <div class="force-width">

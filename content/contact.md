@@ -21,9 +21,6 @@ J7E 4J3
 
 ## Répertoire
 
-**Feu André-Louis Lauzon**  
-Président
-
 **Nadine Lauzon**  
 Bénévolat et inscriptions  
 <span class="icon icon-mail"></span>
