@@ -1,22 +1,23 @@
 # Site web du club d'athlétisme Corsaire-Chaparral
 
-Ce répertoire recense le code source du site web du [club d'athlétisme Corsaire-Chaparral](https://corsaire-chaparral.org). Il est généré avec [Hugo](https://gohugo.io/), un générateur de sites web statiques écrit en Go.
+Ce répertoire recense le code source du site web du [club d'athlétisme Corsaire-Chaparral](https://corsaire-chaparral.org).
+Il est généré avec [Hugo](https://gohugo.io/), un générateur de sites web statiques écrit en Go.
 
 ## Installation
 
-Pour construire ce site, assurez-vous d'avoir installé [Hugo](https://gohugo.io/) et [Node.js](https://nodejs.org/) sur votre système.
+### Prérequis
 
-### En deux temps, trois mouvements
+Les instructions documentent un usage en ligne de commande.
+Assurez-vous de disposer d'un **terminal** (interface en ligne de commande).
 
-Si tout est déjà installé (incluant `grunt-cli` et `bower`), entrez :
+Pour construire ce site, assurez-vous d'avoir installé les logiciels suivants :
 
-```shell
-npm install  # installe les outils de développements tels que postcss
-```
+- [Hugo](https://gohugo.io/) (v0.63+)
+- [Node.js](https://nodejs.org/) (v10+)
 
 ### Instructions détaillées
 
-Téléchargez ce répertoire ou, mieux, clonez-le dans votre environnement :
+Téléchargez ce dépôt ou, mieux, clonez-le avec Git :
 
 ```bash
 git clone https://github.com/corsaire-chaparral/corsaire-chaparral.org.git
@@ -29,17 +30,17 @@ Installez les dépendances :
 npm install
 ```
 
-**npm** installe les fichiers de développement Node.js pour générer les feuilles de style du site.
+**npm** installe les outils de développement Node.js pour générer les feuilles de style du site ([postcss](https://github.com/postcss/postcss-cli/), [autoprefixer](https://github.com/postcss/autoprefixer/)).
 
-Vous pouvez à présent construire le site:
+Vous pouvez à présent construire le site :
 
 ```bash
 make build  # génère le site dans le dossier public/ 
 ```
 
-Dans un environnement local, Hugo peut surveiller les fichiers afin de les compiler lorsqu'ils sont modifiés :
+Vous pouvez prévisualiser le site en local, avec les changements en temps réel :
 
-```shell
+```bash
 make serve  # démarre un serveur local à l'adresse locale http://localhost:1313
 ```
 
