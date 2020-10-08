@@ -22,6 +22,7 @@ $color-primary:           $orange;
 $color-secondary:         $gray-dark;
 $color-tertiary:          $blue;
 $color-danger:            $red;
+$color-success:           $green;
 $color-link:              $color-primary;
 
 // Fonts
@@ -69,6 +70,7 @@ $gutter:			      1.5%;
 $spacing-xs:		      0.5em;
 $spacing-sm:		      0.8em;
 $spacing:			      1em;
+$spacing-md:              1.5rem;
 $spacing-lg:		      2.5em;
 $spacing-xl:		      4em;
 
@@ -81,7 +83,7 @@ $height-navbar:           $font-size-navbar * $line-height + 2 * $font-size-navb
 $color-navbar:            $gray-darker;
 
 // Header
-$header-fold-size:        20px;
+$header-fold-size:        27px;
 $header-fold-size-sm:     12px;
 
 // Lightbox

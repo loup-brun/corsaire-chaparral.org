@@ -7,7 +7,7 @@
   {{ .Content }}
   
   <ul class="list-unstyled">
-    {{ range sort .Pages "Date" $sort }}
+    {{ range sort .RegularPages "Date" $sort }}
     <li>
       <h3>
         {{ if .Date }}

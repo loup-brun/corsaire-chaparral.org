@@ -1,11 +1,6 @@
 ---
 title: Histoire et mission
 icon: logo-coch
-menu:
-  main:
-    identifier: histoire-mission
-    weight: 10
-    parent: club
 ---
 
 ### Qui sommes-nous?

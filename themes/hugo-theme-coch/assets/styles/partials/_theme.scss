@@ -78,6 +78,21 @@ ol a
   }
 }
 
+.card {
+  margin-top: $spacing;
+  padding: $spacing-md;
+  background-color: #fff;
+  @include box-shadow(0 5px 10px rgba(0,0,0,0.1));
+  
+  &.container {
+    @include horizontal-padding($spacing-md);
+  }
+  
+  &__heading {
+    margin-top: 0;
+  }
+}
+
 .home-sidebar-container {
   @include horizontal-padding($spacing);
   background-color: $gray-lighter;
@@ -114,6 +129,10 @@ ol a
   background-color: $color-secondary;
   color: check-background($color-secondary);
 }
+.badge-tertiary {
+  background-color: $color-tertiary;
+  color: check-background($color-tertiary);
+}
 
 .badge-darker {
   background-color: $gray-darker;
@@ -125,6 +144,14 @@ ol a
 //  color: $gray;
 //}
 
+.badge-tertiary {
+  background-color: $color-tertiary;
+  color: check-background($color-tertiary);
+}
+.badge-success {
+  background-color: $color-success;
+  color: check-background($color-success);
+}
 .badge-danger {
   background-color: $color-danger;
   color: check-background($color-danger);

@@ -1,11 +1,11 @@
 ---
 title: Entraînemnets de demi-fond
-menu:
-  main:
-    parent: entrainements
-    identifier: entrainements-demifond
-    title: Demi-fond
-    weight: 50
+#menu:
+#  main:
+#    parent: entrainements
+#    identifier: entrainements-demifond
+#    title: Demi-fond
+#    weight: 50
 ---
 
 Les athlètes de catégorie **cadette** et **juvénile** peuvent suivre la planification spécialisée pour le demi-fond.

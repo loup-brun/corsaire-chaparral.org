@@ -6,37 +6,21 @@
   {{ partial "head.html" . }}
   <body class="landing-page">
 
-    {{/*- partial "navbar.html" . -*/}}
+    {{- partial "navbar.html" . -}}
+    
+    <main class="container container-full no-padding">
+      {{- block "main" . }}
+      {{- .Content -}}
+      {{- end }}
 
-    {{- block "main" . }}
-    <main class="container container-main" role="main">
+      {{- partial "footer.html" . -}}
 
-      {{ block "header-page" . }}
-      {{- partial "header-page.html" . -}}
+      {{- partial "aside.html" . -}}
+
+      {{ with .Site.Params.annonce }}
+      {{- partial "announcement.html" . -}}
       {{ end }}
-
-      <article class="container article-container">
-
-        {{ block "article" . }}
-        {{ with .Params.description }}
-        <p class="article-lead">
-          {{ . }}
-        </p>
-        {{ end }}
-
-        {{ .Content }}
-        {{ end }}
-      </article>
     </main>
-    {{- end }}
-
-    {{- partial "footer.html" . -}}
-
-    {{- partial "aside.html" . -}}
-      
-    {{ with .Site.Params.annonce }}
-    {{- partial "announcement.html" . -}}
-    {{ end }}
 
     <script>
       // Globals

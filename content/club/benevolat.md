@@ -15,9 +15,9 @@ Pour de l’information, écrivez à [Nadine Lauzon](mailto:nadine@corsaire-chap
 
 | Date       | Événement                  |
 |------------|----------------------------|
-| 2019-09-08 | ~~_Demi-Marathon de Blainville_~~ – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
-| 2019-10-18 | _Cross-Country Écoles en forme et en santé_ - [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-xc-ecoles-2019) |
-| 2019-12-21 | _Festival des jeunes COCH_ - [Infos](/competitions/festival-en-salle-des-jeunes/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-festival-des-jeunes-coch-2019) |
+| 2020-08-08 | _Ephemeros COCH 2020_ - [Infos]({{< ref "competitions/ephemeros" >}}) / [Bénévolat](/competitions/ephemeros/benevolat/) |
+| 2020-08-30 | _Le petit combiné de Nathalie_ - [Infos](/competitions/petit-pentathlon-nathalie/) / [Bénévolat](https://campagnes.corsaire-chaparral.org/benevolat-petit-pentathlon-nathalie-2020) |
+| 2020-09-13 | ~~_Demi-Marathon de Blainville_~~ – [Infos](https://demimarathondeblainville.com/) / [Bénévolat](https://demimarathondeblainville.com/fr/Benevoles/) |
 
 <!--
 | 2018-10-05 | Cross-country École en forme et en santé |

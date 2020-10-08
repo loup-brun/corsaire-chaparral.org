@@ -13,7 +13,7 @@
 
     @if $i != $columns {
       .tablet-push-#{$i} { left: (100% * $i / $columns) - (2 * $gutter); }
-      //.tablet-pull-#{$i} { left: (-100% * $i / $columns) - (2 * $gutter); }
+      .tablet-pull-#{$i} { left: (-100% * $i / $columns) - (2 * $gutter); }
     }
   }
 

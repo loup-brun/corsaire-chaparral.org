@@ -2,12 +2,12 @@
 ---
 title: Entraînements des cadets
 description: Proposition du calendrier d’activité pour les cadets (2004–2005).
-menu:
-  main:
-    parent: entrainements
-    identifier: entrainements-cadets
-    title: Cadets
-    weight: 40
+#menu:
+#  main:
+#    parent: entrainements
+#    identifier: entrainements-cadets
+#    title: Cadets
+#    weight: 40
 ---
 
 ## Horaire d’entraînement

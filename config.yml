@@ -47,16 +47,21 @@ menu:
     title: Club
     url: '/club/'
     weight: 10
+  - identifier: histoire-mission
+    title: Histoire et mission
+    url: '/club/histoire-mission/'
+    weight: 10
+    parent: club
   - identifier: inscription
     parent: club
     title: Inscription
     url: '/inscription/'
-    weight: 30
+    weight: 20
   - identifier: calendrier
     parent: club
     title: Calendrier
     url: '/calendrier/'
-    weight: 5
+    weight: 30
   - identifier: entrainements
     url: '/club/entrainements/'
     title: Entraînements

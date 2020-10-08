@@ -3,25 +3,22 @@ title: Entraînements
 meta_title: 2016-2017
 categories: Club
 icon: stopwatch
-menu:
-  main:
-    identifier: entrainements-info
-    parent: entrainements
-    weight: 1
+#menu:
+#  main:
+#    identifier: entrainements-info
+#    parent: entrainements
+#    weight: 1
 layout: single
 ---
 
-## Changements à l’horaire d’entraînement
 
-{{% div class="well well-danger" %}}
+{{< div class="well section-large-type" >}}
+Infos sur l’inscription 2020-2021 à venir bientôt.
 
-Voici les prochaines modifications à l’horaire d’entraînement :
+Reprise des entraînements au mois d’octobre 2020 (date à venir).
+{{< /div >}}
 
-- **Samedi 29 février** : RELÂCHE - ANNULATION D’ENTRAÎNEMENT pour toutes les catégories.
-- **Lundi 2 mars** : RELÂCHE - ANNULATION D’ENTRAÎNEMENT pour toutes les catégories.
-- Reprise selon l'horaire habituel à partir du **mercredi 4 mars**.
-
-{{% /div %}}
+---
 
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
@@ -31,7 +28,7 @@ Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sport
 401 Boulevard du Domaine  
 Sainte-Thérèse, QC J7E 4S4
 ```
-
+<!--
 Dans le but d'alléger les plateaux sportifs de la polyvalente durant la session d'hiver, certains entraînements des athlètes de catégorie **juvénile et plus vieux** peuvent se donner à l'**école Saint-Pierre**.
 
 ```
@@ -45,15 +42,15 @@ Sainte-Thérèse, QC J7E 2S3
 452 Avenue d’Argenteuil  
 Lachute, Quebec J8H 1W9
 ```
+-->
 
 
 ## <span class="icon icon-stopwatch"></span> Horaire d'entraînement {#horaire}
 
 Selon les catégories (voir ci-bas).
 
-### Colibri (2011-2012-2013) {#colibri}
 
-La prochaine session de 10 semaines consécutives débutera le samedi 4 avril 2020.
+### Colibri (2012-2013-2014) {#colibri}
 
 - Samedi 9 h à 10 h 30
 
@@ -63,7 +60,7 @@ Animatrices responsables :
 - Ève Finnerty
 - Anne Calestagne
 
-### Minime (2009-2010) {#minime}
+### Minime (2010-2011) {#minime}
 
 Du samedi 21 septembre 2019 au samedi 13 juin 2020 (35 semaines non consécutives).
 
@@ -76,7 +73,7 @@ Animateur(trice)s responsables :
 - Mélodie Paré
 
 
-### Benjamin (2007-2008) {#benjamin}
+### Benjamin (2008-2009) {#benjamin}
 
 Début des entraînements à partir du samedi 14 septembre 2019 et jusqu'au jeudi 30 juillet 2020.
 
@@ -86,7 +83,7 @@ Début des entraînements à partir du samedi 14 septembre 2019 et jusqu'au jeud
 Entraîneure responsable : [Nathalie Prince](/club/entraineurs/nathalie-prince/).  
 _Pour tout renseignement concernant les entraînements en athlétisme pour les jeunes de 12 ans et moins, veuillez écrire à Nathalie Prince._
 
-### Cadet (2005-2006) {#cadet}
+### Cadet (2006-2007) {#cadet}
 
 - Lundi 18 h à 19 h 30
 - Jeudi 18 h à 19 h 30
@@ -96,13 +93,13 @@ _Pour tout renseignement concernant les entraînements en athlétisme pour les j
 
 Entraîneur responsable : Samuel Grondin-Bernier.
 
-### Juvénile (2003-2004), junior (2001-2002) et senior (1986-2000) {#juvenile-junior-senior}
+### Juvénile (2004-2005), junior (2002-2003) et senior (1987-2001) {#juvenile-junior-senior}
 
 - Lundi 18 h à 19 h 30
 - Mercredi 18 h à 19 h 30
 - Samedi 10 h 30 à 12 h
 
-### Vétéran (1985 et avant) {#veteran}
+### Vétéran (1986 et avant) {#veteran}
 
 Horaire à confirmer lors de l'inscription.
 
@@ -120,11 +117,10 @@ Consultez le [calendrier](demi-fond) pour les entraînements de demi-fond.
 
 Entraîneurs responsables :
 
-- [Sabrina Lavigne](/club/entraineurs/sabrina-lavigne/)
-- Simon Prince-Desjardins
+- 
 -->
 
 
 ### Horaire d’entraînement – Lachute {#lachute}
 
-Reprise au printemps 2020 (date à venir).
+Les entraînements à Lachute sont suspendus pour une durée indéterminée.
