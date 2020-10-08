@@ -54,7 +54,8 @@ La configuration pour le site Hugo sont dans le fichier `config.yml`.
 
 ## Soutien
 
-Envoyez un courriel à [Louis-Olivier Brassard](louis@corsaire-chaparral.org).
+Ouvrez une [issue](https://github.com/corsaire-chaparral/corsaire-chaparral.org/issues/new/choose) ou
+envoyez un courriel à [Louis-Olivier Brassard](louis@corsaire-chaparral.org).
 
 ## Licence
 
