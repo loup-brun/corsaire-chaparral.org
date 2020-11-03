@@ -21,11 +21,6 @@ J7E 4J3
 
 ## Répertoire
 
-**Nadine Lauzon**  
-Bénévolat et inscriptions  
-<span class="icon icon-mail"></span>
-[nadine@corsaire-chaparral.org](mailto:nadine@corsaire-chaparral.org)
-
 **Robert Lavoie**  
 Direction technique  
 <span class="icon icon-mail"></span>
