@@ -12,7 +12,8 @@ Ce guide a initialement été préparé par **Camille Riopel**.
 
 ## Comment m’inscrire à la compétition?
 
-L’entraîneur doit avoir préalablement indiqué à l’athlète les épreuves auxquelles il devra participer.  Pour s’inscrire aux différentes compétitions, il faut écrire à Nadine Lauzon au [corsairechaparal@hotmail.com](mailto:corsairechaparal@hotmail.com), inclure le nom de l’athlète, sa date de naissance, le nom de la compétition, ainsi que les épreuves auxquelles l’athlète désire participer. Notez que le coût d’inscription aux compétitions est inclus dans les frais annuels d’inscription au Club. Advenant le cas où vous ne pourriez participer à l'une de vos épreuves, notez que le club ne peut être remboursé!
+L’entraîneur doit avoir préalablement indiqué à l’athlète les épreuves auxquelles il devra participer.
+Notez que le coût d’inscription aux compétitions est inclus dans les frais annuels d’inscription au Club. Advenant le cas où vous ne pourriez participer à l'une de vos épreuves, notez que le club ne peut être remboursé!
 Dans certains cas, en cas d’absence d’athlète inscrit à la compétition, des frais peuvent être facturés à l’athlète.
 
 ## Je pars de la maison, que dois-je apporter?
