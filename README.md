@@ -52,10 +52,12 @@ La configuration pour le site Hugo sont dans le fichier `config.yml`.
 
 ~~Les photos sont partagées à l'adresse `http://corsaire-chaparral.org/photos-partage/`.~~ Solution à étudier.
 
+Voir une installation Chevereto : https://photos.corsaire-chaparral.org
+
 ## Soutien
 
 Ouvrez une [issue](https://github.com/corsaire-chaparral/corsaire-chaparral.org/issues/new/choose) ou
-envoyez un courriel à [Louis-Olivier Brassard](louis@corsaire-chaparral.org).
+envoyez un courriel à [Louis-Olivier Brassard](mailto:louis@corsaire-chaparral.org).
 
 ## Licence
 
