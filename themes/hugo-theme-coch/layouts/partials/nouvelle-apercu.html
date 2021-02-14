@@ -3,7 +3,11 @@
     {{ if .Params.images }}
     {{ range first 1 .Params.images }}
     <a href="{{ $.Permalink }}">
-      <img class="img-responsive" src="{{ . }}" alt="{{ $.Title }}" />
+      <img class="img-responsive"
+           src="{{ . }}"
+           alt="{{ $.Title }}"
+           loading="lazy"
+           />
     </a>
     {{ end }}
     {{ else }}
