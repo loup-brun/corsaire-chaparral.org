@@ -6,32 +6,16 @@ aliases:
   - /club/inscription/
 ---
 
-<!--
-**L'inscription est ouverte toute l’année!** Lisez d’abord les détails sur cette page, puis inscrivez-vous en ligne (lien au bas de la page).
--->
 
-{{< div class="well section-large-type" >}}
-Infos sur l’inscription 2020-2021 à venir bientôt.
+## Inscription 2021
+- L’inscription n’est proposée qu’aux athlètes qui étaient inscrits en 2019-2020.
+- Le suivi par l’entraîneur est proposé à distance jusqu’à nouvel ordre.
 
-Reprise des entraînements au mois d’octobre 2020.
-{{< /div >}}
+## Catégories colibri et minime
+- Il n’y aura pas de session colibri et minime ce printemps.
+- La prochaine plage d’inscription sera annoncée après le **1<sup>er</sup> avril** si les mesures sanitaires le permettent.
 
 ---
-
-<!--
-{{< badge >}}NOUVEAU!{{< /badge >}} Le club utilisera le système d'inscription Trackie cette année.
--->
-
-<!--
-{{< div class="alert -primary" >}}
-**Première inscription?**
-
-Tu n’as jamais fait d’athlétisme?  
-Tu n’es pas sûr quelle discipline te plairait?  
-Tu aimerais pouvoir essayer avant de faire ton inscription?  
-Eh bien c’est possible! Présente-toi simplement à un entrainement selon l’horaire de ta catégorie et tu pourras bénéficier d’une période d’essai sans frais.
-{{< /div >}}
--->
 
 
 {{% div class="well well-danger" %}}
