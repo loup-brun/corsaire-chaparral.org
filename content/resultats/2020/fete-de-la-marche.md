@@ -34,7 +34,7 @@ date: 2020-08-30
 
 | Pos | Athlète           | Temps   |
 |-----|-------------------|---------|
-| 1   | Juliette Leblanc  | 5:40.93 |
+| 1   | Dali Ouellette    | 5:40.93 |
 | 2   | Laurence Guérin   | 6:01.12 |
 | 3   | Florence Laflamme | 6:15.83 |
 | 4   | Chloé Beliaeff    | 6:16.19 |
