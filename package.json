@@ -8,6 +8,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "postcss": "^8.1.1"
+    "postcss": "^8.2.10"
   }
 }
