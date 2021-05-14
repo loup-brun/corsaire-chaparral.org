@@ -18,7 +18,7 @@ Grille de prix:
 - T-shirt : **30 $**
 - Camisole : **30 $** 🎽 *pratique pour les compétitions!*
 
-{{< note well-secondary >}}
+{{< note well-tertiary >}}
 **Mesures COVID-19: Aucun essayage sur place.**
 {{< /note >}}
 
