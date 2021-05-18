@@ -41,7 +41,7 @@ Les inscriptions mensuelles ne sont pas acceptées.
 | Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 19 juin au 31 juillet |
 | ----------------------- | ------------------ | ------ | ------ |
 | Colibri (2012-2013-2014)| 130 $ par session  | 130 $ par session | 130 $ par session |
-| Minime (2010-2011)      | 130 $ par session  | 130 $ par session | 130 $ par session |
+| Minime (2010-2011)      | 170 $ par session  | 170 $ par session | 170 $ par session |
 | Benjamin  (2008-2009)   | 610 $              | 392 $  | 244 $ |
 | Cadet (2006-2007)       | 725 $              | 575 $  | 319 $ |
 | Juvénile (2004-2005)    | 792 $              | 650 $  | 353 $ |
