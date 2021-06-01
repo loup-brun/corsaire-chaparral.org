@@ -38,7 +38,7 @@ Le tarif de la cotisation 2020-2021 est établi selon la catégorie d'âge, il e
 
 Les inscriptions mensuelles ne sont pas acceptées.
 
-| Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 19 juin au 31 juillet |
+| Catégorie               | Du 1<sup>er</sup> sept. au 31 août | Du 1<sup>er</sup> avril au 31 août | Du 19 juin au 21 août |
 | ----------------------- | ------------------ | ------ | ------ |
 | Colibri (2012-2013-2014)| 130 $ par session  | 130 $ par session | 130 $ par session |
 | Minime (2010-2011)      | 170 $ par session  | 170 $ par session | 170 $ par session |
