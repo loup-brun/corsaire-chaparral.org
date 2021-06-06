@@ -78,7 +78,7 @@ Les inscriptions mensuelles ne sont pas acceptées.
 
 
 {{< note well-secondary >}}
-**Pour faire créditer son dépôt de bénévolat des années antérieures avant l'inscription., [veuillez communiquer avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription**.
+**Pour faire créditer son dépôt de bénévolat des années antérieures avant l'inscription, [veuillez communiquer avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription**.
 {{< /note >}}
 
 Une grande partie du financement du club provient des profits générés par les activités organisées annuellement. Afin d’assurer le bon déroulement ainsi que la réussite de ces événements, nous avons besoin de la participation des membres du club, c’est pourquoi un système de comptabilisation d’heures de bénévolat a été instauré.
