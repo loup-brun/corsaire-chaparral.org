@@ -6,14 +6,17 @@ aliases:
   - /club/inscription/
 ---
 
+{{% div class="well well-secondary" %}}
+## <span class="icon icon-star"></span> Inscription 2021 <span class="icon icon-star"></span>
 
-## Inscription 2021
-- L’inscription n’est proposée qu’aux athlètes qui étaient inscrits en 2019-2020.
-- Le suivi par l’entraîneur est proposé à distance jusqu’à nouvel ordre.
+Les inscriptions pour la saison d’été sont maintenant ouvertes.
+Assurez-vous de prendre connaissance des **tarifs d’inscription** et de la **politique de bénévolat**, puis cliquez sur le lien d’inscription au bas de cette page.
 
-## Catégories colibri et minime
-- Il n’y aura pas de session colibri et minime ce printemps.
-- La prochaine plage d’inscription sera annoncée après le **1<sup>er</sup> avril** si les mesures sanitaires le permettent.
+{{% /div %}}
+
+## Limites du nombre d’inscriptions
+- Limite de **12 inscriptions** pour le groupe des colibris.
+- Limite de **12 inscriptions** pour le groupe des minimes.
 
 ---
 
@@ -30,7 +33,8 @@ Le coût d’inscription est établi selon l’année de naissance de l’athlè
 
 **Veuillez noter que les frais de compétitions ne sont plus inclus dans la cotisation.**
 
-Finalement, une contribution au bénévolat d’un montant de 200&nbsp;$ sera ajoutée pour chaque famille s’inscrivant au club.
+Finalement, une contribution au bénévolat d’un montant de 200&nbsp;$ sera ajoutée pour chaque famille s’inscrivant au club
+(il n’y a pas de bénévolat demandé pour l’inscription à la session d’été).
 
 ## Catégories d'âge et tarifs d'inscription {#tarifs}
 
@@ -94,8 +98,5 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
-<!--
-
 <a class="btn btn-primary btn--block -lg" href="http://www.trackiereg.com/coch/">**Inscription 2020-2021** <span class="icon icon-pencil"></a>
 
--->
