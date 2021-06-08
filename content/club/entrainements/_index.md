@@ -11,15 +11,6 @@ icon: stopwatch
 layout: single
 ---
 
-
-{{< div class="well section-large-type" >}}
-Infos sur l’inscription 2020-2021 à venir bientôt.
-
-Reprise des entraînements au mois d’octobre 2020 (date à venir).
-{{< /div >}}
-
----
-
 ## <span class="icon icon-map"></span> Lieux d'entraînement
 
 Les entraînements ont lieu au **Stade Richard-Garneau**, ainsi qu'au bloc sportif de la **Polyvalente Sainte-Thérèse** qui lui est adjacent.
