@@ -43,7 +43,7 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2012-2013-2014) {#colibri}
 
-- Samedi 9 h à 10 h 30
+- Samedi 9 h à 10 h 30, **du samedi 19 juin au samedi 28 août 2021**
 
 Animatrices responsables :
 
@@ -55,7 +55,7 @@ Animatrices responsables :
 
 Du samedi 21 septembre 2019 au samedi 13 juin 2020 (35 semaines non consécutives).
 
-- Samedi 9 h à 10 h 30
+- Samedi 9 h à 10 h 30, **du samedi 19 juin au samedi 28 août 2021**
 
 Animateur(trice)s responsables :
 
@@ -66,7 +66,7 @@ Animateur(trice)s responsables :
 
 ### Benjamin (2008-2009) {#benjamin}
 
-Début des entraînements à partir du samedi 14 septembre 2019 et jusqu'au jeudi 30 juillet 2020.
+Début des entraînements à partir du samedi 14 septembre 2019 et jusqu'au samedi 28 août 2021.
 
 - Jeudi 18 h à 19 h 30
 - Samedi 9 h à 10 h 30
