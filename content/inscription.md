@@ -78,7 +78,7 @@ Les inscriptions mensuelles ne sont pas acceptées.
 
 
 {{< note well-secondary >}}
-**Pour faire créditer son dépôt de bénévolat des années antérieures avant l'inscription, [veuillez communiquer avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription**.
+**Pour faire créditer son dépôt de bénévolat des années antérieures, [veuillez communiquer avec nous](mailto:info@corsaire-chaparral.org) avant l'inscription**.
 {{< /note >}}
 
 Une grande partie du financement du club provient des profits générés par les activités organisées annuellement. Afin d’assurer le bon déroulement ainsi que la réussite de ces événements, nous avons besoin de la participation des membres du club, c’est pourquoi un système de comptabilisation d’heures de bénévolat a été instauré.
@@ -98,5 +98,5 @@ Consultez les [activités de bénévolat](/club/benevolat/).
 
 Le paiement doit être fait en **intégralité** en ligne, au moment même de l’inscription. **Aucun paiement par argent comptant ou par chèque n’est accepté.**
 
-<a class="btn btn-primary btn--block -lg" href="http://www.trackiereg.com/coch/">**Inscription 2020-2021** <span class="icon icon-pencil"></a>
+<a class="btn btn-primary btn--block -lg" href="https://www.trackie.com/online-registration/event/club-dathl-tisme-corsaire-chaparral/466906/">**Inscription 2020-2021** <span class="icon icon-pencil"></a>
 
