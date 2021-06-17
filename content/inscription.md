@@ -15,8 +15,8 @@ Assurez-vous de prendre connaissance des **tarifs d’inscription** et de la **p
 {{% /div %}}
 
 ## Limites du nombre d’inscriptions
-- Limite de **12 inscriptions** pour le groupe des colibris.
-- Limite de **12 inscriptions** pour le groupe des minimes.
+- <span class="badge badge-primary">Nouveau!</span> Limite de **24 inscriptions** pour le groupe des colibris.
+- <span class="badge badge-primary">Nouveau!</span> Limite de **24 inscriptions** pour le groupe des minimes.
 
 ---
 

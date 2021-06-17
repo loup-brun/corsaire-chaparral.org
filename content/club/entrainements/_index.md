@@ -43,7 +43,8 @@ Selon les catégories (voir ci-bas).
 
 ### Colibri (2012-2013-2014) {#colibri}
 
-- Samedi 9 h à 10 h 30, **du samedi 19 juin au samedi 28 août 2021**
+- **Groupe #1** : Samedi 9 h à 10 h 30, du samedi 19 juin au samedi 28 août 2021
+- **Groupe #2** : Samedi 10 h 30 à 12 h, du samedi 19 juin au samedi 28 août 2021
 
 Animatrices responsables :
 
@@ -55,7 +56,7 @@ Animatrices responsables :
 
 Du samedi 21 septembre 2019 au samedi 13 juin 2020 (35 semaines non consécutives).
 
-- Samedi 9 h à 10 h 30, **du samedi 19 juin au samedi 28 août 2021**
+- Samedi 9 h à 10 h 30, du samedi 19 juin au samedi 28 août 2021
 
 Animateur(trice)s responsables :
 
