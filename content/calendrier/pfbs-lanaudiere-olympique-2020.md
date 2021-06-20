@@ -1,3 +1,0 @@
----
-title: Combiné Lanaudière-Olympique
----

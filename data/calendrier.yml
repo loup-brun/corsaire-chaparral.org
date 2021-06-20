@@ -1,278 +1,29 @@
-- id: "comp-champ-xc-2019"
-  title: "Championnat provincial de cross-country – Québec, 2019"
-  information: "http://athletisme-quebec.ca/medias/championnats-de-cross-2019.pdf"
-  date: "2019-10-26"
-  limite: "2019-10-17"
-  emplacement: "Québec"
-  frais: "20.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=60"></script>
-
-- id: "pfbs-regina-2019"
-  title: "Olympiades du Collège Régina Assumpta 2019"
-  information: "http://athletisme-quebec.ca/medias/olympiades-college-regina-assumpta-2019.pdf"
-  date: "2019-11-03"
-  limite: "2019-10-28"
-  emplacement: "Montréal"
-  frais: "25.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=61"></script>
-
-- id: "pfbs-coch-2019"
-  title: "Festival des jeunes Corsaire-Chaparral"
-  information: "/competitions/festival-en-salle-des-jeunes/"
-  date: "2019-12-21"
-  limite: "2019-12-17"
-  emplacement: "Sainte-Thérèse"
-  frais: "17.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=62"></script>
-
-- id: "pfbs-ccr-2019"
-  title: "La Classique des Jeunes – Complexe sportif Claude-Robillard"
-  information: "http://athletisme-quebec.ca/medias/classique-des-jeunes-2019.pdf"
-  date: "2019-12-14"
-  limite: "2019-12-06"
-  emplacement: "Montréal"
-  frais: "Première épreuve à 17.00$; épreuves suivantes à 12.00"
+- id: "rendez-vous-select-2021"
+  title: "Rendez-Vous Sélect 2021"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2766&mod=event"
+  date: "2021-06-27"
+  limite: "2021-06-24"
+  emplacement: "Saint-Laurent, Montréal"
+  frais: "25,00$ pour la première épreuve, épreuves suivantes à 10,00"
   structureFrais:
-    "Première épreuve": "17.00"
-    "Épreuve supplémentaire": "12.00"
+    "1<sup>ère</sup> épreuve" : 25,00
+    "Épreuve supplémentaire" : 10,00
   formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=65"></script>
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=89"></script>
 
-- id: "mcgill-martlet-2019"
-  title: "McGill Martlet Classic"
-  information: "http://athletisme-quebec.ca/medias/martletclassic-2019.pdf"
-  date: "2019-11-30"
-  limite: "2019-11-23"
-  emplacement: "Montréal"
-  frais: "20.00"
+- id: "classique-mtl-2021"
+  title: "Classique d’athlétisme de Montréal 2021"
+  information: "https://www.classiquemtl.com/"
+  date: "2021-06-29"
+  limite: "2021-06-24"
+  emplacement: "Complexe sportif Claude-Robillard, Montréal"
+  frais: "25,00"
   formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=63"></script>
-
-- id: "vert-et-or-inv-2020"
-  title: "Vert et Or Invitation"
-  information: "http://athletisme-quebec.ca/medias/39e-rencontre-vert-et-or-2020.pdf"
-  date: "2020-01-11"
-  limite: "2020-01-01"
-  emplacement: "Sherbrooke"
-  frais: "18.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=66"></script>
-
-- id: "relais-vaudreuil-2020"
-  title: "Les Relais Vaudreuil-Dorion"
-  information: "http://athletisme-quebec.ca/medias/relais-cavd-document-technique-2020.pdf"
-  date: "2020-01-18"
-  limite: "2020-01-12"
-  emplacement: "Vaudreuil-Dorion"
-  frais: "20.00$ pour la première épreuve (toutes catégories), épreuves suivantes à 5.00"
-  structureFrais:
-    "Première épreuve": "20.00"
-    "Épreuve supplémentaire": "5.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=67"></script>
-
-- id: "challenge-andre-harel-2020"
-  title: "Challenge André-Harel 2020"
-  information: "https://campagnes.corsaire-chaparral.org/asset/466:challenge-andre-harel-document-technique-2020"
-  date: "2020-02-01"
-  limite: "2020-01-26"
-  emplacement: "Montréal"
-  frais: "15.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=68"></script>
-
-- id: "pfbs-lachine-2020"
-  title: "Jeux de Lachine 2020"
-  information: "http://athletisme-quebec.ca/medias/jeux-de-lachine-26-janvier-20201947.pdf"
-  date: "2020-01-26"
-  limite: "2020-01-19"
-  emplacement: "Lachine"
-  frais: "22.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=70"></script>
-
-- id: "pfbs-lanaudiere-olympique-2020"
-  title: "Combiné Lanaudière-Olympique 2020"
-  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
-  date: "2020-04-26"
-  limite: "2020-04-19"
-  emplacement: "Repentigny"
-#  frais: "22.00"
-#  formulaire: >
-#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=77"></script>
-
-- id: "petit-pentathlon-nathalie-2020"
-  title: "Le petit pentathlon de Nathalie 2020"
-  information: "https://corsaire-chaparral.org/competitions/petit-pentathlon-nathalie/"
-  date: "2020-08-30"
-  limite: "2020-08-26"
-  emplacement: "Sainte-Thérèse"
-  frais: "Pentathlon: 22,00$ - Marche seulement (inclus avec le Pentathlon) : 10.00"
-  structureFrais:
-    "Pentathlon": "22.00"
-    "Marche": "10.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=85"></script>
-
-- id: "champ-prov-salle-pentathlon-ben-cad-2020"
-  title: "Championnat provincial en salle de pentathlon benjamin-cadet"
-  information: "http://athletisme-quebec.ca/medias/championnats-hiver-2020-juveniles-seniors-veterans.pdf"
-  date: "2020-02-15"
-  limite: "2020-02-05"
-  emplacement: "Montréal"
-  frais: "35.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=72"></script>
-
-- id: "champ-prov-salle-juv-sen-vet-2020"
-  title: "Championnat provincial en salle juvénile-senior-vétéran"
-  information: "http://athletisme-quebec.ca/medias/championnats-hiver-2020-juveniles-seniors-veterans.pdf"
-  date: "2020-02-15"
-  limite: "2020-02-05"
-  emplacement: "Montréal"
-  frais: "Juvéniles: 17,00$/épreuve - Senior et vétéran : 22.00"
-  structureFrais:
-    "Épreuve juvénile": "17.00"
-    "Épreuve senior-vétéran": "22.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=71"></script>
-
-- id: "champ-prov-salle-ben-cad-jun-2020"
-  title: "Championnat provincial en salle benjamin-cadet-junior"
-  information: "http://athletisme-quebec.ca/medias/document-champ-en-salle-benj-cad-jun-2020.pdf"
-  date: "2020-02-29"
-  limite: "2020-02-20"
-  emplacement: "Sherbrooke"
-  frais: "Benjamin et cadet: 17,00$/épreuve - junior : 22.00"
-  structureFrais:
-    "Épreuve benjamin-cadet": "17.00"
-    "Épreuve junior": "22.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=74"></script>
-
-- id: "champ-prov-salle-pentathlon-juv-vet-2020"
-  title: "Championnat provincial en salle de pentathlon juvénile et vétéran"
-  information: "http://athletisme-quebec.ca/medias/document-champ-en-salle-benj-cad-jun-2020.pdf"
-  date: "2020-02-29"
-  limite: "2020-02-20"
-  emplacement: "Sherbrooke"
-  frais: "35.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=75"></script>
-
-- id: "pfbs-montreal-fevrier-2020"
-  title: "PFBS - Challenge Montréal 2020"
-  information: "http://athletisme-quebec.ca/medias/document-20technique-20foul-c3-a9es-20bs-209-20f-c3-a9vrier-202020.pdf"
-  date: "2020-02-09"
-  limite: "2020-02-03"
-  emplacement: "Montréal"
-  frais: "12.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=73"></script>
-
-- id: "champ-prov-salle-epcomb-jun-sen"
-  title: "Championnat provincial en salle d’épreuves combinées junior et senior"
-  information: "http://athletisme-quebec.ca/medias/championnatsec2020-caul.pdf"
-  date: "2020-02-21"
-  limite: "2020-02-16"
-  emplacement: "Québec"
-  frais: "35.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=76"></script>
-
-- id: "champ-canadien-salle-2020"
-  title: "Championnat canadien en salle 2020"
-  information: "https://athletics.ca/wp-content/uploads/2019/11/2020_indoor_champs_schedule_v15jan-with-logo.pdf"
-  date: "2020-03-21"
-  limite: "2020-03-08"
-  emplacement: "Montréal"
-  frais: "Première épreuve à 65.00$; deuxième épreuve à 50.00; troisième épreuve à 15.00"
-  structureFrais:
-    "1<sup>ère</sup> épreuve": "65.00"
-    "2<sup>e</sup> épreuve": "50.00"
-    "3<sup>e</sup> épreuve": "15.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=77"></script>
-- id: "ephemeros-coch-2020"
-  title: "Ephemeros COCH 8 août 2020"
-  information: "https://corsaire-chaparral.org/competitions/ephemeros/"
-  date: "2020-08-08"
-  limite: "2020-08-03"
-  emplacement: "Sainte-Thérèse"
-#  frais: "Première épreuve à 25.00$; deuxième épreuve à 20.00; troisième épreuve à 15.00"
-#  structureFrais:
-#    "1<sup>ère</sup> épreuve": "25.00"
-#    "2<sup>e</sup> épreuve": "20.00"
-#    "3<sup>e</sup> épreuve": "15.00"
-
-- id: "crepuscule-jacques-martin-2020"
-  title: "Crépuscule Jacques-Martin 2020"
-  information: "https://athletisme-quebec.ca/medias/document-technique-crepuscule-jacques-martin-12-aout-2020.pdf"
-  date: "2020-08-12"
-  limite: "2020-08-08"
-  emplacement: "Sherbrooke"
-  frais: "Chaque épreuve à 27.00"
-  structureFrais:
-    "Épreuve": "27.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=82"></script>
-
-- id: "athletisme-sherbrooke-invitation-2020"
-  title: "Athlétisme Sherbrooke Invitation 2020"
-  information: "https://athletisme-quebec.ca/medias/document-technique-athletisme-sherbrooke-invitation-15-aout-2020.pdf"
-  date: "2020-08-15"
-  limite: "2020-08-08"
-  emplacement: "Sherbrooke"
-  frais: "Chaque épreuve à 25.00"
-  structureFrais:
-    "Épreuve": "27.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=83"></script>
-
-- id: "soiree-rouge-or-3-2020"
-  title: "Soirée Rouge et Or #3 2020"
-  information: "https://athletisme-quebec.ca/calendrier-resultats.php"
-  date: "2020-08-21"
-  limite: "2020-08-14"
-  emplacement: "Québec"
-  frais: ""
-#  formulaire: >
-#    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id="></script>
-
-- id: "soiree-select-1-2020"
-  title: "Soirée sélect #1 2020"
-  information: "https://athletisme-quebec.ca/medias/soiree-select-12-sept-2020-final.pdf"
-  date: "2020-09-12"
-  limite: "2020-09-08"
-  emplacement: "Saint-Laurent"
-  frais: "25.00$ pour la première épreuve, épreuve supplémentaire à 10.00"
-  structureFrais:
-    "1re épreuve": "25.00"
-    "2e épreuve": "10.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=87"></script>
-
-
-- id: "soiree-select-2-2020"
-  title: "Soirée sélect #2 2020"
-  information: "https://athletisme-quebec.ca/medias/soiree-select-19-sept-final.pdf"
-  date: "2020-09-19"
-  limite: "2020-09-15"
-  emplacement: "Saint-Laurent"
-  frais: "25.00$ pour la première épreuve, épreuve supplémentaire à 10.00"
-  structureFrais:
-    "1re épreuve": "25.00"
-    "2e épreuve": "10.00"
-  formulaire: >
-    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=88"></script>
-
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=90"></script>
 
 # Template
-#- id: "2020"
-#  title: "2020"
+#- id: "2021"
+#  title: "2021"
 #  information: "http://athletisme-quebec.ca/calendrier-et-resultats.php"
 #  date: ""
 #  limite: ""

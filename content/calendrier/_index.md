@@ -6,7 +6,7 @@ snipcart: true
 {{< div class="well well-primary" >}}
 ## Nouveauté : inscription aux compétitions
 
-Dès la saison 2019-2020, les athlètes doivent débourser les frais des compétitions auxquelles ils participent.
+Depuis la saison 2019-2020, les athlètes doivent débourser les frais des compétitions auxquelles ils participent.
 
 **Le paiement préalable est obligatoire**; sans paiement, aucune inscription ne sera effectuée.
 
