@@ -6,8 +6,8 @@
   emplacement: "Saint-Laurent, Montréal"
   frais: "25,00$ pour la première épreuve, épreuves suivantes à 10,00"
   structureFrais:
-    "1<sup>ère</sup> épreuve" : 25,00
-    "Épreuve supplémentaire" : 10,00
+    "1<sup>ère</sup> épreuve" : 25.00
+    "Épreuve supplémentaire" : 10.00
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=89"></script>
 
@@ -17,7 +17,7 @@
   date: "2021-06-29"
   limite: "2021-06-24"
   emplacement: "Complexe sportif Claude-Robillard, Montréal"
-  frais: "25,00"
+  frais: "25.00"
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=90"></script>
 
