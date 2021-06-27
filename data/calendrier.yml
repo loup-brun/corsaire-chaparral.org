@@ -21,6 +21,20 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=90"></script>
 
+- id: "ian-hume-invitation-2021"
+  title: "Ian Hume Invitation 2021"
+  information: "https://athletisme-quebec.ca/medias/ian-hume-invitation-2021.pdf"
+  date: "2021-07-10"
+  limite: "2021-07-01"
+  emplacement: "Sherbrooke"
+  frais: "Épreuve benjamin-cadet-juvénile: 25$; épreuve junior-sénior-vétéran: 28"
+  structureFrais:
+    Épreuve BEN-CAD-JUV: 25.00
+    Épreuve JUN-SEN-VÉT: 28.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=91"></script>
+
+
 # Template
 #- id: "2021"
 #  title: "2021"
