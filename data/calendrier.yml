@@ -34,6 +34,20 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=91"></script>
 
+- id: "cadl-invitation-2021"
+  title: "CADL Invitation 2021 et championnats québécois de pentathlon benjamin-cadet"
+  information: "https://athletisme-quebec.ca/nouvelle?id=2767&mod=event"
+  date: "2021-07-24"
+  limite: "2021-07-15"
+  emplacement: "Laval"
+  frais: "Première épreuve à 25,00$, épreuves supplémentaires à 15,00"
+  structureFrais:
+    Pentathlon BEN-CAD: 45.00
+    "Épreuve #1": 25.00
+    "Épreuve supplémentaire": 15.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=92"></script>
+
 
 # Template
 #- id: "2021"
