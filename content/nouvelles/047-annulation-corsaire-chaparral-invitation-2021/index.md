@@ -6,13 +6,13 @@ images:
 - /nouvelles/2021/06/30/annulation-corsaire-chaparral-invitation-2021/couverture.png
 date: 2021-06-30
 author: Club d’athlétisme Corsaire-Chaparral
-description: En raison du prolongement des travaux de réparation au stade Richard-Garneau, le club annonce l’annulation de la Corsaire-Chaparral Invitation du 17 juillet 2021.
+description: Le club d’athlétisme Corsaire-Chaparral a le regret d’annoncer qu’il ne sera pas en mesure de tenir son évènement du 17 juillet prochain au stade d’athlétisme Richard Garneau.
 ---
 
-D’importants travaux de réfection de la surface synthétique nécessitent plus de temps que prévu.
-La ville de Ste-Thérèse a communiqué au club que la piste sera inaccessible jusqu’au début du mois d’août.
+Suite à l’annonce du prolongement des travaux de réparation de la piste, l’organisation a pris la décision de d’annuler son évènement par souci de ne pas pouvoir offrir des installations de qualité pour les membres de la fédération.
 
-La formation de bulles d’air sous la couche de caoutchouc au pourtour, en particulier dans la zone de départ des sprints, avait forcé le découpage de la piste à de nombreux endroits, exposant le plancher de béton sous la surface.
+Le club prévoit néanmoins accueillir d’autres événements plus tard cette saison.
+Surveillez le [calendrier de la FQA](http://athletisme-quebec.ca/calendrier-et-resultats.php) à cet effet!
 
 ## Accès au stade pour les entraînements
 
