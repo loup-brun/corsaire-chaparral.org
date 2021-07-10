@@ -48,6 +48,33 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=92"></script>
 
+- id: "alliance-kronobar-2021"
+  title: "Alliance Kronobar 2021"
+  information: "https://athletisme-quebec.ca/medias/kronbar2021.pdf"
+  date: "2021-07-17"
+  limite: "2021-07-13"
+  emplacement: "St-Laurent"
+  frais: "Première épreuve à 25,00$, épreuves supplémentaires à 10,00"
+  structureFrais:
+    "Épreuve #1": 25.00
+    "Épreuve supplémentaire": 10.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=93"></script>
+
+- id: "championnats-quebecois-jun-sen-vet-para-2021"
+  title: "Championnats québécois Juniors, Séniors, Vétérans et Para 2021"
+  information: "https://athletisme-quebec.ca/medias/championnat-jr-sr-vet-para-31-juillet-et-1-aout-2021.pdf"
+  date: "2021-07-31"
+  limite: "2021-07-22"
+  emplacement: "Sherbrooke"
+  frais: "Première épreuve à 30,00$, épreuves supplémentaires à 20,00"
+  structureFrais:
+    "Épreuve #1": 30.00
+    "Épreuve supplémentaire": 20.00
+    "Heptathlon/décathlon": 50.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=94"></script>
+
 
 # Template
 #- id: "2021"
