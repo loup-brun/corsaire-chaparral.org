@@ -1,3 +1,3 @@
 ---
-title: alliance-kronobar-2021
+title: Alliance Kronobar 2021
 ---

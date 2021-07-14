@@ -75,6 +75,19 @@
   formulaire: >
     <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=94"></script>
 
+- id: "championnats-quebecois-ben-cad-juv-2021"
+  title: "Championnats québécois benjamins, cadets et juvéniles 2021"
+  information: "https://athletisme-quebec.ca/medias/cadl-championnats-ben-cad-juv-2021.pdf"
+  date: "2021-08-06"
+  limite: "2021-07-29"
+  emplacement: "Laval"
+  frais: "Première épreuve à 25,00$, chaque épreuve supplémentaire à 20,00"
+  structureFrais:
+    "Épreuve #1": 25.00
+    "Épreuve supplémentaire": 20.00
+  formulaire: >
+    <script type="text/javascript" src="//campagnes.corsaire-chaparral.org/form/generate.js?id=95"></script>
+
 
 # Template
 #- id: "2021"
